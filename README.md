@@ -79,8 +79,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **1** | **Core mechanic & trait system** — resolution engine, scaling spine, four degrees, action economy, trait framework | ✅ **Complete** |
 | **2** | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ✅ **Complete** |
 | **3** | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ✅ **Complete** |
-| 4 | **Social / intrigue engine** | ⏭️ **Next** |
-| 5 | Class design + Force subsystem | ⬜ Planned |
+| **4** | **Social / intrigue engine** — the co-equal first-class pillar | ✅ **Complete** |
+| 5 | **Class design + Force subsystem** | ⏭️ **Next** |
 | 6 | Equipment & economy | ⬜ Planned |
 | 7 | Creatures & challenge framework | ⬜ Planned |
 | — | **Milestone: playable vertical slice** → balance analysis → table playtest | ⬜ Gate |
@@ -117,6 +117,15 @@ Full detail: [Phase 2 spec](docs/superpowers/specs/2026-06-13-phase2-character-f
 
 Full detail: [Phase 3 spec](docs/superpowers/specs/2026-06-13-phase3-progression-chassis.md).
 
+### What's locked so far (Phase 4 social/intrigue engine)
+- **Symmetric two-meter duel:** the party empties the opponent's **Resolve** to win them over; the NPC empties the party's **Composure** (Will-derived + situational) to make them cave — both sides *actively attack*.
+- **Shares the combat engine** (four degrees, three actions, Will DC, traits) — mastery transfers, no parallel math.
+- **Offensive appeals are 2-action** (Make a Case / Press); 1-action supports (Read the Room, Find an Opening, Defuse, Aid, Leverage an Asset) make it a **whole-party activity** — no mandatory "face."
+- **Levers & Guards** are situational, not assumed; **escalation bridge** flips a scene to combat carrying social state as conditions.
+- **Multi-party** via a single sliding **Favor track** (debate/trial/auction handled as variants).
+
+Full detail: [Phase 4 spec](docs/superpowers/specs/2026-06-13-phase4-social-intrigue-engine.md).
+
 ---
 
 ## Repository structure
@@ -130,7 +139,8 @@ Full detail: [Phase 3 spec](docs/superpowers/specs/2026-06-13-phase3-progression
 │       │   ├── 2026-06-13-star-wars-rpg-design-philosophy.md
 │       │   ├── 2026-06-13-phase1-core-mechanic-and-traits.md
 │       │   ├── 2026-06-13-phase2-character-framework.md
-│       │   └── 2026-06-13-phase3-progression-chassis.md
+│       │   ├── 2026-06-13-phase3-progression-chassis.md
+│       │   └── 2026-06-13-phase4-social-intrigue-engine.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
