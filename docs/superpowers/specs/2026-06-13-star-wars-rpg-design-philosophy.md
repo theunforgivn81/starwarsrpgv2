@@ -12,6 +12,21 @@ PF2E/SF2E **structure** (universal traits, proficiency ranks, four-degree succes
 
 ---
 
+## 0. Content Sourcing & Licensing Constraint (binding)
+
+We draw rules content **only** from material the original publishers have released for open community use, and we honor each license's attribution/notice requirements:
+
+- **Paizo (Pathfinder 2E / Starfinder 2E):** use only content released under the **ORC License** (Open RPG Creative License). Carry the required ORC notice and reproduce the licensed-material attribution.
+- **Wizards of the Coast (D&D 5E):** use only content in the **SRD (5.1 / 5.2)**, released under **CC-BY-4.0**. Provide the required CC-BY attribution. Bounded accuracy is used as a *design concept*; the expressing mechanics are taken from the SRD.
+
+Discipline that follows from this:
+
+- Game **mechanics/systems** are not themselves copyrightable, but specific **text and named creative content** are. When in doubt, paraphrase mechanics in our own words and pull verbatim only from openly-licensed text — with attribution.
+- **Do not** incorporate closed/non-open publisher content (e.g., PF2E/SF2E material outside the ORC release, or any 5E content beyond the SRD).
+- **Separate concern (noted, not solved here):** the **Star Wars setting** is Disney/Lucasfilm IP and is *not* covered by these open RPG licenses. This document governs the *rules engine* only; setting/IP usage is a distinct decision to be made before any public distribution.
+
+---
+
 ## 1. Design Pillars
 
 Each pillar is falsifiable — the rule it *rejects* is named in italics.
