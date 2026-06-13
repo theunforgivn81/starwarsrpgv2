@@ -90,19 +90,21 @@ Skill increases (§3) raise one skill per grant within these gates. Core profici
 
 ## 7. Resource & Cooldown Model (fully resolves T3)
 
-Abilities are gated by **action economy + time-based cooldowns**, never a per-day pool. Complete frequency vocabulary (every ability is priced in these):
+Abilities are gated primarily by **action economy + time-based cooldowns**. Frequencies are expressed in standard time buckets (PF2E-aligned), never an "adventuring-day" attrition clock. Complete vocabulary (every ability is priced in these):
 
 | Frequency | Meaning | Resets |
 |---|---|---|
 | **At-will** (no marker) | limited only by action cost | — |
 | **`[once per turn]`** / `[flourish]` | once on your own turn | each turn |
 | **`[once per round]`** | once per round across all turns (most reactions) | top of round |
-| **`[cooldown N]`** | unavailable for N rounds after use | after N rounds |
-| **`[once per encounter]`** | once per fight/scene | at scene end |
+| **`[once per minute]`** | a minute = 10 rounds; **practically "once per fight"** for all but the longest combats (tracked as a simple used/unused flag in most fights) | after 1 minute elapses |
+| **`[once per hour]`** | recovers between encounters / over exploration time | after 1 hour elapses |
+| **`[once per day]`** / per-rest | **reserved** for high-level (Tier III–IV) abilities, used **sparingly** — not a baseline resource | on a full rest |
 | **Trigger-recharge** | "regain the use when [tactical/fictional condition]" (crit, refocus action, ally falls, etc.) | on the trigger |
 
-- **Forbidden:** any `[once per day]` / per-rest frequency.
-- **Full rest** resets `[once per encounter]` abilities and clears fatigue; it refills **nothing else, because nothing is daily**.
+- **No baseline daily clock.** Per-day/per-rest is *not* a baseline balancing mechanism and never sets the pace of play; it is a sparing high-level spotlight tool. The baseline resource is action economy + sub-day cooldowns. This keeps T3 intact — there is no adventuring-day attrition loop.
+- **`[once per minute]` replaces a per-encounter trait.** Because most fights are shorter than a minute, it serves the "once per fight" role precisely, so no separate `[once per encounter]` frequency is needed.
+- **Full rest** resets `[once per day]` / per-rest abilities, clears fatigue, and restores HP (Phase 2). Per-minute and per-hour abilities recharge naturally with elapsed time.
 - **Encounter-scoped pools are legal:** a resource that builds and is spent within a single scene and **resets at scene end** (e.g., a Force user's rising *Attunement*, a soldier's *Momentum*). Gives crunchy resource-management depth without daily bookkeeping. Specific pools are class content (Phase 5); this section makes the category legal and T3-compliant.
 - **Trigger-recharge is the Pillar-5 tool:** it turns resource management into in-the-moment tactical decisions rather than passive daily tracking.
 
@@ -138,7 +140,7 @@ Designed to function at cap, not extrapolated:
 - [x] Feat-tax rule stated (>70% pick-rate → fold into baseline) (§3).
 - [x] Multiclass model decided (Archetype Dedication); 1-level-dip dominance designed out (§8).
 - [x] Cap-level math addressed, not extrapolated; the three classic break-modes (save-DC runaway, HP/damage slog, tier-breakers) each have a stated answer (§9).
-- [x] **T3 fully formalized:** complete cooldown vocabulary + encounter-pool category, daily frequencies forbidden (§7).
+- [x] **T3 fully formalized:** complete time-bucketed cooldown vocabulary + encounter-pool category; no baseline daily clock, with per-day reserved as a sparing high-level tool (§7).
 - [x] **Phase 2 deferral closed:** attribute-boost schedule defined (§4).
 
 ## 11. Carried Forward (open items for later phases)

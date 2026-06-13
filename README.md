@@ -31,7 +31,7 @@ A tabletop role-playing game system set in the Star Wars universe, designed to f
 - **Bounded accuracy.** Proficiency uses `1 + (level ÷ 4)` rather than full level; challenge DCs don't scale with party level; enemies scale mostly through **hit points and abilities**, not through ever-climbing attack/defense numbers.
 
 ### Unique to this system
-- **No tracked daily resources.** Abilities are balanced by action-economy cost and round/scene cooldowns.
+- **No baseline daily-resource clock.** Abilities are balanced by action-economy cost and time-based cooldowns; per-day frequencies are reserved sparingly for high-level abilities, never as a pacing engine.
 - **No traditional spellcasters.** Force users are classes with active verbs, balanced horizontally against martials — so the system never assumes a "cleric" is present for healing or utility.
 
 ---
@@ -112,7 +112,7 @@ Full detail: [Phase 2 spec](docs/superpowers/specs/2026-06-13-phase2-character-f
 - **No dead levels:** every level grants a feat or feature (separate class / skill / general / species feat budgets so combat can't crowd out skill picks).
 - **Advancement:** pillar-neutral XP (any challenge pays by difficulty) with a milestone toggle.
 - **Attribute boosts** at 5/10/15/20 (cap +6); **rank gates** Expert 3 / Master 7 / Legendary 15.
-- **Resource model (T3):** action cost + cooldowns (`[cooldown N]`, `[once per encounter]`, trigger-recharge) + legal encounter-scoped pools; **no daily resources, ever**.
+- **Resource model (T3):** action cost + time-based cooldowns (`[once per minute]` ≈ once per fight, `[once per hour]`, trigger-recharge) + legal encounter-scoped pools; no baseline daily clock (per-day reserved sparingly for high level).
 - **Multiclassing:** Archetype Dedication (grafting via class feats) — no 1-level dips; the on-ramp for limited Force access.
 
 Full detail: [Phase 3 spec](docs/superpowers/specs/2026-06-13-phase3-progression-chassis.md).
