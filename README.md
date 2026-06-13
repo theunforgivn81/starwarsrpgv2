@@ -77,8 +77,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 |---|---|---|
 | **0** | **Design philosophy** — pillars, core loop, budget, audience, scope, tensions, licensing | ✅ **Complete** |
 | **1** | **Core mechanic & trait system** — resolution engine, scaling spine, four degrees, action economy, trait framework | ✅ **Complete** |
-| 2 | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ⏭️ **Next** |
-| 3 | Progression chassis — level cadence, cooldown/resource model, multiclassing | ⬜ Planned |
+| **2** | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ✅ **Complete** |
+| 3 | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ⏭️ **Next** |
 | 4 | Social / intrigue engine | ⬜ Planned |
 | 5 | Class design + Force subsystem | ⬜ Planned |
 | 6 | Equipment & economy | ⬜ Planned |
@@ -97,6 +97,16 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 
 Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechanic-and-traits.md).
 
+### What's locked so far (Phase 2 character framework)
+- **Identity:** Species + Class + Background slots.
+- **Attributes:** six, modifier-only, classic names (STR/DEX/CON/INT/WIS/CHA); key stat caps +3 at creation, +6 lifetime. DEX de-fanged (initiative → Perception, armor Dex-cap); CHA elevated by the social pillar.
+- **Skills:** 13 (ranked proficiency) + separate Perception; **no "Use the Force" skill** (Force is class actions, not a skill).
+- **Saves:** Fortitude/CON, Reflex/DEX, Will/WIS.
+- **Recovery:** time-gated, not class- or daily-gated — a free *Catch Your Breath* floor (~½ HP) means no mandatory healer; tension comes from denying time.
+- **Creation:** bundled decisions + a quick-build per class for a high floor.
+
+Full detail: [Phase 2 spec](docs/superpowers/specs/2026-06-13-phase2-character-framework.md).
+
 ---
 
 ## Repository structure
@@ -108,7 +118,8 @@ Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechan
 │   └── superpowers/
 │       ├── specs/                     ← design specifications (the "what" and "why")
 │       │   ├── 2026-06-13-star-wars-rpg-design-philosophy.md
-│       │   └── 2026-06-13-phase1-core-mechanic-and-traits.md
+│       │   ├── 2026-06-13-phase1-core-mechanic-and-traits.md
+│       │   └── 2026-06-13-phase2-character-framework.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
