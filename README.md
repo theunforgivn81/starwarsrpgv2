@@ -100,7 +100,7 @@ Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechan
 ### What's locked so far (Phase 2 character framework)
 - **Identity:** Species + Class + Background slots.
 - **Attributes:** six, modifier-only, classic names (STR/DEX/CON/INT/WIS/CHA); key stat caps +3 at creation, +6 lifetime. DEX de-fanged (initiative → Perception, armor Dex-cap); CHA elevated by the social pillar.
-- **Skills:** 13 (ranked proficiency) + separate Perception; **no "Use the Force" skill** (Force is class actions, not a skill).
+- **Skills:** 14 core skills (ranked proficiency) plus the open **Lore family** (narrow specializations) and separate Perception; broad knowledge skills (Society, Nature, Computers, Repair) carry default Recall Knowledge. **No "Use the Force" skill** (Force is class actions, not a skill).
 - **Saves:** Fortitude/CON, Reflex/DEX, Will/WIS.
 - **Recovery:** time-gated, not class- or daily-gated — a free *Catch Your Breath* floor (~½ HP) means no mandatory healer; tension comes from denying time.
 - **Creation:** bundled decisions + a quick-build per class for a high floor.

@@ -67,18 +67,23 @@ Ranked proficiency (`L + R + attribute`; untrained = +0, per Phase 1). The list 
 | Stealth | DEX | hide, sneak, conceal |
 | Thievery | DEX | sleight of hand, physical locks, disarm devices |
 | Piloting | DEX | drive/fly vehicles & starships *(light supporting pillar; rules Phase 8)* |
-| Computers | INT | slicing, electronics, security, data |
-| Repair | INT | repair, craft, demolitions, droids *(renamed from "Engineering" to avoid colliding with the `[engineering]` Lore trait)* |
-| Lore | INT | Recall Knowledge; subject specializations via traits (e.g. `[underworld]`, `[galactic-history]`, `[engineering]`) |
+| Computers | INT | slicing, electronics, security, data; Recall Knowledge on data systems & programs |
+| Repair | INT | repair, craft, demolitions, droids; Recall Knowledge on machinery & vehicles *(renamed from "Engineering" to avoid colliding with an Engineering Lore)* |
+| Society | INT | civilization, politics, law, languages; Recall Knowledge on people, organizations, history, settlements, planets |
 | Survival | WIS | tracking, navigation, subsist |
+| Nature | WIS | wilderness lore, beast handling; Recall Knowledge on flora, fauna, ecosystems, terrain |
 | Medicine | WIS | first aid, **Treat Wounds** (recovery hub) |
 | Deception | CHA | lie, feint, disguise, create a diversion |
-| Persuasion | CHA | request, negotiate, gather info, shift attitudes |
+| Diplomacy | CHA | request, negotiate, gather info, shift attitudes |
 | Intimidation | CHA | coerce, demoralize |
+
+**Lore is a *family* of skills, not one skill.** Each Lore is a narrow specialization trained individually (e.g. *Underworld Lore*, *Galactic-History Lore*, *Engineering Lore*, *a specific planet/faction/person*). A Lore grants deep, easy answers within its narrow topic and may cover gaps the broad knowledge skills miss. The broad knowledge skills (**Society, Nature, Computers, Repair**) are the *default* Recall Knowledge coverage, so players are never forced to buy many Lores just to know things — Lores are optional deep cuts.
+
+**Recall Knowledge mapping:** Society → people/organizations/history/planets; Nature → beasts/flora/ecosystems/terrain; Computers → data systems/programs/AI; Repair → machinery/droids/vehicles/demolitions; a specific Lore → its narrow topic (including Force lore, where no skill otherwise applies).
 
 - **Perception** is a **separate core proficiency** (not a skill), keyed to WIS; drives awareness and default initiative.
 - **No "Use the Force" skill.** The Force is class actions with verbs, not a skill check — this is where the "no spellcasters" commitment (T4) is enforced structurally; Force access requires a class/build commitment, not a trained skill.
-- Consolidations against phantom skills: **Society** folded into Lore (knowledge) + Persuasion (interaction); standalone **Performance** dropped (rides on Deception/Persuasion).
+- Standalone **Performance** is dropped as a phantom skill (it rides on Deception/Diplomacy in context).
 - **Bonus trained skills:** a character is trained in `class/background-granted skills + INT modifier` skills at creation (INT's anti-dump hook).
 
 ---
