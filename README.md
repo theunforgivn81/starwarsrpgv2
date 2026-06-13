@@ -78,8 +78,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **0** | **Design philosophy** — pillars, core loop, budget, audience, scope, tensions, licensing | ✅ **Complete** |
 | **1** | **Core mechanic & trait system** — resolution engine, scaling spine, four degrees, action economy, trait framework | ✅ **Complete** |
 | **2** | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ✅ **Complete** |
-| 3 | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ⏭️ **Next** |
-| 4 | Social / intrigue engine | ⬜ Planned |
+| **3** | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ✅ **Complete** |
+| 4 | **Social / intrigue engine** | ⏭️ **Next** |
 | 5 | Class design + Force subsystem | ⬜ Planned |
 | 6 | Equipment & economy | ⬜ Planned |
 | 7 | Creatures & challenge framework | ⬜ Planned |
@@ -107,6 +107,16 @@ Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechan
 
 Full detail: [Phase 2 spec](docs/superpowers/specs/2026-06-13-phase2-character-framework.md).
 
+### What's locked so far (Phase 3 progression chassis)
+- **Levels 1–20**, four tiers (Fringe / Sector / Galactic / Legend).
+- **No dead levels:** every level grants a feat or feature (separate class / skill / general / species feat budgets so combat can't crowd out skill picks).
+- **Advancement:** pillar-neutral XP (any challenge pays by difficulty) with a milestone toggle.
+- **Attribute boosts** at 5/10/15/20 (cap +6); **rank gates** Expert 3 / Master 7 / Legendary 15.
+- **Resource model (T3):** action cost + cooldowns (`[cooldown N]`, `[once per encounter]`, trigger-recharge) + legal encounter-scoped pools; **no daily resources, ever**.
+- **Multiclassing:** Archetype Dedication (grafting via class feats) — no 1-level dips; the on-ramp for limited Force access.
+
+Full detail: [Phase 3 spec](docs/superpowers/specs/2026-06-13-phase3-progression-chassis.md).
+
 ---
 
 ## Repository structure
@@ -119,7 +129,8 @@ Full detail: [Phase 2 spec](docs/superpowers/specs/2026-06-13-phase2-character-f
 │       ├── specs/                     ← design specifications (the "what" and "why")
 │       │   ├── 2026-06-13-star-wars-rpg-design-philosophy.md
 │       │   ├── 2026-06-13-phase1-core-mechanic-and-traits.md
-│       │   └── 2026-06-13-phase2-character-framework.md
+│       │   ├── 2026-06-13-phase2-character-framework.md
+│       │   └── 2026-06-13-phase3-progression-chassis.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
