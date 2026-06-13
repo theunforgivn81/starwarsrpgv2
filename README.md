@@ -1,0 +1,141 @@
+# Star Wars RPG (working title)
+
+A tabletop role-playing game system set in the Star Wars universe, designed to fuse the **tactical depth and structure of Pathfinder 2E / Starfinder 2E** with the **bounded accuracy of D&D 5E** — and then deliberately remove the two pillars most d20 systems lean on: the **daily resource clock** and the **dedicated healer**.
+
+> **Status:** Early design. The engine layer (Phase 1) is complete. We are building the system bottom-up, one fully-specified design layer at a time, each ratified and committed before the next begins.
+
+---
+
+## What this game is
+
+| | |
+|---|---|
+| **Setting** | Star Wars (rules engine only at this stage — see [Licensing](#licensing--content-sourcing)) |
+| **Lineage** | PF2E/SF2E **structure** × D&D 5E **bounded accuracy** |
+| **Power band** | Full spectrum — an all-scoundrel table and an all-Jedi table are both fully viable at the same power level |
+| **First-class pillars** | Ground combat + social/intrigue (sharing one resolution engine) |
+| **Complexity** | High (crunchy), but the budget is spent on the core loop first; supporting systems stay deliberately light |
+| **The novelty** | No daily resource clock and no mandatory healer — power comes from *renewable* options (action economy + cooldowns), not a daily pool |
+
+### Borrowed from Pathfinder / Starfinder 2E
+- A **universal trait system** — machine-readable metadata on every entity (classes, feats, gear, creatures, actions), making prerequisites and conditions into data rather than prose.
+- **Attributes as raw modifiers** (no scores, no separate +/- step).
+- **Proficiency ranks** (untrained → legendary) granting scaling competence.
+- **Four-degree outcomes** (critical success / success / failure / critical failure) based on beating or missing a DC by 10.
+- A **three-action economy** with free actions and one reaction per round.
+- **Bonus types constrained** to circumstance, status (and a tightly capped item bonus).
+- A progression philosophy of **meaningful choices at every level** — no dead levels, no two same-class characters feeling identical.
+- Every class has a **gameplay "verb"** — an active mechanic, never just numerical bonuses.
+
+### Borrowed from D&D 5E
+- **Bounded accuracy.** Proficiency uses `1 + (level ÷ 4)` rather than full level; challenge DCs don't scale with party level; enemies scale mostly through **hit points and abilities**, not through ever-climbing attack/defense numbers.
+
+### Unique to this system
+- **No tracked daily resources.** Abilities are balanced by action-economy cost and round/scene cooldowns.
+- **No traditional spellcasters.** Force users are classes with active verbs, balanced horizontally against martials — so the system never assumes a "cleric" is present for healing or utility.
+
+---
+
+## Design pillars
+
+Every rule is tested against these five falsifiable commitments (full text in the [design philosophy](docs/superpowers/specs/2026-06-13-star-wars-rpg-design-philosophy.md)):
+
+1. **Bounded participation** — a lower-level character can still meaningfully act in a higher-level encounter; the gap is in *options and resilience*, not whether dice can connect.
+2. **No mandatory seats** — every party function (damage, durability, healing, face, tech) is reachable by multiple classes, skills, or gear.
+3. **Every class has a verb** — an active mechanic that changes how its turns play, never just "+X to a roll."
+4. **Choices that change play, not just math** — every level grants a decision that alters *how* you play; no dead levels.
+5. **Engage the challenge, don't delete it** — the system prefers abilities that let you *do something cool during* a challenge over abilities that *bypass* it.
+
+### The core loop
+Both first-class pillars share one resolution engine and one action grammar:
+- **Combat:** assess the board → spend three actions among genuinely different good options → resolve on four degrees → enemies respond.
+- **Social/intrigue:** read the people → spend actions/leverage to shift a tracked social state → resolve on the same four degrees → factions respond.
+
+Starships, vehicles, and exploration are **supporting systems** that reuse this engine with thin bespoke rules.
+
+---
+
+## The core tensions (and how we're resolving them)
+
+Fusing two systems with opposite math creates deliberate tensions. These are tracked and resolved as design progresses:
+
+| # | Tension | Resolution |
+|---|---|---|
+| **T1** | Bounded accuracy vs. PF2E proficiency scaling | Proficiency ranks gate *quality*, not raw to-hit. Numeric component is small: `1 + lvl//4` plus **+1 per rank**. *(Resolved in Phase 1.)* |
+| **T2** | Four-degree crits (beat by 10) vs. flat bounded math | The level term applies **symmetrically** to offense and defense, so it cancels on-level — keeping crit frequency **constant across all 20 levels**. *(Resolved in Phase 1.)* |
+| **T3** | No daily resources vs. crunchy class depth | Cooldowns + action-economy are the resource; consumables (money-gated) are the only expendable. *(Formalized in Phase 3.)* |
+| **T4** | No spellcasters vs. iconic Force fantasy | Force users are verb-having classes with a broad, cooldown-gated, trait-gated toolkit — never slot-casters. *(Phase 5.)* |
+| **T5** | Horizontal balance vs. Jedi-vs-farmer power fantasy | Niche over tier: balanced in *contribution*, differentiated in *arena and method*. *(Phase 5 + balance gate.)* |
+
+---
+
+## Where we are: the build roadmap
+
+The system is built as a dependency cascade, racing to a **playable vertical slice** before any content is mass-produced. Full detail in the [build roadmap](docs/superpowers/plans/2026-06-13-star-wars-rpg-build-roadmap.md).
+
+| Phase | Layer | Status |
+|---|---|---|
+| **0** | **Design philosophy** — pillars, core loop, budget, audience, scope, tensions, licensing | ✅ **Complete** |
+| **1** | **Core mechanic & trait system** — resolution engine, scaling spine, four degrees, action economy, trait framework | ✅ **Complete** |
+| 2 | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ⏭️ **Next** |
+| 3 | Progression chassis — level cadence, cooldown/resource model, multiclassing | ⬜ Planned |
+| 4 | Social / intrigue engine | ⬜ Planned |
+| 5 | Class design + Force subsystem | ⬜ Planned |
+| 6 | Equipment & economy | ⬜ Planned |
+| 7 | Creatures & challenge framework | ⬜ Planned |
+| — | **Milestone: playable vertical slice** → balance analysis → table playtest | ⬜ Gate |
+| 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
+| 9 | Rules-writing consolidation → Framework 1.0 | ⬜ Planned |
+
+### What's locked so far (Phase 1 engine)
+- **Resolution:** `d20 + Proficiency + Attribute + situational` vs DC; four degrees with natural-20/1 stepping a degree.
+- **Proficiency:** Level term `1 + (lvl ÷ 4)` (range 1–6) + Rank term (untrained 0 → legendary 4). Untrained adds nothing; the level term is symmetric across offense and defense.
+- **Bonuses:** circumstance / status / item types (no stacking within a type); Multiple Attack Penalty −4 / −8 (agile −3 / −6).
+- **Gear math:** item potency is an *optional bounded edge* (+3 cap), not a tax; weapon upgrades primarily scale damage dice.
+- **Economy:** three actions, one reaction, free actions; **no daily resource pools**.
+- **Traits:** universal keyword-tag system with an eight-category taxonomy and an anti-sprawl governance rule.
+
+Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechanic-and-traits.md).
+
+---
+
+## Repository structure
+
+```
+.
+├── README.md                          ← you are here
+├── docs/
+│   └── superpowers/
+│       ├── specs/                     ← design specifications (the "what" and "why")
+│       │   ├── 2026-06-13-star-wars-rpg-design-philosophy.md
+│       │   └── 2026-06-13-phase1-core-mechanic-and-traits.md
+│       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
+│           └── 2026-06-13-star-wars-rpg-build-roadmap.md
+└── starwarsrpgv2.code-workspace
+```
+
+Each phase produces a spec under `docs/superpowers/specs/`, is ratified before the next begins, and is committed to git so every design decision is versioned.
+
+---
+
+## How we work
+
+Design proceeds **one layer at a time**, collaboratively:
+1. A layer is designed against the pillars and tensions above, surfacing every real decision as an explicit fork with a recommendation.
+2. Decisions are ratified, then written into a spec document and committed.
+3. The next dependent layer begins.
+
+Numbers flagged *(Gate A)* in the specs are provisional pending a balance-analysis pass once the vertical slice exists; structure is fixed, some values are tunable through playtest.
+
+---
+
+## Licensing & content sourcing
+
+This is a **binding project constraint** (see philosophy spec §0). Rules content is drawn **only** from material the original publishers have released for open community use, with required attribution:
+
+- **Paizo (PF2E / SF2E):** content released under the **ORC License** (Open RPG Creative License).
+- **Wizards of the Coast (D&D 5E):** content in the **SRD 5.1 / 5.2**, released under **CC-BY-4.0**.
+
+Game *mechanics* are not copyrightable, but specific *text* and *named creative content* are — so mechanics are paraphrased in our own words and verbatim text is pulled only from openly-licensed sources, with attribution.
+
+> **Separate, unsolved concern:** the **Star Wars setting** is Disney/Lucasfilm intellectual property and is *not* covered by these open RPG licenses. This project currently governs the **rules engine** only; any setting/IP usage is a distinct decision to be made before public distribution.
