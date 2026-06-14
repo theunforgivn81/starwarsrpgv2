@@ -64,8 +64,8 @@ Fusing two systems with opposite math creates deliberate tensions. These are tra
 | **T1** | Bounded accuracy vs. PF2E proficiency scaling | Proficiency ranks gate *quality*, not raw to-hit. Numeric component is small: `1 + lvl//4` plus **+1 per rank**. *(Resolved in Phase 1.)* |
 | **T2** | Four-degree crits (beat by 10) vs. flat bounded math | The level term applies **symmetrically** to offense and defense, so it cancels on-level — keeping crit frequency **constant across all 20 levels**. *(Resolved in Phase 1.)* |
 | **T3** | No daily resources vs. crunchy class depth | Cooldowns + action-economy are the resource; consumables (money-gated) are the only expendable. *(Formalized in Phase 3.)* |
-| **T4** | No spellcasters vs. iconic Force fantasy | Force users are verb-having classes with a broad, cooldown-gated, trait-gated toolkit — never slot-casters. *(Phase 5.)* |
-| **T5** | Horizontal balance vs. Jedi-vs-farmer power fantasy | Niche over tier: balanced in *contribution*, differentiated in *arena and method*. *(Phase 5 + balance gate.)* |
+| **T4** | No spellcasters vs. iconic Force fantasy | Force users are verb-having classes with a broad, cooldown-gated, trait-gated toolkit — never slot-casters. *(Resolved in Phase 5.)* |
+| **T5** | Horizontal balance vs. Jedi-vs-farmer power fantasy | Niche over tier: balanced in *contribution*, differentiated in *arena and method*. *(Structured in Phase 5; final balance at Gate A.)* |
 
 ---
 
@@ -80,8 +80,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **2** | **Character framework** — attributes, skills, derived stats (HP/defenses), class-agnostic recovery | ✅ **Complete** |
 | **3** | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ✅ **Complete** |
 | **4** | **Social / intrigue engine** — the co-equal first-class pillar | ✅ **Complete** |
-| 5 | **Class design + Force subsystem** | ⏭️ **Next** |
-| 6 | Equipment & economy | ⬜ Planned |
+| **5** | **Class design + Force subsystem** — vertical slice (4 classes to L5) | ✅ **Complete** |
+| 6 | **Equipment & economy** | ⏭️ **Next** |
 | 7 | Creatures & challenge framework | ⬜ Planned |
 | — | **Milestone: playable vertical slice** → balance analysis → table playtest | ⬜ Gate |
 | 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
@@ -127,6 +127,14 @@ Full detail: [Phase 3 spec](docs/superpowers/specs/2026-06-13-phase3-progression
 
 Full detail: [Phase 4 spec](docs/superpowers/specs/2026-06-13-phase4-social-intrigue-engine.md).
 
+### What's locked so far (Phase 5 class design + Force — vertical slice)
+- **Class chassis:** one key attribute (no MAD), HP tiers 6/8/10, a Legendary "proficiency signature" as identity, subclass at L1 (3/7/11/15/19 cadence), a quick-build each.
+- **Force subsystem (T4 resolved):** known powers, not slots; basic powers cost 0 Attunement; an **Attunement** per-encounter pool refuelled by **Center** and amplified by **Push** (new effects only — numbers auto-scale); five disciplines; **Deflection** universal but Guardian-mastered; `[light]`/`[dark]` trait hooks (full corruption later).
+- **Four classes to L5 with distinct verbs:** Soldier (**Suppress**), Scoundrel (**Exploit**), Guardian (**Force Flow + Deflect**), Technician (**Deploy**) — niche-over-tier (T5), no two share a typical turn.
+- **Condition list** opened (Off-Guard, Suppressed, Frightened, Prone + social conditions).
+
+Full detail: [Phase 5 spec](docs/superpowers/specs/2026-06-13-phase5-class-design-and-force.md).
+
 ---
 
 ## Repository structure
@@ -141,7 +149,8 @@ Full detail: [Phase 4 spec](docs/superpowers/specs/2026-06-13-phase4-social-intr
 │       │   ├── 2026-06-13-phase1-core-mechanic-and-traits.md
 │       │   ├── 2026-06-13-phase2-character-framework.md
 │       │   ├── 2026-06-13-phase3-progression-chassis.md
-│       │   └── 2026-06-13-phase4-social-intrigue-engine.md
+│       │   ├── 2026-06-13-phase4-social-intrigue-engine.md
+│       │   └── 2026-06-13-phase5-class-design-and-force.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
