@@ -66,6 +66,8 @@ Same threat budget, different fights (mix 2–3 per encounter):
 | **Skirmisher** | mobile, hit-and-run | punishes static lines; **forces the Reactive-Shot/positioning game** |
 | **Brute** | high HP/damage, low accuracy | the wall; closes to melee (and eats Reactive Shots — the "safe to charge" melee case) |
 
+*The **Minion role** above (a weak **independent** enemy on its own initiative) is distinct from the `[companion]`/`[summoned]` **Commanded Actor** traits. Enemy summoned/handled **adds** are Commanded Actors run by their controller — see [connective-tissue §F](2026-06-13-connective-tissue-and-review-remediation.md).*
+
 ---
 
 ## 4. Boss Engineering (the solo action-economy problem)

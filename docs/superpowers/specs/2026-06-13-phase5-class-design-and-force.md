@@ -136,7 +136,7 @@ Guardians have an Attunement pool *(size: Gate A)* and the **Center** action (§
 **Role** 1/2/1/3/2/1/1 (sum 11) · **Key** INT · **HP** 8 · **Signature** Legendary Computers/Repair + gadget DC.
 **Subclasses (L1):** **Droid Tech** (combat drone) · **Field Medic** (stims/healing gadgets) · **Saboteur** (mines/hacking/zones).
 
-**Signature — Command Drone** `[manipulate]`, **1 action.** Your **Drone** companion (scales with you) Strides and takes one action: a ranged Strike, Aid, or activate a gadget. *Uncommanded, on your turn it may only Aid or take a single basic action* — it adds value without doubling your turn (action-economy guard).
+**Signature — Command Drone** `[manipulate]`, **1 action.** Your **Drone** (a `[companion]` Commanded Actor — [connective-tissue §F](2026-06-13-connective-tissue-and-review-remediation.md); scales with you) takes **up to 2 actions**: Stride, ranged Strike, Aid, or activate a gadget. **Uncommanded it takes no actions** (it holds) — so it never grants free action economy (resolves playtest F4); it acts on your turn with no separate initiative or reaction (resolves F5).
 **Deploy Device** `[manipulate]`, **2 actions, `[once per minute]`.** Place a gadget: **turret** (ranged Strikes), **shield emitter** (allies within 10 ft gain cover/temp HP), or **medbeacon** (allies within 10 ft regain HP **once on deploy** — a burst, not a per-round fountain; throttled by the `[once per minute]` cooldown). *The medbeacon is the optional party heal — never mandatory (Phase 2 floor covers a Technician-less party).* Vitality-power and medbeacon healing are **not** subject to stim tolerance (which is stim-only, [Phase 6 §3](2026-06-13-phase6-equipment-and-economy.md)); they're bounded instead by Attunement/action and deploy-cooldown costs.
 
 **Levels 1–5:**
@@ -200,4 +200,4 @@ The full condition catalogue expands in Phase 7 / rules-writing.
 - **Full Dark-Side corruption subsystem; additional Force classes (Consular-type controller; area & control role gaps); additional martial/tech classes** → Phase 8.
 - **Species & background content** (boosts, feats, PC Levers for Phase 4) → later content phase.
 - **Weapon/gear specifics** (lightsaber `[finesse]`/`[deadly]` values, blaster ranges, stimpacks, armor Dex-caps) → Phase 6.
-- **Companion/Drone & deployable full rules; social verb content for the Face** → refined alongside Phase 6–7.
+- **Commanded Actor rules now defined** ([connective-tissue §F](2026-06-13-connective-tissue-and-review-remediation.md)); remaining: deployable/gadget detail, social-verb content for the Face → refined alongside Phase 6–7.

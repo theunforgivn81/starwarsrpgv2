@@ -101,6 +101,24 @@ S1–S3 adapt Paizo **ORC**-licensed content (PF2E stealth/detection, dying/woun
 
 ---
 
+## F. Commanded Actors — Companions, Drones, Summons *(playtest F4/F5 — system-wide rule)*
+
+Covers every persistent or temporary *extra body* a creature controls: PC drones/pets/droids, summoned creatures, **and** enemy commanded adds.
+
+- **Traits:** `[companion]` (persistent — drones, animal companions, astromechs) and `[summoned]` (temporary). Both are **Commanded Actors** and follow this rule. *(Registered into the [Phase 1 §8](2026-06-13-phase1-core-mechanic-and-traits.md) trait taxonomy.)*
+- **Acts only when Commanded.** A Commanded Actor takes **no actions on its own.** A creature uses the **Command** action (**1 action**) to direct **one** of its Commanded Actors to take **up to 2 actions**, **on the commander's turn** — it has **no separate initiative**.
+- **No reaction by default** (keeps the at-table reaction budget bounded); a feature may grant one.
+- **Own statistics** (HP/AC/saves/Perception scale with the commander/level); it can be targeted and destroyed. Its offense is **lower than a PC's** — it's an action-*multiplier*, not a second PC.
+- **No free action economy (resolves F4):** acting costs the commander a Command action, so a companion never *adds* net actions — it converts one of your actions into ~two weaker ones (roughly fair).
+- **Multi-pet self-cap:** each Commanded Actor needs its **own** Command action.
+- **Enemies too:** a summoner/handler spends *its* actions to Command its adds — no GM-side exception.
+
+**Disambiguation (Pass-1 hygiene):** the **Minion creature *role*** ([Phase 7 §3](2026-06-13-phase7-creatures-and-challenge.md) — a weak *independent* enemy acting on its *own* initiative) is **unrelated** to the `[companion]`/`[summoned]` *traits* (Commanded Actors). The shared folk-term "minion" is deliberately **not** used as a trait name.
+
+**Design guideline:** companions are **action-multipliers bought at a cost**, never free action advantage — price every companion/summon against the Command action it consumes.
+
+---
+
 ## G. Forced Movement & Hazards *(playtest F3 — system-wide rule)*
 
 Surfaced by the F3 exploit (a cheap repeatable shove-off-a-ledge). Applies to **every** push/pull effect (Telekinetic Nudge, the Inquisitor's Force Shove, grenade knockback, future feats):
