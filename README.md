@@ -82,8 +82,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **4** | **Social / intrigue engine** — the co-equal first-class pillar | ✅ **Complete** |
 | **5** | **Class design + Force subsystem** — vertical slice (4 classes to L5) | ✅ **Complete** |
 | **6** | **Equipment & economy** | ✅ **Complete** |
-| 7 | **Creatures & challenge framework** | ⏭️ **Next** |
-| — | **Milestone: playable vertical slice** → balance analysis → table playtest | ⬜ Gate |
+| **7** | **Creatures & challenge framework** | ✅ **Complete** |
+| — | **Milestone: playable vertical slice** ✅ → **balance analysis (Gate A) → table playtest** | ⏭️ **Next** |
 | 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
 | 9 | Rules-writing consolidation → Framework 1.0 | ⬜ Planned |
 
@@ -144,6 +144,15 @@ Full detail: [Phase 5 spec](docs/superpowers/specs/2026-06-13-phase5-class-desig
 
 Full detail: [Phase 6 spec](docs/superpowers/specs/2026-06-13-phase6-equipment-and-economy.md).
 
+### What's locked so far (Phase 7 creatures & challenge — slice complete)
+- **Creatures built to a benchmark on the L-spine:** higher attack / lower AC than same-level PCs, so on-level hit/crit rates are **constant at every level** — enemies threaten via **HP + damage + abilities**, never climbing to-hit (the bounded-accuracy thesis, demonstrated).
+- **Lethality dial:** standard ~15% of a PC's HP/round, boss ~30%; melee/crits spike above.
+- **Roles** (minion→boss); **boss model** = Boss Actions on PC turns + HP-threshold phases + condition-resilience (downgrade, not immunity) + nova check.
+- **Unified stat block** carries combat *and* Phase 4 social-defense numbers (Want / Off-ramp / Leverage), so NPCs are statted for both pillars.
+- **Slice roster** (Gang Thug → Inquisitor boss); the Inquisitor *deflects blaster bolts* — turning the party's ranged default off and teaching §11 from the enemy side.
+
+Full detail: [Phase 7 spec](docs/superpowers/specs/2026-06-13-phase7-creatures-and-challenge.md).
+
 ---
 
 ## Repository structure
@@ -160,7 +169,8 @@ Full detail: [Phase 6 spec](docs/superpowers/specs/2026-06-13-phase6-equipment-a
 │       │   ├── 2026-06-13-phase3-progression-chassis.md
 │       │   ├── 2026-06-13-phase4-social-intrigue-engine.md
 │       │   ├── 2026-06-13-phase5-class-design-and-force.md
-│       │   └── 2026-06-13-phase6-equipment-and-economy.md
+│       │   ├── 2026-06-13-phase6-equipment-and-economy.md
+│       │   └── 2026-06-13-phase7-creatures-and-challenge.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
