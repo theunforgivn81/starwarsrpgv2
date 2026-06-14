@@ -112,7 +112,7 @@ HP recovery is **time-gated**, not class-gated or daily-gated, with a floor that
 | **Treat Wounds** | trained+ in Medicine | out of combat, takes time | heals more / faster, on four degrees (crit success heals more; crit failure deals minor damage) — the **accelerant**, not a gate *(numbers: Gate A)* |
 | **First Aid / Stabilize** | trained in Medicine | in combat (action cost) | stop a dying ally; minor patch |
 | **Stimpacks & class verbs** | anyone with the item; specific classes | in combat | tactical top-ups; stimpacks are money-gated *(Phase 6)* |
-| **Full rest** | anyone | a night's rest / downtime | restore **all HP**, clear fatigue, **reset scene-cooldowns** |
+| **Full rest** | anyone | a night's rest / downtime | restore **all HP**, clear fatigue, **reset daily/per-rest abilities** (encounter pools reset per-encounter, not here) |
 
 **Design consequences:**
 - **No mandatory healer (Pillar 2):** the free floor needs no one; Medicine/stimpacks only make recovery faster/better.

@@ -153,6 +153,9 @@ Full detail: [Phase 6 spec](docs/superpowers/specs/2026-06-13-phase6-equipment-a
 
 Full detail: [Phase 7 spec](docs/superpowers/specs/2026-06-13-phase7-creatures-and-challenge.md).
 
+### System review (post-slice)
+A full `ttrpg-system-review` of Phases 0–7 found **no Critical show-stoppers** (no loops/contradictions). Seven Significant load-bearing gaps were resolved in the [connective-tissue remediation](docs/superpowers/specs/2026-06-13-connective-tissue-and-review-remediation.md): stealth/detection, dying/wounded, and initiative (adopted from Paizo ORC); Scene-vs-Encounter keywords; reaction timing & MAP; Force-powers-in-social; and trait-immunity semantics. Six cosmetic issues are parked for later.
+
 ---
 
 ## Repository structure
@@ -170,7 +173,8 @@ Full detail: [Phase 7 spec](docs/superpowers/specs/2026-06-13-phase7-creatures-a
 │       │   ├── 2026-06-13-phase4-social-intrigue-engine.md
 │       │   ├── 2026-06-13-phase5-class-design-and-force.md
 │       │   ├── 2026-06-13-phase6-equipment-and-economy.md
-│       │   └── 2026-06-13-phase7-creatures-and-challenge.md
+│       │   ├── 2026-06-13-phase7-creatures-and-challenge.md
+│       │   └── 2026-06-13-connective-tissue-and-review-remediation.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
