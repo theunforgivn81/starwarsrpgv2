@@ -39,10 +39,11 @@ Proficiency ranks advance within the Phase 3 gates (Expert L3 / Master L7 / Lege
 
 ### 2.2 Attunement (the resource texture)
 
-- **Per-encounter pool**, scales with level/class, **resets each encounter** (T3-compliant).
+- **Per-encounter pool = `2 + L`** (the Phase 1 level term) → 3 at L1, 4 at L5, 5 at L9, 6 at L13, 7 at L17. **Resets each encounter** (T3-compliant). *(Locked, resolving playtest F6; provisional pending next playtest.)*
 - **Basic powers cost 0 Attunement** (at-will, action-only) — the Force "cantrip" tier; a Force user is never fuel-starved.
-- **Center** — `[Force]` `[concentrate]`, **1 action**: regain Attunement. The active refuel — the *cast-now-vs-meditate* tension that gives caster-depth without daily bookkeeping.
-- **Push** — spend *extra* Attunement to add **new effects/modes** (more targets, riders, expanded area) — **never** raw numeric scaling (that's automatic by level).
+- **Power costs:** standard powers **1–2**, signature/big powers **3**. **Push** adds **+1** (extra target / knock prone) or **+2** (bigger upgrade) per added effect/mode — **never** raw numeric scaling (that's automatic by level).
+- **Center** — `[Force]` `[concentrate]`, **1 action**: regain **2 Attunement** (cannot exceed pool max). The active refuel — the *cast-now-vs-meditate* tension. Center costs an action of *effect* (not an action of value), so there is **no action-positive loop**; sustaining ~one power per turn is the intended measured rhythm, with the pool allowing a frontloaded burst.
+- **Attunement gates spice and burst only.** Saber Strikes, basic powers, and **Deflection are always free of Attunement** — a Force user is never "out of gas" *defensively* (which would gut the §11 melee-risk counter) or on baseline offense. Attunement fuels the bigger Telekinesis/Vitality/Influence/Sense effects and Pushes.
 - **Force DC** = class DC (`10 + L+R + key attribute`); key attribute set per class (no MAD).
 
 ### 2.3 Deflection (universal; the §11 melee-risk counter)
@@ -136,7 +137,7 @@ Guardians have an Attunement pool *(size: Gate A)* and the **Center** action (§
 **Subclasses (L1):** **Droid Tech** (combat drone) · **Field Medic** (stims/healing gadgets) · **Saboteur** (mines/hacking/zones).
 
 **Signature — Command Drone** `[manipulate]`, **1 action.** Your **Drone** companion (scales with you) Strides and takes one action: a ranged Strike, Aid, or activate a gadget. *Uncommanded, on your turn it may only Aid or take a single basic action* — it adds value without doubling your turn (action-economy guard).
-**Deploy Device** `[manipulate]`, **2 actions, `[once per minute]`.** Place a gadget: **turret** (ranged Strikes), **shield emitter** (allies within 10 ft gain cover/temp HP), or **medbeacon** (allies within 10 ft regain HP). *The medbeacon is the optional party heal — never mandatory (Phase 2 floor covers a Technician-less party).*
+**Deploy Device** `[manipulate]`, **2 actions, `[once per minute]`.** Place a gadget: **turret** (ranged Strikes), **shield emitter** (allies within 10 ft gain cover/temp HP), or **medbeacon** (allies within 10 ft regain HP **once on deploy** — a burst, not a per-round fountain; throttled by the `[once per minute]` cooldown). *The medbeacon is the optional party heal — never mandatory (Phase 2 floor covers a Technician-less party).* Vitality-power and medbeacon healing are **not** subject to stim tolerance (which is stim-only, [Phase 6 §3](2026-06-13-phase6-equipment-and-economy.md)); they're bounded instead by Attunement/action and deploy-cooldown costs.
 
 **Levels 1–5:**
 | L | Technician grants |

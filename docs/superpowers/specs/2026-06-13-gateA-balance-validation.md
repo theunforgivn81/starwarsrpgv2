@@ -90,7 +90,9 @@ Trained L1 specialist (+5) vs Moderate 14 = 60%, rising with level; untrained L5
 
 ## 5. Soft Numbers (validate in playtest)
 
-Attunement sizing (most effect-dependent), Deflection damage-reduction values, exact stim heal, precision-dice curve, support-value of the Technician's drone/turret/buffs. Structures are sound; the magnitudes need table data.
+Deflection damage-reduction values, precision-dice curve, support-value of the Technician's drone/turret/buffs. Structures are sound; the magnitudes need table data.
+
+**Now locked** (playtest F6/F7, no longer "soft"): **Attunement** (pool `2+L`, Center +2, costs 0/1–2/3, Push +1/+2, Deflection free) → [Phase 5 §2.2](2026-06-13-phase5-class-design-and-force.md); **stimpack** grades 2d8/4d8/6d8/8d8 + tolerance `÷2^(N−1)` per encounter → [Phase 6 §3](2026-06-13-phase6-equipment-and-economy.md).
 
 ---
 

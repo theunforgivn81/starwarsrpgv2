@@ -98,7 +98,7 @@ Designed against hoarding (cheap, plentiful, renewable); **class/encounter balan
 
 | Consumable | Use |
 |---|---|
-| **Stimpack** | 1 action `[manipulate]`; heal a **clutch-relevant** amount on first use (enough to keep a downed-risk ally fighting). **Stim tolerance:** each additional stim on the same creature *within a scene* heals less — anti-chain, not anti-use. *(Potency must stay meaningful given the limit — Gate A directive.)* |
+| **Stimpack** (grades) | 1 action `[manipulate]`, self or adjacent ally. Heals by grade (gated by tier/price, so % of HP stays ~constant): **Stimpack 2d8** (Tier I) · **Mk II 4d8** (Tier II) · **Mk III 6d8** (Tier III) · **Mk IV 8d8** (Tier IV). **Stim tolerance:** the *N*th stim healing a given creature **in an encounter** restores `normal ÷ 2^(N−1)` — 1st full, 2nd half, 3rd quarter; resets at encounter end. *(Locked, resolving playtest F6/F7.)* |
 | **Medpac** | powers out-of-combat **Treat Wounds** (Medicine); **refillable in downtime** (renewable, not hoarded) |
 | **Grenades** `[thrown]` | the **area expendable** covering the slice's AoE gap: frag `[kinetic]`, ion (vs droids/shields), stun, smoke (concealment) |
 | **Adrenal / spike / demolition kits** | minor combat buffs, slicing aids, breaching |
