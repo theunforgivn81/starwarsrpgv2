@@ -101,7 +101,21 @@ S1–S3 adapt Paizo **ORC**-licensed content (PF2E stealth/detection, dying/woun
 
 ---
 
-## F. Carried Forward
+## G. Forced Movement & Hazards *(playtest F3 — system-wide rule)*
+
+Surfaced by the F3 exploit (a cheap repeatable shove-off-a-ledge). Applies to **every** push/pull effect (Telekinetic Nudge, the Inquisitor's Force Shove, grenade knockback, future feats):
+
+- Forced movement specifies a **distance and direction** and **does not provoke reactions** (it isn't the moved creature's action).
+- **Default — stop at the brink:** if forced movement would carry a creature **off a precipice or into a hazard**, the creature **stops at the edge** (it is *not* pushed in). Forced movement is therefore **never a free instakill**.
+- **"Hurl" exception:** only an effect that *explicitly* states it can hurl a target off/into a hazard may do so, and the target then attempts a **basic Reflex save** (vs the effect's DC) to stop at the brink anyway — falling/entering only on a failure.
+- **Obstacles:** forced movement into a solid obstacle stops the creature adjacent to it (collision damage only if the effect says so).
+- **Falling / hazard damage** resolves per its own rules *(falling-damage values → Gate A / rules-writing)*.
+
+This immunizes all displacement effects against the F3 class of exploit at once. Combined with the **F3 economy rule** (offensive Force costs Attunement → no free spam, [Phase 5 §2.2](2026-06-13-phase5-class-design-and-force.md)), Telekinetic Nudge can neither be spammed for free nor instakill.
+
+---
+
+## H. Carried Forward
 
 - **C1–C6** cosmetic fixes.
 - **Numbers** (recovery-check DCs already fixed by ORC; massive-damage threshold; flat-check tuning) → Gate A.

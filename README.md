@@ -129,7 +129,7 @@ Full detail: [Phase 4 spec](docs/superpowers/specs/2026-06-13-phase4-social-intr
 
 ### What's locked so far (Phase 5 class design + Force — vertical slice)
 - **Class chassis:** one key attribute (no MAD), HP tiers 6/8/10, a Legendary "proficiency signature" as identity, subclass at L1 (3/7/11/15/19 cadence), a quick-build each.
-- **Force subsystem (T4 resolved):** known powers, not slots; basic powers cost 0 Attunement; an **Attunement** per-encounter pool refuelled by **Center** and amplified by **Push** (new effects only — numbers auto-scale); five disciplines; **Deflection** universal but Guardian-mastered; `[light]`/`[dark]` trait hooks (full corruption later).
+- **Force subsystem (T4 resolved):** known powers, not slots; **0-cost powers are non-combat utility only** (object telekinesis, senses) while **every combat Force effect costs Attunement** (free combat baseline = weapon + Deflection); an **Attunement** per-encounter pool (`2+L`) refuelled by **Center** and amplified by **Push** (new effects only — numbers auto-scale); five disciplines; **Deflection** universal but Guardian-mastered; `[light]`/`[dark]` trait hooks (full corruption later).
 - **Four classes to L5 with distinct verbs:** Soldier (**Suppress**), Scoundrel (**Exploit**), Guardian (**Force Flow + Deflect**), Technician (**Deploy**) — niche-over-tier (T5), no two share a typical turn.
 - **Condition list** opened (Off-Guard, Suppressed, Frightened, Prone + social conditions).
 

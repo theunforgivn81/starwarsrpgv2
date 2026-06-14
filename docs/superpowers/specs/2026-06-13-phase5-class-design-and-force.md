@@ -40,10 +40,10 @@ Proficiency ranks advance within the Phase 3 gates (Expert L3 / Master L7 / Lege
 ### 2.2 Attunement (the resource texture)
 
 - **Per-encounter pool = `2 + L`** (the Phase 1 level term) → 3 at L1, 4 at L5, 5 at L9, 6 at L13, 7 at L17. **Resets each encounter** (T3-compliant). *(Locked, resolving playtest F6; provisional pending next playtest.)*
-- **Basic powers cost 0 Attunement** (at-will, action-only) — the Force "cantrip" tier; a Force user is never fuel-starved.
+- **0-cost powers are *non-combat utility only*** (at-will): retrieving/manipulating **unattended objects** at range, **enhanced Force senses** (precognition/perception), and similar minor effects. A 0-cost power **never** offensively targets a creature, forces movement, deals damage, debuffs, heals, or buffs. *(Revised per playtest F3 — see economy rule below.)*
+- **Economy rule (F3):** **every Force effect with a combat impact costs Attunement (≥1)** — offense, forced movement, control, debuffs, healing, and buffs. A Force user's **free combat baseline is their weapon Strikes + Deflection** (defense), so they never gas out *defensively* (which would gut the §11 counter) or on baseline weapon offense; *powers* are the resourced spice/burst.
 - **Power costs:** standard powers **1–2**, signature/big powers **3**. **Push** adds **+1** (extra target / knock prone) or **+2** (bigger upgrade) per added effect/mode — **never** raw numeric scaling (that's automatic by level).
 - **Center** — `[Force]` `[concentrate]`, **1 action**: regain **2 Attunement** (cannot exceed pool max). The active refuel — the *cast-now-vs-meditate* tension. Center costs an action of *effect* (not an action of value), so there is **no action-positive loop**; sustaining ~one power per turn is the intended measured rhythm, with the pool allowing a frontloaded burst.
-- **Attunement gates spice and burst only.** Saber Strikes, basic powers, and **Deflection are always free of Attunement** — a Force user is never "out of gas" *defensively* (which would gut the §11 melee-risk counter) or on baseline offense. Attunement fuels the bigger Telekinesis/Vitality/Influence/Sense effects and Pushes.
 - **Force DC** = class DC (`10 + L+R + key attribute`); key attribute set per class (no MAD).
 
 ### 2.3 Deflection (universal; the §11 melee-risk counter)
@@ -87,7 +87,7 @@ Proficiency ranks advance within the Phase 3 gates (Expert L3 / Master L7 / Lege
 
 **Lightsaber** uses `[finesse]` (DEX) for Strikes and `[deadly]` crits — high melee lethality (§11 "deadly").
 
-**Telekinetic Nudge** `[Force]` `[telekinetic]` `[concentrate]`, **1 action, 0 Attunement.** A creature/object within range is shoved (Fort save vs Force DC); auto-scales with level. *Push:* add targets, knock prone, or fling a held object as a thrown weapon.
+**Telekinetic Nudge** `[Force]` `[telekinetic]` `[concentrate]`, **1 action, 1 Attunement.** *(Costed — it offensively targets a creature, per the F3 economy rule.)* A creature within range attempts a **Fortitude save** vs your Force DC; on a **failure** it's shoved **5 ft** (**crit failure**: 10 ft + prone), distance auto-scaling modestly by tier. **Forced movement stops at the edge of a precipice/hazard** — it cannot push a creature into a fall or hazard ([connective-tissue §G](2026-06-13-connective-tissue-and-review-remediation.md)). *Push:* **+1** add a target *or* knock prone on a normal failure; **+1** fling a grabbed unattended object as a ranged Strike; **+2 (Hurl)** the movement *may* carry the target off an edge / into a hazard — it attempts a **basic Reflex save** to stop at the brink. *(0-Attunement telekinesis is limited to unattended objects + senses, §2.2.)*
 
 ### 4.2 Center & Attunement
 Guardians have an Attunement pool *(size: Gate A)* and the **Center** action (§2.2).
