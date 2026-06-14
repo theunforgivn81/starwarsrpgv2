@@ -145,7 +145,7 @@ An effect that targets another creature sets **DC = `10 + Proficiency + key attr
 ## 7. Action Economy
 
 - **Three actions per turn**, spent freely (point-pool model). Most activities cost 1, 2, or 3 actions; the action cost is part of each ability's definition (priced in Phase 5+ via `ttrpg-ability-design`).
-- **One reaction per round** (a single commonly-triggering interrupt budget per character) and **free actions** (no action cost, usually trigger-gated).
+- **One reaction per round** (a single commonly-triggering interrupt budget per character) and **free actions** (no action cost, usually trigger-gated). The signature combat reaction is the **Reactive Shot** (§11).
 - Multi-Strike turns are governed by MAP (§4.2). The economy is the primary currency abilities are balanced against — there are **no daily resource pools** (T3); ability uptime is governed by action cost and round/scene cooldowns (formalized Phase 3).
 
 ---
@@ -208,3 +208,22 @@ A new trait is justified **only if** (a) more than one rule references it, **or*
 - **Ability action-pricing**, condition list, Force-discipline traits → Phases 4–5.
 - **Potency breakpoints, damage-dice progression, full item traits** → Phase 6.
 - **Creature-building math** (how level *N* sets L, role-based ranks/attributes) → Phase 7.
+
+---
+
+## 11. Combat Engagement Assumptions *(amendment — added 2026-06-13 during Phase 5)*
+
+**Ranged is the default mode of engagement.** In a blaster-saturated galaxy, the typical combatant fights at range. Consequences:
+
+- **The balance baseline is a ranged Strike.** DPR benchmarks, the "typical turn," and encounter/creature math all assume ranged engagement as the reference point. Melee is the high-risk/high-reward alternative that sits *above* the ranged DPR baseline.
+- **Melee is deadlier:** melee weapons carry bigger damage dice, add the wielder's attribute to damage (STR, or DEX for `[finesse]` weapons such as lightsabers), and lean on stronger crit effects (`[deadly]`). *(Exact numbers: Phase 6.)*
+- **Melee is riskier — the Reactive Shot:**
+
+> **Reactive Shot** `[reaction]` — **Trigger:** a creature makes a melee Strike against you, you have a ranged weapon ready, and your reaction is available. **Effect:** make a ranged Strike against the triggering creature; it resolves *before* the triggering melee Strike (so it can disrupt it).
+
+- **Only risky vs gunners.** A Reactive Shot requires the target to have a ranged weapon and an available reaction, so closing on an unarmed or melee-only foe is safe. The fiction: charging a blaster is dangerous; charging a vibro-axe thug is not.
+- **Movement stays free** — only the melee *Strike* provokes, never repositioning (keeps tactical movement fluid; avoids fiddly range-band triggers).
+- **Counters (what makes melee worth the risk):** melee's higher damage; **Force deflection** (negates the Reactive Shot — the structural reason Force defenses exist, see the Phase 5 Guardian); **stealth/surprise** (a target unaware of the threat can't react); and **flanking/teamwork** (a foe that already spent its reaction can't shoot).
+- This deliberately **inverts** the traditional fantasy-TTRPG assumption (melee punishing movement): here the **gunner punishes the swordsman**.
+
+**Forward effects:** weapon traits, damage, ranges (`[finesse]`, `[deadly]`, range increments) → Phase 6; ranged/melee creature roles and how monsters use the Reactive Shot → Phase 7; Force deflection and melee-closer kits → Phase 5.

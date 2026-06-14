@@ -93,6 +93,7 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 - **Bonuses:** circumstance / status / item types (no stacking within a type); Multiple Attack Penalty −4 / −8 (agile −3 / −6).
 - **Gear math:** item potency is an *optional bounded edge* (+3 cap), not a tax; weapon upgrades primarily scale damage dice.
 - **Economy:** three actions, one reaction, free actions; **no daily resource pools**.
+- **Engagement:** **ranged is the default** (the balance baseline); melee is deadlier but riskier — a melee Strike provokes a **Reactive Shot** from an armed target (the genre trope flipped: the gunner punishes the swordsman). Force deflection / stealth are the counters.
 - **Traits:** universal keyword-tag system with an eight-category taxonomy and an anti-sprawl governance rule.
 
 Full detail: [Phase 1 spec](docs/superpowers/specs/2026-06-13-phase1-core-mechanic-and-traits.md).
