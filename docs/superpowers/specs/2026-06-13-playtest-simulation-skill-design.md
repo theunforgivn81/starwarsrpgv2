@@ -50,9 +50,19 @@ and produces a prioritized findings report routed to the right fix skills.
 ### 2. Execution model — skill + subagents
 
 The "playtester" and "playtest GM" the user asked about are **subagents the skill
-spins up**, not separate skills. One methodology, many actors. Two run modes:
+spins up**, not separate skills. One methodology, many actors. Two run modes —
+**Mode B is the default; Mode A runs only when explicitly requested.**
 
-- **Mode A — Subagent table (default for real validation runs):**
+- **Mode B — Single-context role-play (DEFAULT):**
+  - One agent voices GM + all personas in-context.
+  - Cheap and fast — the everyday run. Weaker validity (shared knowledge → more
+    charitable play), so the skill mitigates by requiring the personas be played
+    in deliberate adversarial character and treats the output as a strong smoke
+    test rather than a hard gate.
+
+- **Mode A — Subagent table (opt-in, high fidelity; for milestone gates):**
+  - Invoked only when the user explicitly asks for the full table (e.g. "Mode A",
+    "subagent playtest", "high-fidelity run").
   - One **GM subagent** with the *full specs* (rules + designer intent).
   - Up to four **player subagents**, each given **only player-facing rules + their
     persona — blind to designer intent.**
@@ -61,13 +71,7 @@ spins up**, not separate skills. One methodology, many actors. Two run modes:
   - **Validity mechanism = information asymmetry.** A player who can see intended
     use never finds the unintended one; withholding intent manufactures the real
     misreads and exploits.
-  - Cost: heavy (many round-trips). Acceptable — playtest is a deliberate gate,
-    not a constant.
-
-- **Mode B — Single-context role-play (explicit lightweight fallback):**
-  - One agent voices GM + all personas in-context.
-  - Cheap, good for a fast smoke test; weaker validity (shared knowledge → more
-    charitable play). The skill marks this clearly as a smoke test, not a gate.
+  - Cost: heavy (many round-trips). Reserved for deliberate milestone gates.
 
 ### 3. The adversarial player roster
 
@@ -102,9 +106,10 @@ Fixed panel; each persona hunts one failure class. The skill mandates this roste
 
 ### 5. Findings report (artifact + triage)
 
-- **Artifact:** a dated report written to `docs/superpowers/specs/`
-  (`YYYY-MM-DD-playtest-<scenario>.md`), matching the Gate A pattern, so runs are
-  durable and diffable across slices.
+- **Artifact:** a dated report written to its own folder,
+  `docs/superpowers/playtests/` (`YYYY-MM-DD-playtest-<scenario>.md`), kept
+  separate from design specs so playtest output and design intent don't intermix;
+  durable and diffable across slices like the Gate A pattern.
 - **Contents:** the scenario + builds, a condensed session/turn log, then a
   prioritized findings list.
 - **Finding schema:** `id · severity · turn ref · spec link · failure class ·
@@ -136,7 +141,8 @@ Fixed panel; each persona hunts one failure class. The skill mandates this roste
   (frontmatter `name` + "Use when…" `description`; Overview + Core principle;
   dense tables; Quick Reference; Common Mistakes; Related Skills).
 - Skill clearly states the boundary vs `balance-analysis` and `system-review`.
-- Documents both run modes, marking A as the default gate and B as a smoke test.
+- Documents both run modes, marking B (single-context) as the default and A
+  (subagent table) as an explicit opt-in for milestone gates.
 - Mandates the adversarial roster, two-pass adjudication, per-turn watch list.
 - Specifies the report artifact location, finding schema, severity rubric, and
   triage routing — and the find-not-fix discipline.
