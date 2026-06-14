@@ -113,6 +113,17 @@ Surfaced by the F3 exploit (a cheap repeatable shove-off-a-ledge). Applies to **
 
 This immunizes all displacement effects against the F3 class of exploit at once. Combined with the **F3 economy rule** (offensive Force costs Attunement → no free spam, [Phase 5 §2.2](2026-06-13-phase5-class-design-and-force.md)), Telekinetic Nudge can neither be spammed for free nor instakill.
 
+### Sources of forced movement (balanced by access cost)
+
+At-will, zero-cost forced movement **still exists** — it just isn't free *and* ranged *and* repeatable at once:
+
+| Source | Cost | Gated by | Roll |
+|---|---|---|---|
+| **Athletics: Shove / Reposition** | free, at-will | `[attack]` (incurs **MAP**); **melee-only** (closing provokes Reactive Shots) | Athletics vs target's **Fortitude DC**; push 5 ft (10 ft on crit) |
+| **Telekinetic Nudge** (Force) | **1 Attunement** | ranged & safe | target's **Fort save** vs Force DC; same distances |
+
+Same effect, different price: the mundane version pays in *exposure + MAP*; the Force version pays in *Attunement* for doing it at range. Both obey the stop-at-edge rule above.
+
 ---
 
 ## H. Carried Forward

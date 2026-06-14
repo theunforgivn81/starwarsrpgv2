@@ -62,7 +62,7 @@ Ranked proficiency (`L + R + attribute`; untrained = +0, per Phase 1). The list 
 
 | Skill | Attr | Covers |
 |---|---|---|
-| Athletics | STR | climb, jump, swim, grapple, shove |
+| Athletics | STR | climb, jump, swim, grapple, **Shove / Reposition** (the free, at-will melee forced-movement actions — `[attack]`/MAP; see [forced movement §G](2026-06-13-connective-tissue-and-review-remediation.md)) |
 | Acrobatics | DEX | balance, tumble through, escape |
 | Stealth | DEX | hide, sneak, conceal |
 | Thievery | DEX | sleight of hand, physical locks, disarm devices |
