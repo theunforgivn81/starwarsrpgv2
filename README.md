@@ -159,6 +159,9 @@ A full `ttrpg-system-review` of Phases 0–7 found **no Critical show-stoppers**
 ### Gate A — balance validation
 The [Gate A balance analysis](docs/superpowers/specs/2026-06-13-gateA-balance-validation.md) **passes**: bounded-accuracy math computes (identical 60% hit / 10% crit at L1 and L5), MAP −4/−8 isn't spam-dominant (3rd Strike ~18% of round DPR), the boss model restores a ~2.4:1 action ratio and survives the nova check, and the four classes hold contribution parity. It pins the deferred numbers (DC ladder, lethality, benchmark/creature tables) and converts the T1 watch-item into a content directive: **keep +1/rank, author rank-gated *effects*** so expertise is felt through capability, not bigger numbers.
 
+### Playtest smoke test (Mode B)
+A Mode B adversarial [playtest simulation](docs/superpowers/playtests/2026-06-13-playtest-docking-bay-ambush.md) ("Docking Bay Ambush") ran the slice turn-by-turn. **No Critical issues**, but four **Major** findings a real table would hit: the Inquisitor's anti-ranged signature *backfires* (funnels PCs into safe, deadlier melee — F1); an at-will 0-cost Telekinetic Nudge exploits undefined hazard/fall rules (F3); and the soft Attunement (F6) and stim (F7) numbers are not just imprecise but **unrunnable**. Findings are routed to their fix skills; F3/F6/F7 should be resolved before a Mode A gate or live table.
+
 ---
 
 ## Repository structure
