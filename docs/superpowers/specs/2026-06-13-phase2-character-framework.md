@@ -93,7 +93,7 @@ Ranked proficiency (`L + R + attribute`; untrained = +0, per Phase 1). The list 
 | Stat | Formula | Notes |
 |---|---|---|
 | **HP** | `species base + level × (class HP value + CON mod)` | CON payoff; HP is a primary bounded-accuracy scaling axis. *(class HP value: Phase 5; species base: species content)* |
-| **AC** | `10 + armor proficiency (L+R) + DEX (capped by armor) + item potency + circumstance` | armor Dex-cap is the DEX pressure-valve *(armor details: Phase 6)* |
+| **AC** | `10 + proficiency (L+R) + min(DEX, armor Dex-cap) + armor base + item potency + circumstance` | armor Dex-cap is the DEX pressure-valve; the **armor base** (non-scaling category constant) was added in [Phase 6 §2](2026-06-13-phase6-equipment-and-economy.md) |
 | **Fortitude / Reflex / Will** | `L + R + (CON / DEX / WIS)` | §2.4 |
 | **Perception** | `L + R + WIS` | default initiative roll |
 | **Class DC / class attack** | `L + R + key attribute` | key attribute set by class *(Phase 5)* |

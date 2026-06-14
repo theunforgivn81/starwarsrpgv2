@@ -81,8 +81,8 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **3** | **Progression chassis** — level cadence, cooldown/resource model, multiclassing | ✅ **Complete** |
 | **4** | **Social / intrigue engine** — the co-equal first-class pillar | ✅ **Complete** |
 | **5** | **Class design + Force subsystem** — vertical slice (4 classes to L5) | ✅ **Complete** |
-| 6 | **Equipment & economy** | ⏭️ **Next** |
-| 7 | Creatures & challenge framework | ⬜ Planned |
+| **6** | **Equipment & economy** | ✅ **Complete** |
+| 7 | **Creatures & challenge framework** | ⏭️ **Next** |
 | — | **Milestone: playable vertical slice** → balance analysis → table playtest | ⬜ Gate |
 | 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
 | 9 | Rules-writing consolidation → Framework 1.0 | ⬜ Planned |
@@ -135,6 +135,15 @@ Full detail: [Phase 4 spec](docs/superpowers/specs/2026-06-13-phase4-social-intr
 
 Full detail: [Phase 5 spec](docs/superpowers/specs/2026-06-13-phase5-class-design-and-force.md).
 
+### What's locked so far (Phase 6 equipment & economy)
+- **Gear is not a power treadmill:** potency stays optional/non-baked, so **credits buy interesting things** (mods, ships, contacts, social Leverage assets), not +X.
+- **Weapons:** ranged blaster baseline; **melee adds attribute to damage, ranged doesn't** (ranged scales via weapon specialization); lightsaber `[finesse]`/`[deadly]`, `[Force]`-gated. Transferable **mods** carry damage-dice scaling.
+- **Armor:** AC base + Dex-cap by category (crossover ~DEX +3/+4); robed Force users get an unarmored-defense feature.
+- **Consumables:** stimpacks (potent first use, **stim tolerance** anti-chain), grenades as the AoE expendable; balance assumes zero use.
+- **Economy:** rarity gates access/effects not power; **ship/lifestyle upkeep** is the money sink; each class has a distinct **wealth identity** (Force users buy crystals + holocrons that grant *options*, not numbers).
+
+Full detail: [Phase 6 spec](docs/superpowers/specs/2026-06-13-phase6-equipment-and-economy.md).
+
 ---
 
 ## Repository structure
@@ -150,7 +159,8 @@ Full detail: [Phase 5 spec](docs/superpowers/specs/2026-06-13-phase5-class-desig
 │       │   ├── 2026-06-13-phase2-character-framework.md
 │       │   ├── 2026-06-13-phase3-progression-chassis.md
 │       │   ├── 2026-06-13-phase4-social-intrigue-engine.md
-│       │   └── 2026-06-13-phase5-class-design-and-force.md
+│       │   ├── 2026-06-13-phase5-class-design-and-force.md
+│       │   └── 2026-06-13-phase6-equipment-and-economy.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
