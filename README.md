@@ -83,7 +83,7 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **5** | **Class design + Force subsystem** — vertical slice (4 classes to L5) | ✅ **Complete** |
 | **6** | **Equipment & economy** | ✅ **Complete** |
 | **7** | **Creatures & challenge framework** | ✅ **Complete** |
-| — | **Milestone: playable vertical slice** ✅ → **balance analysis (Gate A) → table playtest** | ⏭️ **Next** |
+| — | **Milestone: playable vertical slice** ✅ → balance analysis (Gate A) ✅ → **table playtest** | ⏭️ **Next** |
 | 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
 | 9 | Rules-writing consolidation → Framework 1.0 | ⬜ Planned |
 
@@ -156,6 +156,9 @@ Full detail: [Phase 7 spec](docs/superpowers/specs/2026-06-13-phase7-creatures-a
 ### System review (post-slice)
 A full `ttrpg-system-review` of Phases 0–7 found **no Critical show-stoppers** (no loops/contradictions). Seven Significant load-bearing gaps were resolved in the [connective-tissue remediation](docs/superpowers/specs/2026-06-13-connective-tissue-and-review-remediation.md): stealth/detection, dying/wounded, and initiative (adopted from Paizo ORC); Scene-vs-Encounter keywords; reaction timing & MAP; Force-powers-in-social; and trait-immunity semantics. Six cosmetic issues are parked for later.
 
+### Gate A — balance validation
+The [Gate A balance analysis](docs/superpowers/specs/2026-06-13-gateA-balance-validation.md) **passes**: bounded-accuracy math computes (identical 60% hit / 10% crit at L1 and L5), MAP −4/−8 isn't spam-dominant (3rd Strike ~18% of round DPR), the boss model restores a ~2.4:1 action ratio and survives the nova check, and the four classes hold contribution parity. It pins the deferred numbers (DC ladder, lethality, benchmark/creature tables) and converts the T1 watch-item into a content directive: **keep +1/rank, author rank-gated *effects*** so expertise is felt through capability, not bigger numbers.
+
 ---
 
 ## Repository structure
@@ -174,7 +177,8 @@ A full `ttrpg-system-review` of Phases 0–7 found **no Critical show-stoppers**
 │       │   ├── 2026-06-13-phase5-class-design-and-force.md
 │       │   ├── 2026-06-13-phase6-equipment-and-economy.md
 │       │   ├── 2026-06-13-phase7-creatures-and-challenge.md
-│       │   └── 2026-06-13-connective-tissue-and-review-remediation.md
+│       │   ├── 2026-06-13-connective-tissue-and-review-remediation.md
+│       │   └── 2026-06-13-gateA-balance-validation.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
