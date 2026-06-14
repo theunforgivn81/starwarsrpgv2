@@ -83,6 +83,11 @@ A solo boss faces 4+ PC turns/round with one of its own; unprotected, it is focu
 ## 5. Signature Abilities & Behavior
 
 - **1–2 signatures** per creature above minion; the benchmark is the chassis, the signature is the identity. A signature must **change PC behavior**, be **telegraphed**, and is **paid for in chassis** (lower HP/damage). Cap specials at **3–4**, organized by trigger.
+- **Close the engagement loop (playtest F1).** A signature that *pushes players away from* one mode of engagement must make the mode it pushes them *toward* **costly** — or the signature rewards the party instead of pressuring it. Under our combat model this has sharp corollaries:
+  - A **melee-only boss is safe to swarm in melee** (the Reactive Shot punishes charging *gunners*, not melee-vs-melee), so it needs **ranged elements or an AoE** to stay threatening.
+  - An **anti-ranged signature** (deflection) must pair with an **anti-cluster** tool (AoE/forced-spread), because denying ranged *funnels the party into a melee cluster* — herd them in, then punish the cluster.
+  - A **ranged/artillery** threat is naturally dangerous to chargers but vulnerable to being closed on — give it **mobility/repositioning** if it must hold range.
+  - General rule: **whatever an enemy denies, it must also threaten the alternative.**
 - **Behavior script (3 lines):** opener · target priority · break condition. **Morale/break conditions** are mandatory — creatures that sometimes flee or yield make outcomes richer than binary TPK-or-loot.
 
 ---
@@ -120,17 +125,21 @@ Rewards: credits / special item / story access
 | **Combat Droid** | 3 | Standard/Artillery `[droid]` | immune `[mental]`/`[emotion]`, **weak to ion** — trait immunity/weakness demo |
 | **Nexu** | 3 | Skirmisher (beast) | *Pounce/Withdraw*; punishes static lines, rewards readied actions |
 | **Bounty Hunter** | 4 | Elite (ranged + gadgets) | pressures focus-fire; **full social block** (can be bought off) |
-| **Inquisitor** | 5 | Solo/Boss (Force) | the showcase — §9 |
+| **Inquisitor** | 5 | Solo/Boss (Force) | the showcase — paired signatures (deflect ranged **+** AoE cluster-punish) + a Phase-2 mode flip — §9 |
 
-### 9. Boss showcase — the Inquisitor (L5)
+### 9. Boss showcase — the Inquisitor (L5) — *revised, resolving playtest F1*
 
-**Signature — Deflect Blaster Bolts** (the enemy mirror of the Guardian's stance): negates/reduces ranged Strikes, so the party's *ranged default stops working* — forcing melee (the risky game), ion/grenades, or their own Force user. A signature that **changes PC behavior** and teaches §11 from the other side.
+A **paired-signature** duelist that closes the engagement loop in *both* directions: it denies ranged **and** punishes the melee cluster that denial creates, then flips modes at low HP.
+
+**Signature A — Deflect Blaster Bolts** (the enemy mirror of the Guardian's stance): negates/reduces ranged Strikes, so the party's ranged default stops working — *funneling* them into saber range.
+**Signature B — Force Repulse** (the F1 fix; the anti-cluster pair): a **telegraphed** AoE — the round after a visible wind-up (1-action tell), a burst pushes all creatures within 15 ft away (forced movement, **basic Reflex save** to halve/stop, §G — *cannot* shove off edges unless it Hurls) and deals damage. **Once per minute.** *Counterplay:* spread out, or disrupt the wind-up. This punishes exactly the melee cluster that Signature A creates — *herd them in, then blast the cluster.*
 
 - **AC ~18 — PCs still hit ~55%** (NOT unhittable); staying power is **HP + Boss Actions + phases**, not a wall of AC. *(The bounded-accuracy demonstration.)*
-- **Boss Actions (2/round):** Stride / saber Strike / *Force Shove* on PCs' turns.
-- **Phase 2 (≤50% HP):** hurls the saber (ranged mode), gains a second deflection, terrain shifts.
+- **Boss Actions (2/round):** Stride / saber Strike / *Force Shove* (single-target scatter, §G forced movement) on PCs' turns.
+- **Phase 2 (≤70 HP) — the mode flip:** the Inquisitor wields the saber as a thrown/ranged weapon (ranged mode) and gains a second deflection. Because it now has a **ranged weapon ready, meleeing it provokes its Reactive Shot** — so the fight *inverts*: Phase 1 punishes ranged + clustering (fight it spread, in melee); Phase 2 punishes melee (now adapt again). The boss stays threatening in both modes across the fight.
 - **Condition resilience:** first action-denial/round downgraded (stun → slowed).
 - **Nova check:** phase-gating prevents a >60% round-1 burst. ✔
+- **Don't run it truly solo:** pair with **ranged adds** (the encounter's Stormtroopers) so Deflect Blaster Bolts isn't the party's *only* ranged consideration — adds also restore action parity (§4).
 - **Social:** a fanatic — a `[Guard]` vs all appeals (can't be talked down), so the *roster* exercises Phase 4 via the Bounty Hunter / crime-tier NPCs instead.
 
 ---
