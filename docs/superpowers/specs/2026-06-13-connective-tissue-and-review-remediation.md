@@ -57,7 +57,7 @@ Adopt PF2E's detection framework (ORC-licensed; §E):
 ### S5 — Reaction Timing & MAP *(codified)*
 
 - A **reaction resolves immediately when its trigger occurs**, per the **exact wording** of the trigger. Standard trigger points: **when targeted** by an attack · **when hit** (after the attack is confirmed a hit, before damage) · **after damage is dealt**.
-- **Reactive Shot** triggers on "*a creature makes a melee Strike against you*" — i.e. when the Strike is **declared** (before it resolves), so the Reactive Shot resolves first and can **disrupt** it (dropping/disabling the attacker can cause the Strike to be lost).
+- **Reactive Shot** triggers on "*a creature you can perceive makes a melee Strike while within 10 ft of you*" (revised per playtest F2 — any nearby gunner, not just the target) — i.e. when the Strike is **declared** (before it resolves), so the Reactive Shot resolves first and can **disrupt** it (dropping/disabling the attacker can cause the Strike to be lost).
 - **MAP never applies to reactions** — a reaction Strike is at full accuracy and does not raise your MAP.
 - A reaction spends your **one reaction/round** unless an ability grants more (the Soldier's *Reactive Volley*). Suppression's Reactive Shot spends your reaction normally.
 
