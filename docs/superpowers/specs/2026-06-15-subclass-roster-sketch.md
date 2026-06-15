@@ -15,6 +15,8 @@
 
 **Concrete structure** (confirmed from the prior `ClassFeat` table; reference for the detailing pass): each Form is a **`[Form][Stance]` feat** — **1 action** to enter, **requires a lightsaber**, a while-in-stance effect **+ a "Guardian Mastery" clause** that upgrades it for Guardians. *Example —* **Soresu Stance** (Form III): *+2 circumstance AC vs ranged Strikes, Speed −10 ft; Guardian Mastery: the AC bonus also applies to melee.* Each base stance anchors a **chain of 3 prerequisite-gated follow-up feats**. All **seven** Forms exist (Shii-Cho/Makashi/Soresu/Ataru/Shien-Djem So/Niman/Juyo-Vaapad). **The "Guardian Mastery" clause makes Forms portable** — an archetype (e.g. Force Adept) can grant a base stance, while the Guardian gets the mastery upgrade — so Forms are the shared Force-melee vocabulary, mastered by Guardians.
 
+> **The prior Form chains are *thematic* reference, not a port.** We keep each Form's *fiction and tactical role* (Soresu = defensive eye-of-the-storm, Ataru = acrobatic aggression, Makashi = the duelist, Djem So = counterattack, Niman = blade-and-power balance, etc.); the actual feats are (re)designed under our bounded system (our Deflect, Attunement, three-action economy). Not all prior chains will map — the value is the thematic scaffolding.
+
 | Subclass (Form) | Forks the verb toward… |
 |---|---|
 | **Soresu** (Way of the Mynock) | **defense/deflection** — the Deflect master; weather fire, outlast |
