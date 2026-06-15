@@ -9,6 +9,7 @@
 
 ## 1. Adaptation Conventions
 
+- **Map, don't copy-schema.** The source's Features JSON is a *reference for content*, not a data model we adopt — every field is mapped into our own descriptive terms below; we stay free to shape our own data representation later.
 - **Attributes:** transcribed directly — each species nets **+2** as fixed boosts + a flaw + one assignable (or two free boosts for Human). The species free/assignable boost can't target an attribute the species already boosts or flaws (so no attribute moves more than ±1 from species). *(Two source data-quirks fixed: Codru-Ji = DEX, CHA; Chubbit = DEX, WIS.)*
 - **HP** = the species' flat **base HP** (added once; the "species base" term in the [Phase 2 HP formula](2026-06-13-phase2-character-framework.md)). Range 6–12.
 - **Speed** = the listed value as **feet** (the source's "meters" label is a prior-project artifact; 25 = our standard).
