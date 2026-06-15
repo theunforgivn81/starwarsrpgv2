@@ -192,7 +192,8 @@ The [rank-gated-effects spec](docs/superpowers/specs/2026-06-14-rank-gated-effec
 │       │   ├── 2026-06-13-connective-tissue-and-review-remediation.md
 │       │   ├── 2026-06-13-gateA-balance-validation.md
 │       │   ├── 2026-06-14-skill-actions.md
-│       │   └── 2026-06-14-rank-gated-effects.md
+│       │   ├── 2026-06-14-rank-gated-effects.md
+│       │   └── 2026-06-15-creation-slot-contributions.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace

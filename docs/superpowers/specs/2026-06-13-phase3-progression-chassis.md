@@ -71,7 +71,7 @@ Rank advancement is gated by level so neither the +1/rank math nor the Phase 1 *
 | Master | level 7 |
 | Legendary | level 15 |
 
-Skill increases (§3) raise one skill per grant within these gates. Core proficiencies (saves, Perception, class DC, weapons, armor, defenses) advance at **class-determined levels** (Phase 5) within these same gates.
+Skill increases (§3) raise one skill per grant within these gates. The gates govern the **skill-increase track** and are the hard **Master/Legendary ceilings** for everyone. Core proficiencies (saves, Perception, class DC, weapons, armor, defenses) advance at **class-determined levels** (Phase 5); a class's **initial** table may start a core/signature proficiency as high as **Expert at level 1** (this is a level-1 *floor*, not an advancement, so it doesn't violate the gates — Master/Legendary remain capped at L7/L15). See [Creation Slot Contributions §5](2026-06-15-creation-slot-contributions.md).
 
 ---
 

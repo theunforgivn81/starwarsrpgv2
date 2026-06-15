@@ -47,7 +47,7 @@ Stored as **modifiers only** (no scores — Phase 1). Six attributes:
 
 - **Creation cap:** key attribute ≤ **+3** at level 1 (tighter than PF2E's +4, honoring bounded accuracy).
 - **Lifetime cap:** **+6** (lets a L20 legendary specialist reach the ~+15–16 total the Phase 1 spine targets: `L6 + R4 + attr6`).
-- **Assignment:** a **boost system** bundling Species + Background + Class + a few free boosts (bundling controls the creation decision count).
+- **Assignment:** a **boost system** from **Background (2) + Species (net +2) + Class (1)** — no separate free-boost pool; same-source boosts target different attributes. Detailed in [Creation Slot Contributions §4](2026-06-15-creation-slot-contributions.md).
 - **Growth schedule** (when boosts arrive) is deferred to **Phase 3 (progression)**; only the *range* is fixed here.
 
 ### 2.4 Saves
@@ -129,7 +129,7 @@ Audience is hardcore-leaning with a high floor, so the decision count can be hig
 2. **Species** → attribute boosts, traits, speed, species feat
 3. **Background** → attribute boosts, a trained skill, a skill feat
 4. **Class** → key attribute, proficiency ranks, HP value, first gameplay verb
-5. **Finalize attributes** → apply free boosts (key attribute ≤ +3 at creation)
+5. **Finalize attributes** → apply all Background/Species/Class boosts (key attribute ≤ +3 at creation; [Creation Slot Contributions §4](2026-06-15-creation-slot-contributions.md))
 6. **Trained skills** → `class/background skills + INT mod`
 7. **Buy gear**
 
