@@ -163,7 +163,10 @@ The [Gate A balance analysis](docs/superpowers/specs/2026-06-13-gateA-balance-va
 A Mode B adversarial [playtest simulation](docs/superpowers/playtests/2026-06-13-playtest-docking-bay-ambush.md) ("Docking Bay Ambush") ran the slice turn-by-turn. **No Critical issues**, and **all four Major findings are now resolved**: F1 the Inquisitor's anti-ranged signature backfired → redesigned with a paired anti-cluster AoE + Phase-2 mode flip, plus a new "close the engagement loop" creature guideline; F2 Reactive Shot now covers gunners within 10 ft of a meleer; F3 the at-will forced-movement exploit → offensive Force costs Attunement + a system-wide stop-at-edge rule (at-will mundane forced movement lives on Athletics Shove/Reposition, melee+MAP); F6/F7 the Attunement and stim numbers are locked and runnable. F4/F5 (drone economy/turn rules) are resolved via a general **Commanded Actor** framework (companions/summons/adds take no actions unless Commanded — 1 action → 2 weaker actions, on your turn, no own initiative).
 
 ### Skill actions
-The [Skill Actions spec](docs/superpowers/specs/2026-06-14-skill-actions.md) defines what each of the 14 skills *does* — adapted from the **Starfinder 2E** action set (ORC), cut to our skills, with the tech split (Computers = slicing, Thievery = mechanical, Repair = fabrication) and the CHA skills running dual-mode (exploration actions + Phase 4 social appeals). Four-degree outcomes on the tactical actions are the anchors for the next step. Remaining: the ammo cosmetic, then **rank-gated effects**.
+The [Skill Actions spec](docs/superpowers/specs/2026-06-14-skill-actions.md) defines what each of the 14 skills *does* — adapted from the **Starfinder 2E** action set (ORC), cut to our skills, with the tech split (Computers = slicing, Thievery = mechanical, Repair = fabrication) and the CHA skills running dual-mode (exploration actions + Phase 4 social appeals). Four-degree outcomes on the tactical actions are the anchors for the rank effects below.
+
+### Rank-gated effects (Gate A T1 directive — done)
+The [rank-gated-effects spec](docs/superpowers/specs/2026-06-14-rank-gated-effects.md) makes expertise *felt through capability, not bigger numbers* — fulfilling the Gate A directive. Under a binding **gating philosophy** (permission open, outcome gated: anyone may *attempt* nearly any action; rank improves the *result*, with hard locks only on a few flagged `[trained-required]` actions), Expert/Master/Legendary grant new degree outcomes, action modes, success riders, and removed proficiency-limits — all purely additive (no lockouts). Effects attach to the skill/proficiency (whoever reaches the rank), not the class. Remaining before a Mode A gate: the ammo cosmetic (C2).
 
 ---
 
@@ -185,7 +188,8 @@ The [Skill Actions spec](docs/superpowers/specs/2026-06-14-skill-actions.md) def
 │       │   ├── 2026-06-13-phase7-creatures-and-challenge.md
 │       │   ├── 2026-06-13-connective-tissue-and-review-remediation.md
 │       │   ├── 2026-06-13-gateA-balance-validation.md
-│       │   └── 2026-06-14-skill-actions.md
+│       │   ├── 2026-06-14-skill-actions.md
+│       │   └── 2026-06-14-rank-gated-effects.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
