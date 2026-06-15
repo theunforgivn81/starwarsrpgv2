@@ -57,7 +57,7 @@ Adopt PF2E's detection framework (ORC-licensed; §E):
 ### S5 — Reaction Timing & MAP *(codified)*
 
 - A **reaction resolves immediately when its trigger occurs**, per the **exact wording** of the trigger. Standard trigger points: **when targeted** by an attack · **when hit** (after the attack is confirmed a hit, before damage) · **after damage is dealt**.
-- **Reactive Shot** triggers on "*a creature you can perceive makes a melee Strike while within 10 ft of you*" (revised per playtest F2 — any nearby gunner, not just the target) — i.e. when the Strike is **declared** (before it resolves), so the Reactive Shot resolves first and can **disrupt** it (dropping/disabling the attacker can cause the Strike to be lost).
+- **Reactive Shot** triggers on "*a creature you can perceive makes a melee **Strike** while within 10 ft of you*" (revised per playtest F2 — any nearby gunner, not just the target; triggers on a melee Strike, **not** on movement) — i.e. when the Strike is **declared** (before it resolves), so the Reactive Shot resolves first; if it incapacitates the attacker, the triggering Strike is simply lost (normal incapacitation — there is **no separate "disrupt" mechanic**, per the 2026-06-15 Mode-A scope decision).
 - **MAP never applies to reactions** — a reaction Strike is at full accuracy and does not raise your MAP.
 - A reaction spends your **one reaction/round** unless an ability grants more (the Soldier's *Reactive Volley*). Suppression's Reactive Shot spends your reaction normally.
 
@@ -123,7 +123,7 @@ Covers every persistent or temporary *extra body* a creature controls: PC drones
 
 Surfaced by the F3 exploit (a cheap repeatable shove-off-a-ledge). Applies to **every** push/pull effect (Telekinetic Nudge, the Inquisitor's Force Shove, grenade knockback, future feats):
 
-- Forced movement specifies a **distance and direction** and **does not provoke reactions** (it isn't the moved creature's action).
+- Forced movement specifies a **distance and direction** and **does not provoke reactions** (it isn't the moved creature's action). **Direction is chosen by the *source* of the forced movement** unless the ability specifies otherwise — fixing a direction in an ability's text (e.g. Force Repulse's "away") is a per-ability balance choice.
 - **Default — stop at the brink:** if forced movement would carry a creature **off a precipice or into a hazard**, the creature **stops at the edge** (it is *not* pushed in). Forced movement is therefore **never a free instakill**.
 - **"Hurl" exception:** only an effect that *explicitly* states it can hurl a target off/into a hazard may do so, and the target then attempts a **basic Reflex save** (vs the effect's DC) to stop at the brink anyway — falling/entering only on a failure.
 - **Obstacles:** forced movement into a solid obstacle stops the creature adjacent to it (collision damage only if the effect says so).

@@ -67,4 +67,20 @@
 
 ## 5. Verdict
 
-**No Critical issues; the F1–F7 fixes hold under blind adversarial play.** The gate's real yield is three **Major** findings prior passes missed — **MA1** (the deflect value is both undefined *and* breaks low-die ranged), **MA2** (the boss's two signatures are tactically self-interfering), and **MA3** (the adds collapse, exposing the solo-boss economy) — plus a tidy stack of undefined-number and rules-writing/presentation **Minors** that are mostly the *expected* Gate-A/rules-writing backlog. The information asymmetry worked exactly as intended: the blind Optimizer misread a trigger, the blind Rules-Lawyer pried two genuine ambiguities, and the blind Chaos player confirmed the F3 fix from three angles. **MA1–MA3 should be addressed (and the Phase-2 flip exercised) before a content-expansion pass.**
+**No Critical issues; the F1–F7 fixes hold under blind adversarial play.** The gate's real yield is three **Major** findings prior passes missed — **MA1** (the deflect value is both undefined *and* breaks low-die ranged), **MA2** (the boss's two signatures are tactically self-interfering), and **MA3** (the adds collapse, exposing the solo-boss economy) — plus a tidy stack of undefined-number and rules-writing/presentation **Minors** that are mostly the *expected* Gate-A/rules-writing backlog. The information asymmetry worked exactly as intended: the blind Optimizer misread a trigger, the blind Rules-Lawyer pried two genuine ambiguities, and the blind Chaos player confirmed the F3 fix from three angles.
+
+---
+
+## 6. Scope Resolution (post-run decision, 2026-06-15)
+
+Project scope is the **rules system**, not a polished bestiary or an AI gamemaster. Findings re-triaged accordingly:
+
+- **MA1–MA3 → content / test-fixture (DEFERRED).** These are about the *Inquisitor stat block* and how an AI ran it (deflect value, the two-signatures-self-interfere tactics, weak adds) — encounter tuning a human GM handles, not rules-engine defects. The Inquisitor was scaffolding. Revisit in a future bestiary/encounter-budget pass; not tracked as system bugs.
+- **Bucket "inherited" (e.g., Undetected→Observed on attack, Take Cover, dying specifics) → NON-ISSUES.** Covered by the ORC stealth/dying/initiative we adopted; the AI only flagged them because they weren't restated locally. We document deviations and novelties, not the whole ORC corpus.
+- **Bucket-3 (our novel rules) → RESOLVED / SKIPPED:**
+  - **Forced-movement direction** — RESOLVED: the **source** chooses direction unless an ability specifies (per-ability balance lever). (§G updated.)
+  - **Reactive Shot** — RESOLVED: explicitly triggers on a melee **Strike**, not movement; the **"disrupt" concept is removed** (normal reaction timing + incapacitation suffice). (§11 and S5 updated; Force Repulse counterplay reworded.)
+  - **Push/Hurl cost findability** — SKIPPED: that Force power is slated for rework; not worth consolidating now.
+  - The number/stat Minors (boss & PC saves, temp-HP, deploy range, weapon ranges, sheet presentation) → **Gate-A / content / character-sheet** backlog, not system-rules defects.
+
+**Net:** the gate validated the engine and the F1–F7 fixes; two genuine novel-rule clarifications were folded in; the remainder is content/Gate-A backlog. The **Phase-2 mode flip remains unexercised** — worth a targeted future run, but not blocking.
