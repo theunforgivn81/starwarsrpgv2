@@ -29,7 +29,7 @@
 **At creation:**
 - **HP per level** (the class HP tier, [Phase 5](2026-06-13-phase5-class-design-and-force.md): 6/8/10) and the **key attribute** (with its **+1 boost**).
 - **Starting proficiencies:**
-  - **Perception** and **all saving throws**: **Trained or Expert** (per the class).
+  - **Perception** and **all saving throws**: **Trained or Expert** — **never Untrained**. Every class is at least Trained in all three saves and Perception; the **Trained-vs-Expert** split is *core* to how classes are differentiated as "good" vs "bad" at each.
   - **At least one core class Skill** + an **additional number of trained skills** (set per class for balance) + the **INT-modifier** bonus skills ([Phase 2](2026-06-13-phase2-character-framework.md)).
   - **Unarmed** attacks and **unarmored** defense: **Trained**; plus additional **weapon** and **armor** categories per class balance.
   - **Class DC:** **Trained.**
@@ -64,7 +64,7 @@ Focused and tighter than a PF2E starting array (one +3, a couple of +1s) — by 
 
 ## 5. Consistency Reconciliation — Initial Proficiency vs the Rank Gates
 
-The [Phase 3 §5](2026-06-13-phase3-progression-chassis.md) gates (**Expert L3 / Master L7 / Legendary L15**) govern the **skill-increase track** (the rate a character raises *skill* proficiencies) and are the **hard caps** for everyone (no Master before L7, no Legendary before L15 — the bounded-accuracy-critical limits).
+The [Phase 3 §5](2026-06-13-phase3-progression-chassis.md) gates (**Expert L3 / Master L7 / Legendary L15**) refer specifically to **player-assignable Skill boosts** (the skill-increase track) and are the **hard Master/Legendary caps** for everyone. They do **not** restrict a class's level-1 *floor*: starting Perception or a Save at **Expert is core to the system** (it's how classes read as "good" vs "bad" at each), and **no class starts Perception or any Save Untrained.**
 
 **A class's *initial* proficiencies are set by its table and may start as high as Expert at level 1** in core/signature areas (Perception, a save, a weapon group) — this does **not** violate the gates, which restrict the *advancement track* and the *Master/Legendary* ceilings, not a class's level-1 floor. *(Phase 3 §5 wording amended to say so.)*
 
