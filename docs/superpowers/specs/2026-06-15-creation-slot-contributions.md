@@ -23,6 +23,7 @@
 - Defines **Size**, base **Speed**, and starting **racial HP** (the "species base" term in the [Phase 2 HP formula](2026-06-13-phase2-character-framework.md)).
 - *May* grant: an **enhanced sense**, a **non-standard movement type**, and/or **starting languages** beyond Galactic Basic.
 - Any further racial benefits are reserved for **Species Feats** (Ancestry Feats), gained per the [Phase 3 cadence](2026-06-13-phase3-progression-chassis.md) (levels 1/5/9/13/17).
+- **Heritage:** after choosing a Species, the character picks a **Heritage** — a level-1 sub-lineage granting a minor ability/trait. For most species the base species already delivers the full net +2 (heritage = flavor/ability); for the **Droid**, the base gives +1 free and the chosen **Droid Class** heritage supplies the rest of the +2 plus its chassis feature. See [Species Roster §2/§4](2026-06-15-species-roster.md).
 
 ## 3. Class
 

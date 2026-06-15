@@ -84,7 +84,7 @@ The system is built as a dependency cascade, racing to a **playable vertical sli
 | **6** | **Equipment & economy** | ✅ **Complete** |
 | **7** | **Creatures & challenge framework** | ✅ **Complete** |
 | — | **Milestone: playable vertical slice** ✅ → balance analysis (Gate A) ✅ → **table playtest** | ⏭️ **Next** |
-| 8 | Content expansion + light supporting systems (starships, exploration) | ⬜ Planned |
+| 8 | **Content expansion** + light supporting systems (starships, exploration) — *in progress: [Species roster](docs/superpowers/specs/2026-06-15-species-roster.md) (28 species)* | 🔨 **Started** |
 | 9 | Rules-writing consolidation → Framework 1.0 | ⬜ Planned |
 
 ### What's locked so far (Phase 1 engine)
@@ -193,7 +193,8 @@ The [rank-gated-effects spec](docs/superpowers/specs/2026-06-14-rank-gated-effec
 │       │   ├── 2026-06-13-gateA-balance-validation.md
 │       │   ├── 2026-06-14-skill-actions.md
 │       │   ├── 2026-06-14-rank-gated-effects.md
-│       │   └── 2026-06-15-creation-slot-contributions.md
+│       │   ├── 2026-06-15-creation-slot-contributions.md
+│       │   └── 2026-06-15-species-roster.md
 │       └── plans/                     ← build roadmaps and implementation plans (the "in what order")
 │           └── 2026-06-13-star-wars-rpg-build-roadmap.md
 └── starwarsrpgv2.code-workspace
