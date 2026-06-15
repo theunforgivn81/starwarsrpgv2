@@ -40,7 +40,7 @@ The level term still cancels on-level (T2 holds); all accuracy above the baselin
 | Channel | Levels granted |
 |---|---|
 | **Species feat** | 1, 5, 9, 13, 17 |
-| **Class feat** | 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 |
+| **Class feat** | **1**, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 *(amended 2026-06-15: added level 1 so every character makes an open class-build choice from session one)* |
 | **Skill feat** | 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 |
 | **General feat** | 3, 7, 11, 15, 19 |
 | **Skill increase** (raise one skill one rank) | 3, 5, 7, 9, 11, 13, 15, 17, 19 |
