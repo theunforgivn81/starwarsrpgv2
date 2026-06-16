@@ -66,9 +66,22 @@ Chassis grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) (incl. th
 
 ---
 
-## 4. Premonition (the verb) — *to be designed next*
+## 4. Premonition (the verb) — framework LOCKED; specific responses provisional
 
-The reactive/precognition engine: how the Sentinel banks and spends reactions (and Attunement) to dodge, counter, redirect, and warn — and how it develops at the ✦ levels (1/5/17/20-capstone). **Design constraint:** reactions must stay *table-fast* (the core-mechanic ~2-reactions/character budget); breadth comes from subclasses, not a pile of at-table reaction options. *(Next step.)*
+**The Sentinel's *exclusive* identity is this reactive framework — not ownership of iconic Force powers** (see the Force-design principle, §4.1). The framework:
+
+- **Premonition** `[reaction]` — one flexible reaction with a small menu of **responses** (fast to resolve — one decision, not a flowchart). **Trigger:** a creature you can perceive makes an attack or hostile action against you or an ally within range.
+- **Two reactions baseline:** the Sentinel gains a **second reaction each round usable only for Premonition** (so 2 reactions/round — the core-mechanic table-speed budget).
+- **Attunement overdrive:** spend **1 Attunement** for **one additional Premonition per round** (hard-capped at +1/round; pool-limited). This is the "out-react everyone" fantasy, *bounded* by the Force economy so it can never lock the table into endless interrupts. **Max 3 reactions/round, and only by spending resources.**
+- **Foretell** `[1 action]` — the proactive *own-turn* play (so a reactor isn't bored on its initiative): read the immediate future to empower your next Premonition / mark a foreseen foe.
+- **Fuel:** **Attunement** (Force resource, pool `2+L`, refuel via Center). The Sentinel spends Attunement on *reactions*, where the Consular spends it on *powers* — clean trinity differentiation.
+- **Development (✦):** L5/L17/L20 deepen the engine (more responses available, overdrive/uses scaling, a capstone apex such as *never surprised / always act first*). **Breadth comes from subclasses (§5), not a pile of at-table reactions.**
+
+**Provisional responses** (examples only — to be finalized when detailed, vetted against §4.1): **Evade** (circumstance AC vs the attack), **Counter** (retaliatory Strike), **Warn** (extend a defensive response to an ally). *These are anticipation/timing applications, deliberately distinct from other Force classes' signatures.*
+
+### 4.1 Force-design principle (cross-cutting) — *don't class-lock iconic powers*
+
+A Force class's **exclusive** claim is its **verb-framework**, *not* ownership of iconic Force abilities. **Iconic powers** (deflection, telekinesis, mind influence, healing, precognitive foresight) are **shared Force toolkit** — discipline/feat-gated and **portable** across Force users (like Forms via their "Guardian Mastery" clause). So the Sentinel must **not** absorb e.g. the Guardian's **Deflect** as a Premonition response; if it deflects, it does so via the shared toolkit, as a specialist's *application*, not a class-exclusive grant. *(Recorded also in the [class roster](2026-06-15-class-roster-sketch.md) Force-trinity section.)*
 
 ## 5. Subclasses (Premonition forks) — *to be designed next*
 
@@ -77,7 +90,7 @@ On the **1/3/7/11/15/19** cadence. Sketched identities ([subclass roster](2026-0
 - **Shadow** — reactive ambusher (stealth + counter, then vanish).
 - **Justicar** — reactive punisher (precognitive riposte/retaliation).
 
-*(Each steers the open Premonition chassis; full features next.)*
+*(Each steers the open Premonition chassis by adding/shaping **responses**; full features next. Subclass abilities are vetted against §4.1 — they're reactive *applications*, not grabs of iconic shared-toolkit powers.)*
 
 ---
 

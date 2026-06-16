@@ -46,6 +46,8 @@ The trinity (kept by design decision) is differentiated on **axes of the action 
 
 **Engineering risk to track:** a reaction-heavy Sentinel taxes table speed (core-mechanic caps commonly-triggering reactions ~2/character). Its reactions must be *snappy*; the breadth comes from **subclasses** (§6), not from piling on at-table reaction options.
 
+**Force-design principle (cross-cutting):** a Force class's **exclusive** claim is its **verb-framework** (Guardian = blade-flow/Forms, Consular = deep-Manifest, Sentinel = the Premonition reaction-engine) — **not ownership of iconic Force powers.** Deflection, telekinesis, mind influence, healing, and precognitive foresight are **shared Force toolkit**: discipline/feat-gated and **portable** across Force users (like Forms via their "Guardian Mastery" clause). Don't lock an iconic ability into one Force class; let each class be a *specialist* who applies the shared toolkit through its framework. *(Detailed in [Sentinel §4.1](2026-06-15-class-sentinel.md).)*
+
 ---
 
 ## 4. Key Attributes — RESOLVED (full spread; revises two slice classes)
