@@ -12,6 +12,9 @@ Desktop.ini
 .remember/
 .claude/
 
+# Prior-project reference DB dump (local-only; mined for content, not shared)
+reference_data/
+
 # Temp / build
 *.tmp
 *.log

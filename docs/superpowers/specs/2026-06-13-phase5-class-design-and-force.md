@@ -35,7 +35,7 @@ Proficiency ranks advance within the Phase 3 gates (Expert L3 / Master L7 / Lege
 
 - **Force powers are abilities** with the `[Force]` trait, gated by **action cost + Attunement + cooldowns** — never prepared per day. A Force user has a toolkit of **known powers** (chosen at level-up), each **always available**. **Versatility = breadth known; depth = Attunement management.**
 - **Numbers auto-scale with level** (bounded, automatic — a low-level power stays relevant without re-selection).
-- **Disciplines** (the `[Force]` sub-traits; trait-gate access): **Telekinesis**, **Sense**, **Vitality** (the *optional* heal), **Influence** (`[mental]`), **Battle** (deflection/enhancement). A class grants access to *some*; subclass/feats expand — giving Force classes distinct discipline profiles.
+- **Disciplines** (the `[Force]` sub-traits; trait-gate access): **Telekinesis**, **Sense**, **Vitality** (the *optional* heal), **Influence** (`[mental]`), **Battle** (deflection/enhancement). A class grants access to *some*; subclass/feats expand — giving Force classes distinct discipline profiles. *(**Amended 2026-06-15:** superseded by the **six tradition-split schools** — Jedi: Control/Sense/Alter · Sith: Body/Mind/Offense — in the [Shared Force Toolkit](2026-06-15-shared-force-toolkit.md). Battle splits into Control (defensive) + Offense (destructive); the other four map 1:1.)*
 
 ### 2.2 Attunement (the resource texture)
 
