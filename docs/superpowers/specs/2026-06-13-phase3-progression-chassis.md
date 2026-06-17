@@ -52,6 +52,20 @@ The level term still cancels on-level (T2 holds); all accuracy above the baselin
 - **Feat-budget separation:** class / skill / general / species feats draw from separate budgets, so combat **class feats** can never cannibalize the **skill feats** that fuel active out-of-combat play (protects Pillar 5 structurally).
 - **Feat-tax rule (design-time):** any feat taken by >70% of builds that *can* take it is folded into the baseline and replaced with a real choice.
 
+### 3.1 Universal Combat Features — Weapon Specialization (L7 / L15)
+
+Every class gains these automatically (not feats, not class-specific) — the standard ORC damage-scaling spine that keeps weapon DPR pacing with per-level HP inflation (the §9 slog risk):
+
+| Level | Feature | Effect |
+|---|---|---|
+| **7** | **Weapon Specialization** | When you Strike with a weapon or unarmed attack you are at least **Expert** with, add flat damage by rank: **+2 (Expert) / +3 (Master) / +4 (Legendary)**. |
+| **15** | **Greater Weapon Specialization** | The above increases to **+4 (Expert) / +6 (Master) / +8 (Legendary)**. |
+
+- **Keyed to weapon proficiency, not a fixed number.** A class capped at Expert weapons stays at the Expert value; a martial reaching Legendary scales further. For a low-weapon-proficiency class (e.g. a Force/Perception class still Trained at L7) the feature is **granted on the cadence but dormant until its weapons reach Expert** — coherent, and it switches on automatically.
+- **Applies to weapon/unarmed Strikes only — including off-turn reaction Strikes** (Reactive Shot, a Sentinel Counter). It does **not** apply to **Force-power damage**, which scales on its own dice track ([toolkit §3.1](2026-06-15-shared-force-toolkit.md)); stacking both would double-dip and break the toolkit balance pass. The asymmetry is intended: **martials scale via Weapon Specialization; Force powers scale via dice/Tier.**
+- Flat once per Strike (not per die). *(Values Gate-A tunable against our compressed math; structure is fixed at the traditional 7/15 cadence.)*
+- **Open question (flagged):** whether Force-heavy classes want a parallel "Force Specialization" so their primary damage keeps pace the way martials' does — deferred; the dice/Tier track may already suffice.
+
 ---
 
 ## 4. Attribute Boosts (closes Phase 2 deferral)

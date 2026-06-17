@@ -102,6 +102,7 @@ Compare `d20 + mods` to the DC:
 The three-action economy allows up to three Strikes per turn. To keep "attack, attack, attack" from dominating (Pillar 4 — every turn should offer genuinely different good options), each Strike after the first on a turn takes a cumulative untyped penalty:
 
 - **2nd Strike: −4. 3rd+ Strike: −8.** Weapons with the `[agile]` trait: **−3 / −6**. *(Gate A — flagged as the #1 value to re-validate; compressed math makes this bite harder than PF2E's −5/−10.)*
+- **MAP is per-turn and resets at the start of each of your turns.** **Reaction Strikes (made off your own turn — Reactive Shot, a Sentinel Counter, etc.) are never subject to MAP and never contribute to it.** Off-turn Strikes are full-accuracy by design; the action-economy clamp on them is their *trigger* and any resource/frequency cost, **not** an accuracy penalty.
 
 ---
 
