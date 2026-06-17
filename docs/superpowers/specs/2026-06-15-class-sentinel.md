@@ -1,6 +1,6 @@
 # Class — Sentinel *(in progress)*
 
-**Status:** Chassis locked. **Premonition core abilities designed** (§4: responses, Foretell, ✦ features — pending Gate-A). **Subclass development** (§5: Warden/Shadow/Justicar) and **class feats** are the next design step.
+**Status:** Chassis locked. **Premonition core abilities** (§4) and **five subclasses** (§5: Warden/Shadow/Justicar/Investigator/Corsair) designed — pending Gate-A. **Class feats** are the next design step.
 **Date:** 2026-06-15
 **Type:** Class detail. First class detailed from the [Class Roster](2026-06-15-class-roster-sketch.md) / [Subclass sketch](2026-06-15-subclass-roster-sketch.md).
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md), [Force subsystem](2026-06-13-phase5-class-design-and-force.md).
@@ -116,21 +116,85 @@ Designate one creature you can perceive as **foreseen** until the start of your 
 
 A Force class's **exclusive** claim is its **verb-framework**, *not* ownership of iconic Force abilities. **Iconic powers** (deflection, telekinesis, mind influence, healing, precognitive foresight) are **shared Force toolkit** — discipline/feat-gated and **portable** across Force users (like Forms via their "Guardian Mastery" clause). So the Sentinel must **not** absorb e.g. the Guardian's **Deflect** as a Premonition response; if it deflects, it does so via the shared toolkit, as a specialist's *application*, not a class-exclusive grant. *(Recorded also in the [class roster](2026-06-15-class-roster-sketch.md) Force-trinity section.)*
 
-## 5. Subclasses (Premonition forks) — *to be designed next*
+## 5. Subclasses (Premonition forks) — five, designed (2026-06-16)
 
-On the **1/3/7/11/15/19** cadence. Sketched identities ([subclass roster](2026-06-15-subclass-roster-sketch.md)):
-- **Warden** — reactive protector (intercept/redirect attacks meant for allies).
-- **Shadow** — reactive ambusher (stealth + counter, then vanish).
-- **Justicar** — reactive punisher (precognitive riposte/retaliation).
+Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ rows in §3). **Five forks:** Warden, Shadow, Justicar (§5.1–5.3) plus Investigator and Corsair (§5.4–5.5, adapted from the prior project's Watchman/Corsair). Each **shapes the Premonition reaction chassis** toward a different answer to *"how do you react?"* — none replaces the verb, none grants an iconic shared-toolkit power (§4.1). Built parallel for cross-balance: L1 signature · L3 deepen · **L7 a fork-flavored economy feature** · L11 Tier-III spike · L15 major · **L19 resource-/frequency-bounded capstone**. *(All numbers Gate-A tunable.)*
 
-*(Each steers the open Premonition chassis by adding/shaping **responses**; full features next. Subclass abilities are vetted against §4.1 — they're reactive *applications*, not grabs of iconic shared-toolkit powers.)*
+### 5.1 Warden — reactive protector *(role lean: Support)*
+
+*You react to put yourself between the blow and the people behind you.*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Interpose** | Gain **Athletics** (or +1). When a creature attacks an ally within range and you are within 5 ft of that ally, your **Warn** may instead **make you the target of the triggering attack** (you step into the path). *Heroic-sacrifice bodyguard — the HP-8 risk is real and intended.* |
+| 3 | **Shielding Warning** | Your **Warn** grants the +2 circ AC **and** the Step (both, not either), plus a **+1 circ bonus to the triggering save** if it's a save effect. |
+| 7 | **Vigilant Bulwark** | Once per round you may use **Warn/Interpose without spending a reaction** (out-protect by economy). |
+| 11 | **Aegis Field** | Allies within 15 ft gain **+1 circ AC** (passive threat-reading aura). When you Interpose, **reduce the redirected attack's damage by your level** (foresight *bracing* — flat reduction, not a resistance power). |
+| 15 | **Guardian's Premonition** | Once per round, when an ally within range would be **critically hit**, react to make it a **normal hit** instead. |
+| 19 | **Unbreakable Watch** *(capstone)* | Allies within 15 ft **can't be critically hit** while you're conscious and not off-guard. Once per round, your protective reaction shields **every** ally within range from one area effect. |
+
+### 5.2 Shadow — reactive ambusher *(role lean: single-target offense + Utility)*
+
+*You react from concealment, strike the foreseen opening, and are gone.* **Vanish is mundane Stealth/Hide aided by foresight — not Force Cloak** (§4.1); a Shadow who wants true invisibility buys that power as a feat.
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **From the Shadows** | Gain **Stealth** (or +1). Your **Counter** against a creature **off-guard to you** (unaware of you, or foreseen via Foretell) deals **+1d6 precision damage**. |
+| 3 | **Fade** | After any Premonition reaction, you may **Step** as part of the reaction. |
+| 7 | **Vanish** | Once per round, after a Premonition you may **Hide** as a free action **even while observed**, if you end with cover/concealment from the triggering creature. |
+| 11 | **Killing Foresight** | Precision die → **2d6**. Your **Counter** may now trigger when *any* creature you perceive within range attacks (not only when you're the target). Still once per round. |
+| 15 | **Ghost Step** | When you **Evade** you may **Stride** (not just Step) and **Hide** as part of the reaction; a creature that loses track of you is **off-guard to your next Counter**. |
+| 19 | **Inevitable Ambush** *(capstone)* | Precision die → **3d6**. Once per round, your **Counter** against a creature off-guard to you is **automatically a critical hit if it hits**. |
+
+### 5.3 Justicar — reactive punisher *(role lean: Control)*
+
+*You react to make attacking you — or yours — a mistake.*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Retribution** | Gain **Intimidation** (or +1). When your **Counter** hits, the target is **off-guard to the next attack against it** before your next turn (knocked off-rhythm; sets up allies). |
+| 3 | **Foreseen Riposte** | When an enemy's attack against you **hits** or **critically misses**, your **Counter** against it this round gains **+1 circ to hit**. |
+| 7 | **Vengeful Premonition** | **Trigger-recharge:** when a creature **critically hits** you or an ally within range, immediately **regain your Counter this round** (may Counter a second time). |
+| 11 | **Punishing Reach** | Your **Counter** may trigger when a creature attacks an **ally** within range. On a hit, the target also takes **−1 circ to its next attack** (deterrent; doesn't stack with itself). |
+| 15 | **Inescapable Judgment** | When your **Counter** hits, the target is **frightened 1** (frightened 2 on a crit). |
+| 19 | **No Refuge** *(capstone)* | You may **Counter beyond the once-per-round limit** by spending **2 Attunement** per extra Counter. A creature frightened by your Counter **can't reduce its frightened below 1** while within your Premonition range. |
+
+### 5.4 Investigator — reactive detective / controller *(role lean: Control + Information)*
+
+*You read the foe before it commits, then subdue it.* (Adapted from the prior **Path of the Watchman**.) **Mechanism = information + mundane maneuvers guided by foresight** — Recall Knowledge and WIS-keyed Trip/Disarm/Shove, not a Force power (§4.1).
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Deductive Angle** | Gain **Diplomacy or Society** (or +1). When you use a **Premonition** reaction, you may **Recall Knowledge** about the triggering creature as part of it (free); on a success, that reaction gains **+1 circ** to its roll/effect (you spotted the tell). |
+| 3 | **Precognitive Maneuvers** | New response **Maneuver** *(control, 1 Att)* — react to **Trip, Disarm, or Shove** the triggering creature, rolling **Athletics with your Wisdom modifier** (foresight leverage, not muscle → no MAD). |
+| 7 | **Read the Room** | Once per round, **Recall Knowledge as a free action** (untethered from a Premonition) against any creature you perceive; share one fact to grant an ally **+1 circ** to their next attack vs that foe. |
+| 11 | **Subduing Foresight** | A successful **Maneuver** also imposes **−1 circ to the foe's attacks** until your next turn; you take no penalty to deal nonlethal damage; you may fold a Maneuver into a **Counter** (Strike + maneuver, one reaction). |
+| 15 | **Total Recall** | Against a creature you've Recalled this encounter, your Premonition responses gain **+1 circ** (reliable, no check) and your **Maneuver uses your Class DC**. |
+| 19 | **Case Closed** *(capstone)* | Once per round, a successful **Maneuver** lets you apply a second, different maneuver to that foe for free. Creatures you've Recalled **can't be hidden/concealed from you**, and your **Counter** treats them as off-guard. |
+
+### 5.5 Corsair — reactive ranged dirty-fighter *(role lean: ranged single-target offense + Utility)*
+
+*A fringe-dweller who fights dirty — blasters, shoto-sabers, and foresight.* (Adapted from the prior **Path of the Corsair**.) The ranged fork the other four lack; distinct from the Scoundrel's *proactive* Mark by being *reactive*. **Mechanism = mundane gunplay/feints/ricochet** (not Force powers; §4.1).
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Gunslinger's Foresight** | Gain **blaster proficiency** (Trained) and **Deception** (or +1). Your **Counter** may be a **ranged blaster Strike** within range; ranged Premonition Strikes **don't provoke Reactive Shot** and **ignore the lesser-cover penalty for firing into melee** (ricochet angles). |
+| 3 | **Underhanded Trick** | Gain the action: `[1 action]`, **Deception** to Feint a target in reach (or within 30 ft with a blaster) → **off-guard to your attacks** until end of your next turn (crit: off-guard to *all* attacks). Sets up your Counter — the own-turn play. |
+| 7 | **Ricochet Shot** | Once per round, your blaster **Counter ignores cover and concealment** (full bank-shot) and can target a creature you can't precisely see. |
+| 11 | **Dirty Fighting** | When your **Counter** (or any Strike) **crits** an off-guard creature, it is **blinded or deafened** (your choice) until your next turn. A successful **Underhanded Trick** now makes the target off-guard to *all* your attacks. |
+| 15 | **Bank Shot** | When you **Counter** with a blaster, the bolt **ricochets to a second creature** within 15 ft, dealing **half** the Counter's damage (no second roll). |
+| 19 | **Outer Rim Legend** *(capstone)* | Your blaster **Counter ricochets to up to two** extra creatures (half damage each); a foe you make off-guard via a trick this round is off-guard **to your whole party**; ranged Premonition Strikes ignore all cover/concealment. |
+
+**Cross-balance & §4.1 notes (all five).** Same-level features are comparable in value with different *shapes*: Warden = ally defense, Shadow = burst + stealth, Justicar = debuff/deter, Investigator = info + control maneuvers, Corsair = ranged offense + tricks. The **L7 quintet** is the watch-item (Warden's free reaction is the most reliably-useful; Justicar's is conditional, Shadow's/Corsair's are utility, Investigator's is info/support) — judged balanced across axes, flagged for Gate-A. The Justicar **L7/L19** and Corsair **ricochet** interact with Counter's once-per-round clamp and the no-MAP-on-reactions rule; secondary ricochet targets take **half** damage to keep the off-turn full-accuracy multi-hit bounded — consistent with the [balance pass](2026-06-15-shared-force-toolkit.md). No feature grants Deflect, Force Cloak, Force Barrier, telekinesis, healing, or mind-influence — those remain feat-bought toolkit powers any Sentinel may add. Corsair's blaster proficiency is the one cross-subclass weapon grant (the enabler for its ranged identity).
 
 ---
 
 ## 6. Carried Forward
 
 - ~~**§4 Premonition** mechanics + ✦ development~~ — **DONE (2026-06-16):** responses (Evade/Counter/Warn + Foresee@L5), Foretell, and ✦ features (L5/L17/L20) designed via `ttrpg-ability-design`.
-- **§5 subclass** features (L1 + 3/7/11/15/19) — Warden/Shadow/Justicar, the next step (each adds/shapes a response per §4.1).
+- ~~**§5 subclass** features (L1 + 3/7/11/15/19) — Warden/Shadow/Justicar~~ — **DONE (2026-06-16):** full feature tables, cross-balanced and §4.1-vetted.
+- ~~Possible expansion to ~5 subclasses~~ — **DONE:** Investigator (§5.4) + Corsair (§5.5) added (five total).
+- **Class feats** list (the Sentinel's own feat options) — the next step.
 - **Class feats** list (the Sentinel's own feat options).
 - **Gate-A validation** (eHP via saves+reactions, reaction-economy/table-speed check, DPR-equivalent of counters).
 - Flavor/description → rules-writing.

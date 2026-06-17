@@ -49,6 +49,10 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **Warden** | **protector** — reactions intercept/redirect attacks meant for *allies*; shield, bodyguard |
 | **Shadow** | **ambusher** — stealth + reactive counters; punish foes acting near you, then vanish |
 | **Justicar** | **punisher** — precognitive riposte; when struck or when a foe acts, retaliate hard |
+| **Investigator** | **detective/controller** — Recall Knowledge + WIS-keyed Trip/Disarm/Shove; subdue (adapted from prior *Watchman*) |
+| **Corsair** | **ranged dirty-fighter** — blaster Counters, feints, ricochet trick-shots (adapted from prior *Corsair*; the reactive answer to the Scoundrel's proactive gunplay) |
+
+*(Five designed in full — see [class-sentinel §5](2026-06-15-class-sentinel.md).)*
 
 ## 4. Tech Specialist — Tech Specialties *(INT · Deploy)* — ~5
 
