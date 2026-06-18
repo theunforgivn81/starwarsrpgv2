@@ -41,6 +41,7 @@ Powers grouped by school and **Attunement cost tier** (§5). Each power's **min 
 |---|---|---|---|---|
 | **Breath Control** | 1 | 0 | 1 | Hold breath / +status vs inhaled & suffocation |
 | **Battle Focus** | 1 | 0 | 1 | Re-save vs one fear effect; clear the mind |
+| **Deflect** ⟳ | 1 | 0 | ⟳ | **+2 circ AC** vs a triggering **ranged energy** attack (req. wielding a lightsaber); a deflected miss is batted aside. *Push:* redirect a deflected bolt at an adjacent foe, **or** Deflect for an adjacent ally instead. |
 | **Force Barrier** | 1 | 1 | 1 | Resistance (phys/energy) until next turn |
 | **Energy Absorption** ⟳ | 5 | 2 | ⟳ | Resist a triggering energy instance |
 | **Force Cloak** | 5 | 2 | 2 | Become invisible until you act hostilely |
@@ -154,7 +155,7 @@ Costs use the locked pricing **0 / 1–2 / 3** ([Phase 5 §2.2](2026-06-13-phase
 
 | Tier | Cost | Role | Gate |
 |---|---|---|---|
-| **Basic** | **0** | at-will utility floor (Grasp, Sense Life, Breath Control, Force Surge, Battle Focus) | none (action-only) |
+| **Basic** | **0** | at-will utility floor (Grasp, Sense Life, Breath Control, Force Surge, Battle Focus, **Deflect**) | none (action-only) |
 | **Standard** | **1–2** | the save-DC / attack / buff workhorses | level / school access |
 | **Greater** | **3** | the tier-breakers (scaled control, mass effects, resurrection, AoE artillery) | **Tier III–IV** ([Phase 3 §6](2026-06-13-phase3-progression-chassis.md)) |
 
@@ -173,7 +174,7 @@ Costs use the locked pricing **0 / 1–2 / 3** ([Phase 5 §2.2](2026-06-13-phase
 - **Powers are bought with feats**, chosen from schools the character can access — *not* granted by class identity. (Generalizes the "Guardian Mastery makes Forms portable" pattern.)
 - **Class frameworks set starting allotment + emphasis, not exclusivity:**
   - **Consular (Manifest):** broadest access + **Mandates** = deep school-emphases (Telekinesis→Alter, Visions→Sense, Life→Body, Dominance→Mind). [Subclass sketch §2](2026-06-15-subclass-roster-sketch.md).
-  - **Guardian (Blade-Flow):** leans **Alter / Control / Offense**; Forms are the saber-channel layer on top.
+  - **Guardian (Blade-Flow):** leans **Alter / Control / Offense**; **masters Deflect** (the Guardian Mastery clause upgrades it — bigger AC swing, applies to melee via Soresu); [Forms](2026-06-18-lightsaber-forms.md) are the saber-channel layer on top. **Deflect is the genre-flip counter to the [Reactive Shot](2026-06-13-phase1-core-mechanic-and-traits.md) — the structural reason melee Force users can close on gunners.**
   - **Sentinel (Premonition):** leans **Sense**; spends Attunement on *reactions* (Precognitive Parry, Energy Absorption, Force Reflection are natural fits).
   - **Force Adept archetype** ([Phase 3 §8](2026-06-13-phase3-progression-chassis.md)): the limited on-ramp — a non-Force class buys a few Basic/Standard powers.
 - **`[incapacitation]` + Tier gates** keep the save-or-lose powers (Dominate, Stasis, Mass Mind Trick) honest at the bounded spine.
