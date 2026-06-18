@@ -1,6 +1,6 @@
-# Class — Sentinel *(in progress)*
+# Class — Sentinel *(content-complete, pending Gate-A)*
 
-**Status:** Chassis locked. **Premonition core abilities** (§4) and **five subclasses** (§5: Warden/Shadow/Justicar/Investigator/Corsair) designed — pending Gate-A. **Class feats** are the next design step.
+**Status:** **Content-complete pending Gate-A.** Chassis locked; Premonition core abilities (§4), five subclasses (§5), and the class-feat menu (§6) all designed.
 **Date:** 2026-06-15
 **Type:** Class detail. First class detailed from the [Class Roster](2026-06-15-class-roster-sketch.md) / [Subclass sketch](2026-06-15-subclass-roster-sketch.md).
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md), [Force subsystem](2026-06-13-phase5-class-design-and-force.md).
@@ -189,12 +189,81 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ 
 
 ---
 
-## 6. Carried Forward
+## 6. Class Feats — designed (2026-06-18)
 
-- ~~**§4 Premonition** mechanics + ✦ development~~ — **DONE (2026-06-16):** responses (Evade/Counter/Warn + Foresee@L5), Foretell, and ✦ features (L5/L17/L20) designed via `ttrpg-ability-design`.
-- ~~**§5 subclass** features (L1 + 3/7/11/15/19) — Warden/Shadow/Justicar~~ — **DONE (2026-06-16):** full feature tables, cross-balanced and §4.1-vetted.
-- ~~Possible expansion to ~5 subclasses~~ — **DONE:** Investigator (§5.4) + Corsair (§5.5) added (five total).
-- **Class feats** list (the Sentinel's own feat options) — the next step.
-- **Class feats** list (the Sentinel's own feat options).
-- **Gate-A validation** (eHP via saves+reactions, reaction-economy/table-speed check, DPR-equivalent of counters).
-- Flavor/description → rules-writing.
+The Sentinel's own feat menu (picked into the L1,2,4,6,8,10,12,14,16,18,20 class-feat slots, [Phase 3 §3](2026-06-13-phase3-progression-chassis.md)). **Scope (per the §4.1 / toolkit boundary):** these feats **shape the Premonition framework** (responses, Foretell, reaction economy, the precognition/perception edge) — they do **not** re-grant shared-toolkit Force powers (Force sight, Mind Probe, Saber Throw, etc.), which any Force user buys generically. The clean bridge is the **conduit** feats, which let the Sentinel *apply* toolkit reaction-powers (Precognitive Parry, Energy Absorption, Force Reflection) **better/cheaper through its engine** — making it the deflection/parry *specialist* without owning those powers. **~50 feats total** (the ORC norm — ~36 general in §6.1 + ~15 subclass-gated in §6.2), giving real choice at every level slot (a character takes 11 across L1–20). *(Inspiration mined from the prior ClassFeat suite; tech/slicer feats routed to Tech Specialist, mind/sight/saber feats to the generic toolkit. Numbers Gate-A tunable.)*
+
+### 6.1 General class feats (~36) — any Sentinel
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Watchful Initiative** | Roll **Perception for initiative** with **+2 circ**; you **can't be off-guard** during the first round. |
+| 1 | **Foretelling Step** | When you **Foretell**, you may **Step**. |
+| 1 | **Danger Sense** | You can't be off-guard to creatures you've detected; **+2 circ vs being ambushed/surprised**. |
+| 1 | **Empathic Read** | Use **Perception** to read intentions/emotions; +1 circ to spot lies & hostility (the watcher's instinct). |
+| 2 | **Premonitory Warning** | Your **Warn** can target **two allies** in range. |
+| 2 | **Anticipatory Reflex** | `[once per minute]` With **no reaction left**, use a **defensive** Premonition response for **1 Att**. |
+| 2 | **Evasive Foresight** | Your **Evade** Step is **10 ft** and ignores difficult terrain. |
+| 2 | **Quick Draw** | Draw or switch a weapon as part of a Strike or **Counter** (gish flow). |
+| 4 | **Quickened Foresight** | **Foretell** is a **free action** the first time each round you roll initiative or a foreseen foe falls. |
+| 4 | **Reactive Conduit** | A Force power with the **`[Sense]`/`[Control]`** trait used **as a reaction** costs **1 less Att** (min 0). *(Specialist bridge; §4.1.)* |
+| 4 | **Foreseen Pivot** | `[once per minute]` **Reroll a failed save** vs a creature you perceive; keep the higher. |
+| 4 | **Disorienting Counter** | When your **Counter** hits, the target can't make you off-guard until your next turn. |
+| 6 | **Mind Fortress** | **+1 circ to Will saves**; once per round reduce your frightened/fascinated by 1 (free action). |
+| 6 | **Anticipatory Strike** | Your first Strike against a creature you **Foretold** this turn treats it as **off-guard**. |
+| 6 | **Opportune Counter** | Your **Counter** may also trigger when a creature in reach **Strides** or makes a ranged attack (still once/round). |
+| 6 | **Guardian's Reflex** | Your free defensive response (Evade/Warn) may also grant an **adjacent ally cover** vs the triggering attack. |
+| 6 | **Precognitive Dodge** | `[once per round]` Spend **1 Att** when you'd be **critically hit** to make it a normal hit. |
+| 8 | **Wide-Angle Sight** | Premonition **range → 60 ft**; perceive triggers through sense-blunting conditions. |
+| 8 | **Deflecting Conduit** | Gain **Energy Absorption** as a known power; using it **counts as a Premonition** (fired through the engine). |
+| 8 | **Blindsense** | Gain **imprecise sense 15 ft** (foresight); ignore concealment from creatures within it. |
+| 8 | **Shared Premonition** | When you **Foretell** a foe, one **ally** treats it as **off-guard** on their next attack vs it. |
+| 10 | **Storm of Premonition** | `[once per minute]` This round your **overdrive** Premonition costs **0 Att**. |
+| 10 | **Force Reflection Conduit** | Gain **Force Reflection** as a known power, fired as a Premonition (ranged redirect). |
+| 10 | **Unshakable** *(req. Danger Sense)* | You can't be made off-guard by flanking, surprise, or being hidden-from. |
+| 12 | **Precognitive Battlefield** | Start of combat: allies within 30 ft gain **+1 status initiative** and can't be off-guard round 1. |
+| 12 | **Deep Conduit** *(req. Reactive Conduit)* | Discount also covers **`[Battle]`** reactions; once per round one such reaction is **free**. |
+| 12 | **Pinning Foresight** | When you **Foretell** then **Counter** a foe, it's **off-guard** and **can't Step** until your next turn. |
+| 14 | **Untouchable Foresight** | While you have **≥1 Att** and aren't off-guard: **+1 circ AC**. |
+| 14 | **Greater Conduit** *(req. Deep Conduit)* | Your Premonition reaction-powers gain **+1 circ** to their roll/DC. |
+| 14 | **Foreseen Demise** | When your **Counter** drops a foe to 0 HP, **regain 1 Att** and refresh **Counter** this round. |
+| 16 | **Master's Reaction** | `[once per round]` Use a **Premonition response and a Force-power reaction** on the same trigger (+1 Att). |
+| 16 | **Shared Prescience** | Allies within 30 ft **can't be critically hit** during the first round of combat. |
+| 18 | **Foretell the Field** | **Foretell** affects **all foes within 30 ft**. |
+| 18 | **Ceaseless Watch** | Use **Foretell** as a **free action** once per round. |
+| 20 | **Perfect Premonition** *(capstone)* | `[once per round]` A Premonition response **costs no reaction** (extra interrupt; still pays its Att). |
+| 20 | **Inevitability** *(capstone)* | When you **Foretell** a foe, the first time it would **hit** you/a foreseen ally before your next turn, make it a **miss** (once/round). |
+
+### 6.2 Subclass feats (~15) — gated to your §5 subclass
+
+A few feats per fork, deepening its signature (the ORC norm). Each requires the named subclass.
+
+| Lvl | Feat | Subclass | Effect |
+|---|---|---|---|
+| 4 | **Bodyguard's Burst** | Warden | When you Interpose, the ally also gains **+2 circ AC** vs other attacks until your next turn. |
+| 10 | **Extended Guard** | Warden | Interpose range **15 ft**; you may **Step to the ally** as part of it. |
+| 16 | **Retributive Guard** | Warden | When you Interpose, you may immediately **Counter** the attacker (1 Att). |
+| 4 | **Ambush Reflex** | Shadow | When you Counter from concealment, you may **Step before** the Strike. |
+| 8 | **Deadly Foresight** | Shadow | Your Shadow precision die increases by **+1d6**. |
+| 14 | **Phantom Strike** | Shadow | `[once per minute]` After a successful Counter while hidden, immediately **Hide** again. |
+| 4 | **Punishing Resolve** | Justicar | After a foe damages you, your next **Counter** vs it deals **+2 status damage**. |
+| 10 | **Deterring Presence** | Justicar | Foes you've Countered this encounter take **−1 circ to attack you**. |
+| 16 | **Relentless Riposte** | Justicar | `[once per minute]` Vengeful Premonition also triggers on a **normal hit**. |
+| 4 | **Tactical Analysis** | Investigator | Share a Recalled fact: allies gain **+1 circ** vs that foe. |
+| 8 | **Pressure Point** | Investigator | Your **Maneuver** can **Grapple**; a foe you've grabbed is **off-guard to your Counter**. |
+| 12 | **Case Cracked** | Investigator | Vs a Recalled foe, your Maneuvers **can't be critically failed**; Trip/Shove distance **+5 ft**. |
+| 4 | **Flashy Feint** | Corsair | **Underhanded Trick** works at 30 ft even **unarmed**; a feinted foe is **off-guard to your allies** too. |
+| 8 | **Ricochet Stratagem** | Corsair | Your **ranged Strikes ignore Concealed and standard cover** (not greater). |
+| 14 | **Quickdraw Corsair** | Corsair | Draw/holster **+ a ranged Counter** as one reaction; **+1 circ** to ranged Counters. |
+
+**§4.1 / balance notes.** No feat grants an iconic Force power as an exclusive: the **Conduit** line (4/12/14) only discounts/sharpens powers the Sentinel *already bought*, and the access feats (Deflecting/Force Reflection Conduit) route those powers **through the Premonition engine** (the specialist bridge) rather than owning them. **Storm of Premonition** (10) and **Perfect Premonition** (20) remove *cost*, not the count — honoring the locked 3-reaction table-speed cap. Reroll/AC values stay bounded (reroll-keep-higher, +1 circ). Subclass feats deepen each fork's signature without exceeding its capstone. All flagged for Gate-A alongside the chassis.
+
+---
+
+## 7. Carried Forward
+
+- ~~**§4 Premonition** mechanics + ✦ development~~ — **DONE (2026-06-16).**
+- ~~**§5 subclass** features — Warden/Shadow/Justicar (+Investigator/Corsair)~~ — **DONE (2026-06-16).**
+- ~~**§6 Class feats** list~~ — **DONE (2026-06-18):** ~50-feat menu (≈36 general + 15 subclass-gated), the ORC norm; §4.1-clean (no exclusive toolkit re-grants).
+- **Gate-A validation** (eHP via saves+reactions, reaction-economy/table-speed check, DPR-equivalent of counters, the L7 subclass quintet, Conduit cost-stacking).
+- Flavor/description → rules-writing. **Sentinel is now content-complete pending Gate-A.**
