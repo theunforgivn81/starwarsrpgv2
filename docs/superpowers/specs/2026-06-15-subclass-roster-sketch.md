@@ -9,7 +9,9 @@
 
 ---
 
-## 1. Guardian — Lightsaber Forms *(STR · Blade-Flow + Deflect)*
+## 1. Guardian — Lightsaber Forms *(STR · Blade-Flow + Intercede)*
+
+> **Built in full** — [class-guardian §5](2026-06-18-class-guardian.md) (subclasses) + [lightsaber-forms](2026-06-18-lightsaber-forms.md) (the shared stance system). Verb refined: **Deflect** is a mastered shared-toolkit power; **Intercede** is the exclusive verb.
 
 **Model:** Forms are a **feat-chain stance system** — *any* Guardian learns Forms via class feats and **switches between known Forms mid-combat** (a Form is a stance). A **subclass grants its signature Form's base stance for free + synergy abilities**, making you that Form's *specialist* while still able to flow into others. So subclasses = Form specializations.
 

@@ -1,6 +1,6 @@
 # Class — Guardian *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Blade-Flow + Intercede** verb framework designed. The **[Lightsaber Form stance system](2026-06-18-lightsaber-forms.md)** (shared layer) is now designed. **Subclasses (Form specializations)** and **class feats** are the next design steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Blade-Flow + Intercede** verb, the **[Lightsaber Form system](2026-06-18-lightsaber-forms.md)**, and the **five Form-specialization subclasses** (§5) are designed. **Class feats** (incl. the full Form chains) are the last step.
 **Date:** 2026-06-18
 **Type:** Class detail. Second class detailed, from the [Class Roster](2026-06-15-class-roster-sketch.md) / [Subclass sketch](2026-06-15-subclass-roster-sketch.md). The first martial-Force chassis; pairs with the [Sentinel](2026-06-15-class-sentinel.md) as the two "tank" classes.
 **Upstream:** [Phase 5 chassis & Force](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md), [Shared Force Toolkit](2026-06-15-shared-force-toolkit.md).
@@ -104,17 +104,66 @@ Attunement (`2 + L`) + **Center** (1 action, +2). The Guardian's **free baseline
 
 ---
 
-## 5. Subclasses — Lightsaber Forms *(to design next)*
+## 5. Subclasses — Form specializations (five, designed 2026-06-18)
 
-Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ rows). Each grants a signature **Form** (base stance free) + synergy that modulates Blade-Flow and **Intercede**. Sketched ([subclass roster §1](2026-06-15-subclass-roster-sketch.md)):
+Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows). Each grants its signature **[Form](2026-06-18-lightsaber-forms.md)** (base stance free, with Mastery) + synergy that modulates **Blade-Flow** and **Intercede**. Built parallel: **L1** signature Form + stance synergy · **L3** the Form's *Intercede rider* · **L7** a signature technique/reaction · L11 Tier-III spike · L15 major · **L19** capstone. All numeric riders route through **STR** or **Class DC** (no MAD). *(Numbers Gate-A; prior Form chains are thematic reference, not ported.)*
 
-- **Soresu** (defense/Deflect master — weather fire, deepen Intercede)
-- **Ataru** (aggressive mobility — Force-leaps, burst, reach-extending Intercede)
-- **Djem So / Shien** (counterattack — deflect-and-riposte; synergy with reactions)
-- **Makashi** (dueling/precision — 1-v-1 mastery, disarms; Step-between Intercede)
-- **Niman** (blade-and-power balance — best telekinesis↔saber interplay)
+### 5.1 Soresu — Way of the Mynock *(defense / Deflect master — the wall)*
 
-*(The prior `ClassFeat` Form chains are **thematic** reference, not a port — keep each Form's fiction and tactical role, redesign the feats under our bounded system. Vetted against §4.1: Forms are the shared melee-Force vocabulary the Guardian masters.)*
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Soresu Stance** + **Resolute Guard** | Free Soresu Stance (with Mastery). While in it, your Speed penalty is **−5** (not −10) and your **Deflect** AC swing improves to **+3**. |
+| 3 | **Sphere of Protection** *(Intercede rider)* | While in Soresu Stance, allies within **10 ft** share your **+2 circ AC vs ranged** (the eye of the storm). |
+| 7 | **Deflecting Wall** | Your **Deflect** can target a ranged attack against an adjacent **ally**; in Soresu Stance you may Deflect **melee** attacks too. |
+| 11 | **Unyielding** | In Soresu Stance: **resistance = your STR mod** vs physical & energy, and forced movement against you is halved. |
+| 15 | **Eye of the Storm** | Allies within 15 ft gain **+1 circ AC**; your **Intercede** reduces a *ranged* attack's damage to **0**. |
+| 19 | **Immovable Bulwark** *(capstone)* | In Soresu Stance, you and allies within 15 ft **can't be critically hit by ranged attacks**; once/round, Deflect an attack against **any** ally within 15 ft. |
+
+### 5.2 Ataru — Way of the Hawk-Bat *(aggressive mobility — burst & reposition)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Ataru Stance** + **Acrobatic Assault** | Free Ataru Stance (with Mastery). When you Stride then Strike, your first Strike gains **+1 circ** to hit. |
+| 3 | **Swift Intercede** *(Intercede rider)* | Intercede range **→ 30 ft**; if farther than 15 ft from the ally, **Stride to within 15 ft** as part of the reaction. |
+| 7 | **Hawk-Bat Swoop** | Gain the leap-strike: Leap + a mid-air Strike (**+1 weapon die**); Mastery: a second Strike at −5. |
+| 11 | **Whirlwind** | After you **Tumble Through** a creature, Strike it as part of that movement (once/turn); +10 ft more Speed. |
+| 15 | **Unstoppable Momentum** | You never provoke from movement; your Tumble-Through **off-guard** extends to your allies' attacks too. |
+| 19 | **Living Tempest** *(capstone)* | Once per round, gain an extra action usable only to **Stride or Strike**; when you Intercede, you may **Strike** the attacker. |
+
+### 5.3 Shien / Djem So — Way of the Krayt Dragon *(counterattack — punish attackers)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Shien/Djem So Stance** + **Crusader's Focus** | Free stance (with Mastery). While in it, if you've taken damage since your last turn, **+1 circ to lightsaber damage**. |
+| 3 | **Crusader's Intercede** *(Intercede rider)* | When you Intercede, the attacker takes damage equal to your **STR modifier** (retribution). |
+| 7 | **Riposte** | `[reaction]` (once/round): when an enemy's melee attack misses you **or** you Deflect a ranged attack, make a lightsaber **Strike** against that enemy. |
+| 11 | **Shien Deflection** | When you **Deflect** a ranged attack, you may **redirect** it — make a lightsaber Strike against the attacker or another enemy in range. |
+| 15 | **Vengeful Intercession** | After you Intercede, gain **+2 circ damage** vs that enemy for 1 round, and your **Riposte** vs it deals an extra die. |
+| 19 | **Unbreakable Counter** *(capstone)* | Whenever an enemy hits you or an Intercede'd ally, **Strike it** (once/round, separate from Riposte); your counters deal **+STR** damage. |
+
+### 5.4 Makashi — Way of the Ysalamiri *(dueling / precision — lock down one foe)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Makashi Stance** + **Duelist's Flourish** | Free Makashi Stance (with Mastery; one-handed + free hand). Vs your **Dueling Target**, lightsaber Strikes gain **+1 circ** to hit. |
+| 3 | **Duelist's Intercede** *(Intercede rider)* | When you Intercede, **Step** to place yourself between the attacker and the ally (toward either). |
+| 7 | **Contentious Riposte** | `[reaction]` (once/round): when your **Dueling Target** misses you with melee, **Strike** or **Disarm** it. |
+| 11 | **Sun Djem** | You may **Disarm** your Dueling Target as part of a lightsaber Strike; a target you disarm is **off-guard** to you. |
+| 15 | **Bind the Blade** | Your **Dueling Target takes −2 circ to attack anyone but you** — the duelist's soft taunt (the class's one explicit Lever A). |
+| 19 | **Master Duelist** *(capstone)* | Your Dueling Target is permanently **off-guard to you** and you score a critical hit against it on a 19–20; when it attacks anyone but you, **Strike it** (free, once/round). |
+
+### 5.5 Niman — Way of the Rancor *(blade↔Force balance — the hybrid)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Niman Stance** + **Flowing Force** | Free Niman Stance (with Mastery). Once/turn while in it, a telekinetic shove (**Force Push/Grasp**) costs **1 less Attunement** (min 0). |
+| 3 | **Balanced Intercede** *(Intercede rider)* | When you Intercede, spend **1 Attunement** to also **push the attacker 5 ft** (telekinetic cushion). |
+| 7 | **Saber Throw** | Gain the **Saber Throw** ([Alter](2026-06-15-shared-force-toolkit.md)) power; while in Niman, its Strikes carry your Niman synergy bonus. |
+| 11 | **Force-Blade Fusion** | Once/turn when you Strike, add a telekinetic **Shove/Reposition** (your **Class DC**) as a free action; Niman's synergy bonus rises to **+2**. |
+| 15 | **Telekinetic Guard** | You may **Intercede at 30 ft** (even without line of effect — you sense the blow) and reduce extra damage equal to your STR mod. |
+| 19 | **Unity of Blade and Force** *(capstone)* | Once/round, use a **Force power and a lightsaber Strike as a single 2-action activity**; your Niman synergy bonuses are always active. |
+
+**Cross-balance & §4.1 notes.** Same-level features compare in value with different *shapes* (Soresu = ally defense, Ataru = mobile burst, Djem So = counter-DPR, Makashi = single-target lockdown, Niman = Force-blade tempo). Every numeric rider keys off **STR/Class DC** (no MAD). Counter/extra-Strike features (Djem So, Ataru, Makashi capstones) are **once/round** and use the **Vigilant Guard** reaction — honoring the table-speed budget. Niman draws on **shared toolkit** powers (Force Push, Saber Throw) as *applications* the Guardian acquires — not class-locked, and blade-first to stay distinct from the Consular. `[dark]` Juyo/Vaapad remains a feat-chain Form available to any Guardian (no subclass), the corruption hook.
 
 ---
 
@@ -126,8 +175,8 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ 
 
 ## 7. Carried Forward
 
-- **§5 subclasses (Forms)** — five, on the 1/3/7/11/15/19 cadence, each with its Intercede rider.
-- **§6 class feats** — ~50, general + Form-gated.
+- ~~**§5 subclasses (Forms)** — five, each with its Intercede rider~~ — **DONE (2026-06-18):** Soresu/Ataru/Djem So/Makashi/Niman, cross-balanced.
+- **§6 class feats** — ~50 (ORC norm), general + Form-gated, **including the full Form chains (≥3 per Form)** — the last step.
 - ~~Slot the basic `Deflect` reaction-power into the shared toolkit~~ — **DONE:** [toolkit Control school](2026-06-15-shared-force-toolkit.md), Basic/0.
 - **Gate-A validation:** single-target DPR vs the bracket (Lever A), Intercede reduction values + the reaction economy (Vigilant Guard), weapon track (Legendary saber), Form stance balance, and the reworked STR key (vs the slice's WIS Guardian).
 - Flavor/description → rules-writing.
