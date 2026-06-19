@@ -1,6 +1,6 @@
-# Class — Guardian *(in progress)*
+# Class — Guardian *(content-complete, pending Gate-A)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Blade-Flow + Intercede** verb, the **[Lightsaber Form system](2026-06-18-lightsaber-forms.md)**, and the **seven Form-specialization subclasses** (§5, one per Form) are designed. **Class feats** (incl. the full Form chains) are the last step.
+**Status:** **Content-complete pending Gate-A.** Identity, proficiencies, L1–20 chassis, the **Blade-Flow + Intercede** verb, the **[Lightsaber Form system](2026-06-18-lightsaber-forms.md)**, the **seven Form-specialization subclasses** (§5), and the **~50 class feats** (§6: general + Form chains) are all designed.
 **Date:** 2026-06-18
 **Type:** Class detail. Second class detailed, from the [Class Roster](2026-06-15-class-roster-sketch.md) / [Subclass sketch](2026-06-15-subclass-roster-sketch.md). The first martial-Force chassis; pairs with the [Sentinel](2026-06-15-class-sentinel.md) as the two "tank" classes.
 **Upstream:** [Phase 5 chassis & Force](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md), [Shared Force Toolkit](2026-06-15-shared-force-toolkit.md).
@@ -189,16 +189,65 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows
 
 ---
 
-## 6. Class Feats *(to design next)*
+## 6. Class Feats — designed (2026-06-18)
 
-~50 (ORC norm): a general pool (Blade-Flow/Intercede/Deflect shapers, telekinetic-combat options, the Form base-stances + chain feats available to any Guardian) + a few subclass/Form-gated feats per Form. Mined from the prior Guardian `ClassFeat` suite (Intercede line: Improved Intercede, Combat Reflexes, Vengeful Intercession; the Form chains).
+~50 (ORC norm), in two axes: **§6.1 general feats** (chassis-wide) + **§6.2 Form chains** (gated by *knowing a Form*, available to any Guardian in that stance — they **complement**, not duplicate, the §5 subclass features). Mined from the prior Guardian `ClassFeat` suite + Form chains. **Scope/§4.1:** general feats shape Blade-Flow/Intercede/Deflect and acquire **shared toolkit** powers as *applications* (the "access" feats — telekinesis, Energy Absorption, etc., which any Force user buys); they don't class-lock iconic powers. Numbers Gate-A.
+
+### 6.1 General class feats (~28)
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Challenging Shout** | `[1 action]` auditory: an enemy you see takes **−1 circ to attacks that don't include you** until your next turn (the chassis soft-taunt — Lever A). |
+| 1 | **Telekinetic Leap** | `[1 action]`, 1 Att: **Leap** with a Force boost (close distance / cross gaps) — helps melee close on gunners. |
+| 1 | **Steel Mind** | +1 circ vs fear & mental; once/round reduce a mental condition by 1 (free action). |
+| 2 | **Furious Charge** | `[2 actions]`: **Stride up to your Speed, then a lightsaber Strike.** |
+| 2 | **Protective Instinct** | **Intercede** range → 20 ft; you may also Intercede an attack against *yourself* to share the reduction with an adjacent ally. |
+| 2 | **Telekinetic Shove** | Your **Force Push** gains a Shove rider and costs 1 less when used in melee (once/turn). |
+| 4 | **Disarming Twist** | Athletics **Disarm** using your lightsaber + **Class DC**. |
+| 4 | **Sundering Strike** | A lightsaber Strike that hits also gives the target **−1 circ AC** until your next turn. |
+| 4 | **Telekinetic Throw** | `[2 actions]`, Att: hurl an adjacent/grabbed foe (Reflex save; damage + prone). |
+| 6 | **Wall Run** | Stride along **vertical surfaces** without falling (ends on solid ground). |
+| 6 | **Tutaminis** | Gain **Energy Absorption** ([Control](2026-06-15-shared-force-toolkit.md)) as a reaction-power. |
+| 6 | **Cleaving Blow** | When a melee Strike drops a foe, make a Strike vs an adjacent foe (same MAP). |
+| 8 | **Saber Barrier** | `[2 actions]`, Att: project a field giving you + adjacent allies temp HP (Force Barrier application). |
+| 8 | **Ground Slam** | Gain **Force Wave** ([Alter](2026-06-15-shared-force-toolkit.md)). |
+| 8 | **Bodyguard's Reach** | Your **Deflect** can protect an adjacent ally from a ranged attack. |
+| 10 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for Deflect, Intercede, or a reactive Strike. |
+| 10 | **Force Speed** | Gain **Force Celerity** ([Body](2026-06-15-shared-force-toolkit.md)). |
+| 10 | **Shielding Intercede** | When you Intercede, the ally also gains **+1 circ AC** until your next turn. |
+| 12 | **Telekinetic Flight** | Gain **Telekinetic Flight** ([Alter](2026-06-15-shared-force-toolkit.md)). |
+| 12 | **Crushing Blow** | `[2 actions]`: one Strike with **+1 die**, **+2 dice** vs objects/constructs/off-guard. |
+| 12 | **Unyielding** | `[once per day]` When reduced to 0 HP, stay at **1 HP** and keep acting until end of turn. |
+| 14 | **Greater Combat Reflexes** *(req. Combat Reflexes)* | Your extra reactions may also fuel Form/Force reaction-powers; +1 further reaction once/round. |
+| 14 | **Force Bastion** | Your Saber Barrier / defensive auras extend to **all allies within 15 ft**. |
+| 16 | **Master's Deflection** | **Deflect** works vs **any** ranged attack (not only energy) and **redirects** on a miss. |
+| 16 | **Relentless Guardian** | **Intercede** has no range limit **within line of sight**. |
+| 18 | **Fluid Forms** | **Switching Forms is a free action** once per turn. |
+| 20 | **Grand Master** *(capstone)* | `[once per round]` Gain an extra action for a **lightsaber Strike or a Form action**; your Guardian Mastery clauses gain a bonus. |
+| 20 | **Eternal Guardian** *(capstone)* | `[once per round]` When an ally within 30 ft would drop to 0 HP, **Intercede to leave them at 1 HP** instead. |
+
+### 6.2 Form chains (~21 — three per Form; require knowing that Form)
+
+Each requires the named **Form** (granted by subclass or learned via feat) and applies **while in that stance**. They complement the §5 subclass features.
+
+| Form | Feats (level) |
+|---|---|
+| **Shii-Cho** | *Disarming Sweep* (2 — a Strike that hits may Shove 5 ft) · *Crashing Wave* (6 — after Striking 2+ foes this turn, they're off-guard to your allies) · *Relentless Sweep* (10 — your first Strike vs a new target each turn deals +1 die) |
+| **Makashi** | *Opportune Retort* (2 — reactive Strike when your Dueling Target moves away) · *Elegant Deflection* (6 — +1 circ AC vs **all** attacks while a hand is free) · *Disarming Riposte* (10 — Disarm the Dueling Target when you parry/Deflect it) |
+| **Soresu** | *Circle of Shelter* (2 — an adjacent ally shares your ranged-AC bonus) · *Deflecting Surge* (6 — once/round Deflect without spending your reaction) · *Saber Barrier* (10 — `[1 action]` field granting you + allies temp resistance) |
+| **Ataru** | *Hawk-Bat Swoop* (4 — Leap + mid-air Strike, +1 die; Mastery: 2nd Strike at −5) · *Spinning Assault* (8 — after Tumble Through, your Strike vs that foe ignores its cover) · *Tempest Form* (12 — once/round a 3rd action, Stride or Tumble Through only) |
+| **Shien/Djem So** | *Returning Slash* (4 — when hit in melee, your next Strike vs that foe deals +1 die) · *Shien Volley* (8 — redirect a Deflected bolt at **any** enemy) · *Djem So Onslaught* (12 — your reactive/counter Strikes don't count toward MAP) |
+| **Niman** | *Flowing Strike* (4 — after a Force power, your next Strike deals +1 die) · *Saber Throw* (8 — gain **Saber Throw** ([Alter](2026-06-15-shared-force-toolkit.md)); it carries your Niman synergy) · *Force Fusion* (12 — once/round use a 1-action Force power as part of a Strike activity) |
+| **Juyo/Vaapad** `[dark]` | *Vaapad Surge* (6 — convert the −1 AC into +2 damage on a Strike) · *Feed the Dark* (10 — on a crit, gain a temp attack bonus next round) · *Unrelenting Assault* (14 — ignore off-guard from your own techniques; +1 Strike below half HP) |
+
+**§4.1 / balance notes.** Access feats (Tutaminis, Ground Slam, Force Speed, Telekinetic Flight, Saber Throw) only *acquire* shared toolkit powers — never class-lock them. Reaction-granting feats (Combat Reflexes line) stack toward the **table-speed budget** and are flagged for Gate-A. `[once per day]` is used **once** (Unyielding, the Tier-spanning "refuse to fall" — per [Phase 3 §7](2026-06-13-phase3-progression-chassis.md), per-day is a sparing high-level tool). Capstone feats are once/round. Form chains gate on stance, so their power is bounded by the action cost of being in (and staying in) that Form. `[dark]` Juyo chain feats hook the corruption subsystem.
 
 ---
 
 ## 7. Carried Forward
 
 - ~~**§5 subclasses (Forms)** — one per Form, each with its Intercede rider~~ — **DONE (2026-06-18):** all **seven** (Shii-Cho/Makashi/Soresu/Ataru/Djem So/Niman/Juyo-Vaapad), cross-balanced.
-- **§6 class feats** — ~50 (ORC norm), general + Form-gated, **including the full Form chains (≥3 per Form)** — the last step.
+- ~~**§6 class feats** — ~50, general + Form chains~~ — **DONE (2026-06-18):** §6.1 ~28 general + §6.2 21 Form chains (3/Form). **Guardian is now content-complete pending Gate-A.**
 - ~~Slot the basic `Deflect` reaction-power into the shared toolkit~~ — **DONE:** [toolkit Control school](2026-06-15-shared-force-toolkit.md), Basic/0.
 - **Gate-A validation:** single-target DPR vs the bracket (Lever A), Intercede reduction values + the reaction economy (Vigilant Guard), weapon track (Legendary saber), Form stance balance, and the reworked STR key (vs the slice's WIS Guardian).
 - Flavor/description → rules-writing.
