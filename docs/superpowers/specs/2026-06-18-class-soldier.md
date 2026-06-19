@@ -100,6 +100,8 @@ Your **MAP against Suppressed targets is reduced one step** (−3/−6, agile �
 
 ### 4.5 Durability & CON-mastery *(kept from ORC — the single-attribute engine)*
 
+*(The save features below are the Soldier's instance of the universal **Save Expertise** pattern, [Phase 3 §3.2](2026-06-13-phase3-progression-chassis.md): **Fortitude** is the Soldier's Legendary spotlight save (Tough as Nails → Unshakable Juggernaut), **Will** → Master with the rider (Soldier's Resolution), and **Reflex caps at Expert** — its deliberate weak save.)*
+
 These are why a one-stat CON class works; we keep them intact:
 - **Walking Armory** (L1): use **CON instead of STR** for armor requirements; if you already meet the requirement, reduce the armor's Bulk by 1; +carry capacity. *(Lets the CON tank wear heavy armor with no STR investment.)*
 - **Fearsome Bulwark** (L3): use **CON instead of CHA** for Intimidation (Coerce/Demoralize) and **instead of STR** for Athletics (Reposition/Shove). *(Powers the menace **and** the Armor Storm maneuver fork on CON alone — anti-MAD.)*

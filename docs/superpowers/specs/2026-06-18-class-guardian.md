@@ -52,21 +52,22 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 | 6 | class feat · skill feat | — |
 | 7 | general feat · skill increase · ◆ · **Vigilant Guard** ✦ · **Weapon Specialization** | Perception → **Expert** |
 | 8 | class feat · skill feat | — |
-| 9 | ancestry feat · skill increase · **Improved Intercede** ✦ | lightsaber → **Master** · Will → **Master** |
+| 9 | ancestry feat · skill increase · **Improved Intercede** ✦ · **Resolve** | lightsaber → **Master** · Will → **Master** *(success→crit success)* |
 | 10 | class feat · skill feat · attribute boosts | — |
-| 11 | general feat · skill increase · ◆ | Fort → **Master** · armor → **Master** |
+| 11 | general feat · skill increase · ◆ · **Juggernaut** | Fort → **Master** *(success→crit success)* · armor → **Master** |
 | 12 | class feat · skill feat | — |
 | 13 | ancestry feat · skill increase · **Greater Blade-Flow** ✦ | weapons → **Master** · Class DC → **Master** |
 | 14 | class feat · skill feat | — |
 | 15 | general feat · skill increase · attribute boosts · ◆ · **Greater Weapon Specialization** | Perception → **Master** |
 | 16 | class feat · skill feat | — |
-| 17 | ancestry feat · skill increase · **Master's Guard** ✦ | lightsaber → **Legendary** · Reflex → **Master** |
+| 17 | ancestry feat · skill increase · **Master's Guard** ✦ | lightsaber → **Legendary** |
 | 18 | class feat · skill feat | — |
-| 19 | general feat · skill increase · ◆ | Will → **Legendary** *(or Gate-A pick)* |
+| 19 | general feat · skill increase · ◆ | — |
 | 20 | class feat · skill feat · attribute boosts · **capstone** ✦ | — |
 
 - **Weapon track (the saber master):** lightsabers **Expert (L1) → Master (L9) → Legendary (L17)**; other weapons **Trained → Expert (L5) → Master (L13)**. Lightsabers stay a step ahead — the Guardian is the premier blade. *(Proposed; the per-class weapon track is a confirm-point, as with the Sentinel.)*
 - **Vigilant Guard (L7 ✦)** brings the active-defense engine fully online (a 2nd reaction for Deflect/Intercede); see §4.
+- **Save expertise** ([Phase 3 §3.2](2026-06-13-phase3-progression-chassis.md)): **Will (Resolve, L9)** and **Fortitude (Juggernaut, L11)** → Master, each with *success→crit success* (the disciplined Force warrior). **Reflex caps at Expert** — the heavy warrior's deliberate vulnerability. No Legendary save; the Guardian's one Legendary line is its **lightsaber**.
 - **No dead levels**; exact advancement levels Gate-A tunable.
 
 ---

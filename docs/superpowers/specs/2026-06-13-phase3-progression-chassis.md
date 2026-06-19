@@ -66,6 +66,17 @@ Every class gains these automatically (not feats, not class-specific) — the st
 - Flat once per Strike (not per die). *(Values Gate-A tunable against our compressed math; structure is fixed at the traditional 7/15 cadence.)*
 - **Open question (flagged):** whether Force-heavy classes want a parallel "Force Specialization" so their primary damage keeps pace the way martials' does — deferred; the dice/Tier track may already suffice.
 
+### 3.2 Universal Save Expertise (the success→crit-success pattern)
+
+Every class follows the standard ORC save-expertise shape — **two strong saves, one weak** — so resilience is a class identity, not an ad-hoc table:
+
+- **Two saves → Master**, each via a **named class feature that bundles the rider: when you roll a *success* on that save, you get a *critical success* instead.** (Flavored per class — *Juggernaut / Tough as Nails* = Fort, *Resolve* = Will, *Evasion* = Reflex.) Granted at class-determined levels (typically one in Tier II ~L7–9, one in Tier III ~L11).
+- **The third (weak) save caps at Expert** — every class has **one deliberate save vulnerability** (its soft spot; varies by class so enemies get a vector against each).
+- **Signature save → Legendary** *(optional, one class's spotlight)*: a **"Greater / Unshakable"** feature (Tier IV ~L15–17) that adds **critical failure → failure** *and* **half damage on a failed save vs a damaging effect**. Deepens one of the two strong saves.
+- **Early limited rider** *(optional flavor, ~L3)*: the **"Bravery"** pattern — success→crit-success vs a *narrow* category (e.g., Fear) before the full feature comes online.
+
+**This is a baseline expectation for every class** (alongside Weapon Specialization). It is *not* extra resilience layered on top of our save tables — it **replaces** ad-hoc "→ Master" entries, and the **Expert-capped weak save is the balancing cost** of the two rider'd saves. *(Retrofitted into the Sentinel and Guardian; native to the Soldier.)*
+
 ---
 
 ## 4. Attribute Boosts (closes Phase 2 deferral)

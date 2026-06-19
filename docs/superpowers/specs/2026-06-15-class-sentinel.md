@@ -46,15 +46,15 @@ Chassis grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) (incl. th
 | 6 | class feat · skill feat | — |
 | 7 | general feat · skill increase · ◆ · **Weapon Specialization** | Perception → **Master** |
 | 8 | class feat · skill feat | — |
-| 9 | ancestry feat · skill increase | Reflex → **Master** |
+| 9 | ancestry feat · skill increase · **Evasion** | Reflex → **Master** *(success→crit success)* |
 | 10 | class feat · skill feat · attribute boosts | — |
-| 11 | general feat · skill increase · ◆ | Will → **Master** |
+| 11 | general feat · skill increase · ◆ · **Resolve** | Will → **Master** *(success→crit success)* |
 | 12 | class feat · skill feat | — |
 | 13 | ancestry feat · skill increase | Class DC → **Master** · armor → **Expert** · weapons → **Master** |
 | 14 | class feat · skill feat | — |
 | 15 | general feat · skill increase · ◆ · attribute boosts · **Greater Weapon Specialization** | Perception → **Legendary** ✦ |
 | 16 | class feat · skill feat | — |
-| 17 | ancestry feat · skill increase · ✦ | Fort → **Master** |
+| 17 | ancestry feat · skill increase · ✦ | — |
 | 18 | class feat · skill feat | — |
 | 19 | general feat · skill increase · ◆ | — |
 | 20 | class feat · skill feat · attribute boosts · **capstone** ✦ | — |
@@ -64,7 +64,8 @@ Chassis grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) (incl. th
 - **No dead levels:** every level grants a feat or feature.
 - **Weapon track:** Trained (L1) → **Expert (L5)** → **Master (L13)** — the hybrid-martial cadence (the Sentinel's Counter is a weapon Strike, so it is a gish, not a pure caster). Weapons cap at Master; **Legendary weapons are reserved for dedicated martials/Guardian.**
 - **Weapon Specialization** (L7) / **Greater** (L15) are the universal grants ([Phase 3 §3.1](2026-06-13-phase3-progression-chassis.md)); keyed to weapon rank, they are **live from L7** (+2, Expert), rise to **+3** when weapons reach Master at L13, and **Greater** makes it **+6** (Master) at L15. They apply to weapon Strikes including **Counter** — but never to Force-power damage.
-- *(Exact advancement levels tunable at Gate A; one Legendary line, Perception — other saves cap at Master.)*
+- **Save expertise** ([Phase 3 §3.2](2026-06-13-phase3-progression-chassis.md)): **Reflex (Evasion, L9)** and **Will (Resolve, L11)** → Master, each with *success→crit success* (the precognitive dodger's resilient pair). **Fortitude caps at Expert** — the frail save / deliberate vulnerability (fits HP 8, "defense by anticipation, not toughness"). No Legendary save; the Sentinel's one Legendary line is **Perception**.
+- *(Exact advancement levels tunable at Gate A.)*
 
 ---
 
