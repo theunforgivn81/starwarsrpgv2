@@ -21,13 +21,15 @@
 
 | Subclass (Form) | Forks the verb toward… |
 |---|---|
+| **Shii-Cho** (Way of the Sarlacc) | **multi-target / crowd control** — sweep a crowd, hold the line, area soft-taunt |
+| **Makashi** (Way of the Ysalamiri) | **dueling/precision** — 1-v-1 saber mastery, disarms, single-target lock (Bind the Blade) |
 | **Soresu** (Way of the Mynock) | **defense/deflection** — the Deflect master; weather fire, outlast |
 | **Ataru** (Way of the Hawk-Bat) | **aggressive mobility** — Force-leaps, hit-and-spin, burst offense |
 | **Djem So / Shien** (Way of the Krayt Dragon) | **counterattack** — deflect-and-riposte; punish attackers (synergizes with reactions) |
-| **Makashi** (Way of the Ysalamiri) | **dueling/precision** — 1-v-1 saber mastery, disarms, finesse |
 | **Niman** (Way of the Rancor) | **Force-blade balance** — best telekinesis↔saber interplay (Attunement + strikes) |
+| **Juyo / Vaapad** (Way of the Vornskr) `[dark]` | **reckless aggression** — glass-cannon; max single-target threat, the corruption hook |
 
-*(Other Forms — Shii-Cho, Juyo/Vaapad — exist as feat-chain stances available to any Guardian; the five above are the showcased specializations. Juyo carries `[dark]` flavor.)*
+*(All **seven** Forms are Guardian subclasses — one each — designed in full in [class-guardian §5](2026-06-18-class-guardian.md). The base Form stances remain learnable by any Guardian via feats regardless of subclass.)*
 
 ## 2. Consular — Force Applications *(CHA · Manifest)*
 

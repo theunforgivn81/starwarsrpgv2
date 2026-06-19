@@ -68,6 +68,6 @@ Same pattern as the Force toolkit — Forms are shared, mastery is the Guardian'
 ## 6. Carried Forward
 
 - **Full chain feats** (≥3 per Form) → authored with the [Guardian class feats](2026-06-18-class-guardian.md) (§6) and shared/archetype feats.
-- **Guardian subclasses** = Form specializations (Soresu/Ataru/Djem So/Makashi/Niman) → next, building on §3.
+- ~~Guardian subclasses = Form specializations~~ — **DONE:** all **seven** Forms are Guardian subclasses ([class-guardian §5](2026-06-18-class-guardian.md)), one each.
 - ~~Slot the basic `Deflect` power into the Force toolkit~~ — **DONE:** [toolkit Control school](2026-06-15-shared-force-toolkit.md), Basic/0.
 - **Gate-A:** Shii-Cho MAP clause, Juyo risk/reward, Niman double-dip with Force powers, cross-Form switching tempo.

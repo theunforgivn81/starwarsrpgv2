@@ -1,6 +1,6 @@
 # Class — Guardian *(in progress)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Blade-Flow + Intercede** verb, the **[Lightsaber Form system](2026-06-18-lightsaber-forms.md)**, and the **five Form-specialization subclasses** (§5) are designed. **Class feats** (incl. the full Form chains) are the last step.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Blade-Flow + Intercede** verb, the **[Lightsaber Form system](2026-06-18-lightsaber-forms.md)**, and the **seven Form-specialization subclasses** (§5, one per Form) are designed. **Class feats** (incl. the full Form chains) are the last step.
 **Date:** 2026-06-18
 **Type:** Class detail. Second class detailed, from the [Class Roster](2026-06-15-class-roster-sketch.md) / [Subclass sketch](2026-06-15-subclass-roster-sketch.md). The first martial-Force chassis; pairs with the [Sentinel](2026-06-15-class-sentinel.md) as the two "tank" classes.
 **Upstream:** [Phase 5 chassis & Force](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md), [Shared Force Toolkit](2026-06-15-shared-force-toolkit.md).
@@ -96,7 +96,7 @@ The Guardian's tactical engine and the source of turn variety. **Full system: [L
 - **Portability (Guardian Mastery clause):** an archetype (e.g. Force Adept) can grant a *base* stance; the Guardian alone gets the *mastery* upgrade — so Forms are the shared melee-Force vocabulary that the Guardian masters.
 - **Chains:** each base stance anchors **follow-up feats** (prerequisite-gated) that deepen that Form.
 - *Example* — **Soresu Stance:** +2 circumstance AC vs ranged Strikes, Speed −10 ft; **Guardian Mastery:** the AC bonus also applies to melee.
-- **Seven Forms exist**; **five are showcased subclasses** (Soresu/Ataru/Djem So/Makashi/Niman), with Shii-Cho and Juyo/Vaapad available as feat-chain stances to any Guardian (Juyo carries `[dark]`). Subclass = your signature Form (base stance free + synergy); you flow into others via feats. *(Forms detailed in §5.)*
+- **All seven Forms are subclasses** (one each: Shii-Cho/Makashi/Soresu/Ataru/Djem So/Niman/Juyo-Vaapad; Juyo carries `[dark]`). Subclass = your signature Form (base stance free + Mastery + synergy); you flow into the other six via feats. *(Forms detailed in §5.)*
 
 ### 4.4 Force integration
 
@@ -104,7 +104,7 @@ Attunement (`2 + L`) + **Center** (1 action, +2). The Guardian's **free baseline
 
 ---
 
-## 5. Subclasses — Form specializations (five, designed 2026-06-18)
+## 5. Subclasses — Form specializations (seven, designed 2026-06-18 — one per Form)
 
 Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows). Each grants its signature **[Form](2026-06-18-lightsaber-forms.md)** (base stance free, with Mastery) + synergy that modulates **Blade-Flow** and **Intercede**. Built parallel: **L1** signature Form + stance synergy · **L3** the Form's *Intercede rider* · **L7** a signature technique/reaction · L11 Tier-III spike · L15 major · **L19** capstone. All numeric riders route through **STR** or **Class DC** (no MAD). *(Numbers Gate-A; prior Form chains are thematic reference, not ported.)*
 
@@ -163,7 +163,29 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows
 | 15 | **Telekinetic Guard** | You may **Intercede at 30 ft** (even without line of effect — you sense the blow) and reduce extra damage equal to your STR mod. |
 | 19 | **Unity of Blade and Force** *(capstone)* | Once/round, use a **Force power and a lightsaber Strike as a single 2-action activity**; your Niman synergy bonuses are always active. |
 
-**Cross-balance & §4.1 notes.** Same-level features compare in value with different *shapes* (Soresu = ally defense, Ataru = mobile burst, Djem So = counter-DPR, Makashi = single-target lockdown, Niman = Force-blade tempo). Every numeric rider keys off **STR/Class DC** (no MAD). Counter/extra-Strike features (Djem So, Ataru, Makashi capstones) are **once/round** and use the **Vigilant Guard** reaction — honoring the table-speed budget. Niman draws on **shared toolkit** powers (Force Push, Saber Throw) as *applications* the Guardian acquires — not class-locked, and blade-first to stay distinct from the Consular. `[dark]` Juyo/Vaapad remains a feat-chain Form available to any Guardian (no subclass), the corruption hook.
+### 5.6 Shii-Cho — Way of the Sarlacc *(multi-target / crowd control — hold the line)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Shii-Cho Stance** + **Sweeping Guard** | Free Shii-Cho Stance (with Mastery). While **2+ enemies are adjacent**, gain **+1 circ AC** (in your element amid a crowd). |
+| 3 | **Vanguard's Intercede** *(Intercede rider)* | When you Intercede, **push the attacker 5 ft** away from the ally after the attack resolves. |
+| 7 | **Cyclone** | `[2 actions]`: one lightsaber **Strike against each enemy in your reach** (one shared MAP, applied to all). |
+| 11 | **Hold the Line** | Enemies adjacent to you take **−1 circ to attack anyone but you** — the crowd soft-taunt (area cousin of Makashi's single-target lock). |
+| 15 | **Sweeping Bulwark** | `[reaction]` (once/round): when an adjacent enemy attacks an ally, **Strike it**. Enemies that begin their turn adjacent to you are **off-guard** to you. |
+| 19 | **Unbroken Line** *(capstone)* | You may **Intercede** for any ally adjacent to an enemy within your reach; once/round, when 2+ enemies are adjacent, use **Cyclone** as a free action. |
+
+### 5.7 Juyo / Vaapad — Way of the Vornskr `[dark]` *(reckless aggression — too dangerous to ignore)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Juyo/Vaapad Stance** + **Vaapad's Fury** | Free Juyo Stance (with Mastery: +2 attack). While in it, after you take **or** deal damage, your next lightsaber Strike this round gains **+1 circ damage**. |
+| 3 | **Furious Intercede** *(Intercede rider)* | When you Intercede, gain **+2 circ to attack** the triggering enemy and your next Strike vs it deals **+STR damage** (turn the blow's fury back). |
+| 7 | **Relentless Onslaught** | Once/round, after a lightsaber hit, make an **additional Strike** at your current MAP; you are **off-guard until your next turn** (the risk). |
+| 11 | **Feed the Fury** | When an enemy hits you, **+1 circ to attack & damage** vs it until your next turn; in Juyo your attack bonus rises to **+3** (AC penalty stays −2). |
+| 15 | **Unrelenting** | You ignore **off-guard caused by your own** Juyo techniques; your lightsaber **critical hits make the target frightened 1**. |
+| 19 | **Avatar of Fury** `[dark]` *(capstone)* | Once/round, gain an extra action usable only for a **lightsaber Strike**; while **below half HP**, **+2 circ to attack & damage**. |
+
+**Cross-balance & §4.1 notes (all seven).** Same-level features compare in value with different *shapes*: Soresu = ally defense, Ataru = mobile burst, Djem So = counter-DPR, Makashi = single-target lockdown, Niman = Force-blade tempo, **Shii-Cho = crowd control / area tanking, Juyo = max single-target threat (Lever A at the cost of Lever B)**. Every numeric rider keys off **STR/Class DC** (no MAD). Counter/extra-Strike features (Djem So, Ataru, Makashi, Shii-Cho, Juyo capstones) are **once/round** and use the **Vigilant Guard** reaction — honoring the table-speed budget. Niman draws on **shared toolkit** powers (Force Push, Saber Throw) as *applications* the Guardian acquires — not class-locked, blade-first to stay distinct from the Consular. **Juyo/Vaapad is the deliberate glass-cannon fork** — it trades durability for overwhelming threat (it still "tanks" by being too dangerous to ignore), and its `[dark]` features are the lightsaber-side hook for the deferred corruption subsystem.
 
 ---
 
@@ -175,7 +197,7 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows
 
 ## 7. Carried Forward
 
-- ~~**§5 subclasses (Forms)** — five, each with its Intercede rider~~ — **DONE (2026-06-18):** Soresu/Ataru/Djem So/Makashi/Niman, cross-balanced.
+- ~~**§5 subclasses (Forms)** — one per Form, each with its Intercede rider~~ — **DONE (2026-06-18):** all **seven** (Shii-Cho/Makashi/Soresu/Ataru/Djem So/Niman/Juyo-Vaapad), cross-balanced.
 - **§6 class feats** — ~50 (ORC norm), general + Form-gated, **including the full Form chains (≥3 per Form)** — the last step.
 - ~~Slot the basic `Deflect` reaction-power into the shared toolkit~~ — **DONE:** [toolkit Control school](2026-06-15-shared-force-toolkit.md), Basic/0.
 - **Gate-A validation:** single-target DPR vs the bracket (Lever A), Intercede reduction values + the reaction economy (Vigilant Guard), weapon track (Legendary saber), Form stance balance, and the reworked STR key (vs the slice's WIS Guardian).
