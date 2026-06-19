@@ -1,8 +1,8 @@
 # Class — Soldier *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Suppress** verb framework designed. **Subclasses** and **class feats** are the next design steps.
+**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Suppress** verb framework designed (**ORC-core progression kept & supplemented**; Primary Target dropped). **Subclasses** and **class feats** are the next design steps.
 **Date:** 2026-06-18
-**Type:** Class detail. The first **non-Force** chassis (no Attunement) — validates the martial baseline cleanly. Pairs with the [Guardian](2026-06-18-class-guardian.md) as the two "tank" classes (different shapes). ORC-core Soldier read for its Suppressed/Area-Fire bones; our divergences per the design discussion.
+**Type:** Class detail. The first **non-Force** chassis (no Attunement) — validates the martial baseline cleanly. Pairs with the [Guardian](2026-06-18-class-guardian.md) as the two "tank" classes (different shapes). **We keep the ORC-core Soldier ability progression** (Walking Armory, Fearsome Bulwark, the Suppressed condition, the durability spine, the prof scaffold) and **modify/supplement** it (Suppression Zone + Suppressing Reaction, Overwhelming Assault baselined, ✦ upgrades, a real L20 capstone), **dropping Primary Target**.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md) (MAP, conditions, Reactive Shot), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md).
 
 ---
@@ -44,32 +44,35 @@ No Attunement — the Soldier is **non-Force**. Its limiter is **action economy 
 
 Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 class feat and universal **Weapon Specialization** (L7/L15). ✦ = Soldier core feature · ◆ = subclass feature.
 
+We **keep the ORC-core Soldier progression** and supplement it; **Primary Target is dropped** (poorly-worded, GM-disliked — its single-target role is covered by Overwhelming Assault). **Kept-from-ORC** features in *italics*; **our additions (✦)** in bold. ◆ = subclass (fighting style).
+
 | Lvl | Class features & chassis grants | Proficiency advances |
 |---|---|---|
-| 1 | **Suppress** ✦ (Suppressing Fire + Zone + **Suppressing Reaction**) · **Overwhelming Assault** ✦ · **subclass** ◆ · class feat · ancestry feat · CON boost | initial profs (§2) |
+| 1 | **Suppress** ✦ (Suppressing Fire + **Zone** + **Suppressing Reaction**) · **Overwhelming Assault** ✦ · *Walking Armory* · **subclass (fighting style)** ◆ · class feat · ancestry feat · CON boost | initial profs (§2) |
 | 2 | class feat · skill feat | — |
-| 3 | general feat · skill increase · ◆ | Reflex → **Expert** · Class DC → **Expert** |
+| 3 | general feat · skill increase · *Fearsome Bulwark* · ◆ | Reflex → **Expert** |
 | 4 | class feat · skill feat | — |
-| 5 | ancestry feat · skill increase · attribute boosts | weapons → **Expert** · armor → **Expert** |
+| 5 | ancestry feat · skill increase · attribute boosts · *Soldier Weapon Expertise* (area/auto crit spec) | weapons → **Expert** · Perception → **Expert** |
 | 6 | class feat · skill feat | — |
-| 7 | general feat · skill increase · ◆ · **Weapon Specialization** | Perception → **Expert** |
+| 7 | general feat · skill increase · ◆ · *Tough as Nails* · Weapon Specialization | Fort → **Master** · armor → **Expert** · Class DC → **Expert** |
 | 8 | class feat · skill feat | — |
-| 9 | ancestry feat · skill increase · **Dig In** ✦ | Will → **Master** |
+| 9 | ancestry feat · skill increase · **Dig In** ✦ | — |
 | 10 | class feat · skill feat · attribute boosts | — |
-| 11 | general feat · skill increase · ◆ | Fort → **Master** · Class DC → **Master** |
+| 11 | general feat · skill increase · ◆ · *Soldier's Resolution* | Will → **Master** |
 | 12 | class feat · skill feat | — |
-| 13 | ancestry feat · skill increase · **Withering Fire** ✦ | weapons → **Master** · armor → **Master** |
+| 13 | ancestry feat · skill increase · **Withering Fire** ✦ | armor → **Master** |
 | 14 | class feat · skill feat | — |
-| 15 | general feat · skill increase · attribute boosts · ◆ · **Greater Weapon Specialization** | **Fortitude → Legendary** ✦ |
+| 15 | general feat · skill increase · attribute boosts · ◆ · *Unshakable Juggernaut* ✦ · Greater Weapon Specialization | **Fort → Legendary** · weapons → **Master** · Class DC → **Master** |
 | 16 | class feat · skill feat | — |
-| 17 | ancestry feat · skill increase · **Pinned Down** ✦ | Perception → **Master** · Reflex → **Master** |
+| 17 | ancestry feat · skill increase · **Pinned Down** ✦ | armor → **Legendary** · Perception → **Master** |
 | 18 | class feat · skill feat | — |
-| 19 | general feat · skill increase · ◆ | weapons → **Legendary** |
+| 19 | general feat · skill increase · ◆ | **weapons → Legendary** · Class DC → **Legendary** |
 | 20 | class feat · skill feat · attribute boosts · **No Quarter** ✦ *(capstone)* | — |
 
-- **Weapon track (dedicated attacker):** Trained → **Expert (L5) → Master (L13) → Legendary (L19)** — the Soldier caps a weapon, per the "dedicated attackers reach Legendary" principle. *(Proposed; the per-class weapon track is a confirm-point.)*
-- **Fortitude → Legendary (L15)** is the Soldier's signature line (as Perception is the Sentinel's) — the toughest save in the game.
-- **No dead levels**; exact advancement levels Gate-A tunable.
+- **Weapon track:** ORC's curve (Trained → Expert L5 → Master L15) **+ our Legendary at L19** (the "dedicated attackers reach Legendary" principle — the one place we diverge upward from ORC). *(Per-class confirm-point.)*
+- **Reflex stays Expert** — the Soldier's deliberate weak save (heavy and slow; the vector enemies get against it).
+- **Durability spine (kept from ORC):** *Tough as Nails* (L7, Fort success→crit success), *Soldier's Resolution* (L11, Will success→crit success), *Unshakable Juggernaut* (L15, Fort→Legendary; crit-fail→fail; **halve damage on a failed Fort save vs damage**). Multiple Legendary lines (Fort/armor/weapons/Class DC) are intentional — the Soldier is the supreme durability/control specialist; flagged for Gate-A.
+- **No dead levels** (ORC's L20 had no capstone feature — **No Quarter** fixes that); advancement levels Gate-A tunable.
 
 ---
 
@@ -79,7 +82,7 @@ The Soldier's turn is **post a zone → enforce it → soak**. Typical turn: **S
 
 ### 4.1 The Suppressed condition *(new, formal)*
 
-**Suppressed** *(condition)*: the creature takes a **−1 circumstance penalty to attack rolls** (it's keeping its head down). Lasts until the start of the suppressing Soldier's next turn (or while it remains in an active Suppression Zone). *Deepens to −2 at L13 (Withering Fire).* **One-rider rule** (from ORC): when a Soldier takes an action that applies Suppressed, it may also apply **one** effect with the **`[suppressed]`** trait (feat/subclass riders — off-guard, slowed, etc.); only one such rider per suppressing action.
+**Suppressed** *(condition, from ORC)*: the creature takes a **−1 circumstance penalty to attack rolls** *and* a **−10-foot status penalty to its Speeds** (head down, pinned — the penalty hinders *both* their offense and their advance on your allies, serving Lever B twice). Lasts until the start of the suppressing Soldier's next turn (or while it remains in an active Suppression Zone). *The attack penalty deepens to −2 at L13 (Withering Fire).* **One-rider rule** (ORC): when a Soldier takes an action that applies Suppressed, it may also apply **one** effect with the **`[suppressed]`** trait (feat/subclass riders — off-guard, frightened, slowed, etc.); only one such rider per suppressing action.
 
 ### 4.2 Suppressing Fire `[2 actions]` + the Suppression Zone
 
@@ -91,14 +94,23 @@ The Soldier's turn is **post a zone → enforce it → soak**. Typical turn: **S
 - **Trigger:** an enemy in your Suppression Zone **moves** or **takes a hostile action**.
 - **Effect:** make a ranged **Strike** against it (a covering shot) **or** halt its movement (it stops). Full-accuracy ([reaction Strikes ignore MAP](2026-06-13-phase1-core-mechanic-and-traits.md)). **Once per round** baseline; **Withering Fire** (L13) grants a 2nd, and feats add more — filling the **empty ORC Soldier reaction slot** the chassis deliberately claims.
 
-### 4.4 Overwhelming Assault *(chassis, L1)*
+### 4.4 Overwhelming Assault *(chassis, L1 — replaces the dropped Primary Target)*
 
-Your **MAP against Suppressed targets is reduced one step** (−3/−6, agile −2/−4). So while your area work debuffs the cone, your single-target follow-up **Strikes vs the foes you've suppressed stay accurate** — the source of *respectable* (never spiky) single-target damage.
+Your **MAP against Suppressed targets is reduced one step** (−3/−6, agile −2/−4). So while your area work debuffs the cone, your single-target follow-up **Strikes vs the foes you've suppressed stay accurate** — the source of *respectable* (never spiky) single-target damage. *(This covers the niche the dropped **Primary Target** filled — focusing a suppressed foe — without its clunky "success becomes failure" wording.)*
 
-### 4.5 ✦ development
+### 4.5 Durability & CON-mastery *(kept from ORC — the single-attribute engine)*
 
-- **L9 Dig In** — the soak spike: while you haven't moved since your last turn (holding the line), gain **resistance** to physical & energy = your CON mod (you're dug in behind the heavy armor).
-- **L13 Withering Fire** — Suppressed deepens to **−2**; you gain a **2nd Suppressing Reaction** per round.
+These are why a one-stat CON class works; we keep them intact:
+- **Walking Armory** (L1): use **CON instead of STR** for armor requirements; if you already meet the requirement, reduce the armor's Bulk by 1; +carry capacity. *(Lets the CON tank wear heavy armor with no STR investment.)*
+- **Fearsome Bulwark** (L3): use **CON instead of CHA** for Intimidation (Coerce/Demoralize) and **instead of STR** for Athletics (Reposition/Shove). *(Powers the menace **and** the Armor Storm maneuver fork on CON alone — anti-MAD.)*
+- **Tough as Nails** (L7): Fort → Master; a **success on a Fort save becomes a critical success**.
+- **Soldier's Resolution** (L11): Will → Master; a **success on a Will save becomes a critical success**.
+- **Unshakable Juggernaut** (L15): Fort → Legendary; a **critical failure on a Fort save becomes a failure**; and when you **fail** a Fort save against an effect that deals damage, you **halve** that damage. *(The capstone of the soak — the Soldier shrugs off what would fell others.)*
+
+### 4.6 Suppression upgrades *(✦ — our additions)*
+
+- **L9 Dig In** — while you haven't moved since your last turn (holding the line), gain **resistance to physical & energy = your CON mod** (dug in behind the armor — stacks the soak with §4.5).
+- **L13 Withering Fire** — Suppressed's attack penalty deepens to **−2**; you gain a **2nd Suppressing Reaction** per round.
 - **L17 Pinned Down** — Suppressed enemies can't take **reactions** and are **off-guard** to ranged attacks; your Zone is larger.
 - **L20 No Quarter** *(capstone)* — total zone dominance: enemies can't leave your Suppression Zone toward your allies without provoking, and a creature that critically fails its save vs your Suppressing Fire is also **slowed 1**.
 
