@@ -60,13 +60,15 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 
 ## 4. Tech Specialist — Tech Specialties *(INT · Deploy)* — ~5
 
-| Subclass | Deploy fork |
-|---|---|
-| **Bio-Tech** | medic — drone/gadgets as field medicine; the party's healer-by-tech |
-| **Droidwright** | a strong **combat-droid** companion (the pet specialist) |
-| **Slicer** | electronic warfare — hack/disable enemy tech, doors, droids |
-| **Infosphere Director** | recon/comms — battlefield awareness, data-buffs, scouting drone |
-| **Munitions Expert** | deployable weapons — turrets, mines, grenades (area/control) |
+> **Built in full** — [class-tech-specialist §5](2026-06-20-class-tech-specialist.md). Five disciplines adapt the prior Tech disciplines; each reshapes the **Overclock** risk its own way.
+
+| Discipline | Role | Deploy fork |
+|---|---|---|
+| **Bio-Tech** | Support | medic — Mods as field medicine; Overclock a heal to save the dying |
+| **Scrapper** | Utility | jury-rig versatilist — re-tune Mods; *ignore* an Overclock failure |
+| **Armstech** | Offense | combat engineer — weapons/armor; Overclock a gun to Area/Auto-Fire |
+| **Droidwright** | Companion | a droid partner (§F Commanded Actor); failed Overclock buffs the droid |
+| **Slicer** | Control | electronic warfare — hack at range; Overclock → target off-guard |
 
 ## 5. Soldier — Fighting Styles *(CON · Suppress)* — **5, built** *(all ORC styles adapted)*
 

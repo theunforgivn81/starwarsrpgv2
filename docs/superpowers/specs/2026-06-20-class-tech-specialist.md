@@ -1,6 +1,6 @@
 # Class — Tech Specialist *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Deploy** verb (the Modification engine) designed. **Engineering Disciplines** (subclasses), the **Modification list** (the "powers"), and **class feats** are the next steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Deploy** verb (the Modification engine), and the **five Engineering Disciplines** (§5) designed. The **Modification list** (the "powers") and **class feats** are the next steps.
 **Date:** 2026-06-20
 **Type:** Class detail. The gadgeteer/"multiplies-the-party" support engine. Non-Force. **Its core is the Modification mechanic** (not a droid — that's only the Droidwright Discipline). The Modification engine is a **prepared-caster analog that is natively daily-resource-free**, so it ports almost directly into our system.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (Weapon Spec §3.1, Save Expertise §3.2, the no-daily-clock resource model §7), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md), [Connective tissue §F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md) (for the Droidwright Discipline only).
@@ -92,14 +92,66 @@ The subclass (chosen L1): your technical methodology — the proficiencies, a co
 
 ---
 
-## 5. Subclasses — Engineering Disciplines *(to design next — ~5 target)*
+## 5. Subclasses — Engineering Disciplines (five, designed 2026-06-20)
 
-Branch at **L1** on the **1/3/7/11/15/19** cadence; each modulates **Deploy** (Rig/Overclock synergy + a signature methodology). Sketched ([roster §4](2026-06-15-subclass-roster-sketch.md)) + the prior Tech Specialist disciplines to mine (Bio-Tech / Armstech / Scrapper / …):
-- **Bio-Tech** — medic: Mods as field medicine; the party's healer-by-tech (Support).
-- **Droidwright** — a combat-droid **companion** (the pet specialist; the one Discipline needing the [Commanded-Actor framework §F](2026-06-13-connective-tissue-and-review-remediation.md)).
-- **Slicer** — electronic warfare: hack/disable enemy tech, doors, droids (Control/Utility).
-- **Munitions Expert** — deployable weapons: turrets, mines, grenades (Area/Control).
-- **Infosphere Director** — recon/comms: battlefield awareness, data-buffs, scouting (Support/Utility).
+Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each adapts a prior Tech discipline and steers **Deploy** toward a role — and each **reshapes the Overclock risk** its own way (the shared axis). Anti-MAD: most key off **INT** (substituting it into a skill or attack). *(Numbers Gate-A.)*
+
+### 5.1 Bio-Tech — *(Support · the healer-by-tech)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Trauma Interface** | Gain **Medicine** (use **INT** for it) + Battle Medicine; gain the **Kolto Burst** healing Mod free (doesn't count against installs). |
+| 3 | **Field Medic** | Your healing Mods restore **+1 die** and can target an ally at range. |
+| 7 | **Resuscitation Surge** | **Overclock a healing Mod on a dying ally**: you auto-fail the flat check, but the heal is **maximized** and their wounded doesn't increase. |
+| 11 | **Combat Stims** | Activate to grant an ally **temp HP + a status bonus** (to a save or attack) for 1 round. |
+| 15 | **Mass Triage** | Your healing Mods can affect **all allies** in a burst; you can cleanse a condition. |
+| 19 | **Panacea** *(capstone)* | `[once per 10 min]` a master-grade nanite cloud: mass heal in a 30-ft emanation + counteract diseases/poisons/persistent damage. |
+
+### 5.2 Scrapper — *(Utility · the jury-rig versatilist)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Salvager's Intuition** | Gain **Survival** (use **INT**); Repair in half the time; substitute **Crafting** for Thievery to Disable/Pick; **Fusion Torch** Mod free. |
+| 3 | **Jury-Rigged Adapter** | On daily prep, **re-tune one installed Mod** — change its damage type, or reshape its area (cone↔line↔burst). |
+| 7 | **Ablative Casing** | `[once per 10 min]` **ignore an Overclock flat-check failure** (your scrap rig eats the surge). |
+| 11 | **Hot-Swap Master** | Hot-swap an installed Mod as a **single action** (not 10 min) once per encounter. |
+| 15 | **Improvised Arsenal** | Craft temporary gear/consumables from scrap on the fly; re-tune **two** Mods. |
+| 19 | **Field Expedient Genius** *(capstone)* | `[once per day]` jury-rig a bespoke solution — replicate the effect of any Mod you don't know, or improvise a major effect from the environment. |
+
+### 5.3 Armstech — *(Offense · the combat engineer)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Jury-Rigged Arsenal** | Gain **medium armor + martial weapons** (advancing with your light/simple ranks); **Predictive Ballistics** — use **INT** for ranged attacks with a rig-interfaced weapon; **Fragmentation Charge** Mod free. |
+| 3 | **Suppressive Overdrive** | **Overclock a ranged weapon** to make an Area/Auto-Fire attack (your Class DC). |
+| 7 | **Integrated Weapon** | Your rig-weapon's Strikes add a small INT-based rider; Overclocking it adds damage. |
+| 11 | **Deployable Turret** | Activate to set up an autonomous turret (a Commanded emplacement) that lays down fire. |
+| 15 | **Heavy Ordnance** | Your area weapons/Mods ignore some cover/hardness; bigger blasts. |
+| 19 | **Walking Arsenal** *(capstone)* | Overclock your weapon attacks reliably (treat a failed flat check as a success once/round). |
+
+### 5.4 Droidwright — *(Companion · the droid partner)* — uses [§F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md)
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Droid Companion** | Gain a **droid companion** (a [Commanded Actor](2026-06-13-connective-tissue-and-review-remediation.md); construct, shares your attack/AC proficiency); **Droid Engineering Lore**; **Remote Uplink** — your Mods may measure range/line of effect from the droid (Telemetry Uplink Mod free). |
+| 3 | **Feedback Loop** | If you Overclock through the droid's uplink and fail, the **droid absorbs the surge**: you still lock out, but it gains **+1 status to attack & AC** until its next turn. |
+| 7 | **Combat Protocols** | The droid gains a specialization (a stronger attack, or a defensive/support routine). |
+| 11 | **Advanced Chassis** | The droid's durability and abilities upgrade (its proficiencies rise with yours). |
+| 15 | **Networked** | Deploy a second, smaller drone, or your Command grants the droid an extra action. |
+| 19 | **Master Droidwright** *(capstone)* | The droid becomes a formidable partner — a legendary-grade companion that can act more independently. |
+
+### 5.5 Slicer — *(Control · the electronic-warfare hacker)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Wireless Breach** | Gain **Computers**; Disable/bypass/manipulate tech at **30 ft** (no physical access, holding your rig); **Overload Logic** Mod free. |
+| 3 | **Security Compromise** | When you **Overclock** a Mod requiring a save/attack vs an enemy, the target is **off-guard** until your next turn. |
+| 7 | **System Shock** | Slice a foe's gear — jam a weapon (it can't be used 1 round) or blind a sensor (off-guard / can't Seek). |
+| 11 | **Hostile Takeover** | Briefly **commandeer an enemy droid, construct, or vehicle** (it acts on your command; save ends). |
+| 15 | **Ghost in the Machine** | Hack at long range / multiple devices at once; ignore most electronic security. |
+| 19 | **Total Control** *(capstone)* | `[once per 10 min]` seize every hostile device/construct in range for a round (mass takeover, incap-gated). |
+
+**Cross-balance notes.** Same-level features compare with different *shapes*: Bio-Tech = healing, Scrapper = flexibility + Overclock-safety, Armstech = damage, Droidwright = an extra actor, Slicer = debuff/control. The unifying axis is **how each reshapes Overclock** (mitigate / redirect / weaponize). INT-substitutions (Medicine, Survival, ranged attacks → INT) keep each single-attribute (no MAD). Droidwright's companion is the one piece needing [§F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md) (no separate initiative/reaction; Commanded on the Tech's turn). Hard control (Hostile Takeover, Total Control) carries `[incapacitation]`/`[once per 10 min]` gates; the few `[once per day]` capstones (Scrapper) are the sparing high-level tools per [Phase 3 §7](2026-06-13-phase3-progression-chassis.md).
 
 ---
 
@@ -117,7 +169,7 @@ The Modification list is the Tech Specialist's content layer (its analog to the 
 
 ## 8. Carried Forward
 
-- **§5 Engineering Disciplines** (~5) — review the prior Tech disciplines; **Droidwright** invokes §F Commanded Actors.
+- ~~**§5 Engineering Disciplines** (~5)~~ — **DONE (2026-06-20):** Bio-Tech/Scrapper/Armstech/Droidwright/Slicer (all adapt the prior disciplines; Droidwright invokes §F Commanded Actors).
 - **§6 Modification list** — author the "powers" (Standby/Activate/Overclock), re-peg scaling to our Tiers, balance-pass.
 - **§7 class feats** (~50), general + Discipline.
 - **Gate-A:** the Overclock flat-check DC + lockout vs the no-daily model; installed-count (3→7) vs power budget; Mod damage/Overclock values; Legendary Class DC save-DC; skill-increase-every-level (skill-master ceiling).
