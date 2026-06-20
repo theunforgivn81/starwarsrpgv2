@@ -1,6 +1,6 @@
-# Class — Tech Specialist *(in progress)*
+# Class — Tech Specialist *(content-complete, pending Gate-A)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Deploy** verb (the Modification engine), the **five Engineering Disciplines** (§5), and the **24-Modification list** (§6) designed. **Class feats** are the last step.
+**Status:** **Content-complete pending Gate-A.** Identity, proficiencies, L1–20 chassis, the **Deploy** verb (Modification engine), the **five Engineering Disciplines** (§5), the **24-Modification list** (§6), and the **~45 class feats** (§7) are all designed. *(Full per-Mod prose → rules-writing.)*
 **Date:** 2026-06-20
 **Type:** Class detail. The gadgeteer/"multiplies-the-party" support engine. Non-Force. **Its core is the Modification mechanic** (not a droid — that's only the Droidwright Discipline). The Modification engine is a **prepared-caster analog that is natively daily-resource-free**, so it ports almost directly into our system.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (Weapon Spec §3.1, Save Expertise §3.2, the no-daily-clock resource model §7), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md), [Connective tissue §F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md) (for the Droidwright Discipline only).
@@ -222,9 +222,54 @@ Every Modification has three parts + an access **Level**:
 
 ---
 
-## 7. Class Feats *(to design next)*
+## 7. Class Feats — designed (2026-06-20)
 
-~50 (ORC norm): general feats (Rig/Overclock shapers, extra installs, safer/stronger Overclock, skill/Crafting mastery, reactive Mods) + Discipline-gated feats. Mined from the prior Tech Specialist `ClassFeat` suite.
+~50 (ORC norm): **§7.1 general** + **§7.2 Discipline**. Mined from the prior Tech Specialist `ClassFeat` suite. Conventions: INT-keyed; Class-DC saves (no restated attribute); `[R]` reactions respect the **3-reaction cap** ([Phase 1 §4.3](2026-06-13-phase1-core-mechanic-and-traits.md)); Overclock-economy spikes are `[once per 10 min]`; **+install feats don't stack** (one bump beyond the chassis 3→7). Numbers Gate-A.
+
+**The Overclock/Rig line (the Tech's signature feat category).** Like the Soldier's `[suppressed]` riders or the Consular's metamagic — feats that shape *how you gamble and how much you can run*: mitigate/recover the Overclock flat check, expand installs, run two routines, push damage through armor.
+
+### 7.1 General class feats (~30)
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Reactive Countermeasure** `[R]` | When attacked, deploy chaff/smoke: gain **concealment** against that attack (or +1 circ AC). |
+| 1 | **Efficient Rig** | Hot-swap an installed Mod in **1 action** once/round (not 10 min). |
+| 1 | **Field Improvisation** | Use **Crafting** to jury-rig temporary tools/consumables; +1 circ to Mod-supported skill checks. |
+| 1 | **Bypass** | Your damaging Mods **ignore the first 2 points of Hardness/resistance** (scales with level). |
+| 2 | **Surge Protector** | `[once per 10 min]` treat an Overclock **critical failure as a failure** (no Mod disabled). |
+| 2 | **Diagnostic Sweep** | `[1 action]` multi-spectrum scan: Seek a burst; reveal hidden tech/creatures. |
+| 2 | **Holonet Scavenger** | Learn Modifications faster/cheaper; carry one extra Library Mod. |
+| 4 | **Recharge** | `[once per 10 min]` end your own Overclock **lockout** early (1 action). |
+| 4 | **Armor-Piercing Protocols** | Your Mod/weapon damage **ignores resistance equal to your INT** against constructs & armored foes. |
+| 4 | **Reactive Shield** `[R]` | Magnetize debris / micro-deflectors to **reduce a hit's damage** by 2 + half your level. |
+| 6 | **Expanded Rig** | **+1 installed Modification** (does not stack with itself). |
+| 6 | **Logic Bomb** `[Flourish]` | A slicer strike — electricity + the target is **clumsy 1** (off-guard on a crit). |
+| 6 | **Suppressive Tech** | A deployed Mod lays **difficult terrain / a pinning field** in an area. |
+| 8 | **Dual Routine** | Once/round, Activate **two 1-action Mods** as a single 2-action activity. |
+| 8 | **Adaptive Countermeasures** | On daily prep, choose a damage type: gain **resistance = your INT** to it. |
+| 8 | **Sensor Lock** | Designate a foe; you and allies gain **+1 circ to attacks** against it (Telemetry synergy). |
+| 10 | **Overcharged Core** | Your rig self-sustains: regain the ability to Overclock at the start of each turn if it was only *failed* (not crit-failed). |
+| 10 | **Gravity Vortex** `[Flourish]` | Overcharge a gravity-inverter: a burst that **pulls** foes in + bludgeoning (basic Reflex). |
+| 12 | **Cascade Overclock** | When you **succeed** an Overclock flat check, a minor secondary effect triggers (e.g., a free Stride or a 5-ft push). |
+| 12 | **Hardened Systems** | An Overclock **critical failure no longer disables** the Mod (you still lose Overclock 10 min). |
+| 14 | **Master Engineer** | **+1 installed Modification**; reduce a Mod's Activate by 1 action once/round. *(req. Expanded Rig)* |
+| 14 | **Repulsor Field** `[R]` | A localized blast pushes an adjacent attacker 5 ft and grants you +1 circ AC. |
+| 16 | **Failsafe Protocols** | The first Overclock you attempt each combat **auto-succeeds** its flat check. |
+| 18 | **Experimental Core** | Your Overclock effects add **+1 die** beyond their base boost. |
+| 20 | **Perfect Machine** *(capstone)* | Your Overclock flat check **can't be a critical failure**, and you gain **+1 installed Modification**. |
+| 20 | **Apotheosis Engine** *(capstone)* | `[once per round]` Activate a Modification as a **free action**. |
+
+### 7.2 Discipline feats (~15 — three per Discipline)
+
+| Discipline | Feats (level) |
+|---|---|
+| **Bio-Tech** | *Defibrillator Rounds* (4 — your healing Mods work at 30 ft) · *Triage Protocol* (8 — a heal Mod splits between two allies) · *Miracle Nanites* (12 — `[once per 10 min]` self-replicating regen: an ally gains fast healing) |
+| **Scrapper** | *Unstable Conversion* (4 — a re-tuned (Jury-Rigged) Mod adds a rider matching its new type) · *Cannibalize* (8 — strip a device/corpse-droid for a one-use part) · *Ablative Mastery* (12 — Ablative Casing works twice as often) |
+| **Armstech** | *Armor-Shredder* (4 — your rig-weapon Strikes reduce the target's AC on a hit) · *Auto-Turret* (8 — deploy an autonomous turret, a Commanded emplacement) · *Heavy Ordnance Expert* (12 — your area Mods/weapons gain +1 die and bigger areas) |
+| **Droidwright** | *Combat Droid* (4 — the droid gains a second attack / a strong Strike) · *Reinforced Droid* (8 — droid durability + a defensive reaction) · *Networked Command* (12 — once/round Command the droid as a free action) |
+| **Slicer** | *System Crash* (4 — jam a foe's weapon or blind a sensor on a hit) · *Viral Payload* (8 — your Overload Logic spreads to an adjacent foe) · *Total Override* (12 — `[once per 10 min]` hack several devices/constructs at once) |
+
+**Balance notes.** The Overclock-economy line is the Tech's "metamagic," gated by `[once per 10 min]` / once-per-round / once-per-combat so the flat-check risk still bites (the no-daily limiter holds). **+install feats** (Expanded Rig, Master Engineer, Perfect Machine) explicitly **don't stack past a modest ceiling** — Gate-A watch on total installs vs the prepared-power budget. Reactions (Reactive Countermeasure/Shield, Repulsor Field) compete for the single baseline reaction + the chassis Emergency Reroute, under the 3-cap. Class-DC saves, INT-only-on-Overclock, and Tier-boundary scaling all carry from §6.1.
 
 ---
 
@@ -232,6 +277,6 @@ Every Modification has three parts + an access **Level**:
 
 - ~~**§5 Engineering Disciplines** (~5)~~ — **DONE (2026-06-20):** Bio-Tech/Scrapper/Armstech/Droidwright/Slicer (all adapt the prior disciplines; Droidwright invokes §F Commanded Actors).
 - ~~**§6 Modification list**~~ — **DONE (2026-06-20):** 24 Mods mapped (Standby/Activate/Overclock + conventions, scaling re-pegged to Tiers). Full per-Mod prose → rules-writing.
-- **§7 class feats** (~50), general + Discipline.
+- ~~**§7 class feats** (~50)~~ — **DONE (2026-06-20):** §7.1 ~30 general (the Overclock/Rig line) + §7.2 15 Discipline. **Tech Specialist is content-complete pending Gate-A.**
 - **Gate-A:** the Overclock flat-check DC + lockout vs the no-daily model; installed-count (3→7) vs power budget; Mod damage/Overclock values; Legendary Class DC save-DC; skill-increase-every-level (skill-master ceiling).
 - Flavor/description → rules-writing.
