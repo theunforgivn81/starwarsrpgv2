@@ -29,7 +29,7 @@
 | **Fortitude** | **Expert** | soaks the fire it draws |
 | **Will** | **Expert** | a disciplined Force mind |
 | **Reflex** | Trained | the lagging save |
-| **Class DC** (Force) | Trained | Form/Force effects (STR-keyed) |
+| **Class DC** (Force) | Trained | Form/Force effects |
 | **Weapons** | **Expert in lightsabers**; Trained simple + martial | the saber master — the one class starting a weapon at Expert |
 | **Defense** | Trained — **unarmored + light + medium armor** | Jedi combat robes; active defense, not heavy plate |
 | **Skills** | Trained in **3 + Int modifier** | a focused warrior |
@@ -204,7 +204,7 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows
 | 2 | **Furious Charge** | `[2 actions]`: **Stride up to your Speed, then a lightsaber Strike.** |
 | 2 | **Protective Instinct** | **Intercede** range → 20 ft; you may also Intercede an attack against *yourself* to share the reduction with an adjacent ally. |
 | 2 | **Telekinetic Shove** | Your **Force Push** gains a Shove rider and costs 1 less when used in melee (once/turn). |
-| 4 | **Disarming Twist** | Athletics **Disarm** using your lightsaber + **Class DC**. |
+| 4 | **Disarming Twist** | **Disarm** with your lightsaber, the target saving against your **Class DC**. |
 | 4 | **Sundering Strike** | A lightsaber Strike that hits also gives the target **−1 circ AC** until your next turn. |
 | 4 | **Telekinetic Throw** | `[2 actions]`, Att: hurl an adjacent/grabbed foe (Reflex save; damage + prone). |
 | 6 | **Wall Run** | Stride along **vertical surfaces** without falling (ends on solid ground). |

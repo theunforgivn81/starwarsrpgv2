@@ -162,15 +162,15 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ 
 
 ### 5.4 Investigator — reactive detective / controller *(role lean: Control + Information)*
 
-*You read the foe before it commits, then subdue it.* (Adapted from the prior **Path of the Watchman**.) **Mechanism = information + mundane maneuvers guided by foresight** — Recall Knowledge and WIS-keyed Trip/Disarm/Shove, not a Force power (§4.1).
+*You read the foe before it commits, then subdue it.* (Adapted from the prior **Path of the Watchman**.) **Mechanism = information + mundane maneuvers guided by foresight** — Recall Knowledge and Class-DC Trip/Disarm/Shove, not a Force power (§4.1).
 
 | Lvl | Feature | Effect |
 |---|---|---|
 | 1 | **Deductive Angle** | Gain **Diplomacy or Society** (or +1). When you use a **Premonition** reaction, you may **Recall Knowledge** about the triggering creature as part of it (free); on a success, that reaction gains **+1 circ** to its roll/effect (you spotted the tell). |
-| 3 | **Precognitive Maneuvers** | New response **Maneuver** *(control, 1 Att)* — react to **Trip, Disarm, or Shove** the triggering creature, rolling **Athletics with your Wisdom modifier** (foresight leverage, not muscle → no MAD). |
+| 3 | **Precognitive Maneuvers** | New response **Maneuver** *(control, 1 Att)* — react to **Trip, Disarm, or Shove** the triggering creature; the target saves against your **Class DC** (foresight leverage, not muscle — no separate maneuver roll, no MAD). |
 | 7 | **Read the Room** | Once per round, **Recall Knowledge as a free action** (untethered from a Premonition) against any creature you perceive; share one fact to grant an ally **+1 circ** to their next attack vs that foe. |
 | 11 | **Subduing Foresight** | A successful **Maneuver** also imposes **−1 circ to the foe's attacks** until your next turn; you take no penalty to deal nonlethal damage; you may fold a Maneuver into a **Counter** (Strike + maneuver, one reaction). |
-| 15 | **Total Recall** | Against a creature you've Recalled this encounter, your Premonition responses gain **+1 circ** (reliable, no check) and your **Maneuver uses your Class DC**. |
+| 15 | **Total Recall** | Against a creature you've Recalled this encounter, your Premonition responses gain **+1 circ** (reliable, no check) and your **Maneuver vs it also leaves it off-guard** until your next turn. |
 | 19 | **Case Closed** *(capstone)* | Once per round, a successful **Maneuver** lets you apply a second, different maneuver to that foe for free. Creatures you've Recalled **can't be hidden/concealed from you**, and your **Counter** treats them as off-guard. |
 
 ### 5.5 Corsair — reactive ranged dirty-fighter *(role lean: ranged single-target offense + Utility)*
