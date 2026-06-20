@@ -1,6 +1,6 @@
 # Class — Officer *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Command** verb (the Directive engine) designed. **Leadership Styles** (subclasses), the **Directive list**, and **class feats** are the next steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Command** verb (the Directive engine), and the **six Leadership Styles** (§5) designed. The **Directive list** and **class feats** are the next steps.
 **Date:** 2026-06-20
 **Type:** Class detail. The **leader/face** — the force-multiplier. Non-Force. The **seventh and final** class, completing the roster. Adapts the prior **Envoy**. **Carries the action-granting design risk** the [Gate-A pass](2026-06-19-gate-a-balance-pass.md) deferred — resolved here via the bonus-first Directive model (§4).
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (Save Expertise §3.2, Weapon Spec §3.1), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md), [Class Roster](2026-06-15-class-roster-sketch.md).
@@ -96,12 +96,77 @@ Splashy command techniques carry the **`[Flourish]`** trait — **one per turn**
 
 ---
 
-## 5. Subclasses — Leadership Styles *(to design next — ~3, SF2E Envoy-adapted)*
+## 5. Subclasses — Leadership Styles (six, designed 2026-06-20)
 
-Branch at **L1** on the **1/3/7/11/15/19** cadence; each grants a leadership skill + perk + a signature Directive, steering Command. Sketched ([roster §6](2026-06-15-subclass-roster-sketch.md)) + the prior Envoy styles (From the Front / From the Shadows / In the Spotlight):
-- **Field Commander** (From the Front) — frontline leader: Directives that grant **movement/positioning** and let you fight alongside (the bounded action-grant fork).
-- **Spymaster** (From the Shadows) — intel/deception: debuff foes, coordinate ambushes, information (Control/Social).
-- **Inspiring Hero** (In the Spotlight) — morale/rally: buffs, rally-from-the-brink, temp HP, the social spotlight (Support).
+Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each grants a **leadership skill + a bonus skill feat + a signature Directive**, then deepens that style of command. All six adapt the prior Envoy leadership styles. Action-grants stay **bounded** (movement / one conditional Strike, ≈1:1, the one-Directive-per-round limit — §4.1). *(Numbers Gate-A.)*
+
+### 5.1 From the Front — *(frontline commander; movement & positioning)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Into Position!** | Gain **Athletics** + medium armor (advances with light). Directive: allies who can sense you may **Stride/Step** to reposition; **Lead by Example**: you Stride and Strike. |
+| 3 | **Covering Advance** | Allies who reposition via your Directive gain **+1 circ AC** until your next turn. |
+| 7 | **Rallying Charge** | A coordinated advance — allies Stride toward a chosen foe and gain a status bonus to their first Strike. |
+| 11 | **Unstoppable Advance** | Allies following your movement Directives **ignore difficult terrain** and don't provoke. |
+| 15 | **Hold the Line** | A defensive command: allies who *don't* move gain **cover + a save bonus**. |
+| 19 | **Tip of the Spear** *(capstone)* | A squad assault — directed allies converge and each gains a free **Stride** + a damage bonus on their next Strike. |
+
+### 5.2 From the Shadows — *(covert leader; ambush & off-guard)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Coordinate Ambush** | Gain **Stealth** + Assurance (Stealth). Directive: an ally hidden/unseen by a foe treats it as **off-guard**; **Lead by Example**: Hide/Sneak + a reactive Strike when the ally first attacks. |
+| 3 | **Shared Cover** | Allies you direct gain a bonus to **Stealth & initiative**. |
+| 7 | **Misdirection** | Feint a foe (Class DC) — it's **off-guard** to your whole squad briefly. |
+| 11 | **Flanking Protocol** | Coordinate a pincer — two allies count as flanking a foe even when not adjacent to each other. |
+| 15 | **Lead from the Shadows** | Issue Directives **while hidden** without revealing yourself. |
+| 19 | **Perfect Ambush** *(capstone)* | Open combat with a devastating coordinated strike — allies acting in round 1 treat all foes as off-guard. |
+
+### 5.3 In the Spotlight — *(performer/charmer; flair & morale)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Dance Partner!** | Gain **Performance** + Impressive Performance. Directive: you and an ally make paired **Stride/Step** moves; **Lead by Example**: enemies near either of you are off-guard, and your partner is concealed vs ranged. |
+| 3 | **Crowd-Pleaser** | Your Performance-based Directives also grant a small **morale** bonus (vs fear). |
+| 7 | **Showstopper** | A dazzling display — foes who see it are **off-guard**; allies gain temp HP. |
+| 11 | **Captivate** | Hold an audience/foe's attention (a soft single-target control via Performance, Class DC). |
+| 15 | **Star of the Show** | The social spotlight (signature appeals, command a room); in combat, your Directives reach **all** allies who can sense you. |
+| 19 | **Grand Performance** *(capstone)* | A battlefield morale swing — allies gain a major status bonus; foes are demoralized en masse. |
+
+### 5.4 Infosphere Director — *(information warfare; intel & anti-tech)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Digital Assessment!** | Gain **Computers** + Digital Diversion. Directive: **Recall Knowledge** on a foe (note a resistance/immunity); **Lead by Example**: Strike + you and allies gain **+1 circ AC** vs that foe (glitch it if it has the tech trait). |
+| 3 | **Shared Intel** | When you identify a foe, allies gain a status bonus to attacks against it. |
+| 7 | **Targeting Uplink** | Mark a foe; allies gain bonuses to hit it and ignore its concealment. |
+| 11 | **Signal Jamming** | Disrupt enemy comms/tech — foes can't aid each other / take a penalty to reactions. |
+| 15 | **Battlefield Omniscience** | Constant awareness — you and allies can't be flanked or surprised. |
+| 19 | **Total Information Control** *(capstone)* | The squad acts on perfect intel: once/round grant an ally a reroll, and foes you've assessed are off-guard to all. |
+
+### 5.5 Guns Blazing — *(aggressive firepower leader)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Ready Arms!** | Gain **Acrobatics** + Incredible Initiative. Directive: you and allies in 30 ft may **draw/swap weapons** as a reaction; **Lead by Example**: you Strike/Area-Fire, and **if it connects, one ally may Strike that foe as a free action** (the bounded ≈1:1 grant). |
+| 3 | **First Blood** | You always act in the **first initiative** order; allies you direct gain +damage in round 1. |
+| 7 | **Concentrated Fire** | Focus the squad — allies gain a stacking-capped status bonus to attacks vs a foe you've Struck. |
+| 11 | **Suppressing Command** | Coordinate fire to pin a foe (off-guard / can't Step toward allies). |
+| 15 | **Alpha Strike** | Once/encounter, the opening round, allies gain a major to-hit/damage surge. |
+| 19 | **All Guns Blazing** *(capstone)* | `[once per minute]` each ally who can sense you may make **one** Strike against a foe you designate (the bounded mass-grant — one Strike each, once/min). |
+
+### 5.6 Through Desperate Times — *(protective leader; rally & survival)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Steady On!** | Gain **Diplomacy** (or Medicine) + a protective perk. Directive: allies gain **temp HP + a save bonus**; **Lead by Example**: also reduce an ally's frightened/off-guard. |
+| 3 | **Rally** | Once/round, an ally you direct may **reduce a condition** (frightened/clumsy/etc.) by 1. |
+| 7 | **Never Give Up** | `[reaction]` when an ally within 30 ft drops to 0 HP, they get a save / minor heal to stay up. |
+| 11 | **Protective Aura** | Allies within 15 ft gain a **+1 status to saves** (the steadying presence). |
+| 15 | **Second Wind** | Rally from the brink — restore HP + clear conditions to a battered ally (once/encounter). |
+| 19 | **No One Left Behind** *(capstone)* | `[once per minute]` keep every ally within range from dropping below 1 HP for a round (the heroic last stand). |
+
+**Cross-balance & action-granting notes.** Same-level features compare with different *shapes*: From the Front = mobility, From the Shadows = off-guard/ambush, In the Spotlight = morale/flair, Infosphere = intel/anti-tech, Guns Blazing = aggressive fire, Through Desperate Times = protection/rally. **Every action-grant stays bounded** (movement, or *one* conditional/contingent Strike, capped by the one-Directive-per-round rule and `[once per minute]` on the mass ones) — the priority [Gate-A](2026-06-19-gate-a-balance-pass.md) check. Status bonuses don't stack across multiple Officers (same type). Class-DC for debuff Directives (no restated attribute). Through Desperate Times overlaps the Bio-Tech *healer* niche but via **rally/temp-HP/condition-relief**, not Mod-healing — a morale protector, not a medic.
 
 ---
 
@@ -119,7 +184,7 @@ The Directive list is the Officer's content layer (its analog to Mods/powers, **
 
 ## 8. Carried Forward
 
-- **§5 Leadership Styles** (~3) — review the prior Envoy styles.
+- ~~**§5 Leadership Styles** (~3)~~ — **DONE (2026-06-20):** **six** (From the Front / From the Shadows / In the Spotlight / Infosphere Director / Guns Blazing / Through Desperate Times), all adapting the prior Envoy styles.
 - **§6 Directive list** — author the "orders" (bonus-first; bounded action-grants flagged).
 - **§7 class feats** (~50), general + Style.
 - **Gate-A (priority — the deferred action-granting audit):** validate that no Directive/feat nets the party **positive actions repeatably** (>1:1 grants forbidden by §4.1); the one-Directive-per-round economy; stacking the same status bonus across multiple Officers (doesn't stack — same type); Get-the-Job-Done's bonus values; Will-Legendary on a frail CHA class.

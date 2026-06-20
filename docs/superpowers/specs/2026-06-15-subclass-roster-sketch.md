@@ -82,13 +82,18 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **Enforcer** (Erudite Warrior) | single-target menace; Oppressive Presence soft-taunt |
 | **Vanguard** (Close Quarters) | two-handed melee whirlwind; self-centered melee suppression |
 
-## 6. Officer — Leadership Styles *(CHA · Command)* — ~3 *(SF2E Envoy-adapted)*
+## 6. Officer — Leadership Styles *(CHA · Command)* — **6, built** *(all SF2E Envoy styles adapted)*
 
-| Subclass | Command fork |
+> **Built in full** — [class-officer §5](2026-06-20-class-officer.md).
+
+| Style | Fork |
 |---|---|
-| **Field Commander** (From the Front) | frontline leader — grant allies attacks/movement, lead the charge |
-| **Spymaster** (From the Shadows) | intel/deception — debuff foes, coordinate ambushes, information |
-| **Inspiring Hero** (In the Spotlight) | morale/rally — buffs, rally-from-the-brink, the social spotlight |
+| **From the Front** | frontline — movement/positioning grants; fight alongside |
+| **From the Shadows** | covert — ambush, off-guard setup, stealth |
+| **In the Spotlight** | performer — paired maneuvers, morale, the social spotlight |
+| **Infosphere Director** | intel — Recall Knowledge, targeting data, anti-tech |
+| **Guns Blazing** | aggressive fire — initiative, ready-arms, the bounded free-ally-Strike |
+| **Through Desperate Times** | protector — rally, temp HP, keep-them-alive |
 
 ## 7. Scoundrel — Specializations *(DEX · Exploit)* — **5, built** *(four adapt the prior Operative specs)*
 
