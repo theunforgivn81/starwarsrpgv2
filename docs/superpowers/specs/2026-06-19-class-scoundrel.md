@@ -1,6 +1,6 @@
-# Class — Scoundrel *(in progress)*
+# Class — Scoundrel *(content-complete, pending Gate-A)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Exploit** verb, and the **five specialization subclasses** (§5) designed. **Class feats** are the last step.
+**Status:** **Content-complete pending Gate-A.** Identity, proficiencies, L1–20 chassis, the **Exploit** verb, the **five specializations** (§5), and the **~50 class feats** (§6) are all designed.
 **Date:** 2026-06-19
 **Type:** Class detail. The fringe precision-operator; **the dedicated ranged striker** (the bracket the Guardian's single-target DPR is checked against, [Gate-A](2026-06-19-gate-a-balance-pass.md)). Absorbs the prior **Operative**'s Mark/Aim engine. Non-Force.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (incl. Weapon Spec §3.1, Save Expertise §3.2), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md) (MAP, off-guard, reaction cap §4.3), [Class Roster](2026-06-15-class-roster-sketch.md).
@@ -167,15 +167,66 @@ Branch at **L1** (the specialization choice) on the **1/3/7/11/15/19** cadence (
 
 ---
 
-## 6. Class Feats *(to design next)*
+## 6. Class Feats — designed (2026-06-20)
 
-~50 (ORC norm): general feats (Exploit/Aim shapers, `[Flourish]` trick-shots, mobility/repositioning, skill/social, reposition-and-strike) + subclass feats. Mined from the prior Operative `ClassFeat` suite.
+~50 (ORC norm): **§6.1 general** + **§6.2 subclass**. Mined from the prior Operative `ClassFeat` suite. Conventions: DEX-keyed; Class-DC saves (no restated attribute); `[F]` = **Flourish** (one/round); `[R]` = reaction (subject to the **3-reaction cap**, [Phase 1 §4.3](2026-06-13-phase1-core-mechanic-and-traits.md)); precision is the **Exploit** engine (feats add *riders/effects*, not a second precision stack). Numbers Gate-A.
+
+**The trick-shot menu (`[Flourish]`).** A cluster of special shots — Disarm, Ricochet, Double Tap, Piercing, Crippling — each one `[Flourish]` (one/round), so they **compete in play, not in the build**: a Scoundrel collects shots and picks the right one each turn.
+
+### 6.1 General class feats (~31)
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Mobile Aim** | Once/round, **Aim** as part of a Stride (set up on the move). |
+| 1 | **Disarming Shot** `[F]` | A ranged Strike vs your Mark that also attempts to **Disarm** (your Class DC). |
+| 1 | **Nimble Dodge** `[R]` | When attacked by a foe you see, gain **+2 circ AC** against that attack. |
+| 1 | **Coordinated Fire** | A foe an ally is adjacent to / flanking is **exploitable to you** at range. |
+| 2 | **Quick Swap** | Draw, stow, or swap a weapon as a **free action** once/turn. |
+| 2 | **Ricochet Shot** `[F]` | A shot that **ignores cover and concealment** (bank it off a surface). |
+| 2 | **Sidestep** | After you Strike, **Step** as a free action (shoot and reposition). |
+| 2 | **Vital Shot** | Your **Exploit** vs a Mark also deals **persistent bleed** = the Exploit die size. |
+| 4 | **Double Tap** `[F]` | Fire **twice** at one target as a single action (two Strikes, shared MAP). |
+| 4 | **Piercing Shot** `[F]` | One shot down a **line**, hitting each creature in it. |
+| 4 | **Crippling Shot** `[F]` | A Strike vs your Mark that leaves it **clumsy 1** or **−10 Speed** (your choice). |
+| 4 | **Mobile Strike** | `[2 actions]`: Stride and make a ranged Strike at any point during the move. |
+| 6 | **Gun Parry** `[R]` | Use a wielded gun to gain **+2 circ AC** against a melee attack. |
+| 6 | **Finisher** | When you drop a foe (or reduce your Mark below half), **Aim** a new target as a free action. |
+| 6 | **Skirmisher's Step** | Your movement doesn't provoke from creatures you've Struck this turn. |
+| 6 | **Spray** `[F]` | A cone of fire — each foe in it takes a basic Reflex save (your Class DC) for damage. |
+| 8 | **Demand Surrender** `[F]` | Intimidate a foe (your Class DC) to halt and drop — on a fail it's **off-guard & can't act offensively** 1 round. |
+| 8 | **Twin Guns** | Wielding two one-handed guns, your **Aim** applies to Strikes with **both**. |
+| 8 | **Called Shot** `[F]` | A precise Strike vs your Mark that makes it **off-guard** until your next turn. |
+| 8 | **Combat Roll** `[R]` | When targeted by an area effect, **Step** before the save (avoid the worst). |
+| 10 | **Deadly Aim** | The first Strike each turn vs an exploitable foe gains **+1 Exploit die**. |
+| 10 | **Run and Gun** | `[2 actions]`: Stride, then make **two** ranged Strikes (shared MAP). |
+| 10 | **Living Weapon** | You can't be caught off-guard at the start of combat while armed; **+1 circ initiative**. |
+| 12 | **Killing Shot** `[F]` | An aimed Strike vs your Mark with **+1 Exploit die**; on a crit, the Mark is **slowed 1**. |
+| 12 | **Whirlwind Fire** `[F]` | A ranged Strike against **up to three** foes in reach/range (shared MAP). |
+| 12 | **Defensive Roll** `[R]` | `[once per minute]` when a hit would reduce you to 0 HP, **halve** its damage (the operator's last twist away). |
+| 14 | **Greater Trick Shot** | Your `[F]` trick-shots gain **+1 die** of damage when they hit. |
+| 14 | **Untouchable** | Foes you've Struck this turn take **−1 circ** to attack you until your next turn. |
+| 16 | **Perfect Aim** | Your **Exploit** vs your Mark ignores its resistance to precision damage. |
+| 18 | **Unerring Shot** | `[once per minute]` a ranged Strike that **automatically hits** (not a crit). |
+| 20 | **Deadeye Legend** *(capstone)* | `[once per round]` maximize your **Exploit dice** on one Strike. |
+| 20 | **One in a Million** *(capstone)* | Your Strikes vs an exploitable foe score a **critical hit on a 19–20**. |
+
+### 6.2 Subclass feats (~15 — three per specialization)
+
+| Spec | Feats (level) |
+|---|---|
+| **Smuggler** | *Fast Talk* (4 — Feint two foes / at 30 ft) · *Bamboozle* (8 — a foe you Feint **can't use reactions** until your next turn) · *Slip the Net* (12 — Escape / vanish in a crowd as a Flourish; talk past a grab) |
+| **Sniper** | *Long Shot* (4 — Aim applies to your **4th** range increment) · *No Cover* (8 — your Mark gains no benefit from standing in concealment) · *Through the Scope* (12 — never lose your Mark to line-of-sight; crit range +1 vs Mark) |
+| **Gunslinger** | *Twin Pistols* (4 — dual one-handed guns; Reload both with one action) · *Fan the Hammer* (8 `[F]` — three rapid shots at one adjacent foe) · *Quickest Draw* (12 — at the start of combat, Aim + a ranged Strike before initiative) |
+| **Infiltrator** | *Deep Slice* (4 — Sabotage doors/security; disable a device at range) · *Smoke Bomb* (8 — drop a concealing cloud, then Hide) · *Assassin's Mark* (12 — a Strike from undetected vs your Mark deals **+2 Exploit dice**) |
+| **Striker** | *Knockout Blow* (4 — a melee Strike vs an off-guard foe; it must save (Class DC) or be **stunned 1**) · *Blade and Gun* (8 — after a ranged Strike, a melee Strike as a single action) · *Death Blossom* (12 `[F]` — a finesse Strike against each adjacent foe) |
+
+**Balance notes.** Trick-shots are `[Flourish]` (one/round) and don't add a *second* precision stack — they add riders/effects, with Exploit dice as the only precision source. Reaction feats (Nimble Dodge, Gun Parry, Combat Roll) compete for the Scoundrel's single baseline reaction (no chassis 2nd reaction) and respect the 3-cap. Capstones / Unerring Shot are once-per-round/minute. Demand Surrender and Knockout use the Class DC (no restated attribute). Exploit-die bumps (Deadly Aim, Killing Shot, Greater Trick Shot, Assassin's Mark) are situational/once-per-turn, keeping the ranged-striker bracket intact (Gate-A re-check vs the Guardian).
 
 ---
 
 ## 7. Carried Forward
 
 - ~~**§5 subclasses** (~5)~~ — **DONE (2026-06-20):** Smuggler/Sniper/Gunslinger/Infiltrator/Striker (four adapt the prior Operative specs; Smuggler new).
-- **§6 class feats** (~50), general + subclass.
+- ~~**§6 class feats** (~50)~~ — **DONE (2026-06-20):** §6.1 ~31 general (the `[Flourish]` trick-shot menu) + §6.2 15 subclass. **Scoundrel is content-complete pending Gate-A.**
 - **Gate-A:** Exploit die arc (1d6→4d6) vs the ranged-striker bracket (re-check the Guardian); Aim action-economy (setup cost) vs always-on precision; Legendary guns DPR; the **L20 capstone** exact form.
 - Flavor/description → rules-writing.
