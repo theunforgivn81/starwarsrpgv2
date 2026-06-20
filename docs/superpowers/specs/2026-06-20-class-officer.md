@@ -252,14 +252,12 @@ The Directive list is the Officer's content layer (its analog to Mods/powers, **
 
 **The concern:** with only a starting Directive + the Leadership-Style Directive, a low-level Officer has too few orders to make interesting turn-by-turn choices.
 
-**Where depth comes from (three layers):**
-1. **Feat-granted Directives** — most of §7.1's general feats *are* new Directives; the feat layer **is** the command repertoire (a mid-level Officer who's spent feats here has 6–10+ orders).
-2. **Leadership-Style Directives** — each style adds its signature plus style-feat directives.
-3. **The base list (§6)** — the orders every Officer can choose from.
+**Where depth comes from (four layers):**
+1. **The fleshed-out subclass progression (our biggest divergence from ORC).** ORC leadership styles grant **one** signature directive + a perk + a few style-feats. **Our subclasses run the full 1/3/7/11/15/19 feature track** (six slots) — so each Leadership Style has *room to grant several Directives across its progression*, not just at L1. Re-reading §5, many style features already *are* directives (Rallying Charge, Showstopper, Targeting Uplink, Concentrated Fire, Misdirection, Rally…); tagging them as `[Directive]` grants means **a single-subclass Officer accrues ~3–5 Directives from its subclass alone**, automatically, as it levels. This is the cleanest fix: depth scales with the character without spending general feats.
+2. **Feat-granted Directives** — most of §7.1's general feats *are* new Directives; the feat layer **is** the elective command repertoire.
+3. **The base list (§6)** — the orders every Officer can choose from at L1.
+4. **Modal design** — each Directive's 1-action vs 2-action Lead-by-Example modes already multiply the choice space.
 
-**The real gap is *early game*** (L1–4), where the repertoire is thinnest. Options to fix (for discussion):
-- **(a) Generous base list + free starting picks:** author a sizable base Directive list (§6, ~12–15) and have the chassis **grant several Directives known at L1** (e.g., start with 3–4, not 1), so turn-one choice exists before feats fill in.
-- **(b) Modal Directives:** make each Directive **flexible** (a 1-action *vs* 2-action Lead-by-Example mode, plus a situational rider), so even a small set yields many distinct turns (depth via *configuration*, not count).
-- **(c) Both** — a moderate base list (~10) + generous starting picks + modal design. *(Recommended.)*
+**The remaining gap is *early game*** (L1–4), before the subclass progression and feats fill in. The fix: **(a)** a moderate **base list (§6, ~10–12)** with the chassis granting **3–4 Directives known at L1** (not 1), so turn-one choice exists; **(b)** **modal** directives (mode + rider) so even a small set yields many distinct turns; **(c)** tag the **§5 subclass features** that are directives as `[Directive]` grants, so the repertoire grows automatically every few levels. *(Recommended: all three — the subclass-progression lever (layer 1) does most of the work; the base list + generous L1 picks close the early gap.)*
 
-*Resolution feeds §6 (how many base Directives, and how many the chassis grants known at L1).*
+*Resolution feeds §6 (base Directive count + how many the chassis grants known at L1) and a light pass tagging §5 directive-features.*
