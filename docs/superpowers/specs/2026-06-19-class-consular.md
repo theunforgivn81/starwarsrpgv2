@@ -1,6 +1,6 @@
-# Class — Consular *(in progress)*
+# Class — Consular *(content-complete, pending Gate-A)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Manifest** verb, and the **six Mandate subclasses** (§5, one per Force school) designed. **Class feats** are the last step.
+**Status:** **Content-complete pending Gate-A.** Identity, proficiencies, L1–20 chassis, the **Manifest** verb, the **six Mandate subclasses** (§5), and the **~50 class feats** (§6) are all designed. *(Completes the Force trinity.)*
 **Date:** 2026-06-19
 **Type:** Class detail. The third and final **Force** class (completes the trinity: Guardian = blade, Sentinel = reaction, **Consular = powers**). Built almost entirely from existing layers — the [Force toolkit](2026-06-15-shared-force-toolkit.md) (powers), the Attunement economy, and the six Force schools — so it's an assembly job, not new subsystems.
 **Upstream:** [Phase 5 chassis & Force](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Force toolkit](2026-06-15-shared-force-toolkit.md), [Class Roster](2026-06-15-class-roster-sketch.md).
@@ -175,16 +175,71 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each **Mandate** 
 
 ---
 
-## 6. Class Feats *(to design next)*
+## 6. Class Feats — designed (2026-06-19)
 
-~50 (ORC norm): general feats (Manifest shapers, metamagic-style Push/economy feats, Telekinetic Impact upgrades, power-access feats, lightsaber/Deflect dabbling) + Mandate-gated feats. Mined from the prior Consular `ClassFeat` suite.
+~50 (ORC norm): **§6.1 general** + **§6.2 Mandate**. Mined from the prior Consular `ClassFeat` suite. Conventions applied: save-effects use the **Class DC** (no restated attribute); flat-value riders use **level-based** values (not the key attribute); toolkit-access feats *acquire* shared powers (never class-lock them, §4.1); the spiky **metamagic** feats are `[once per minute]`/once-per-round so the deep pool can't nova. Prior "while Connected" → flat passives. Numbers Gate-A.
+
+**The metamagic line (the Consular's signature feat category).** A cluster of feats spend *extra* Attunement to bend a power — Empower, Twin, Overchannel, free Sustain. They're *why* the Consular wants the deepest pool, and their gates keep the throughput bounded.
+
+### 6.1 General class feats (~33)
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Refined Impact** | Your **Telekinetic Impact** gains a second mode: an erratic bolt that **ignores an amount of resistance = your level**. |
+| 1 | **Mystic Armor** | While unarmored, gain **+1 circ AC vs ranged attacks**. |
+| 1 | **Living Force Sense** | You have a passive imprecise sense of living creatures within 30 ft. |
+| 1 | **Fleet Center** | Once per round, **Center** as part of another action (refuel without spending your whole turn). |
+| 2 | **Sustaining Will** | Sustain a Force power as a **free action** once per round. |
+| 2 | **Deflecting Hand** | Gain **Deflect** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
+| 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
+| 2 | **Telekinetic Finesse** | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. |
+| 4 | **Empowered Impact** | Your Telekinetic Impact and Alter forced movement push **+5 ft**; on a crit, knock prone. |
+| 4 | **Force Levitation** | `[1 action]`: hover/levitate (slow fly) until your next turn. |
+| 4 | **Projected Aura** | A 15-ft aura: allies **+1 status vs fear**, **or** enemies **−1 status to attacks** (choose when you Manifest). |
+| 4 | **Mind's Shield** | `[reaction]` when you succeed a Will save vs a creature, reflect **mental** feedback (it's off-guard to you). |
+| 6 | **Twin Sustain** | You can maintain **two** Sustained powers at once. |
+| 6 | **Force Stride** | Run across liquid/vertical surfaces (end on solid ground). |
+| 6 | **Potent Powers** | Your healing powers restore **+1 die**; your damaging powers' persistent damage +1. |
+| 6 | **Crushing Pressure** | A creature you've **Held/Grabbed** via a power takes damage **= half your level** each turn. |
+| 8 | **Empower Manifest** | `[once per minute]` Manifest one power with **maximized dice** (no roll). |
+| 8 | **Remote Manifest** | Manifest a power through a willing ally or a sensor you can perceive (fold space). |
+| 8 | **Shared Senses** | Broadcast your precise senses to allies within 30 ft for 1 round. |
+| 8 | **Deep Reserve** | Your Attunement pool increases by **+2** beyond Deep Reservoir. |
+| 10 | **Force Flight** | Gain **Telekinetic Flight** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
+| 10 | **Quickened Manifest** | `[once per minute]` Manifest a 1-action power as a **free action**. |
+| 10 | **Absolute Focus** | Your Sustained powers and concentration can't be disrupted by damage. |
+| 12 | **Wide Aperture** | Your area powers' areas grow one step. |
+| 12 | **Phase Step** | Gain **Phase Shift** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
+| 12 | **Restorative Aura** | `[2 actions]`, Att: allies in a 15-ft emanation regain HP (a mass heal). |
+| 14 | **Overchannel** | `[once per minute]` Manifest a power you can't afford by paying the deficit in **HP** (then fatigued). |
+| 14 | **Deny Death** | `[reaction]` when an ally within 30 ft would die, keep them at 1 HP (once per ally per day). |
+| 16 | **Greater Empower** *(req. Empower Manifest)* | Empower Manifest becomes **once per round**. |
+| 16 | **Twin Manifest** | `[once per minute]` Manifest **two** 1-action powers as a single activity. |
+| 18 | **Cosmic Conduit** | `[once per minute]` your next power treats its tier as one higher (heightened). |
+| 20 | **One with the Force** *(capstone)* | Once per round, Manifest a power **without spending Attunement**. |
+| 20 | **Selfless Sacrifice** *(capstone)* | Expend your entire pool to **revive or fully heal** an ally (drained afterward). |
+
+### 6.2 Mandate feats (~18 — three per Mandate)
+
+Each requires the named Mandate.
+
+| Mandate | Feats (level) |
+|---|---|
+| **Telekinesis** | *Crushing Grasp* (4 — Held/Grabbed foes take +damage and can't act to escape easily) · *Telekinetic Storm* (8 — your Alter attack becomes an emanation) · *Hurl Foe* (12 — throw a creature as a weapon at another) |
+| **Visions** | *Untouchable* (4 — you can't be surprised, ever) · *Shared Foresight* (8 — grant an ally your roll-twice once/round) · *Perfect Clarity* (12 — auto-disbelieve illusions; see the immediate future) |
+| **Serenity** | *Tutaminis Mastery* (4 — Energy Absorption resists all energy types) · *Sanctuary* (8 — a zone allies are protected within) · *Unshakable* (12 — immune to fear and the controlled condition) |
+| **Vitality** | *Battlefield Medic* (4 — Vital Transfer at range, no HP cost once/round) · *Life Bond* (8 — share a wounded ally's incoming damage) · *Rapid Regeneration* (12 — an ally gains fast healing) |
+| **Dominance** | *Insidious Suggestion* (4 — Mind Trick targets don't realize they were influenced) · *Mass Terror* (8 — Force Fear becomes an area) · *Lasting Domination* (12 — Dominate Mind lasts longer / resists ending) |
+| **Destruction** | *Overload* (4 — once/turn an Offense power gains +1 die) · *Forked Lightning* (8 — your lightning hits a second target) · *Annihilating Bolt* (12 — your Offense powers ignore resistance = your level) |
+
+**Balance notes.** Metamagic spikes (Empower, Twin, Overchannel, Quickened, Cosmic Conduit) are `[once per minute]`/once-per-round and several cost extra Attunement or HP — bounding the deep pool's nova ceiling (Gate-A watch). Toolkit-access feats (Deflecting Hand, Force Flight, Phase Step) only *acquire* shared powers. Riders use level-based values (no restated attribute). `[dark]` interactions (Destruction, any drain) hook the deferred corruption subsystem.
 
 ---
 
 ## 7. Carried Forward
 
 - ~~**§5 Mandates** — six~~ — **DONE (2026-06-19):** Telekinesis/Visions/Serenity/Vitality/Dominance/Destruction, one per school.
-- **§6 class feats** — ~50, general + Mandate.
+- ~~**§6 class feats** — ~50~~ — **DONE (2026-06-19):** §6.1 ~33 general (incl. the metamagic line) + §6.2 18 Mandate. **Consular is content-complete pending Gate-A.**
 - **"Powers known" progression** — exact counts/levels (the Consular knows the most) → Gate-A.
 - **Gate-A validation:** Deep Reservoir pool (`3+L`) + Center +3, Legendary Class DC save-DC vs the bounded spine, Telekinetic Impact at-will DPR, and the reworked **CHA** key (vs ORC WIS).
 - Flavor/description → rules-writing.
