@@ -1,6 +1,6 @@
 # Class — Consular *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Manifest** verb framework designed. The **six Mandate subclasses** (one per Force school) and **class feats** are the next steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Manifest** verb, and the **six Mandate subclasses** (§5, one per Force school) designed. **Class feats** are the last step.
 **Date:** 2026-06-19
 **Type:** Class detail. The third and final **Force** class (completes the trinity: Guardian = blade, Sentinel = reaction, **Consular = powers**). Built almost entirely from existing layers — the [Force toolkit](2026-06-15-shared-force-toolkit.md) (powers), the Attunement economy, and the six Force schools — so it's an assembly job, not new subsystems.
 **Upstream:** [Phase 5 chassis & Force](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Force toolkit](2026-06-15-shared-force-toolkit.md), [Class Roster](2026-06-15-class-roster-sketch.md).
@@ -101,20 +101,77 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 
 ---
 
-## 5. Subclasses — Mandates (six, one per Force school) *(to design next)*
+## 5. Subclasses — Mandates (six, one per Force school, designed 2026-06-19)
 
-Branch at **L1** on the **1/3/7/11/15/19** cadence; each **Mandate** = a Force **school** specialization (signature school free + bonus powers + synergy). Per [subclass-counts], the Consular gets **one per school** (6):
+Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each **Mandate** = a Force **[school](2026-06-15-shared-force-toolkit.md)** specialization: it grants the school's iconic power **free at L1** + a signature **passive**, then **deepens** the school across levels (granting more of its powers and empowering them). Per [subclass-counts], one per school. Adapted from the prior Mandates (prior "Connected Benefits" → flat passives, since we have no Connected state). *(Numbers Gate-A; granted powers are from the [toolkit](2026-06-15-shared-force-toolkit.md), so a Mandate Consular gets these on top of its broad powers-known.)*
 
-| Mandate | School | Emphasis |
+### 5.1 Mandate of Telekinesis — *(Alter · kinetic control)*
+
+| Lvl | Feature | Effect |
 |---|---|---|
-| **Telekinesis** | Alter | kinetic control — throw/crush/hold/zones |
-| **Visions** | Sense | foresight, detection, initiative/defense buffs |
-| **Serenity** | Control | energy defense, barriers, Tutaminis, cloak |
-| **Vitality** | Body | the Force healer — the optional party heal at its strongest |
-| **Dominance** | Mind | the mentalist — fear/influence/domination; the social engine |
-| **Destruction** | Offense | raw Force offense — lightning, blasts (`[dark]`-adjacent) |
+| 1 | **Telekinetic Adept** | Free **Force Push**. When you deal damage with an Alter power **or** Telekinetic Impact, **push the target 5 ft**. |
+| 3 | **Heavy Lifter** | Your Alter powers affect targets one size / Bulk category larger; your forced movement distances +5 ft. |
+| 7 | **Kinetic Barrage** | Gain **Kinetic Slam**; a creature you force-move ends **off-guard** until your next turn. |
+| 11 | **Crushing Grip** | Gain **Force Hold**; your Alter control powers are harder to shed (target's re-save takes a circ penalty). |
+| 15 | **Gravity Well** | Gain **Force Wave**; you can **Hurl** force-moved creatures (upward/over edges, Reflex per [§G](2026-06-13-connective-tissue-and-review-remediation.md)). |
+| 19 | **Singularity** *(capstone)* | Gain **Telekinetic Singularity**; once/round, **Push** as a free action after a power. |
 
-*(Each modulates Manifest toward its school; balanced cross-Mandate. `[dark]` powers in Destruction/Dominance/Vitality hook the deferred corruption subsystem.)*
+### 5.2 Mandate of Visions — *(Sense · foresight)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Seer** | Free **Precognitive Parry**. You **can't be off-guard** to creatures of your level or lower; **+1 status to Perception & initiative**. |
+| 3 | **Forewarned** | When you roll initiative, you and allies within 30 ft **can't be off-guard** during the first round. |
+| 7 | **Far Sight** | Gain **Guidance of the Force**; an ally you warn gains **+1 circ** to a save. |
+| 11 | **Battle Precognition** | Gain **Master Precognition**; once/round, an ally you can see may reroll a triggering attack's defense. |
+| 15 | **True Sight** | Gain **True Sight**; you see through illusion/invisibility and can share it with an ally. |
+| 19 | **Foresight** *(capstone)* | Gain **Foresight**; you can't be surprised and gain roll-twice fortune against attacks. |
+
+### 5.3 Mandate of Serenity — *(Control · energy defense / self-mastery)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Eye of Calm** | Free **Force Barrier**. When you Manifest a Control power, gain **temp HP = your level** (until your next turn). |
+| 3 | **Tutaminis** | Gain **Energy Absorption**; your energy resistance from Control powers +2. |
+| 7 | **Unclouded Mind** | Gain **Battle Focus**; while you have ≥1 Attunement you gain **+1 status vs fear & mental**. |
+| 11 | **Veil** | Gain **Force Cloak**; you may extend its concealment to an adjacent ally. |
+| 15 | **Aegis** | Gain **Force Reflection**; your defensive Control powers can target an ally in range. |
+| 19 | **Sanctuary** *(capstone)* | Gain **Wall of Light** (or **Force Void**); project a protective zone for your allies. |
+
+### 5.4 Mandate of Vitality — *(Body · healing / flesh)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Life-Giver** | Free **Vital Transfer**. Whenever a Force power you Manifest **restores HP**, the target also gains **temp HP = your level**. |
+| 3 | **Surge** | Gain **Force Surge**; while a Body power is active you gain **+10 ft Speed** and ignore difficult terrain. |
+| 7 | **Vigor** | Gain **Force Valor**; your healing also lets the target reduce one condition by 1. |
+| 11 | **Renewal** | Gain **Force Revivify** (the reaction to save a dying ally). |
+| 15 | **Transcendence** | Gain **Force Enlightenment**; mass vitality — share regeneration with allies in range. |
+| 19 | **Resurrection** *(capstone)* | Gain **Force Resurrection**; the galaxy's foremost healer. |
+
+### 5.5 Mandate of Dominance — *(Mind · mentalist / social engine)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Mind's Eye** | Free **Mind Trick**. You sense creatures' surface emotions and gain **+1 status to Diplomacy & Intimidation**. |
+| 3 | **Fearmonger** | Gain **Force Fear**; frightened you impose is reduced one step slower. |
+| 7 | **Mind Probe** | Gain **Mind Probe** (extract truth) and **Force Disruption**. |
+| 11 | **Dominate** | Gain **Dominate Mind** — the mentalist's control (`[incap]`, `[once per minute]`). |
+| 15 | **Mass Suggestion** | Gain **Mass Mind Trick**; sway crowds. |
+| 19 | **Shatter Will** *(capstone)* | Gain **Mind Fracture** / **Sever Force**; the apex of mental domination. |
+
+### 5.6 Mandate of Destruction — *(Offense · raw Force violence)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Force Artillery** | Free **Force Shock**. When you deal damage with an Offense power **or** Telekinetic Impact, the target takes **−1 circ AC** until your next turn. |
+| 3 | **Overload** | Once per turn, **Push** an Offense power for free (the extra-target/area upgrade). |
+| 7 | **Arc Lightning** | Gain **Force Lightning**; your single-target Offense arcs to a second creature for splash. |
+| 11 | **Storm-Caller** | Gain **Chain Lightning**; your cones/lines grow. |
+| 15 | **Cataclysm** | Gain **Force Storm**; sustained area devastation. |
+| 19 | **Annihilation** *(capstone)* | Gain **Force Destruction**; the apex destroyer (disintegrates the slain). |
+
+**Cross-balance & §4.1 notes.** Each Mandate deepens exactly one school, so its *shape* is the school's role: Telekinesis = control, Visions = anti-ambush/buff, Serenity = defense/protection, Vitality = the party heal, Dominance = control + the social engine, Destruction = AoE damage. Cross-Mandate parity holds at each level (a granted power of comparable tier). Hard control / save-or-lose (Dominate, Mind Fracture) keep their `[incapacitation]` + `[once per minute]` toolkit gates. `[dark]` powers (Destruction's lightning-storms, any Drain Life/Death Field a Vitality/Destruction Consular reaches) hook the deferred corruption subsystem. Granted powers count as *known* but still cost Attunement to Manifest (only the Mandate's Telekinetic-Impact-adjacent passives are free).
 
 ---
 
@@ -126,7 +183,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence; each **Mandate** = a Force *
 
 ## 7. Carried Forward
 
-- **§5 Mandates** — six, on the 1/3/7/11/15/19 cadence, each deepening its school.
+- ~~**§5 Mandates** — six~~ — **DONE (2026-06-19):** Telekinesis/Visions/Serenity/Vitality/Dominance/Destruction, one per school.
 - **§6 class feats** — ~50, general + Mandate.
 - **"Powers known" progression** — exact counts/levels (the Consular knows the most) → Gate-A.
 - **Gate-A validation:** Deep Reservoir pool (`3+L`) + Center +3, Legendary Class DC save-DC vs the bounded spine, Telekinetic Impact at-will DPR, and the reworked **CHA** key (vs ORC WIS).

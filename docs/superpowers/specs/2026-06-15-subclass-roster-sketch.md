@@ -31,18 +31,18 @@
 
 *(All **seven** Forms are Guardian subclasses — one each — designed in full in [class-guardian §5](2026-06-18-class-guardian.md). The base Form stances remain learnable by any Guardian via feats regardless of subclass.)*
 
-## 2. Consular — Force Applications *(CHA · Manifest)*
+## 2. Consular — Mandates *(CHA · Manifest)* — **6, built** *(one per Force school)*
 
-**Model:** like schools of magic — each subclass emphasizes a **Force discipline** (*what* you Manifest), deepening that application's powers.
+> **Built in full** — [class-consular §5](2026-06-19-class-consular.md). One Mandate per [tradition-split school](2026-06-15-shared-force-toolkit.md).
 
-| Subclass (Mandate / application) | Discipline emphasis |
-|---|---|
-| **Mandate of Telekinesis** | kinetic control — throw/crush/hold/zones (battlefield control) |
-| **Mandate of Visions** (Sense) | foresight — precognitive buffs, detection, initiative/defense |
-| **Mandate of Life** (Vitality) | the Force healer — the optional party heal at its strongest |
-| **Mandate of Dominance** (Influence) | the mentalist — mind influence/fear/command; drives the social engine |
-
-*(A 5th, **Mandate of Conflict** (Battle), is possible — a powers-and-blade war-mystic — but overlaps the Guardian; held unless wanted.)*
+| Mandate | School | Emphasis |
+|---|---|---|
+| **Telekinesis** | Alter | kinetic control — throw/crush/hold/zones |
+| **Visions** | Sense | foresight — precognitive buffs, detection, init/defense |
+| **Serenity** | Control | energy defense, barriers, Tutaminis, cloak |
+| **Vitality** | Body | the Force healer (merges the prior Life + Ascendant) |
+| **Dominance** | Mind | the mentalist — fear/influence/domination; the social engine |
+| **Destruction** | Offense | raw Force violence — lightning, blasts (`[dark]`-adjacent) |
 
 ## 3. Sentinel — Reactive Sub-Identities *(WIS · Premonition)* — **fresh design**
 
