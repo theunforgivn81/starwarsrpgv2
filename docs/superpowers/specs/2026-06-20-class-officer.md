@@ -1,6 +1,6 @@
 # Class — Officer *(in progress)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Command** verb (the Directive engine), and the **six Leadership Styles** (§5) designed. The **Directive list** and **class feats** are the next steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Command** verb, the **six Leadership Styles** (§5), and the **~43 class feats** (§7, directive-rich) designed. The **base Directive list** (§6) is the last step — pending the **directive-depth discussion** (§9).
 **Date:** 2026-06-20
 **Type:** Class detail. The **leader/face** — the force-multiplier. Non-Force. The **seventh and final** class, completing the roster. Adapts the prior **Envoy**. **Carries the action-granting design risk** the [Gate-A pass](2026-06-19-gate-a-balance-pass.md) deferred — resolved here via the bonus-first Directive model (§4).
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (Save Expertise §3.2, Weapon Spec §3.1), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md), [Class Roster](2026-06-15-class-roster-sketch.md).
@@ -176,16 +176,90 @@ The Directive list is the Officer's content layer (its analog to Mods/powers, **
 
 ---
 
-## 7. Class Feats *(to design next)*
+## 7. Class Feats — designed (2026-06-20)
 
-~50 (ORC norm): general feats (more/better Directives, Flourish gambits, reactive commands, skill/social mastery, "lead by example" enhancers) + Leadership-Style feats. Mined from the prior Envoy `ClassFeat` suite.
+~50 (ORC norm): **§7.1 general** + **§7.2 style**. Mined from the prior Envoy `ClassFeat` suite. **A large block of general feats *are new Directives*** — the feat layer *is* the directive menu (the answer to "is the pool deep enough" — see §9). Conventions: CHA-keyed; Class-DC debuffs (no restated attribute); `[Directive]` = a learned order (bonus-first; bounded grants per §4.1); `[R]` reactions under the 3-cap; one Directive issued per round regardless of how many you know. Numbers Gate-A.
+
+### 7.1 General class feats (~31)
+
+**Directive-granting feats** *(each adds a `[Directive]` to your repertoire — the pool-deepeners)*
+
+| Lvl | Directive | Effect |
+|---|---|---|
+| 1 | **Take Cover!** | Allies who can sense you may Take Cover / Step to cover as a reaction. |
+| 1 | **Get Moving!** | Allies may **Stride** toward a point you indicate (bounded movement-grant). |
+| 2 | **Heads Up!** `[R]` | Warn an ally being attacked: **+2 circ AC** vs that attack. |
+| 2 | **Pep Talk!** | An ally gains **temp HP** + a small status bonus this round. |
+| 4 | **Shake It Off!** | An ally **reduces one condition** (frightened/clumsy/etc.) by 1. |
+| 4 | **Look Alive!** | Allies coordinate a **Seek** (bonus to find hidden foes/things). |
+| 6 | **Press the Advantage!** | When a directed ally **hits** your target, they add a status damage bonus. |
+| 6 | **Focus Fire!** | Allies gain +1 status to attacks vs one foe; when it drops, **re-designate** for free. |
+| 8 | **Hang On!** | `[R]` an ally at 0 HP / dying gets a save + minor heal to stay up. |
+| 8 | **Mockery!** | Distract a foe (Class DC) — it's **off-guard** / takes a penalty (a control Directive). |
+| 10 | **Fall Back!** | The squad **disengages** — allies Stride without provoking. |
+
+**Directive shapers & command tempo**
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 2 | **Quick Orders** | Once/round, issue a Directive **and** Step (command on the move). |
+| 4 | **Improvised Mastery** | Attempt untrained skills as if trained `[once per hour]` (the adaptable leader). |
+| 6 | **Ready Directive** | **Hold** a Directive to issue when a trigger occurs (a readied command). |
+| 8 | **Reissue** | `[once per round]` repeat your **last Directive** as a free action (sustain the order). |
+| 10 | **Expanded Command** | Your Directives reach **all** allies who can sense you (no range limit within sight/earshot). |
+| 12 | **Double Time** | `[once per minute]` issue a **second** Directive this round (the second can't be a Lead-by-Example). |
+| 14 | **Tactical Reaction** `[R]` | Issue a **1-action Directive** as a reaction when an ally would benefit. |
+| 16 | **Greater Directives** | Your Directives' status bonuses and riders improve (e.g., +1 → wider effect). |
+
+**Lead-by-example & utility**
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Cutting Taunt** `[Flourish]` | Demoralize a foe (Class DC, CHA) — a debuff gambit. |
+| 4 | **Opportune Shot** `[R]` | When you warn/Heads-Up an ally, **Strike** the triggering foe. |
+| 8 | **Follow-Up** | When a directed ally hits your target, you may **Strike** it (once/round). |
+| 12 | **Veteran's Instinct** | +circ initiative; you can't be caught off-guard at the start of combat. |
+| 18 | **Legendary Commander** | You may issue Directives even while unable to speak/be seen by *some* means; your Lead-by-Example deepens. |
+| 20 | **Perfect Coordination** *(capstone)* | Issue **two full Directives** each round (the consummate field general). |
+| 20 | **One Unit** *(capstone)* | `[once per minute]` the whole squad acts in concert — each ally gains a free **Step + a status surge** to attacks/saves for a round. |
+
+### 7.2 Style feats (~12 — two per Leadership Style)
+
+| Style | Feats (level) |
+|---|---|
+| **From the Front** | *Vanguard's Order* (4 — allies who reposition via your Directive also gain +damage) · *Unbreakable Formation* (8 — allies adjacent to you can't be forced-moved) |
+| **From the Shadows** | *Silent Signal* (4 — issue Directives without auditory/visual tells) · *Killing Coordination* (8 — a directed ally's first Strike vs an off-guard foe gains an extra die) |
+| **In the Spotlight** | *Dazzling Display* (4 `[Flourish]` — Performance to make foes off-guard) · *Encore* (8 — repeat a morale Directive's effect once/round) |
+| **Infosphere Director** | *Tactical Network* (4 — share targeting; allies ignore an assessed foe's cover) · *Predictive Analysis* (8 — an ally may reroll an attack vs a foe you've assessed, once/round) |
+| **Guns Blazing** | *Suppressing Orders* (4 — coordinate fire to Suppress-style pin a foe) · *Overwhelming Volley* (8 — Ready Arms!'s contingent ally Strike can come from **two** allies) |
+| **Through Desperate Times** | *Field Triage* (4 — your rally Directives also heal a little) · *Last Stand* (8 — `[once per minute]` keep a dropped ally at 1 HP) |
+
+**Balance notes.** Every `[Directive]` is **bonus-first**; the action-grants (Get Moving!, Fall Back!, Opportune Shot, Follow-Up, Overwhelming Volley, One Unit) are **bounded** — movement or *one* (often contingent) Strike, capped by the one-Directive-per-round rule and `[once per minute]` on the mass ones (the priority [Gate-A](2026-06-19-gate-a-balance-pass.md) audit). **Double Time / Perfect Coordination** (issue 2 Directives) grant *bonuses*, not actions, and are gated (once/min; capstone) — they multiply buffs, not the action economy. Status bonuses don't stack across Officers (same type). The directive-granting feats are the deliberate **pool-deepeners** (§9).
 
 ---
 
 ## 8. Carried Forward
 
 - ~~**§5 Leadership Styles** (~3)~~ — **DONE (2026-06-20):** **six** (From the Front / From the Shadows / In the Spotlight / Infosphere Director / Guns Blazing / Through Desperate Times), all adapting the prior Envoy styles.
-- **§6 Directive list** — author the "orders" (bonus-first; bounded action-grants flagged).
-- **§7 class feats** (~50), general + Style.
+- ~~**§7 class feats** (~50)~~ — **DONE (2026-06-20):** §7.1 ~31 general (a large directive-granting block + shapers) + §7.2 12 style.
+- **§6 base Directive list** — author per the §9 depth discussion (the last piece).
 - **Gate-A (priority — the deferred action-granting audit):** validate that no Directive/feat nets the party **positive actions repeatably** (>1:1 grants forbidden by §4.1); the one-Directive-per-round economy; stacking the same status bonus across multiple Officers (doesn't stack — same type); Get-the-Job-Done's bonus values; Will-Legendary on a frail CHA class.
 - Flavor/description → rules-writing.
+
+---
+
+## 9. Directive depth — design note *(open; informs §6)*
+
+**The concern:** with only a starting Directive + the Leadership-Style Directive, a low-level Officer has too few orders to make interesting turn-by-turn choices.
+
+**Where depth comes from (three layers):**
+1. **Feat-granted Directives** — most of §7.1's general feats *are* new Directives; the feat layer **is** the command repertoire (a mid-level Officer who's spent feats here has 6–10+ orders).
+2. **Leadership-Style Directives** — each style adds its signature plus style-feat directives.
+3. **The base list (§6)** — the orders every Officer can choose from.
+
+**The real gap is *early game*** (L1–4), where the repertoire is thinnest. Options to fix (for discussion):
+- **(a) Generous base list + free starting picks:** author a sizable base Directive list (§6, ~12–15) and have the chassis **grant several Directives known at L1** (e.g., start with 3–4, not 1), so turn-one choice exists before feats fill in.
+- **(b) Modal Directives:** make each Directive **flexible** (a 1-action *vs* 2-action Lead-by-Example mode, plus a situational rider), so even a small set yields many distinct turns (depth via *configuration*, not count).
+- **(c) Both** — a moderate base list (~10) + generous starting picks + modal design. *(Recommended.)*
+
+*Resolution feeds §6 (how many base Directives, and how many the chassis grants known at L1).*
