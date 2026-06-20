@@ -39,9 +39,9 @@ The Soldier/**Bulwark** can layer flat resistance: **Dig In** (resist = CON, whe
 **Deep Reservoir** (pool `3+L`) + the **Deep Reserve** feat (+2) → pool **11 at L20**, on top of Center +3 and the metamagic line. The single-round nova is already bounded by the `[once per minute]` gates on Empower/Twin/Overchannel/Quickened, but the standing pool was over-deep.
 **Fix (applied):** **Deep Reserve** feat reduced to **+1** (pool tops at `3+L`, +1 feat ≈ 10 at L20). Metamagic gates unchanged (they hold).
 
-### F-A4 — Soldier multi-Legendary load *(flagged — touches "keep ORC")*
-The Soldier reaches Legendary in **Fort, armor, weapons, AND Class DC** (4 lines vs 1–2 for the others). Bounded accuracy means each is "only" +4 rank — *but* Legendary **armor** (AC) compounds with the Soldier's huge HP + resistance + Fort-half-damage into a high-level eHP that may top the bracket, and Legendary **Class DC** is more than a circ-debuff/Reflex-damage suppression needs.
-**Recommendation (not yet applied — it diverges from the ORC progression we deliberately kept):** cap **armor at Master** and **Class DC at Master**, leaving **Fort + weapons** Legendary (matching the other classes' 1–2 Legendary lines and curbing the eHP compounding). *Your call, since we chose to honor ORC here.*
+### F-A4 — Soldier multi-Legendary load *(RESOLVED 2026-06-19)*
+The Soldier reached Legendary in **Fort, armor, weapons, AND Class DC** (4 lines vs 1–2 for the others) — compounding into high-level eHP and an over-strong suppression DC.
+**Fix (applied):** cap **weapons** and **Class DC** at **Master**, leaving **Fort + armor** Legendary (2 lines, both *defensive* — the durability-tank spotlight). Rationale (per the user): the **Scoundrel** is the dedicated ranged striker, so the Soldier sits one weapon rank lower; and Class DC → Master is a soft nerf because the Soldier's Class-DC abilities are mostly **multi-target** debuff/area. *(Chosen over the original armor+Class-DC recommendation — keeps the tank's armor at cap, which is more on-identity than capped weapons.)*
 
 ### F-A5 — Intercede double-scaling *(noted, left as-is)*
 **Improved Intercede** = `4 + level + STR` (= 30 at L20) vs on-level hits ~30–40 → negates ~one hit/use, which is the intended "save an ally from a blow." It *slightly* exceeds one hit vs weaker attackers. Acceptable; if Gate-A tuning wants it tighter, drop to one scaling term (`4 + level` *or* `+ STR`).

@@ -32,7 +32,7 @@
 | **Will** | **Expert** | disciplined, hard to break |
 | **Reflex** | Trained | the lagging save |
 | **Class DC** | Trained | Suppression save-DC + suppressed-feat effects |
-| **Weapons** | Trained — simple + martial (+ unarmed) | a dedicated attacker (→ Legendary, §3) |
+| **Weapons** | Trained — simple + martial (+ unarmed) | → **Master** cap (the Scoundrel is the ranged striker; §3) |
 | **Defense** | Trained — **all armor (incl. heavy)** + unarmored | heavy armor is the soak |
 | **Skills** | **Intimidation** + Trained in **3 + Int modifier** | the menacing frontliner |
 
@@ -66,12 +66,13 @@ We **keep the ORC-core Soldier progression** and supplement it; **Primary Target
 | 16 | class feat · skill feat | — |
 | 17 | ancestry feat · skill increase · **Pinned Down** ✦ | armor → **Legendary** · Perception → **Master** |
 | 18 | class feat · skill feat | — |
-| 19 | general feat · skill increase · ◆ | **weapons → Legendary** · Class DC → **Legendary** |
+| 19 | general feat · skill increase · ◆ | — |
 | 20 | class feat · skill feat · attribute boosts · **No Quarter** ✦ *(capstone)* | — |
 
-- **Weapon track:** ORC's curve (Trained → Expert L5 → Master L15) **+ our Legendary at L19** (the "dedicated attackers reach Legendary" principle — the one place we diverge upward from ORC). *(Per-class confirm-point.)*
+- **Weapon track:** ORC's curve — Trained → Expert L5 → **Master L15 (cap)**. *(Gate-A: capped at Master, not Legendary — the **Scoundrel** is the dedicated ranged striker, so the Soldier sits one rank lower; its spotlight is durability, not weapon accuracy.)*
+- **Class DC** caps at **Master (L15)** *(Gate-A: not Legendary — the Soldier's Class-DC abilities are mostly multi-target debuff/area, so the lost rank is a soft nerf).*
 - **Reflex stays Expert** — the Soldier's deliberate weak save (heavy and slow; the vector enemies get against it).
-- **Durability spine (kept from ORC):** *Tough as Nails* (L7, Fort success→crit success), *Soldier's Resolution* (L11, Will success→crit success), *Unshakable Juggernaut* (L15, Fort→Legendary; crit-fail→fail; **halve damage on a failed Fort save vs damage**). Multiple Legendary lines (Fort/armor/weapons/Class DC) are intentional — the Soldier is the supreme durability/control specialist; flagged for Gate-A.
+- **Two Legendary lines — both defensive: Fortitude (L15) + armor (L17)** — the durability tank's spotlight (toughest body + best armor). *Tough as Nails* (L7, Fort success→crit), *Soldier's Resolution* (L11, Will success→crit), *Unshakable Juggernaut* (L15, Fort→Legendary; crit-fail→fail; **halve damage on a failed Fort save**) form the durability spine.
 - **No dead levels** (ORC's L20 had no capstone feature — **No Quarter** fixes that); advancement levels Gate-A tunable.
 
 ---
