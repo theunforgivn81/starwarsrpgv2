@@ -1,6 +1,6 @@
 # Class — Tech Specialist *(in progress)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Deploy** verb (the Modification engine), and the **five Engineering Disciplines** (§5) designed. The **Modification list** (the "powers") and **class feats** are the next steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Deploy** verb (the Modification engine), the **five Engineering Disciplines** (§5), and the **24-Modification list** (§6) designed. **Class feats** are the last step.
 **Date:** 2026-06-20
 **Type:** Class detail. The gadgeteer/"multiplies-the-party" support engine. Non-Force. **Its core is the Modification mechanic** (not a droid — that's only the Droidwright Discipline). The Modification engine is a **prepared-caster analog that is natively daily-resource-free**, so it ports almost directly into our system.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md) (Weapon Spec §3.1, Save Expertise §3.2, the no-daily-clock resource model §7), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md), [Connective tissue §F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md) (for the Droidwright Discipline only).
@@ -155,9 +155,70 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each adapts a pri
 
 ---
 
-## 6. Modifications — the "powers" *(to author next)*
+## 6. Modifications — the "powers" (24, mapped 2026-06-20)
 
-The Modification list is the Tech Specialist's content layer (its analog to the [Force toolkit](2026-06-15-shared-force-toolkit.md), but **class-internal** — only the Tech Specialist uses Mods). Each Mod = **Standby** (passive) + **Activate** (active) + **Overclock** (boosted), with a Level (access gate), traits, and auto-scaling. Mined from the prior **Modification** table (Holo-Projector, Corrosive Solvent, Aero-Booster, Sensory Baffle, Quantum Displacement Field, Neural Override, …). *(Full list authored later, like the per-power toolkit rewrite; balance-pass for damage/Overclock values at that point.)*
+The Modification list is the Tech Specialist's content layer — its analog to the [Force toolkit](2026-06-15-shared-force-toolkit.md), but **class-internal** (only the Tech Specialist uses Mods). Mapped from the prior **Modification** table (24 Mods). *(Full per-Mod prose — exact dice, ranges, four-degree outcomes — is the rules-writing pass, like the toolkit's per-power rewrite.)*
+
+### 6.1 Authoring template & conventions
+
+Every Modification has three parts + an access **Level**:
+- **Standby** — an always-on **passive** while installed (a small skill / utility / defense bonus). The "prepared spell that's always doing something."
+- **Activate `[N actions]`** — the active effect. **At-will** (action-gated, no slots). Save-based effects use the **Class DC** (no restated attribute, [Phase 1](2026-06-13-phase1-core-mechanic-and-traits.md)).
+- **Overclock** — the same effect **boosted** (dice stepped up one size + **add INT** to the total + a condition / bigger area), then the **flat check** (§4.1). The gamble payoff.
+- **Level** = the **access gate** (learn/install Mods of your level or lower); the dump's bands **1 / 7 / 15** *(Gate-A-tunable)*.
+- **Scaling re-peg:** the prior "+1 die at **4th/12th/19th**" → our **Tier boundaries 5/11/17** (the same fix as [toolkit §3.1](2026-06-15-shared-force-toolkit.md)). Base Activate adds no attribute; only **Overclock** adds INT.
+- **Anti-spam:** strong single-target effects (heals, stims) carry **"once per target per 10 minutes"** — a built-in, no-daily-clock limiter.
+
+### 6.2 Offense Mods
+
+| Mod | Lvl | Activate / Overclock (Standby in italics) |
+|---|---|---|
+| **Overload Logic** | 1 | Electricity, 30 ft, basic Reflex. *Standby: wireless Hack/Disable at 15 ft.* OC: d6→d8 +INT, target clumsy. |
+| **Fusion Torch** | 1 | Melee plasma Strike (fire+slashing, finesse, ignores Hardness). *Standby: +1 Force Open metal.* OC: +2 atk, bigger dice, ignore more Hardness. |
+| **Repulsor Emitter** | 1 | 15-ft cone bludgeoning + push (basic Fort). *Standby: +2 Bulk limits.* OC: 10-ft emanation, +INT, prone. |
+| **Fragmentation Charge** | 1 | Thrown frag — burst piercing (basic Reflex). *Standby: a held charge.* OC: bigger burst +INT, persistent bleed. |
+| **Endothermic Vent** | 1 | Cold cone/burst + slow (basic Fort). *Standby: cold protection.* OC: +INT, off-guard/immobilize. |
+| **Corrosive Solvent** | 7 | 20-ft acid cone (basic Reflex). *Standby: +2 to acid-aided Pick/Escape.* OC: d6→d8 +INT, persistent acid + clumsy. |
+| **Plasma Incinerator** | 7 | 30-ft fire line (basic Reflex). *Standby: cold immunity, ignite materials.* OC: 60-ft line, +INT, persistent fire. |
+| **Sonic Resonator** | 7 | Sonic single (basic Fort), crit-fail deafen. *Standby: 30-ft echolocation.* OC: d8→d10 +INT, deafen + stun. |
+
+### 6.3 Healing & Support Mods
+
+| Mod | Lvl | Activate / Overclock |
+|---|---|---|
+| **Stim-Injector** | 1 | Touch: temp HP + Speed bonus (1 min; 1/target/10 min). *Standby: +1 vs fatigue, half sleep.* OC: bigger dice +INT, +10 Speed, free Step. |
+| **Kolto Burst** | 1 | Touch heal (1/target/10 min). *Standby: +1 First Aid; fail-safe crit-fail.* OC: d8→d12 +INT, end one bleed. |
+| **Defibrillation Matrix** | 7 | Touch heal + reduce dying by 1 (1/target/10 min). *Standby: read allies' HP/conditions at 30 ft; +2 Treat Disease/Poison.* OC: bigger dice +INT, **revive** a creature dead ≤1 round. |
+| **Nanite Reconstruction Swarm** | 15 | Mass heal — a nanite cloud heals allies in a burst over rounds. OC: also counteracts conditions / regen. |
+
+### 6.4 Defense Mods
+
+| Mod | Lvl | Activate / Overclock |
+|---|---|---|
+| **Deflector Screen** | 1 | `[1 action]` +1 circ AC until next turn. *Standby: weather protection.* OC: +2 AC, melee attackers take electricity damage +INT. |
+| **Hard-Light Bastion** | 15 | `[3 actions]` deploy a 20-ft hard-light **bunker** (cover; Hardness 20 / 80 HP). *Standby: secure rest shelter.* OC: Hardness 30, exterior shocks adjacent foes. |
+
+### 6.5 Control Mods
+
+| Mod | Lvl | Activate / Overclock |
+|---|---|---|
+| **Gravitic Snare** | 7 | 60 ft, 10-ft burst bludgeoning + **difficult terrain** (basic Reflex). *Standby: ignore rubble/uneven difficult terrain.* OC: +INT, **immobilize** (fail) / **restrain** (crit-fail, Escape vs Class DC). |
+| **Flash-Bang Matrix** | 7 | Burst — **dazzle/blind** + a basic save. *Standby: light/flash resistance.* OC: bigger area +INT, **stunned** on a failure. |
+| **Neural Override** | 15 | Hijack a construct / overwhelm a mind — control or stun (incap, Class DC). *Standby: machine empathy (commune with constructs).* OC: longer / stronger control. |
+
+### 6.6 Utility, Mobility & Stealth Mods
+
+| Mod | Lvl | Activate / Overclock |
+|---|---|---|
+| **Holo-Projector** | 1 | 30 ft: a hard-light **hologram** decoy (disbelieve vs Class DC). *Standby: +1 Create a Diversion/Impersonate.* OC: blinding decoy (−1 ranged atk/Perception nearby). |
+| **Sensory Baffle** | 1 | 15-ft sound-dampening field (+Stealth). *Standby: hear whispers through noise.* OC: +2 Stealth, sonic resistance = INT. |
+| **Telemetry Uplink** | 1 | Mark/scan a foe for shared targeting data (recon). *Standby: passive battlefield awareness.* OC: party-wide targeting buff. |
+| **Magnetic Grapple** | 1 | 30 ft: pull an object to hand, or pull yourself to a structure (no provoke). *Standby: climb Speed on metal.* OC: grapple a **creature** (Athletics w/ INT) — pull it or yourself. |
+| **Aero-Booster** | 7 | Fly up to your Speed (jump-pack). *Standby: treat falls as 20 ft shorter.* OC: fly Speed for 5 minutes. |
+| **Optical Cloak** | 7 | Become **undetected** to sight (5 min; ends on hostile action). *Standby: +2 Hide/Sneak in dim light.* OC: 1 min but survives a hostile action (then hidden). |
+| **Quantum Displacement Field** | 15 | 60 ft: **teleport** you + up to 4 allies. *Standby: Interact at 15 ft.* OC: the vacated spaces implode (bludgeoning, basic Fort). |
+
+*(Disciplines grant signature Mods free: Bio-Tech→Kolto Burst, Slicer→Overload Logic, Armstech→Fragmentation Charge, Scrapper→Fusion Torch, Droidwright→Telemetry Uplink.)*
 
 ---
 
@@ -170,7 +231,7 @@ The Modification list is the Tech Specialist's content layer (its analog to the 
 ## 8. Carried Forward
 
 - ~~**§5 Engineering Disciplines** (~5)~~ — **DONE (2026-06-20):** Bio-Tech/Scrapper/Armstech/Droidwright/Slicer (all adapt the prior disciplines; Droidwright invokes §F Commanded Actors).
-- **§6 Modification list** — author the "powers" (Standby/Activate/Overclock), re-peg scaling to our Tiers, balance-pass.
+- ~~**§6 Modification list**~~ — **DONE (2026-06-20):** 24 Mods mapped (Standby/Activate/Overclock + conventions, scaling re-pegged to Tiers). Full per-Mod prose → rules-writing.
 - **§7 class feats** (~50), general + Discipline.
 - **Gate-A:** the Overclock flat-check DC + lockout vs the no-daily model; installed-count (3→7) vs power budget; Mod damage/Overclock values; Legendary Class DC save-DC; skill-increase-every-level (skill-master ceiling).
 - Flavor/description → rules-writing.
