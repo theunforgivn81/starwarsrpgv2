@@ -28,7 +28,7 @@
 | **Will** | **Expert** | quick-witted, hard to fool — a strong save → **Master** (Resolve) |
 | **Fortitude** | Trained | the frail save (→ Expert cap — the squishy operator's vulnerability) |
 | **Class DC** (Exploit) | Trained | Exploit/Flourish effects (→ Master) |
-| **Weapons** | **Expert in guns**; Trained simple + martial (+ unarmed) | the dedicated ranged striker (→ **Legendary** guns, §3) |
+| **Weapons** | **Expert** in simple + martial **ranged** (guns); **Trained** in advanced **ranged**; **Trained** in simple + martial (melee) + unarmed; **untrained** in advanced (melee) | the **ranged sub-track** runs a rank ahead — a Scoundrel-unique oddity (see §3) |
 | **Defense** | Trained — light + unarmored | a dodger, not a wall |
 | **Skills** | a specialization skill + Trained in **3 + Int** | the broadly-skilled fringe operator |
 
@@ -63,7 +63,15 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 | 19 | general feat · skill increase · ◆ | armor → **Master** |
 | 20 | class feat · skill feat · attribute boosts · **Perfect Opening** ✦ *(capstone)* | — |
 
-- **Weapon track (the dedicated *ranged* striker):** guns **Expert (L1) → Master (L5) → Legendary (L13)** — the Scoundrel caps a weapon, and owns the *ranged* crown (this is why the Soldier capped at Master). Other weapons lag (Trained → Expert L13).
+- **Weapon track — a split ranged/melee proficiency (Scoundrel-unique):** the Scoundrel is the **only class whose weapon proficiency forks into a ranged sub-track that runs a full rank ahead of its general track.** This is a deliberate oddity (carried from the prior Operative) — *no other class splits ranged from melee* — and it's what makes the Scoundrel the dedicated *ranged* striker.
+
+  | | Simple/martial **ranged** (guns) | Advanced **ranged** | Simple/martial **(melee)** + unarmed | Advanced (melee) |
+  |---|---|---|---|---|
+  | **L1** | Expert | Trained | Trained | *untrained* |
+  | **L5** | Master | Expert | — | — |
+  | **L13** | **Legendary** | Master | Expert | — |
+
+  So the Scoundrel **caps a weapon (Legendary guns, L13)** — the *ranged* crown (why the [Soldier capped at Master](2026-06-18-class-soldier.md)) — while its melee/general weapons always trail a rank. *(Advanced melee stays untrained at the class level — acquired only via feats/archetype if ever.)*
 - **Save expertise** (§3.2): **Reflex (Evasion, L7)** + **Will (Resolve, L9)** → Master with the rider; **Fort caps at Expert** (the frail operator's weak save). No Legendary save — the Scoundrel's Legendary line is its **gun**.
 - **No dead levels**; advancement levels Gate-A tunable.
 
