@@ -242,7 +242,7 @@ Every Modification has three parts + an access **Level**:
 | 4 | **Recharge** | `[once per 10 min]` end your own Overclock **lockout** early (1 action). |
 | 4 | **Armor-Piercing Protocols** | Your Mod/weapon damage **ignores resistance equal to your INT** against constructs & armored foes. |
 | 4 | **Reactive Shield** `[R]` | Magnetize debris / micro-deflectors to **reduce a hit's damage** by 2 + half your level. |
-| 6 | **Expanded Rig** | **+1 installed Modification** (does not stack with itself). |
+| 6 | **Expanded Rig** | **+1 installed Modification.** *(Gate-A T-1: bonus installs from feats are capped at **+2 over the chassis** — max 9 total — and Standby passives stay minor/utility, not stacked combat power.)* |
 | 6 | **Logic Bomb** `[Flourish]` | A slicer strike — electricity + the target is **clumsy 1** (off-guard on a crit). |
 | 6 | **Suppressive Tech** | A deployed Mod lays **difficult terrain / a pinning field** in an area. |
 | 8 | **Dual Routine** | Once/round, Activate **two 1-action Mods** as a single 2-action activity. |
@@ -256,7 +256,7 @@ Every Modification has three parts + an access **Level**:
 | 14 | **Repulsor Field** `[R]` | A localized blast pushes an adjacent attacker 5 ft and grants you +1 circ AC. |
 | 16 | **Failsafe Protocols** | The first Overclock you attempt each combat **auto-succeeds** its flat check. |
 | 18 | **Experimental Core** | Your Overclock effects add **+1 die** beyond their base boost. |
-| 20 | **Perfect Machine** *(capstone)* | Your Overclock flat check **can't be a critical failure**, and you gain **+1 installed Modification**. |
+| 20 | **Perfect Machine** *(capstone)* | Your Overclock flat check **can't be a critical failure**, and you gain **+1 installed Modification** *(within the +2-over-chassis cap, T-1)*. |
 | 20 | **Apotheosis Engine** *(capstone)* | `[once per round]` Activate a Modification as a **free action**. |
 
 ### 7.2 Discipline feats (~15 — three per Discipline)

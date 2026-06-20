@@ -1,6 +1,6 @@
-# Gate A — Balance Pass (four classes + shared layers)
+# Gate A — Balance Pass (all seven classes + shared layers)
 
-**Status:** Done (2026-06-19). Findings + fixes below; clear fixes applied, judgment calls flagged for ratification.
+**Status:** Part 1 done 2026-06-19 (Guardian/Sentinel/Soldier/Consular); **Part 2 done 2026-06-20** (Scoundrel/Tech Specialist/Officer — see §A). Fixes applied; watches recorded.
 **Type:** Balance validation (`ttrpg-balance-analysis`) across the content-complete roster: **Guardian, Sentinel, Soldier, Consular** + the [Force toolkit](2026-06-15-shared-force-toolkit.md) and [Lightsaber Forms](2026-06-18-lightsaber-forms.md).
 **Method:** relative comparison on the bounded spine (on-level attack +5/+12/+19; Level term cancels; MAP −4/−8; weapon dice 1→4; Weapon Spec +2/3/4→+4/6/8; Force damage 1→4 dice, no attribute). Absolute creature numbers are still Phase-7/Gate-A placeholders, so this is a **relative** pass (class-vs-class + vs the spine) + a stacking/nova audit.
 
@@ -64,3 +64,30 @@ The Soldier reached Legendary in **Fort, armor, weapons, AND Class DC** (4 lines
 - **Officer** will need the dedicated **action-granting audit** (the one not-yet-tested red-flag category — grant-an-ally-an-action is action-positive by definition).
 - Re-run a focused pass once the **Scoundrel** sets the striker bracket and the **Tech Specialist** companion adds an extra actor.
 - Absolute tuning (HP-per-level, creature DPR, exact dice) still belongs to **Phase 7 creatures + a numeric Gate-A** once a bestiary exists; this pass validated *structure and stacking*, which is what's actionable now.
+
+---
+
+## A. Part 2 — Scoundrel / Tech Specialist / Officer (2026-06-20)
+
+The three newest classes. Bounded accuracy and role shapes hold again; the issues are the same *stacking/action-economy* category, plus the deferred **action-granting audit**.
+
+### A.1 Officer — action-granting audit (the priority): PASSES, one fix
+
+The test per ability: **(Officer actions spent) vs (party action-value gained)**.
+- ✅ **Bonus-directives grant 0 actions** (pure buff) — the default; trivially safe and *why* the Officer force-multiplies without going action-positive. **Get Moving! / Fall Back! / One Unit** grant **movement** (Step/Stride — not a full action's combat value). **Ready Arms!** = 2 actions → 1 own Strike + 1 *contingent* ally Strike = **1:1**. **Double Time / Perfect Coordination** issue extra **Directives** (bonuses, not actions) and are gated (once/min; L20). The bonus-first design (§4.1) holds — the deferred red-flag is resolved by rule.
+- 🔴 **O-1 (applied) — Overwhelming Volley** (Guns Blazing L8) let Ready Arms!'s contingent Strike come from **two** allies → 2 actions yielding 1 + 2 = **3 Strikes (1.5:1)**, reliably via Area-Fire. **The one action-positive edge.** Fixed: **one** contingent Strike (choose which of two allies takes it).
+
+### A.2 Scoundrel — ranged-striker bracket: on-curve
+
+- Mid single-target ≈ **+19%** over the Guardian — inside the 20% flag and **intended** (the dedicated DPR striker), paid for by **HP 8**, the **Aim setup action** (turn-one = Aim + one Strike), and precision that **precision-resistant / no-flanking foes negate**. Guardian trades the gap for active defense. Both bracket. ✅ *(Resolves Part-1's "Guardian is the DPR ceiling, re-bracket vs Scoundrel.")*
+- 🟡 **S-1 (watch):** each-Strike Exploit × extra-attack feats (Double Tap, Twin Guns, Run and Gun) multiply precision instances — mirrors the PF2E Rogue (balanced by needing off-guard + MAP). Not fixing now; the spike to watch in playtest. If it over-delivers, gate Exploit to once/turn.
+
+### A.3 Tech Specialist — engine sound; two stacking items
+
+- ✅ **No-daily holds:** Overclock is a per-action **flat-check + lockout**, not a clock — can't nova. **Droidwright** is bounded by **§F Commanded Actors** (Tech spends an action to Command the droid ≈ 1:1; not action-positive). Skill-every-level = utility breadth.
+- 🟠 **T-1 (applied) — install ceiling:** chassis 3→7 + Expanded Rig + Master Engineer + Perfect Machine = up to **10 installs** (10 always-on Standby passives). Fixed: **bonus installs capped at +2 over chassis (max 9)**; Standby passives stay minor/utility.
+- 🟠 **T-2 (watch) — Overclock-safety stacking:** by L20 the safety feats (Surge Protector / Recharge / Hardened Systems / Failsafe / Overcharged Core / Perfect Machine) largely remove the Overclock risk → reliable boosts. Acceptable as a **multi-feat-investment payoff** *if* they aren't all cheap/early and the boosted Mod values stay on-curve (enforced in the per-Mod value rewrite).
+
+### A.4 Holds (all three)
+
+Bounded accuracy intact; no infinite loops / repeatable action-positive engines (after O-1); reaction features under the **3-cap**; no-daily model intact (per-round Directive / per-action Overclock); role shapes match the profiles (Scoundrel single-target 3, Tech utility/support 3, Officer support 3). **Gate-A now covers all seven classes** — remaining tuning is the absolute-numbers/creature pass (Phase 7) and a table playtest (esp. the soft-aggro dependency, Part-1 §4).
