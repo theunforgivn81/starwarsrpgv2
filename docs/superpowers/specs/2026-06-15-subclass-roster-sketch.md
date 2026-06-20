@@ -88,13 +88,17 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **Spymaster** (From the Shadows) | intel/deception — debuff foes, coordinate ambushes, information |
 | **Inspiring Hero** (In the Spotlight) | morale/rally — buffs, rally-from-the-brink, the social spotlight |
 
-## 7. Scoundrel — Operator Styles *(DEX · Exploit)* — ~3 *(SF2E Operative-adapted)*
+## 7. Scoundrel — Specializations *(DEX · Exploit)* — **5, built** *(four adapt the prior Operative specs)*
+
+> **Built in full** — [class-scoundrel §5](2026-06-19-class-scoundrel.md).
 
 | Subclass | Exploit fork |
 |---|---|
-| **Gunslinger** | ranged precision — the **Mark/Aim** engine (absorbs the prior Operative), trick shots |
-| **Infiltrator** (Ghost) | stealth/infiltration — sneak-strike, escape, recon |
-| **Face** | con artist — the social-engine specialist (signature appeals), disguise |
+| **Smuggler** *(new)* | fast-talking face — Feint→Exploit, the social engine |
+| **Sniper** | long-range marksman — Mark at any range, the patient kill shot |
+| **Gunslinger** (← Skirmisher) | close-quarters pistolero — point-blank deadly, trick shots, no-provoke-in-melee |
+| **Infiltrator** (← Infiltrator + Ghost) | stealth/spy — Sabotage (slice tech), strike-and-vanish |
+| **Striker** | melee brawler — finesse-melee Exploit, Overwhelming Strike (the only Legendary-melee fork) |
 
 ---
 
