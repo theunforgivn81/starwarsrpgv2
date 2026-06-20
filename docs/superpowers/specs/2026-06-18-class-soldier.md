@@ -1,6 +1,6 @@
-# Class — Soldier *(in progress)*
+# Class — Soldier *(content-complete, pending Gate-A)*
 
-**Status:** Identity, proficiencies, L1–20 chassis, the **Suppress** verb (ORC progression kept & supplemented; Primary Target dropped), and the **five fighting-style subclasses** (§5) are designed. **Class feats** are the last step.
+**Status:** **Content-complete pending Gate-A.** Identity, proficiencies, L1–20 chassis, the **Suppress** verb (ORC progression kept & supplemented; Primary Target dropped), the **five fighting-style subclasses** (§5), and the **~50 class feats** (§6) are all designed.
 **Date:** 2026-06-18
 **Type:** Class detail. The first **non-Force** chassis (no Attunement) — validates the martial baseline cleanly. Pairs with the [Guardian](2026-06-18-class-guardian.md) as the two "tank" classes (different shapes). **We keep the ORC-core Soldier ability progression** (Walking Armory, Fearsome Bulwark, the Suppressed condition, the durability spine, the prof scaffold) and **modify/supplement** it (Suppression Zone + Suppressing Reaction, Overwhelming Assault baselined, ✦ upgrades, a real L20 capstone), **dropping Primary Target**.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md) (MAP, conditions, Reactive Shot), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md).
@@ -181,16 +181,70 @@ Branch at **L1** (the "fighting style" choice) on the **1/3/7/11/15/19** cadence
 
 ---
 
-## 6. Class Feats *(to design next)*
+## 6. Class Feats — designed (2026-06-19)
 
-~50 (ORC norm): general feats (Suppression shapers, the **`[suppressed]`** riders that customize the debuff, reaction upgrades, soak/durability, Intimidation/menace) + subclass feats. Mined from the prior Soldier `ClassFeat` suite (Overwhelming Assault, Ammo Hoarder, Run Cowards!, Bullet Typhoon, Scattering Fire, etc.).
+~50 (ORC norm): **§6.1 general** (chassis-wide) + **§6.2 subclass** (per fighting style). Mined from the prior Soldier `ClassFeat` suite. Conventions applied: save-based effects use the **Class DC** (no restated attribute); riders/skills key off **CON**; reaction-granting flagged for the table-speed budget. Numbers Gate-A.
+
+**The `[suppressed]` rider menu.** A cluster of feats each add a *different* condition when you apply Suppressed — but the **one-`[suppressed]`-rider-per-action** rule (§4.1) means you **choose one per suppressing action**. They compete *in play*, not in the build, so the menu can be broad without stacking.
+
+### 6.1 General class feats (~34)
+
+| Lvl | Feat | Effect |
+|---|---|---|
+| 1 | **Demand Attention** | `[1 action]`: an enemy within 30 ft saves vs your **Class DC** or takes **−1 circ to attacks that don't include you** (1 round) — the chassis soft-taunt (Lever A). |
+| 1 | **Suppressing Salvo** | After your Suppressing Fire, make one ranged **Strike** vs a target in the area at **reduced MAP** (the focused shot). |
+| 1 | **Knockback Blast** `[suppressed]` | A foe that fails your Suppressing Fire is **pushed 5 ft**. |
+| 1 | **Brace** | `[1 action]`: until your next turn, **+1 circ AC** and you can't be moved against your will. |
+| 2 | **Covering Fire** | `[reaction]` when an enemy attacks an ally in your Suppression Zone: the attacker takes **−1 circ** to that attack. |
+| 2 | **Run, Cowards!** `[suppressed]` | A foe that **crit-fails** your Suppressing Fire is **fleeing** for 1 round. |
+| 2 | **Field Reload** | Reload a weapon as a **free action** once per turn (combat reload). |
+| 4 | **Pinning Fire** `[suppressed]` | Suppressed foes' Speed penalty deepens to **−15**; a foe that fails is **immobilized** until it Escapes (vs your Class DC). |
+| 4 | **Leg Shot** `[suppressed]` | Suppressed foes are **off-guard**. |
+| 4 | **Wide Barrage** | Your Suppression Zone / area attack is **one size larger**. |
+| 4 | **Bring It Down** | +1 damage die on Strikes vs a **Suppressed** foe (stacks the focus-fire). |
+| 6 | **Scattering Fire** | When you Suppress, **Shove** every foe in the area (they save vs your Class DC). |
+| 6 | **Cratering Rounds** | Your area attack turns the ground in its area into **difficult terrain**. |
+| 6 | **Body Block** | `[reaction]` when an enemy attacks an ally adjacent to you, **you become the target instead** (you step in front — the Soldier's physical Lever-B). |
+| 6 | **Reckless Barrage** | `[1 action]`: **−2 circ AC**, gain **resistance = half your level** until your next turn. |
+| 8 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for your **Suppressing Reaction**, Covering Fire, or Reactive Shot. |
+| 8 | **Collateral Witness** | After a Suppressing Fire, **Demoralize** a foe in the area as a **free action**. |
+| 8 | **Two-Pronged Salvo** | Your Suppressing Salvo focused shot can hit **two** targets in the area. |
+| 8 | **Smoke Screen** | After you Suppress, you're **concealed** until your next turn. |
+| 10 | **Last Stand** | `[reaction]` when reduced to 0 HP, make one final **Strike** before you fall. |
+| 10 | **Get Back Up** | When you lose the dying condition, gain **temp HP = your level**. |
+| 10 | **Hybrid Technique** | Combine two Soldier single-actions into one 2-action activity (once/round). |
+| 12 | **Overwhelming Barrage** | Your Area/Auto-Fire gains **+1 die** and affects a larger area. |
+| 12 | **Repulsor Blast** | `[2 actions]`: a concussive cone — push + **prone** (basic Reflex vs Class DC). |
+| 12 | **Rocket Jump** | Fire downward to **Leap** a long distance (escape or reposition). |
+| 14 | **Double Suppression** | `[once per round]` apply **two** `[suppressed]` riders on one suppressing action (lift the one-rider cap once). |
+| 14 | **Unflinching** | The first time you're hit each round, reduce one condition on yourself by 1. |
+| 16 | **Greater Combat Reflexes** *(req. Combat Reflexes)* | +1 further reaction; your Suppressing Reaction can target **two** foes. |
+| 16 | **Indomitable** | When you **fail** a save, treat it as a success once per **10 minutes**. |
+| 18 | **Withering Onslaught** | Your Suppressing Fire deals **half damage even on a success** (and still Suppresses). |
+| 18 | **Air Superiority** | Your Suppression reaches and pins **flying** foes; ignore lesser cover in your zone. |
+| 20 | **Bullet Typhoon** *(capstone)* | Use **Area/Auto-Fire as a single action** (max two such attacks per round). |
+| 20 | **Living Legend** *(capstone)* | You need not choose between heavy weapons and melee — your Suppress features work with **both at once**; +1 circ to attacks while a foe you've taunted is in the fight. |
+
+### 6.2 Subclass feats (~15 — three per fighting style)
+
+Each requires the named fighting style.
+
+| Style | Feats (level) |
+|---|---|
+| **Suppressor** | *Indiscriminate* (4 — a 360° auto-fire burst clears the area around you) · *Air Burst* (8 — your Zone affects flyers and ignores cover) · *Ceaseless Barrage* (12 — maintain your Zone **and** make a ranged Strike in one turn) |
+| **Bulwark** | *Armored Reaction* (4 — `[reaction]`: resistance = your level vs a hit, **doubled** vs Suppressed foes; then Shove the attacker) · *Immovable Object* (8 — immune to forced movement & prone; +resist while adjacent to a Suppressed foe) · *Crushing Grapple* (12 — a foe you Grapple takes damage each round and stays Suppressed) |
+| **Demolitionist** | *Wide Blast* (4 — bigger bursts; exclude more allies) · *Sticky Charge* (8 — a foe that fails takes persistent damage and is marked for your next blast) · *Bunker Buster* (12 — your area attacks ignore cover and reduce Hardness) |
+| **Enforcer** | *Withering Glare* (4 — Oppressive Presence hits **two** foes or reaches 120 ft) · *Field Tactician* (8 — allies gain **+1 circ** to attacks vs foes you've menaced this turn) · *Cowed* (12 — a foe that shakes your Oppressive Presence is **frightened 1**) |
+| **Vanguard** | *Cleaving Sweep* (4 — a melee Strike hits a second adjacent foe) · *Reactive Swing* (8 — `[reaction]`: melee Strike a foe entering your reach, ignoring unwieldy) · *Rotary Onslaught* (12 — `[2 actions]`: Strike **and** Suppress every adjacent foe) |
+
+**Balance notes.** The reaction-granting line (Combat Reflexes → Greater) stacks toward the table-speed budget — Gate-A watch. `[once per round]`/`[once per 10 min]`/capstone gates bound the spikes (Double Suppression, Indomitable, Bullet Typhoon). **Body Block** is the Soldier's *physical* take-the-hit option — it **redirects** the attack to itself (distinct from the Guardian's Intercede, which *reduces* an ally's damage telekinetically). Everything keys off CON / Class DC (no MAD, no restated attributes).
 
 ---
 
 ## 7. Carried Forward
 
 - ~~**§5 subclasses** (~5)~~ — **DONE (2026-06-18):** all five ORC fighting styles adapted (Suppressor/Bulwark/Demolitionist/Enforcer/Vanguard).
-- **§6 class feats** (~50), general + subclass, including the **`[suppressed]`** rider feats.
+- ~~**§6 class feats** (~50)~~ — **DONE (2026-06-19):** §6.1 ~34 general + §6.2 15 subclass; the `[suppressed]` rider menu included. **Soldier is now content-complete pending Gate-A.**
 - **Define `Suppressed` formally** in the conditions glossary (Phase 1 / connective-tissue) once finalized.
 - **Gate-A validation:** Suppressed value (−1/−2) as an area debuff, the Suppressing Reaction economy + Dig In resistance, area DPR vs the bracket, the weapon track (Legendary at 19), and the reworked CON key (vs the slice's DEX Soldier).
 - Flavor/description → rules-writing.
