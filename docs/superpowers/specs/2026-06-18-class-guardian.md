@@ -44,7 +44,7 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 
 | Lvl | Class features & chassis grants | Proficiency advances |
 |---|---|---|
-| 1 | **Blade-Flow** ✦ · **Intercede** ✦ · **Deflect (mastery)** ✦ · **subclass Form** ◆ · class feat · ancestry feat · Attunement | initial profs (§2) |
+| 1 | **Blade-Flow** ✦ · **Intercede** ✦ · **Deflect (mastery)** ✦ · **Guardian's Reach** ✦ · **subclass Form** ◆ · class feat · ancestry feat · Attunement | initial profs (§2) |
 | 2 | class feat · skill feat | — |
 | 3 | general feat · skill increase · ◆ | Reflex → **Expert** · Class DC → **Expert** |
 | 4 | class feat · skill feat | — |
@@ -66,7 +66,7 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 | 20 | class feat · skill feat · attribute boosts · **capstone** ✦ | — |
 
 - **Weapon track (the saber master):** lightsabers **Expert (L1) → Master (L9) → Legendary (L17)**; other weapons **Trained → Expert (L5) → Master (L13)**. Lightsabers stay a step ahead — the Guardian is the premier blade. *(Proposed; the per-class weapon track is a confirm-point, as with the Sentinel.)*
-- **Vigilant Guard (L7 ✦)** brings the active-defense engine fully online (a 2nd reaction for Deflect/Intercede); see §4.
+- **Vigilant Guard (L7 ✦)** brings the active-defense engine fully online (a 2nd reaction for Deflect/Intercede/Guardian's Reach); see §4.
 - **Save expertise** ([Phase 3 §3.2](2026-06-13-phase3-progression-chassis.md)): **Will (Resolve, L9)** and **Fortitude (Juggernaut, L11)** → Master, each with *success→crit success* (the disciplined Force warrior). **Reflex caps at Expert** — the heavy warrior's deliberate vulnerability. No Legendary save; the Guardian's one Legendary line is its **lightsaber**.
 - **No dead levels**; exact advancement levels Gate-A tunable.
 
@@ -74,22 +74,30 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 
 ## 4. The Verb — Blade-Flow + Intercede
 
-The Guardian's turn is **stance → action → held reaction**, never "Strike ×3." A typical turn: be in (or enter) a **Form**, then **Strike** and/or **telekinetically shove** a foe (Attunement), and **hold a reaction** for the enemy turn (**Deflect** a bolt, **Intercede** for an ally).
+The Guardian's turn is **stance → action → held reaction**, never "Strike ×3." A typical turn: be in (or enter) a **Form**, then **Strike** and/or **telekinetically shove** a foe (Attunement), and **hold a reaction** for the enemy turn — **Deflect** a bolt, **Intercede** for an ally, or **Guardian's Reach** to punish a foe slipping past.
 
 ### 4.1 Intercede `[reaction]` — the exclusive verb
 
 - **Trigger:** an enemy damages an ally within **15 ft** of you that you can perceive.
 - **Effect:** reduce the damage the ally takes by **2 + your level** (you project a telekinetic cushion or physically intercept). You then gain a **+2 circumstance bonus to attack rolls against that enemy** until the end of your next turn — *the Lever-A threat loop: protect an ally, then make the attacker regret it.*
-- **Cost:** **0 Attunement** — the Guardian's defensive baseline (never gas out defensively). **Once per round** until **Vigilant Guard** (L7) grants a 2nd reaction usable only for Deflect/Intercede.
+- **Cost:** **0 Attunement** — the Guardian's defensive baseline (never gas out defensively). **Once per round** until **Vigilant Guard** (L7) grants a 2nd reaction usable only for Deflect/Intercede/Guardian's Reach.
 - **✦ development:** **Improved Intercede** (L9): reduction → **4 + your level**, and you may add your **Strength modifier**. **Master's Guard** (L17) and the **L20 capstone** push the apex (e.g., intercede an attack *before* it hits; never let an Intercede'd ally drop below 1 HP). *(Exact values Gate-A.)*
 - **Subclass (Form) riders** modulate Intercede — Soresu deepens the reduction, Makashi Steps you between attacker and ally, Shii-Cho pushes the attacker, Ataru extends range and Strides you in (detailed in §5).
 - **§4.1 / why exclusive:** Intercede is not a generic Force trick — it's the *bodyguard verb*, a class identity exactly as Premonition is the Sentinel's. The class owns the framework; the portable powers stay shared (Deflect below).
 
-### 4.2 Deflect — mastered shared-toolkit power
+### 4.2 Guardian's Reach `[reaction]` — the sticky-tank tool *(playtest F2 fix)*
+
+- **Trigger:** a creature within your reach uses a **move action** to **leave a square within your reach** (Stride/Step) — i.e., it tries to slip past you toward your allies.
+- **Effect:** make a melee **Strike** with your lightsaber against it (full accuracy — [reaction Strikes ignore MAP](2026-06-13-phase1-core-mechanic-and-traits.md)). The movement still resolves; the Strike is the **cost** of leaving your guard — *soft zoning* (a determined foe can eat the hit to reach the squishies, but it pays).
+- **Counterplay:** a foe may **Tumble Through** your space (Acrobatics vs your Class DC) to move without provoking — mobile/skirmisher foes keep an out.
+- **Why class-specific:** the system has **no universal opportunity attack** — the [Reactive Shot](2026-06-13-phase1-core-mechanic-and-traits.md) genre-flip deliberately replaced it (ranged punishes melee). **Guardian's Reach is the intentional exception**: the melee bodyguard's tool to *zone* and keep foes off the casters (answering the [playtest F2](../playtests/2026-06-20-playtest-modeB-mixed-party.md)). It shares the Guardian's reaction budget with Deflect/Intercede (+ **Vigilant Guard**'s 2nd reaction), under the **3-reaction cap**.
+- **Subclass enhancement (the design hook):** Forms sharpen it — e.g., **Shien/Djem So** adds its counter damage, **Makashi** can **Disarm** a fleeing Dueling Target, **Soresu** can **push** the foe back into reach, **Ataru** lets you **Stride** to stay adjacent. *(Detailed via §5 Form riders / feats.)*
+
+### 4.3 Deflect — mastered shared-toolkit power
 
 **Deflect is a shared Force toolkit reaction-power** (Battle/Control school) — *any* lightsaber-bearing Force user can learn it (a Sentinel, Consular, or Force Adept deflects too). The **Guardian gains it at L1 with the "Guardian Mastery" upgrade**: bigger reduction, broader applicability (e.g., Soresu extends it to melee), and it benefits from **Vigilant Guard's** extra reaction. This is the Lever-B *self*-mitigation. Cost **0** (defensive baseline). **Deflect is now defined in the [shared toolkit](2026-06-15-shared-force-toolkit.md)** (Control school, Basic/0: +2 circ AC vs a ranged energy attack while wielding a lightsaber); the Guardian Mastery upgrade is its bigger swing + Soresu's melee extension.
 
-### 4.3 Blade-Flow — the Lightsaber Form stance system
+### 4.4 Blade-Flow — the Lightsaber Form stance system
 
 The Guardian's tactical engine and the source of turn variety. **Full system: [Lightsaber Forms](2026-06-18-lightsaber-forms.md)** (a shared layer, like the Force toolkit). Summary:
 
@@ -99,7 +107,7 @@ The Guardian's tactical engine and the source of turn variety. **Full system: [L
 - *Example* — **Soresu Stance:** +2 circumstance AC vs ranged Strikes, Speed −10 ft; **Guardian Mastery:** the AC bonus also applies to melee.
 - **All seven Forms are subclasses** (one each: Shii-Cho/Makashi/Soresu/Ataru/Djem So/Niman/Juyo-Vaapad; Juyo carries `[dark]`). Subclass = your signature Form (base stance free + Mastery + synergy); you flow into the other six via feats. *(Forms detailed in §5.)*
 
-### 4.4 Force integration
+### 4.5 Force integration
 
 Attunement (`2 + L`) + **Center** (1 action, +2). The Guardian's **free baseline** is saber Strikes + Deflect + Intercede; **Attunement** buys the *spice*: **telekinetic shoves/pulls** (Alter — Force Push, Telekinetic Grasp), self-enhancement (Body/Battle), and offense (Offense). Discipline lean per roster: **Alter / Battle / Control**, limited Sense. Telekinetic shoves are **shared toolkit** applications, not exclusive — they give the Guardian its non-Strike turn options (control + repositioning) that keep turns varied.
 

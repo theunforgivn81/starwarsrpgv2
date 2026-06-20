@@ -108,6 +108,8 @@ The three-action economy allows up to three Strikes per turn. To keep "attack, a
 
 A character may use at most **3 reactions per round**, total, regardless of how many reaction-granting features/feats they have. Most characters have 1; reaction-specialist chassis (Sentinel) and feats (Combat Reflexes, Vigilant Guard) raise that **toward, but never past, 3**. This keeps off-turn interrupts from grinding table speed — a hard ceiling the [Gate-A pass](2026-06-19-gate-a-balance-pass.md) found the Guardian and Soldier could otherwise exceed (chassis 2nd reaction + two Combat-Reflexes feats = 4). *(The Sentinel's Premonition engine already embodies this cap; it is now universal.)*
 
+- **No universal opportunity attack.** There is **no class-agnostic AoO** — the ranged **Reactive Shot** (§11, the genre-flip: gunners punish meleers) replaces it. **Class-specific reactive Strikes are deliberate exceptions** granted by particular classes: the **Guardian's *Guardian's Reach*** (punish a foe leaving its reach — the melee bodyguard's zoning tool) and the **Sentinel's *Counter*** (precognitive riposte). Melee zoning is therefore a *class feature*, not a baseline everyone has — by design.
+
 ---
 
 ## 5. Item Potency & Damage Scaling
