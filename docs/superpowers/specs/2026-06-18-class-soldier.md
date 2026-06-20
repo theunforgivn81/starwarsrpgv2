@@ -1,6 +1,6 @@
 # Class — Soldier *(in progress)*
 
-**Status:** Foundation — identity, initial proficiencies, L1–20 chassis, and the **Suppress** verb framework designed (**ORC-core progression kept & supplemented**; Primary Target dropped). **Subclasses** and **class feats** are the next design steps.
+**Status:** Identity, proficiencies, L1–20 chassis, the **Suppress** verb (ORC progression kept & supplemented; Primary Target dropped), and the **five fighting-style subclasses** (§5) are designed. **Class feats** are the last step.
 **Date:** 2026-06-18
 **Type:** Class detail. The first **non-Force** chassis (no Attunement) — validates the martial baseline cleanly. Pairs with the [Guardian](2026-06-18-class-guardian.md) as the two "tank" classes (different shapes). **We keep the ORC-core Soldier ability progression** (Walking Armory, Fearsome Bulwark, the Suppressed condition, the durability spine, the prof scaffold) and **modify/supplement** it (Suppression Zone + Suppressing Reaction, Overwhelming Assault baselined, ✦ upgrades, a real L20 capstone), **dropping Primary Target**.
 **Upstream:** [Phase 5 chassis](2026-06-13-phase5-class-design-and-force.md), [Phase 3 progression](2026-06-13-phase3-progression-chassis.md), [Phase 1 core mechanic](2026-06-13-phase1-core-mechanic-and-traits.md) (MAP, conditions, Reactive Shot), [Creation Slot Contributions](2026-06-15-creation-slot-contributions.md).
@@ -118,13 +118,66 @@ These are why a one-stat CON class works; we keep them intact:
 
 ---
 
-## 5. Subclasses *(to design next — ~5 target)*
+## 5. Subclasses — fighting styles (five, ORC-adapted, designed 2026-06-18)
 
-Branch at **L1** on the **1/3/7/11/15/19** cadence; each modulates **Suppress**. Sketched ([roster §5](2026-06-15-subclass-roster-sketch.md)):
-- **Bulwark** (Armor Storm) — the two-handed **melee** Soldier: maneuvers + suppression at reach, resistance vs Suppressed enemies (the immovable frontline).
-- **Suppressor** (Action Hero) — auto-fire/zone-denial specialist; the biggest, meanest Suppression Zones.
-- **Demolitionist** (Bombard) — explosives & grenades; burst area damage + suppressed riders.
-- *(Two more toward the ~5 target — e.g., a **Sentinel/Bodyguard** body-blocking protector and a **Heavy Gunner** single-zone-anchor — TBD.)*
+Branch at **L1** (the "fighting style" choice) on the **1/3/7/11/15/19** cadence (◆ rows). Each modulates **Suppress** toward a distinct vector. Built parallel: L1 signature, **L3 a `[suppressed]` rider**, L7 technique, L11 spike, L15 major, L19 capstone. Adapted from **all five** ORC Soldier fighting styles (Action Hero / Armor Storm / Bombard / Erudite Warrior / Close Quarters); all riders/skills key off **CON** (no MAD). *(Numbers Gate-A.)*
+
+### 5.1 Suppressor — *(Action Hero · zone-denial / auto-fire)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Overwhelming Fire** | Automatic/area heavy-weapon training; your **Suppression Zone uses the weapon's full range increment** (bigger cone); a single ranged Strike with an automatic weapon also **Suppresses** the target. |
+| 3 | **Pinning Fire** *(rider)* | Foes that fail your Suppressing Fire are also **off-guard** until your next turn. |
+| 7 | **Sustained Barrage** | Maintain your Suppression Zone for **1 action** (not 2); your **Suppressing Reaction** can target **two** enemies in the zone. |
+| 11 | **No Escape** | A foe leaving your Zone provokes the Suppressing Reaction **at +2**; Suppressed Speed penalty deepens to **−15**. |
+| 15 | **Withering Hail** | Your Suppressing Fire deals **half damage even on a success** (and still Suppresses); +1 area die. |
+| 19 | **Total Lockdown** *(capstone)* | Your Zone is huge; enemies in it **can't move toward your allies**; a creature that crit-fails your fire is **stunned 1**. |
+
+### 5.2 Bulwark — *(Armor Storm · melee / soak)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Armor Storm** | No free hand needed for Athletics maneuvers; a creature you **Disarm/Grapple/Reposition/Shove/Trip** becomes **Suppressed**; gain **resistance vs Suppressed enemies' attacks = your CON mod** (stacks with Dig In). |
+| 3 | **Crushing Hold** *(rider)* | Your maneuvers vs Suppressed foes gain **+1**; a foe you maneuver is **off-guard**. |
+| 7 | **Immovable** | You can't be moved against your will or knocked prone while adjacent to a Suppressed foe; **Dig In** resistance applies even on turns you move. |
+| 11 | **Hold the Choke** | Enemies can't move past your reach without provoking; when you melee-Strike a foe, all foes adjacent to you become **Suppressed**. |
+| 15 | **Living Wall** | Adjacent allies gain **cover** (your bulk); your resistance vs Suppressed enemies **doubles**. |
+| 19 | **Unbreakable Line** *(capstone)* | A Suppressed enemy's attack can't reduce you below **1 HP**; at the start of your turn, all adjacent enemies are **Suppressed**. |
+
+### 5.3 Demolitionist — *(Bombard · burst AoE / ally-safe)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Bombard** | When you make an area attack, **exclude allies** (number = half your CON mod); enemies that **succeed (not crit) on the save are still Suppressed**. |
+| 3 | **Shaped Charge** *(rider)* | Foes that fail your area attack are **slowed 1**. |
+| 7 | **Cluster Munitions** | Your area attack creates a **second, smaller burst** adjacent to the first (or +1 area die). |
+| 11 | **Danger Close** | You're **immune to your own area attacks**; your bursts are larger. |
+| 15 | **Saturation Fire** | A foe that crit-fails your area attack takes **persistent damage**; Suppressed foes in your blast can't shed Suppressed early. |
+| 19 | **Carpet Bomb** *(capstone)* `[once per minute]` | A massive area strike — heavy damage + **Suppress** across a huge area (allies excluded). |
+
+### 5.4 Enforcer — *(Erudite Warrior · single-target menace / soft-taunt)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Oppressive Presence** | Gain **Diplomacy or Society** (+ a Lore). `[1 action]`, once/round: one enemy within **60 ft** is **Suppressed** until your next turn — **but if it targets you, the suppression ends** (the soft taunt: stay debuffed, or come deal with me). No weapon required. |
+| 3 | **Veiled Threat** *(rider)* | A foe under your Oppressive Presence is also **frightened 1** while it isn't attacking you. |
+| 7 | **Intimidating Onslaught** | Your **Demoralize** also **Suppresses** the target (Demoralize keys off CON via Fearsome Bulwark; ignore the language penalty). |
+| 11 | **Mark of Wrath** | Oppressive Presence affects **two** foes; a foe that ignores the taunt (attacks an ally, not you) provokes your **Suppressing Reaction**. |
+| 15 | **Commanding Field** | Oppressive Presence becomes a **free action** once/round; foes you've menaced this turn take **−2 circ** to attacks against your allies. |
+| 19 | **Unquestioned Authority** *(capstone)* | Every enemy that can see you and **isn't** attacking you is **Suppressed**. |
+
+### 5.5 Vanguard — *(Close Quarters · two-handed melee whirlwind)*
+
+| Lvl | Feature | Effect |
+|---|---|---|
+| 1 | **Close Quarters** | Your **two-handed melee weapons** count as area weapons for your Suppress features; your **Suppressing Fire** can be a **melee whirlwind** (a 5-ft emanation around you) that damages + **Suppresses** adjacent foes; you're unaffected by your own area attacks. |
+| 3 | **Brutal Sweep** *(rider)* | Foes that fail your melee Suppressing Fire are **pushed 5 ft** or knocked **prone** (your choice). |
+| 7 | **Whirling Swipe** | `[2 actions]`: make a melee **Strike against each enemy** in your reach (one shared MAP). |
+| 11 | **Reaping Advance** | You may **Stride then whirlwind-Suppress**; enemies adjacent to you at the start of your turn are **Suppressed**; your melee burst grows to **10 ft**. |
+| 15 | **Cleaving Momentum** | When you drop a foe with a melee Strike, **Strike an adjacent foe**; your two-handed crits Suppress a wider area. |
+| 19 | **Eye of the Hurricane** *(capstone)* | Each turn, all adjacent enemies are **Suppressed** and **off-guard** to you; your whirlwind Suppressing Fire deals **damage even on a success**. |
+
+**Cross-balance notes.** Same-level features compare with different *shapes*: **Suppressor** = widest ranged zone control · **Bulwark** = maneuver-control + soak · **Demolitionist** = ally-safe ranged burst · **Enforcer** = single-target menace + the explicit soft-taunt · **Vanguard** = self-centered melee whirlwind. The two melee forks stay distinct: **Bulwark grapples/controls** (Armor Storm), **Vanguard hews an area** (Close Quarters). CON keys everything (no MAD). L3 riders use the one-`[suppressed]`-per-action rule; the lone `[once per minute]` (Carpet Bomb) bounds the only nova vector.
 
 ---
 
@@ -136,7 +189,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence; each modulates **Suppress**.
 
 ## 7. Carried Forward
 
-- **§5 subclasses** (~5) on the 1/3/7/11/15/19 cadence; Armor Storm = the melee fork.
+- ~~**§5 subclasses** (~5)~~ — **DONE (2026-06-18):** all five ORC fighting styles adapted (Suppressor/Bulwark/Demolitionist/Enforcer/Vanguard).
 - **§6 class feats** (~50), general + subclass, including the **`[suppressed]`** rider feats.
 - **Define `Suppressed` formally** in the conditions glossary (Phase 1 / connective-tissue) once finalized.
 - **Gate-A validation:** Suppressed value (−1/−2) as an area debuff, the Suppressing Reaction economy + Dig In resistance, area DPR vs the bracket, the weapon track (Legendary at 19), and the reworked CON key (vs the slice's DEX Soldier).

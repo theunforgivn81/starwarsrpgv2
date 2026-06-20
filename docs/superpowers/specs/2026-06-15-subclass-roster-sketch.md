@@ -68,13 +68,17 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **Infosphere Director** | recon/comms — battlefield awareness, data-buffs, scouting drone |
 | **Munitions Expert** | deployable weapons — turrets, mines, grenades (area/control) |
 
-## 5. Soldier — Combat Styles *(CON · Suppress)* — ~3 *(SF2E-adapted)*
+## 5. Soldier — Fighting Styles *(CON · Suppress)* — **5, built** *(all ORC styles adapted)*
+
+> **Built in full** — [class-soldier §5](2026-06-18-class-soldier.md). All five ORC Soldier fighting styles adapted.
 
 | Subclass | Suppress fork |
 |---|---|
-| **Bulwark** (Armor Storm) | heavy armor + heavy weapons; the immovable frontline |
-| **Suppressor** (Action Hero) | auto-fire/area suppression; zone-denial gunner |
-| **Demolitionist** (Bombard) | explosives & grenades; area burst |
+| **Suppressor** (Action Hero) | auto-fire/area suppression; widest zone-denial |
+| **Bulwark** (Armor Storm) | maneuver-control + soak; the immovable grappler-frontline |
+| **Demolitionist** (Bombard) | explosives & grenades; ally-safe area burst |
+| **Enforcer** (Erudite Warrior) | single-target menace; Oppressive Presence soft-taunt |
+| **Vanguard** (Close Quarters) | two-handed melee whirlwind; self-centered melee suppression |
 
 ## 6. Officer — Leadership Styles *(CHA · Command)* — ~3 *(SF2E Envoy-adapted)*
 
