@@ -204,7 +204,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each **Mandate** 
 | 8 | **Empower Manifest** | `[once per minute]` Manifest one power with **maximized dice** (no roll). |
 | 8 | **Remote Manifest** | Manifest a power through a willing ally or a sensor you can perceive (fold space). |
 | 8 | **Shared Senses** | Broadcast your precise senses to allies within 30 ft for 1 round. |
-| 8 | **Deep Reserve** | Your Attunement pool increases by **+2** beyond Deep Reservoir. |
+| 8 | **Deep Reserve** | Your Attunement pool increases by **+1** beyond Deep Reservoir. *(Gate-A: trimmed from +2 to keep the deep pool's nova ceiling in check.)* |
 | 10 | **Force Flight** | Gain **Telekinetic Flight** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 10 | **Quickened Manifest** | `[once per minute]` Manifest a 1-action power as a **free action**. |
 | 10 | **Absolute Focus** | Your Sustained powers and concentration can't be disrupted by damage. |

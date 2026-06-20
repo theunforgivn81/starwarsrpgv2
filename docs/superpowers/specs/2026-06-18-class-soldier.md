@@ -206,7 +206,7 @@ Branch at **L1** (the "fighting style" choice) on the **1/3/7/11/15/19** cadence
 | 6 | **Cratering Rounds** | Your area attack turns the ground in its area into **difficult terrain**. |
 | 6 | **Body Block** | `[reaction]` when an enemy attacks an ally adjacent to you, **you become the target instead** (you step in front — the Soldier's physical Lever-B). |
 | 6 | **Reckless Barrage** | `[1 action]`: **−2 circ AC**, gain **resistance = half your level** until your next turn. |
-| 8 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for your **Suppressing Reaction**, Covering Fire, or Reactive Shot. |
+| 8 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for your **Suppressing Reaction**, Covering Fire, or Reactive Shot (subject to the **3-reaction/round cap**, [Phase 1 §4.3](2026-06-13-phase1-core-mechanic-and-traits.md)). |
 | 8 | **Collateral Witness** | After a Suppressing Fire, **Demoralize** a foe in the area as a **free action**. |
 | 8 | **Two-Pronged Salvo** | Your Suppressing Salvo focused shot can hit **two** targets in the area. |
 | 8 | **Smoke Screen** | After you Suppress, you're **concealed** until your next turn. |
@@ -232,7 +232,7 @@ Each requires the named fighting style.
 | Style | Feats (level) |
 |---|---|
 | **Suppressor** | *Indiscriminate* (4 — a 360° auto-fire burst clears the area around you) · *Air Burst* (8 — your Zone affects flyers and ignores cover) · *Ceaseless Barrage* (12 — maintain your Zone **and** make a ranged Strike in one turn) |
-| **Bulwark** | *Armored Reaction* (4 — `[reaction]`: resistance = your level vs a hit, **doubled** vs Suppressed foes; then Shove the attacker) · *Immovable Object* (8 — immune to forced movement & prone; +resist while adjacent to a Suppressed foe) · *Crushing Grapple* (12 — a foe you Grapple takes damage each round and stays Suppressed) |
+| **Bulwark** | *Armored Reaction* (4 — `[reaction]`: resistance = **half your level** vs a hit (**= your level** vs a Suppressed attacker); then Shove the attacker) · *Immovable Object* (8 — immune to forced movement & prone; +resist while adjacent to a Suppressed foe) · *Crushing Grapple* (12 — a foe you Grapple takes damage each round and stays Suppressed) · *(Gate-A: resist values reduced from level/2×level to half-level/level so Dig In + Armored Reaction + Unshakable don't compound to negation)* |
 | **Demolitionist** | *Wide Blast* (4 — bigger bursts; exclude more allies) · *Sticky Charge* (8 — a foe that fails takes persistent damage and is marked for your next blast) · *Bunker Buster* (12 — your area attacks ignore cover and reduce Hardness) |
 | **Enforcer** | *Withering Glare* (4 — Oppressive Presence hits **two** foes or reaches 120 ft) · *Field Tactician* (8 — allies gain **+1 circ** to attacks vs foes you've menaced this turn) · *Cowed* (12 — a foe that shakes your Oppressive Presence is **frightened 1**) |
 | **Vanguard** | *Cleaving Sweep* (4 — a melee Strike hits a second adjacent foe) · *Reactive Swing* (8 — `[reaction]`: melee Strike a foe entering your reach, ignoring unwieldy) · *Rotary Onslaught* (12 — `[2 actions]`: Strike **and** Suppress every adjacent foe) |

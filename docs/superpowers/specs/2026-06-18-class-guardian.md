@@ -213,7 +213,7 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (◆ rows
 | 8 | **Saber Barrier** | `[2 actions]`, Att: project a field giving you + adjacent allies temp HP (Force Barrier application). |
 | 8 | **Ground Slam** | Gain **Force Wave** ([Alter](2026-06-15-shared-force-toolkit.md)). |
 | 8 | **Bodyguard's Reach** | Your **Deflect** can protect an adjacent ally from a ranged attack. |
-| 10 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for Deflect, Intercede, or a reactive Strike. |
+| 10 | **Combat Reflexes** | Gain **+1 reaction/round**, usable only for Deflect, Intercede, or a reactive Strike (subject to the **3-reaction/round cap**, [Phase 1 §4.3](2026-06-13-phase1-core-mechanic-and-traits.md)). |
 | 10 | **Force Speed** | Gain **Force Celerity** ([Body](2026-06-15-shared-force-toolkit.md)). |
 | 10 | **Shielding Intercede** | When you Intercede, the ally also gains **+1 circ AC** until your next turn. |
 | 12 | **Telekinetic Flight** | Gain **Telekinetic Flight** ([Alter](2026-06-15-shared-force-toolkit.md)). |
