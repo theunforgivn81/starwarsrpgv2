@@ -1,8 +1,12 @@
 # Design Spec: `ttrpg-playtest-simulation` skill
 
 **Date:** 2026-06-13
-**Status:** Approved (brainstorming complete)
+**Status:** Approved (brainstorming complete). **Revised 2026-06-20** — added the **Fun Audit** (see Changelog).
 **Type:** New user-level skill (methodology) + subagent orchestration pattern
+
+## Changelog
+
+- **2026-06-20 — Fun Audit added.** The skill hunted only mechanical failures; it produced *no* judgment of whether the play is *fun* (the 2026-06-20 Mode B run caught turn-variety only incidentally, as a Note). Added a **second, separate pass**: each persona judges the slice against a **fixed, observable fun test** (Optimizer = ≥2 viable lines that mattered; Rules-Lawyer = a clever *legal* combo the text supports; Chaos = an off-script action got a real "yes, and"; New Player = pick+resolve a turn in ≤~3 decisions and feel it mattered). Recurring not-fun signals = **Major** (boredom/paralysis kill games like exploits do). Find-not-fix held; fun findings route to **ability-design** (boring/no-payoff pick), **class-design** (samey/weak identity), **rules-writing** (paralysis from unclear text). Form = *structural required slot* (matches the omission-failure type, per writing-skills), with **observable** criteria to defeat Mode B's charitable bias. *(Live test: the next Mode A run exercises it.)*
 
 ## Problem
 
