@@ -95,21 +95,21 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Suppress, Overwhelming Assault, Walking Armory, fighting style, class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Fearsome Bulwark, fighting style feature, general feat, skill increase; **expert in Reflex** |
+| 3 | +1 | Fearsome Bulwark, Reflex Expertise, fighting style feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Soldier weapon expertise, ability boosts, species feat, skill increase; **expert in Perception** |
+| 5 | +2 | Perception Expertise, Soldier Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Tough as Nails, weapon specialization, fighting style feature, general feat, skill increase; **expert in armor**, **expert in Soldier class DC** |
+| 7 | +2 | Armor Expertise, Soldier Expertise, Tough as Nails, Weapon Specialization, fighting style feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Dig In, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Withering Fire, species feat, skill increase; **master in armor** |
+| 13 | +4 | Armor Mastery, Withering Fire, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater weapon specialization, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase; **master in weapons**, **master in Soldier class DC** |
+| 15 | +4 | Greater Weapon Specialization, Soldier Weapon Mastery, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Pinned Down, species feat, skill increase; **legendary in armor**, **master in Perception** |
+| 17 | +5 | Legendary Armor, Perception Mastery, Pinned Down, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Fighting style feature, general feat, skill increase |
 | 20 | +6 | No Quarter, class feat, skill feat, ability boosts |
@@ -155,9 +155,25 @@ While your Suppression Zone is up, every enemy inside it is suppressed, and any 
 
 **(3rd level)** Your presence is as heavy as your gear, and you throw your weight around with it. You can use your **Constitution modifier in place of Charisma** for Intimidation (to Coerce and Demoralize), and **in place of Strength** for the Athletics checks to Reposition, Shove, and Trip. Your menace and your battlefield-control maneuvers both run on Constitution.
 
+## Reflex Expertise
+
+**(3rd level)** Your proficiency rank for Reflex saves increases to expert.
+
+## Perception Expertise
+
+**(5th level)** Your proficiency rank for Perception increases to expert.
+
 ## Soldier Weapon Expertise
 
 **(5th level)** Your training with the tools of war deepens. You become **expert** in simple weapons, martial weapons, and unarmed attacks, and you gain the critical specialization effect of any area or automatic weapon you wield.
+
+## Armor Expertise
+
+**(7th level)** Your proficiency ranks for light, medium, and heavy armor and for unarmored defense increase to expert.
+
+## Soldier Expertise
+
+**(7th level)** Your proficiency rank for your Soldier class DC increases to expert.
 
 ## Tough as Nails
 
@@ -180,6 +196,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 **(11th level)** Discipline is its own armor. Your proficiency in Will saves increases to **master**, and when you roll a **success** on a Will save, you get a **critical success** instead.
 
+## Armor Mastery
+
+**(13th level)** Your proficiency ranks for light, medium, and heavy armor and for unarmored defense increase to master.
+
 ## Withering Fire
 
 **(13th level)** Your suppression grinds the enemy down. The attack-roll penalty of your **suppressed** condition deepens to **–2**, and you gain a **second Suppressing Reaction** each round.
@@ -187,9 +207,21 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 > **Sidebar — Your Reactions Have a Ceiling**
 > No matter how many reactions your features and feats grant, you can use **at most three reactions per round**. Withering Fire's second Suppressing Reaction, Covering Fire, and a Reactive Shot all draw from that same ceiling — choose which triggers are worth answering.
 
+## Soldier Weapon Mastery
+
+**(15th level)** Your proficiency ranks for simple weapons, martial weapons, unarmed attacks, and your Soldier class DC increase to master.
+
 ## Unshakable Juggernaut
 
 **(15th level)** You shrug off what would fell others. Your proficiency in Fortitude saves increases to **legendary**; a **critical failure** on a Fortitude save becomes an ordinary **failure**; and when you **fail** a Fortitude save against an effect that deals damage, you take **half** that damage. With Tough as Nails, this makes your body the hardest target in the game.
+
+## Legendary Armor
+
+**(17th level)** Your proficiency ranks for light, medium, and heavy armor and for unarmored defense increase to legendary.
+
+## Perception Mastery
+
+**(17th level)** Your proficiency rank for Perception increases to master.
 
 ## Pinned Down
 
@@ -197,7 +229,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## No Quarter
 
-**(20th level)** *Capstone.* You command the field absolutely. Enemies can't leave your Suppression Zone toward your allies without triggering your Suppressing Reaction, and any creature that **critically fails** its save against your Suppressing Fire is also **slowed 1**.
+**(20th level)** You command the field absolutely. Enemies can't leave your Suppression Zone toward your allies without triggering your Suppressing Reaction, and any creature that **critically fails** its save against your Suppressing Fire is also **slowed 1**.
 
 ---
 
