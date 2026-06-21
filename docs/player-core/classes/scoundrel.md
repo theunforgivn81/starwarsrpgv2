@@ -85,7 +85,7 @@ Trained in unarmored defense
 Trained in Scoundrel class DC
 
 > **Sidebar — The Ranged Sub-Track**
-> The Scoundrel is the only class whose weapon training **forks**: your simple and martial *ranged* weapons run a full rank ahead of everything else, and they alone reach **legendary** (at 13th level). Your melee and advanced weapons always trail. This is what makes you the galaxy's dedicated *ranged* striker — and why your named weapon features (*Scoundrel Weapon Expertise*, *Scoundrel Weapon Mastery*) raise the ranged and other tracks by different amounts at the same level.
+> The Scoundrel is the only class whose weapon training **forks**: your simple and martial *ranged* weapons run a full rank ahead of everything else, and they alone reach **legendary** (at 13th level). Your melee and advanced weapons always trail. This is what makes you the galaxy's dedicated *ranged* striker — and why your named weapon features (*Master Gunner*, *Legendary Gunner*) raise the ranged and other tracks by different amounts at the same level.
 
 ---
 
@@ -99,21 +99,21 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Scoundrel Expertise, specialization feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Exploit 2d6, Scoundrel Weapon Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Exploit 2d6, Master Gunner, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Evasion, Operative's Edge, Weapon Specialization, specialization feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Fortitude Expertise, Resolve, species feat, skill increase |
+| 9 | +3 | Resolve, Scoundrel Resilience, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Exploit 3d6, On the Move, Scoundrel Mastery, specialization feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Armor Expertise, Greater Evasion, Scoundrel Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Greater Evasion, Legendary Gunner, Light Armor Expertise, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, specialization feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Exploit 4d6, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
-| 19 | +5 | Armor Mastery, specialization feature, general feat, skill increase |
+| 19 | +5 | Light Armor Mastery, specialization feature, general feat, skill increase |
 | 20 | +6 | Perfect Opening, ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -143,7 +143,7 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 **(3rd level)** Your proficiency rank for your Scoundrel class DC increases to expert.
 
-## Scoundrel Weapon Expertise
+## Master Gunner
 
 **(5th level)** Your proficiency ranks for simple and martial ranged weapons increase to master, and for advanced ranged weapons to expert.
 
@@ -161,7 +161,7 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 At **15th level**, this becomes **Greater Weapon Specialization**, and the bonuses increase to **+4 (expert), +6 (master), +8 (legendary)**.
 
-## Fortitude Expertise
+## Scoundrel Resilience
 
 **(9th level)** Your proficiency rank for Fortitude saves increases to expert.
 
@@ -177,7 +177,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 **(11th level)** Your proficiency rank for your Scoundrel class DC increases to master.
 
-## Armor Expertise
+## Light Armor Expertise
 
 **(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
 
@@ -185,11 +185,11 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 **(13th level)** You're never quite where the blast lands. When you roll a failure on a Reflex save against an effect that allows a basic save, you get a success instead.
 
-## Scoundrel Weapon Mastery
+## Legendary Gunner
 
 **(13th level)** Your proficiency rank for simple and martial ranged weapons increases to **legendary**, for advanced ranged weapons to master, and for simple and martial melee weapons and unarmed attacks to expert.
 
-## Armor Mastery
+## Light Armor Mastery
 
 **(19th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
 
