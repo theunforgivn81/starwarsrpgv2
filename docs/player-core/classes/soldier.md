@@ -31,13 +31,17 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 ## Roleplaying the Soldier
 
-**During Combat Encounters…** you control space. You decide where the enemy *can't* go and what it costs to try anyway. A typical turn lays down a zone, picks off a foe already caught in it, and holds your reaction for whoever flinches first. You are seldom out of meaningful decisions — *where* the zone goes, *whom* to punish, *when* to fire — and almost never out of resources, because suppression costs no fuel but actions and ammo.
+**During Combat Encounters…**  
+You control space. You decide where the enemy *can't* go and what it costs to try anyway. A typical turn lays down a zone, picks off a foe already caught in it, and holds your reaction for whoever flinches first. You are seldom out of meaningful decisions — *where* the zone goes, *whom* to punish, *when* to fire — and almost never out of resources, because suppression costs no fuel but actions and ammo.
 
-**During Social Encounters…** you are the implied threat in the room — and your menace is mechanical, not merely flavor; your intimidation runs on the same Constitution that carries your armor.
+**During Social Encounters…**  
+You are the implied threat in the room — and your menace is mechanical, not merely flavor; your intimidation runs on the same Constitution that carries your armor.
 
-**While Exploring…** you take point or hold the rear, the fixed object the party maneuvers around.
+**While Exploring…**  
+You take point or hold the rear, the fixed object the party maneuvers around.
 
-**In Downtime…** you maintain heavy gear, drill the squad, and trade on a reputation for being impossible to move.
+**In Downtime…**  
+You maintain heavy gear, drill the squad, and trade on a reputation for being impossible to move.
 
 **You Might…**
 - Want to be the reason the enemy's plan falls apart, not just the reason it dies.
@@ -55,12 +59,31 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 At 1st level you gain the following proficiencies. Your total bonus on any check or DC is the **Level Bonus** for your level (see the table) **plus** your proficiency-rank bonus — Trained +1, Expert +2, Master +3, Legendary +4 — **plus** the relevant attribute modifier.
 
-**Perception** Trained in Perception
-**Saving Throws** Expert in Fortitude, Expert in Will, Trained in Reflex
-**Skills** Trained in Intimidation; trained in a number of additional skills equal to 3 plus your Intelligence modifier
-**Attacks** Trained in simple weapons, martial weapons, and unarmed attacks
-**Defenses** Trained in all armor (including heavy armor) and unarmored defense
-**Class DC** Trained in Soldier class DC
+**Perception**  
+Trained in Perception
+
+**Saving Throws**  
+Expert in Fortitude
+Expert in Will
+Trained in Reflex
+
+**Skills**  
+Trained in Intimidation
+Trained in a number of additional skills equal to 3 plus your Intelligence modifier
+
+**Attacks**  
+Trained in unarmed attacks
+Trained in simple weapons
+Trained in martial weapons
+
+**Defenses**  
+Trained in unarmored defence
+Trained in light armor
+Trained in medium armor
+Trained in heavy armor
+
+**Class DC**  
+Trained in Soldier class DC
 
 ---
 
@@ -74,17 +97,17 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Fearsome Bulwark, fighting style feature, general feat, skill increase; **expert in Reflex** |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Soldier weapon expertise, ability boosts, species feat, skill increase; **expert in simple and martial weapons**, **expert in Perception** |
+| 5 | +2 | Soldier weapon expertise, ability boosts, species feat, skill increase; **expert in Perception** |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Tough as Nails, weapon specialization, fighting style feature, general feat, skill increase; **master in Fortitude**, **expert in armor**, **expert in Soldier class DC** |
+| 7 | +2 | Tough as Nails, weapon specialization, fighting style feature, general feat, skill increase; **expert in armor**, **expert in Soldier class DC** |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Dig In, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase; **master in Will** |
+| 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Withering Fire, species feat, skill increase; **master in armor** |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater weapon specialization, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase; **legendary in Fortitude**, **master in weapons**, **master in Soldier class DC** |
+| 15 | +4 | Greater weapon specialization, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase; **master in weapons**, **master in Soldier class DC** |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Pinned Down, species feat, skill increase; **legendary in armor**, **master in Perception** |
 | 18 | +5 | Class feat, skill feat |
