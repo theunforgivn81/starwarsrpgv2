@@ -146,6 +146,13 @@ A handful of words you'll meet constantly:
 
 *(A fuller glossary appears at the back of the book.)*
 
+> **Optional Rule — Hero Points**
+> This game is built to stand *without* a luck currency: the bounded math and the four degrees of success are meant to carry the tension on their own. But some tables like a heroic safety valve, and you can switch one on freely — if your group finds it indispensable, make it a standard part of your campaign.
+>
+> - Each player begins every session with **1 Hero Point**. The GM awards more for daring, clever, or selfless play — rarely more than a few in a session. You can hold at most **3** at once, and they don't carry over between sessions.
+> - **Reroll** *(free action):* Spend 1 Hero Point to reroll a check you just made. You must use the second result, even if it's worse.
+> - **Cheat Death:** When you would be knocked out or killed, spend **all** your Hero Points (at least 1) to stay on your feet at **1 Hit Point** instead — gritting through what should have ended you.
+
 ---
 
 ## An Example of Play
