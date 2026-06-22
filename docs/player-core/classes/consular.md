@@ -1,0 +1,208 @@
+# Consular
+
+*She did not draw a blade. She simply lifted her hand, and the gunship's own cannon tore free of its mount and folded like paper — and in the silence after, every trooper decided, all at once, that they would rather be somewhere else.*
+
+A Consular is the will made manifest. Where a Guardian answers the galaxy with a blade and a Sentinel with foresight, the Consular answers it with the raw, shaping power of the Force — telekinesis that hurls and crushes, domination that bends minds, barriers and healing that hold a line together. You carry a lightsaber, but mostly to deflect a stray bolt; your weapon is your will, and it is the strongest in the galaxy.
+
+> **Key Attribute** Charisma
+> **Hit Points** 8 + your Constitution modifier (each level)
+
+A high Charisma is the force of will that powers every manifestation. Charisma is your key for the Force — your **Force DC** (the number foes resist), your Force attacks, and your standing in the galaxy's halls of power. The Consular pours everything into it.
+
+> **Sidebar — Reading an Ability Block**
+> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* (always capitalized) note the rules categories an ability belongs to. Save-based abilities list all four outcomes — **Critical Success, Success, Failure, Critical Failure**.
+
+> **Sidebar — Your Powers Live in *The Force***
+> The Consular is built on the shared Force toolkit. Everything about **Attunement**, the six **Applications**, your **Force DC**, **Push**, and the full list of powers lives in the **The Force** chapter. This chapter covers what makes the Consular the Force's master: the deepest pool, the broadest access, and the engine that fuels it all.
+
+---
+
+## Key Terms
+
+**Manifest**. To use a Force power — to spend the actions and Attunement and make it real. The Consular's defining verb.
+
+**Repertoire**. The set of Force powers you know and can Manifest. The Consular's is the largest of any class, and it grows as you level.
+
+**Mandate**. Your Consular subclass — a devotion to one of the six Applications of the Force that grants you its iconic power and deepens your command of it.
+
+*(For Attunement, the Applications, Force DC, and Push, see **The Force**.)*
+
+---
+
+## Roleplaying the Consular
+
+**During Combat Encounters…**  
+You shape the fight. A typical turn opens with an at-will **Telekinetic Impact** — your reliable, free offense — then spends Attunement on the power the moment calls for: crush a foe, hold it fast, dominate its mind, mend an ally, or wall off the field. When your pool runs low, you **Center** and refill it. Your decisions are *which power, which target, how hard to Push, when to refuel* — never "attack three times."
+
+**During Social Encounters…**  
+Your Charisma is no mask — it's the same will that moves starfighters. You persuade, intimidate, and (with the right Mandate) reach past words entirely.
+
+**While Exploring…**  
+You sense life, read the unseen, lift what's in the way, and know more about the Force than anyone in the room.
+
+**In Downtime…**  
+You meditate, study ancient teachings, and deepen your bond with the Force.
+
+**You Might…**
+- Want the broadest toolkit in the game and the deepest well to fuel it.
+- Like solving each problem with a different power rather than the same attack.
+- Enjoy being the answer to almost any situation — at the cost of a fragile body.
+
+**Others Probably…**
+- Look to you to remove the problem the blasters can't.
+- Rely on your control to lock down what would otherwise overwhelm them.
+- Stand between you and the enemy, because a Consular who gets hit goes down fast.
+
+---
+
+## Initial Proficiencies
+
+At 1st level you gain the following proficiencies. Your total bonus on any check or DC is the **Level Bonus** for your level (see the table) **plus** your proficiency-rank bonus — Trained +1, Expert +2, Master +3, Legendary +4 — **plus** the relevant attribute modifier.
+
+**Perception**  
+Trained in Perception
+
+**Saving Throws**  
+Expert in Will  
+Expert in Fortitude  
+Trained in Reflex
+
+**Skills**  
+Trained in The Force  
+Trained in one skill from Diplomacy or Intimidation  
+Trained in a number of additional skills equal to 3 plus your Intelligence modifier
+
+**Attacks**  
+Trained in simple weapons and the lightsaber
+
+**Defenses**  
+Trained in light armor and unarmored defense
+
+**Class DC**  
+Trained in Consular class DC (your Force DC)
+
+You also gain **Attunement**, the Force resource (see *The Force*) — and the deepest pool of any class (below).
+
+---
+
+## Class Features
+
+The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
+
+| Level | Level Bonus | Class Features & Advancement |
+|:---:|:---:|---|
+| 1 | +1 | Manifest, Telekinetic Impact, Mandate, class feat, species feat |
+| 2 | +1 | Class feat, skill feat |
+| 3 | +1 | Reflex Expertise, Mandate feature, general feat, skill increase |
+| 4 | +2 | Class feat, skill feat |
+| 5 | +2 | Consular Expertise, Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
+| 6 | +2 | Class feat, skill feat |
+| 7 | +2 | Weapon Specialization, Mandate feature, general feat, skill increase |
+| 8 | +3 | Class feat, skill feat |
+| 9 | +3 | Greater Manifest, Resolve, species feat, skill increase |
+| 10 | +3 | Class feat, skill feat, ability boosts |
+| 11 | +3 | Consular Mastery, Juggernaut, Weapon Expertise, Mandate feature, general feat, skill increase |
+| 12 | +4 | Class feat, skill feat |
+| 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, species feat, skill increase |
+| 14 | +4 | Class feat, skill feat |
+| 15 | +4 | Greater Resolve, Greater Weapon Specialization, Mandate feature, ability boosts, general feat, skill increase |
+| 16 | +5 | Class feat, skill feat |
+| 17 | +5 | Force Mastery, species feat, skill increase |
+| 18 | +5 | Class feat, skill feat |
+| 19 | +5 | Mandate feature, general feat, skill increase |
+| 20 | +6 | Avatar of the Force, ability boosts, class feat, skill feat |
+
+Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
+
+---
+
+## Manifest
+
+**(1st level)** Your defining capability: you draw on the Force more deeply, and from more sources, than anyone.
+
+**The deepest well.** Your Attunement pool is **3 + your Level Bonus** — one point deeper than any other Force user — and your **Center** action restores **3 Attunement** instead of 2. You are the class built to reach the Force's greatest powers and to fuel them turn after turn.
+
+**The broadest reach.** You can learn powers from **all six Applications** (most Force users lean on one or two). Your **repertoire** — the powers you know — is the largest in the galaxy: at 1st level it holds the power your **Mandate** grants you, plus **four** powers of your choice that you're high enough level to learn, from any Application. You add another power to your repertoire each time you gain a class feat, and your Manifest-development features (below) widen both how many powers you know and which tiers you can reach.
+
+**Your DC is your weapon.** When a power you Manifest lets a foe resist, they roll against your **Consular class DC** (your Force DC). This is the stat you live and die by, and it climbs higher than any other class's (to Legendary at 17th level).
+
+## Telekinetic Impact
+
+**Telekinetic Impact**  [one-action] or [two-actions]  **·  Traits** Force, Alter
+**Cost** none
+**Range** 60 feet; **Targets** 1 creature
+**Effect** You strike a foe with a lash of pure kinetic force — a ranged Force attack that needs no Attunement, so you're never without a weapon. On a hit, the target takes **1d8 force damage** (double on a critical hit). If you spend **two actions**, the impact deals an additional die of damage and pushes the target 5 feet on a hit. Increase the damage by one die at 5th, 11th, and 17th levels.
+
+## Mandate
+
+**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications that grants its iconic power for free at 1st level, a signature benefit, and deeper command of that Application at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Telekinesis**, **Visions**, **Serenity**, **Vitality**, **Dominance**, or **Destruction**; each is detailed in **Consular Mandates**.
+
+## Reflex Expertise
+
+**(3rd level)** Your proficiency rank for Reflex saves increases to expert.
+
+## Consular Expertise
+
+**(5th level)** Your proficiency rank for your Consular class DC increases to expert.
+
+## Heightened Manifest
+
+**(5th level)** Your command of the Force deepens. Your repertoire grows, and once per turn you can apply a power's **Push** upgrade **without spending the extra Attunement** — a second power's worth of throughput, free.
+
+## Perception Expertise
+
+**(5th level)** Your proficiency rank for Perception increases to expert.
+
+## Weapon Specialization
+
+**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. As a Consular you rarely meet that threshold before 11th level, so this feature mostly waits in reserve — but it switches on the moment your weapons reach expert.
+
+At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
+
+## Greater Manifest
+
+**(9th level)** The Force's greater mysteries open to you. You can learn and Manifest **Greater** (3-Attunement) powers, and both your pool and your repertoire continue to grow.
+
+## Resolve
+
+**(9th level)** Your mind is a fortress. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+
+## Consular Mastery
+
+**(11th level)** Your proficiency rank for your Consular class DC increases to master.
+
+## Juggernaut
+
+**(11th level)** Your body endures what your will commands. Your proficiency rank for Fortitude saves increases to master, and when you roll a success on a Fortitude save, you get a critical success instead.
+
+## Weapon Expertise
+
+**(11th level)** Your proficiency ranks for simple weapons and the lightsaber increase to expert.
+
+## Light Armor Expertise
+
+**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+
+## Master Manifest
+
+**(13th level)** You command the Force's highest expressions. You can learn and Manifest the most powerful (4th-tier) powers, and your **Telekinetic Impact** gains an additional rider: on a hit, you may forgo the push to instead make the target **off-guard** to you until the start of your next turn.
+
+## Perception Mastery
+
+**(13th level)** Your proficiency rank for Perception increases to master.
+
+## Greater Resolve
+
+**(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
+
+## Force Mastery
+
+**(17th level)** Your proficiency rank for your Consular class DC increases to legendary — your manifested powers are the hardest in the galaxy to resist.
+
+## Avatar of the Force
+
+**(20th level)** *Capstone.* You and the Force are very nearly one. Once per round, you can Manifest a power **without spending Attunement**, and once per encounter you can restore your Attunement pool to full as a single action.
+
+---
+
+Your Mandate and its features are detailed in **[Consular Mandates](consular-mandates.md)**; your class-feat options, in **[Consular Feats](consular-feats.md)**. The powers you Manifest are in **[The Force](the-force.md)**.
