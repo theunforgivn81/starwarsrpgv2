@@ -12,8 +12,13 @@ A tabletop roleplaying game is a story you build together, out loud, around a ta
 
 There's no board to win and no script to follow. The GM might have a scenario in mind — a heist, a rescue, a desperate last stand — but how it goes is up to all of you. The fun is in the *choices*: the clever plan, the terrible risk, the line of dialogue nobody saw coming. The rules exist for the moments when wanting something isn't enough — when you need to know whether the leap lands, the lie holds, or the blaster bolt finds its mark.
 
-> **Sidebar — The Three Things You'll Do**
-> Play moves through three kinds of scenes, and the game supports all three equally. **Combat** — blasters, lightsabers, and the three-action turn. **Exploration** — travel, investigation, slicing, stealth, the work between fights. **Social** — negotiation, deception, intimidation, the scenes where words are the weapons. A character built for one is never dead weight in the others.
+**The first rule.** Everything in this book serves the table, not the other way around. If a rule ever gets in the way of the group's fun, the GM and players can change it — agreement at the table outranks any line on the page. And when two rules seem to disagree, the **more specific** one wins: a feature that says you ignore cover overrides the general cover rule. That's the whole point of having it.
+
+> **Sidebar — This Game Is for Everyone**
+> The galaxy is big enough for every kind of player and every kind of hero. Before your first session, talk as a group — a quick "session zero" — about the tone you want and any lines to leave out. Agree on a simple way to pause, skip, or rewind a scene that isn't working for someone. None of this slows the game down; it's what lets everyone take real risks, because no one's bracing to be blindsided.
+
+> **Sidebar — The Three Modes of Play**
+> Time at the table runs in three modes. **Encounters** are the tense, turn-by-turn moments — usually combat — measured in six-second **rounds**, where the three-action turn lives. **Exploration** is everything in between: travel, investigation, slicing a terminal, talking past a guard — free-flowing, measured in minutes. **Downtime** is the long view — days or weeks of rest, repair, training, and earning a living, where one roll can stand for a week's work. The game weights **combat and social play equally**, so a face is never idle in a fight and a gunslinger is never useless at a parley.
 
 ---
 
@@ -28,6 +33,20 @@ A few things make this game play the way it does. You don't need to know them ye
 - **Four degrees of outcome.** You don't just succeed or fail. You can *critically* succeed (great) or *critically* fail (bad), and the difference drives the drama.
 - **No spell slots, no daily batteries.** Even the Force users here are *doers*, not spellcasters rationing a daily list. Power is paced by the clock of the fight — actions, reactions, and short cooldowns — not by an "adventuring day."
 - **Seven ways to be a hero.** Each **class** is a distinct verb at the table: the Soldier *suppresses*, the Scoundrel *exploits*, the Officer *commands*, the Guardian *intercedes*, and so on. You'll meet them all in their chapters.
+
+---
+
+## What You Need to Play
+
+Not much. A group of friends, a few hours, and:
+
+- **This book** (or the chapters in play) and a **character sheet** for each player.
+- A set of **polyhedral dice** — at least one **d20**, plus the smaller dice (d4, d6, d8, d10, d12) for damage; a pair of d10s covers percentile rolls.
+- A way to **track the action** — tokens, a sketch map, or miniatures — though theater-of-the-mind works fine.
+- Pencils, scratch paper, and somewhere to note **Hit Points and conditions** as they change.
+
+> **Sidebar — Reading the Dice**
+> Dice are written as *(number)d(sides)*, sometimes with a modifier: **1d20** is one twenty-sided die; **2d6** is two six-sided dice added together; **1d8+4** is an eight-sided die plus four. A **d%** (percentile) is two d10s read as a number from 1 to 100. When a rule says "roll your damage," it names the dice — a blaster pistol might deal **1d8** plus your modifier.
 
 ---
 
@@ -85,6 +104,47 @@ In combat, time is sliced into **rounds** (about six seconds each), and on your 
 ### Initiative, Damage, and Dying — the Short Version
 
 When a fight starts, everyone rolls **initiative** — usually a **Perception** check — and acts in order, highest first. When you hit, you roll the weapon's **damage dice** and add the relevant modifier; a **critical hit** (beating the target's AC by 10) deals **double** damage. When you drop to **0 Hit Points** you fall unconscious and start **dying** — but allies can stabilize you, and the galaxy is full of people who've been one bad roll from the end and walked it off. (Full combat, damage, and recovery rules come in their own chapters; this is enough to play the example below.)
+
+### Saving Throws
+
+When something happens *to* you — a grenade, a toxin, a mind trick — you defend with a **saving throw** rather than the attacker rolling against you. There are three, each keyed to an attribute:
+
+- **Fortitude** (Constitution) — toughness: poison, disease, raw trauma.
+- **Reflex** (Dexterity) — agility: blasts, falls, anything you can dodge.
+- **Will** (Wisdom) — resolve: fear, deception, attacks on the mind.
+
+A save is the same core roll — `d20 + Level Bonus + proficiency + attribute` — against the effect's DC, read on the same four-degree ladder. A **basic save** is common shorthand: critical success negates, success halves, failure deals full, critical failure deals double.
+
+### How to Read the Rules
+
+A few conventions make the rules quick to scan:
+
+- **Bold, capitalized terms** (like **Strike**, **off-guard**, **Suppression Zone**) are defined game terms — look them up if unsure.
+- **Action costs** sit in brackets after an ability's name: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, **[free-action]**. Some abilities are **activities** that bundle several actions into one.
+- **Traits** are tags in an ability's line that wire it to other rules — a `[Flourish]` you can use once per turn, a `[once per minute]` cooldown.
+- **Ability blocks** list their parts in a fixed order — *Trigger* (what sets a reaction off), *Requirements* (what you need first), *Frequency* (how often), *Effect*, and the four degrees for anything with a roll — and omit any line that doesn't apply.
+- **Specific beats general** (the first rule, again): when a feature contradicts a general rule, the feature wins.
+
+### Key Terms
+
+A handful of words you'll meet constantly:
+
+- **Action** — one thing you do on your turn; you get three.
+- **AC (Armor Class)** — how hard you are to hit; an attack must meet or beat it.
+- **Check** — a d20 roll plus modifiers against a DC.
+- **Class DC** — the DC others roll against to resist your class's effects (`10 + Level Bonus + proficiency + key attribute`).
+- **Condition** — a temporary status (off-guard, frightened, suppressed) that changes your numbers.
+- **DC (Difficulty Class)** — the number a check must reach.
+- **Hit Points (HP)** — your health; at 0 you fall and start dying.
+- **Initiative** — the roll (usually Perception) that sets turn order.
+- **Level Bonus** — the universal per-level number added to checks and DCs (1 + ⌊level ÷ 4⌋).
+- **NPC** — any character the GM plays.
+- **Proficiency** — your training rank: untrained +0, trained +1, expert +2, master +3, legendary +4.
+- **Reaction** — something you do on another's turn when its trigger fires; three per round, maximum.
+- **Round / Turn** — a round is about six seconds, in which every combatant takes one turn.
+- **Strike** — the basic attack action.
+
+*(A fuller glossary appears at the back of the book.)*
 
 ---
 
@@ -184,6 +244,10 @@ Spend your starting credits on a weapon or two, armor, and tools (see the equipm
 
 > **Example — Building Vex**
 > *Concept: a fast-talking pistol artist with a debt she's outrunning. **Species:** human (a boost to Dexterity and one free). **Background:** outlaw (boosts to Dexterity and Charisma; trained in Stealth; a skill feat). **Class:** Scoundrel, Gunslinger specialization (key attribute Dexterity; trained in Acrobatics from the spec). She finalizes Dexterity at +3, with Charisma and Constitution behind it. **Skills:** her class and background give Stealth, Acrobatics, and more; her +1 Intelligence adds one extra (she takes Computers). **Gear:** a pair of blaster pistols and light armor. She writes down her Hit Points, her +1 Level Bonus, and her Exploit — and she's ready for the catwalk.*
+
+### Leveling Up
+
+Characters advance from **level 1 to 20**. Your group does this in one of two ways: **experience points** (earned for overcoming a challenge of *any* kind — a tense negotiation pays as well as a won firefight) or **milestones** (the GM levels everyone at story beats, with no bookkeeping). Either way, **every level grants something** — a feat, a feature, a proficiency increase, or an attribute boost — so no level ever feels empty. Your class table shows exactly what you gain and when.
 
 ---
 
