@@ -91,3 +91,22 @@ The test per ability: **(Officer actions spent) vs (party action-value gained)**
 ### A.4 Holds (all three)
 
 Bounded accuracy intact; no infinite loops / repeatable action-positive engines (after O-1); reaction features under the **3-cap**; no-daily model intact (per-round Directive / per-action Overclock); role shapes match the profiles (Scoundrel single-target 3, Tech utility/support 3, Officer support 3). **Gate-A now covers all seven classes** — remaining tuning is the absolute-numbers/creature pass (Phase 7) and a table playtest (esp. the soft-aggro dependency, Part-1 §4).
+
+---
+
+## B. Written-class watches — player-core publication pass (2026-06-21)
+
+As each class is written to publication finish in [`docs/player-core/`](../../player-core/), a quick relative re-pass checks for drift introduced by the prose/rules-writing. **Both classes below re-confirmed all prior Gate-A fixes hold as written** (3-reaction cap honored; Soldier weapons/Class DC capped Master; Scoundrel save-expertise + Legendary-guns-only). New items are **watches**, left in by user decision (2026-06-21) — recorded here, not yet applied.
+
+### B.1 Soldier *(content-complete in player-core: [chassis](../../player-core/classes/soldier.md) · [styles](../../player-core/classes/soldier-fighting-styles.md) · [feats](../../player-core/classes/soldier-feats.md))*
+
+- 🟡 **B1 (watch) — Withering Onslaught hotter than spec intent.** The publication rewrite made a *success* vs Suppressing Fire take **full** damage (only a crit-success halves). Vs on-level (need-11 save) that lifts expected area damage from ≈ **0.78× → 1.03× full per target** (**+32%**), multiplied across every target in the cone — a large aggregate for one L18 feat. *Lever if it over-delivers:* dial to "a **critical** success still takes half" (distinct from the Suppressor's *Withering Hail*, which also adds a die). → ability-design.
+- 🟡 **B2 (watch) — Bulwark flat-resist stack vs a suppressed attacker.** F-A2 fixed *Armored Reaction* (half-level / level-vs-suppressed), but the other layers compound at cap: Dig In (CON ≈6) + Armor Storm resist **doubled by Living Wall** (≈12) + Immovable Object (+2) = **≈20 standing** on every hit from a suppressed attacker (stationary), **plus** Armored Reaction (≈20) on the one reacted hit → **≈40**, near-negating a ~30–45 on-level Strike. Heavily conditional (stationary + suppressed + a reaction), and the Bulwark *should* be toughest — but the lever F-A2 missed is **Living Wall doubling the always-on Armor Storm resist**. *Lever if it over-delivers:* have Living Wall double only *Armored Reaction*, not the standing Armor Storm resist. → balance-analysis / class-design.
+- Notes (no action): Repulsor Blast cone prone-on-fail (strong but Reflex-gated); Bullet Typhoon two area attacks/round (capstone-gated); Carpet Bomb is the only nova, `[once per minute]`, bounded.
+
+### B.2 Scoundrel *(content-complete in player-core: [chassis](../../player-core/classes/scoundrel.md) · [specializations](../../player-core/classes/scoundrel-specializations.md) · [feats](../../player-core/classes/scoundrel-feats.md))*
+
+- 🟡 **Sc-1 (watch) — per-Strike Exploit × MAP-frozen multi-Strike Flourishes.** Confirms Part-2 **S-1**. Exploit is per-Strike (user ruling), and several Flourishes make multiple Strikes at a **frozen MAP**: **Fan the Hammer** (3 Strikes, one adjacent target) is the ceiling — opened first, that's **three Strikes at MAP 0, each carrying the full Exploit die** (~3×4d6 ≈ **42 precision** in one action at L20, freeing two actions). Bounded by Flourish (one/round), the Mark/off-guard setup, adjacency, and precision-resistant foes, so it's a *spike*, not an engine — but the likeliest to exceed the +20% striker bracket in its best case. *Levers if it over-delivers:* **Exploit once per turn**, or **multi-Strike Flourishes apply Exploit to one Strike only**. Also clarify whether *Greater Trick Shot* (+1 die) applies to multi-Strike Flourishes (if yes, it compounds). → balance-analysis / ability-design / rules-writing (the Greater Trick Shot clarity).
+- Notes (no action): capstone novas (Assassinate / Untraceable+Assassin's Mark / Perfect Shot) all `[once per minute]`, single-target, bounded; *Perfect Opening* and *One in a Million* both grant a 19–20 crit range vs the Mark — they don't stack further.
+
+*(Officer / Guardian / Sentinel / Consular / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
