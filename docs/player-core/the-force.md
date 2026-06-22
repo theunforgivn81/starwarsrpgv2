@@ -176,4 +176,116 @@ Every power, grouped by the level at which it becomes available. **R** = reactio
 
 ---
 
-*The full entry for every power follows, in alphabetical order.*
+## The Powers, A to Z
+
+### Battle Focus  [one-action]  ·  Power 1
+**Traits** Force, Control
+**Cost** none
+**Effect** You still your mind. Attempt a new saving throw against one **fear** effect currently affecting you, using the better of the old and new results, and gain a +1 status bonus to saves against fear until the end of your turn.
+**Push (+1 Attunement)** *[once per minute]:* You also gain temporary Hit Points equal to your Level Bonus.
+
+### Breath Control  [one-action]  ·  Power 1
+**Traits** Force
+**Cost** none
+**Duration** up to 1 minute
+**Effect** You need not breathe for the duration, and you gain a +2 status bonus to saving throws against inhaled threats (gases, toxins) and against suffocation and drowning.
+**Push (+1 Attunement)** You extend the same protection to one adjacent ally for the duration.
+
+### Chain Lightning  [two-actions]  ·  Power 9
+**Traits** Force, electricity
+**Cost** 3 Attunement
+**Range** 60 feet; **Targets** 1 creature (then it arcs)
+**Defense** basic Reflex
+**Effect** A bolt leaps from foe to foe, fading as it spreads. The first target takes **3d6 electricity damage** (basic Reflex). Whenever a target fails its save, the bolt arcs to the nearest creature you haven't yet hit within 30 feet, which takes one die less and saves in turn; this continues until a target succeeds or no eligible creature remains. Increase the initial damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** A creature that critically fails its save is also **stunned 1**.
+
+### Death Field  [two-actions]  ·  Power 13
+**Traits** Force, dark, void
+**Cost** 3 Attunement
+**Area** 20-foot emanation; **Defense** basic Fortitude
+**Effect** You tear at the life around you. Each enemy in the area takes **4d6 void damage** (basic Fortitude), and you regain Hit Points equal to the highest amount of damage any single creature takes. Increase the damage by one die at 17th level.
+**Push (+1 Attunement)** One ally in the area also regains Hit Points equal to your Level Bonus.
+
+### Deflect  [reaction]  ·  Power 1
+**Traits** Force, Control
+**Cost** none
+**Trigger** You are targeted by a ranged energy attack while wielding a lightsaber.
+**Effect** You gain a +2 circumstance bonus to AC against the triggering attack. If this turns the hit into a miss, you bat the bolt harmlessly aside.
+**Push (+1 Attunement)** Choose one: redirect a bolt you cause to miss as a ranged Force attack against an adjacent creature, **or** use this reaction to protect an adjacent ally instead of yourself.
+
+### Dominate Mind  [two-actions]  ·  Power 9
+**Traits** Force, dark, incapacitation, mental, [once per minute]
+**Cost** 3 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will; **Duration** up to 1 minute (Sustain)
+**Effect** You seize a creature's will as your own.
+**Critical Success** The target is unaffected and is temporarily immune for 1 minute.
+**Success** The target resists, but is **stunned 1**.
+**Failure** You control the target for 1 round, dictating its actions; it resists any order that would clearly harm it.
+**Critical Failure** As failure, but you may Sustain the effect for up to 1 minute; the target attempts a new save each time you command it to take an obviously self-destructive action.
+**Push (+1 Attunement)** The target gets no new save the first time you direct it to attack one of its own allies.
+
+### Drain Life  [two-actions]  ·  Power 1
+**Traits** Force, dark, void
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** basic Fortitude
+**Effect** You siphon a creature's vitality into your own. The target takes **1d6 void damage** (basic Fortitude), and you regain Hit Points equal to half the damage dealt. Increase the damage by one die at 5th, 11th, and 17th levels.
+**Push (+1 Attunement)** On a failure or critical failure, the target is also **enfeebled 1** until the start of your next turn.
+
+### Energy Absorption  [reaction]  ·  Power 5
+**Traits** Force, Control
+**Cost** 2 Attunement
+**Trigger** You would take acid, cold, electricity, fire, or sonic damage.
+**Effect** You gain **resistance equal to twice (2 + your Level Bonus)** against the triggering damage.
+**Push (+1 Attunement)** You convert the absorbed energy, gaining temporary Hit Points equal to the damage prevented (maximum your level), lasting until the end of the encounter.
+
+### Farseeing  [10 minutes]  ·  Power 9
+**Traits** Force
+**Cost** 2 Attunement
+**Range** planetary; **Duration** up to 10 minutes
+**Effect** You cast your senses to a location or a creature you know well, perceiving it at a distance as if you were there (sight and sound). A creature that is warded against divination, or that you know only slightly, may be obscured or hidden from you at the GM's discretion.
+**Push (+1 Attunement)** You can shift your viewpoint, moving the sensor up to 100 feet each round within the viewed area.
+
+### Force Barrier  [one-action]  ·  Power 1
+**Traits** Force, Control
+**Cost** 1 Attunement
+**Duration** until the start of your next turn
+**Effect** A shell of Force turns aside harm. You gain **resistance (2 + your Level Bonus)** to physical and energy damage until the start of your next turn.
+**Push (+1 Attunement)** You may **Sustain** the barrier (up to 1 minute), and whenever it reduces an attack's damage you may **Step**.
+
+### Force Celerity  [one-action]  ·  Power 5
+**Traits** Force
+**Cost** 2 Attunement
+**Duration** 1 minute
+**Effect** The Force quickens you. You're **quickened** for the duration, gaining an extra action each turn that you can use only to Stride or Step. When the effect ends, you're **fatigued**.
+**Push (+1 Attunement)** The extra action can also be used to Stand or Interact.
+
+### Force Choke  [two-actions]  ·  Power 5
+**Traits** Force, incapacitation, [once per minute]
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Fortitude; **Duration** sustained up to 1 minute
+**Effect** An unseen grip closes on the target's throat.
+**Critical Success** The target is unaffected.
+**Success** The target takes **2d6 bludgeoning damage**.
+**Failure** The target takes **2d6 bludgeoning damage**, is lifted off balance, and is **grabbed** (it can't move from its space).
+**Critical Failure** As failure, but **3d6** damage, the target can't breathe (it risks suffocating), and it's **off-guard** while held.
+While Sustaining, you deal the success damage again each round and the target attempts a new save to break free. Increase the damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** A held target also can't speak or use abilities requiring its voice.
+
+### Force Cloak  [two-actions]  ·  Power 5
+**Traits** Force, Control
+**Cost** 2 Attunement
+**Duration** until you act with hostility (maximum 1 minute)
+**Effect** You bend perception around yourself, becoming **invisible**. The effect ends at the end of any turn in which you make an attack or use a hostile power.
+**Push (+1 Attunement)** The cloak lingers for 1 round after your first hostile action rather than ending immediately.
+
+### Force Destruction  [two-actions]  ·  Power 17
+**Traits** Force, fire, force
+**Cost** 3 Attunement
+**Area** 20-foot burst within 120 feet; **Defense** basic Reflex
+**Effect** You unmake an area in a roar of force and fire, dealing **4d6 force damage plus 4d6 fire damage** (basic Reflex). Unattended objects and barriers in the area take double damage.
+**Push (+1 Attunement)** A creature reduced to 0 Hit Points by this power is utterly destroyed and can't be restored by anything short of true resurrection.
+
+*(Entries continue — the remaining powers, Force Disruption through Wall of Light, follow in the next set.)*
