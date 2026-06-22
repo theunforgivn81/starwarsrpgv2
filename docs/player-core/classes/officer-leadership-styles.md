@@ -17,18 +17,18 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Athletics**, gain a bonus skill feat, and become trained in **medium armor** (it advances whenever your light armor does). You gain the Into Position! Directive.
 
-**Into Position!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Into Position!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **Effect** Each ally who can sense you may Step or Stride to reposition.
 **Lead by Example** *(2 actions):* You also Stride and then make a Strike.
 
 ### Form Up!
 
-**Form Up!**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Form Up!**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(3rd level)** **Effect** Each ally who can sense you may Step into formation, and each ally who does gains a **+1 circumstance bonus to AC** until the start of your next turn.
 
 ### Rallying Charge
 
-**Rallying Charge**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Rallying Charge**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(7th level)** **Effect** Choose an enemy. Each ally who can sense you may Stride toward it, and gains a **+1 status bonus to their first Strike** against it this round.
 
 ### Unstoppable Advance
@@ -37,12 +37,12 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Hold the Line
 
-**Hold the Line**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Hold the Line**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(15th level)** **Effect** Until the start of your next turn, each ally who can sense you and doesn't move gains **standard cover** and a **+1 status bonus to saving throws**.
 
 ### Tip of the Spear
 
-**Tip of the Spear**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Tip of the Spear**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(19th level)** *Capstone.* **Effect** Choose an enemy. Each ally who can sense you may make a free **Stride** toward it and gains a status bonus to damage on their next Strike against it this round.
 
 ---
@@ -55,13 +55,13 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Stealth**, gain a bonus skill feat, and gain Assurance in Stealth. You gain the Coordinate Ambush Directive.
 
-**Coordinate Ambush**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], visual
+**Coordinate Ambush**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Visual
 **Effect** Choose an ally who can sense you. Until the start of your next turn, foes that can't see that ally are **off-guard** to it.
 **Lead by Example** *(2 actions):* You also Hide or Sneak, and you can make a Strike as a reaction the first time the chosen ally attacks an off-guard foe this round.
 
 ### Stay Low!
 
-**Stay Low!**  [one-action]  **·  Traits** Officer, [Directive], visual
+**Stay Low!**  [one-action]  **·  Traits** Officer, [Directive], Visual
 **(3rd level)** **Effect** Until the start of your next turn, each ally who can sense you gains a **+1 circumstance bonus to Stealth** and **concealment against ranged attacks**.
 
 ### Misdirection
@@ -91,13 +91,13 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Performance**, gain a bonus skill feat, and gain Impressive Performance. You gain the Dance Partner! Directive.
 
-**Dance Partner!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], visual
+**Dance Partner!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Visual
 **Effect** Choose an ally who can sense you. You and that ally may each Step or Stride.
 **Lead by Example** *(2 actions):* Enemies adjacent to you or the chosen ally are **off-guard** until the start of your next turn, and the ally gains **concealment against ranged attacks**.
 
 ### Bravo!
 
-**Bravo!**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Bravo!**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(3rd level)** **Effect** Until the start of your next turn, each ally who can sense you gains **temporary Hit Points equal to your Charisma modifier** and a **+1 status bonus to saves against fear**.
 
 ### Showstopper
@@ -107,7 +107,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Captivate
 
-**Captivate**  [two-actions]  **·  Traits** Officer, emotion, mental
+**Captivate**  [two-actions]  **·  Traits** Officer, Emotion, Mental
 **(11th level)** **Effect** One creature within 30 feet attempts a Will save against your Officer class DC; on a failure, it's **fascinated** by you until the start of your next turn (a soft hold).
 
 ### Star of the Show
@@ -116,7 +116,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Grand Performance
 
-**Grand Performance**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Grand Performance**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(19th level)** *Capstone.* **Effect** Each ally who can sense you gains a **+2 status bonus** to attacks, damage, and saves until the start of your next turn, and each enemy that can sense you is **frightened 1**.
 
 ---
@@ -129,13 +129,13 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Computers**, gain a bonus skill feat, and gain Digital Diversion. You gain the Digital Assessment! Directive.
 
-**Digital Assessment!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Digital Assessment!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **Effect** Attempt to Recall Knowledge about one enemy; on a success you learn one of its resistances, immunities, or weaknesses, and relay it to your allies.
-**Lead by Example** *(2 actions):* You also Strike that enemy, and until the start of your next turn you and allies who can sense you gain a **+1 circumstance bonus to AC** against it. If it has the technological trait, it's also **glitching**.
+**Lead by Example** *(2 actions):* You also Strike that enemy, and until the start of your next turn you and allies who can sense you gain a **+1 circumstance bonus to AC** against it. If it has the Technological trait, it's also **glitching**.
 
 ### Mark Target!
 
-**Mark Target!**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Mark Target!**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(3rd level)** **Effect** Designate an enemy you can see. Until the start of your next turn, you and allies who can sense you gain a **+1 status bonus to attack rolls** against it.
 
 ### Targeting Uplink
@@ -144,7 +144,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Signal Jamming
 
-**Signal Jamming**  [two-actions]  **·  Traits** Officer, technological
+**Signal Jamming**  [two-actions]  **·  Traits** Officer, Technological
 **(11th level)** **Effect** You foul enemy coordination in a 30-foot burst. Until the start of your next turn, affected enemies can't use the Aid reaction or grant each other bonuses, and take a penalty to their reactions.
 
 ### Battlefield Omniscience
@@ -165,33 +165,35 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Acrobatics**, gain a bonus skill feat, and gain Incredible Initiative (a bonus to initiative). You gain the Ready Arms! Directive.
 
-**Ready Arms!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Ready Arms!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **Effect** Each ally who can sense you and is within 30 feet may draw, stow, or swap a weapon as a free action.
 **Lead by Example** *(2 actions):* You make a Strike or an area attack. If it hits, **one** ally who can sense you may immediately make a Strike against that foe as a free action.
 
 ### Open Fire!
 
-**Open Fire!**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Open Fire!**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(3rd level)** **Effect** Designate an enemy. Until the start of your next turn, allies who can sense you gain a **+1 status bonus to damage** on ranged Strikes against it.
 
 ### Concentrated Fire
 
-**Concentrated Fire**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Concentrated Fire**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(7th level)** **Effect** Choose an enemy you've Struck this turn. Until the start of your next turn, allies who can sense you gain a **+1 status bonus to attack rolls** against it (this doesn't stack with another Officer's same bonus).
 
 ### Suppressing Command
 
-**Suppressing Command**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Suppressing Command**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(11th level)** **Effect** Coordinate fire to pin an enemy. Until the start of your next turn, the target is **off-guard** and can't Step, and it can't move closer to your allies without provoking your squad's reactions.
 
 ### Alpha Strike
 
-**Alpha Strike**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual, [once per minute]
+**Alpha Strike**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
+**Frequency** once per minute
 **(15th level)** **Effect** Until the start of your next turn, each ally who can sense you gains a **+2 status bonus** to their first attack roll and its damage. This is at its most devastating in the opening round of a fight.
 
 ### All Guns Blazing
 
-**All Guns Blazing**  [two-actions]  **·  Traits** Officer, [Directive], auditory, visual, [once per minute]
+**All Guns Blazing**  [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
+**Frequency** once per minute
 **(19th level)** *Capstone.* **Effect** Designate an enemy. Each ally who can sense you may immediately make **one** Strike against it as a free action.
 
 ---
@@ -204,19 +206,19 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 **(1st level)** You become trained in **Diplomacy** or **Medicine**, gain a bonus skill feat, and a protective instinct. You gain the Steady On! Directive.
 
-**Steady On!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], auditory, visual
+**Steady On!**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
 **Effect** Until the start of your next turn, each ally who can sense you gains **temporary Hit Points equal to your Charisma modifier** and a **+1 status bonus to saving throws**.
 **Lead by Example** *(2 actions):* You also reduce the value of one **frightened** or **off-guard** condition on an ally who can sense you by 1.
 
 ### Rally!
 
-**Rally!**  [one-action]  **·  Traits** Officer, [Directive], auditory, visual
+**Rally!**  [one-action]  **·  Traits** Officer, [Directive], Auditory, Visual
 **(3rd level)** **Effect** One ally who can sense you reduces the value of one condition (such as frightened or clumsy) affecting it by 1.
 **Lead by Example** *(2 actions):* It affects two allies instead.
 
 ### Never Give Up
 
-**Never Give Up**  [reaction]  **·  Traits** Officer, auditory, visual
+**Never Give Up**  [reaction]  **·  Traits** Officer, Auditory, Visual
 **Trigger** An ally within 30 feet is reduced to 0 Hit Points.
 **(7th level)** **Effect** The triggering ally can attempt a flat check to remain at 1 Hit Point instead of falling, and you may restore Hit Points to them equal to your Officer level.
 
@@ -226,12 +228,14 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Second Wind
 
-**Second Wind**  [two-actions]  **·  Traits** Officer, [once per minute]
+**Second Wind**  [two-actions]  **·  Traits** Officer
+**Frequency** once per minute
 **(15th level)** **Effect** One battered ally you can touch or speak to regains Hit Points equal to your Officer level and reduces the values of all conditions affecting it by 1.
 
 ### No One Left Behind
 
-**No One Left Behind**  [reaction]  **·  Traits** Officer, [once per minute]
+**No One Left Behind**  [reaction]  **·  Traits** Officer
+**Frequency** once per minute
 **Trigger** Your turn begins.
 **(19th level)** *Capstone.* **Effect** Until the start of your next turn, no ally who can sense you can be reduced below 1 Hit Point.
 

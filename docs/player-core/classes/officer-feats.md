@@ -12,23 +12,23 @@ Many feats here **grant a new Directive** — they're how your command menu grow
 ## 1st-Level Feats
 
 ### Cutting Taunt  [one-action]
-**Feat 1** · **Traits** Officer, [Flourish], emotion, mental
+**Feat 1** · **Traits** Officer, [Flourish], Emotion, Mental
 Attempt to Demoralize a foe using your Officer class DC, rattling it with a precise barb.
 
 ### Get Moving!  [one-action]
-**Feat 1** · **Traits** Officer, [Directive], auditory, visual
+**Feat 1** · **Traits** Officer, [Directive], Auditory, Visual
 Each ally who can sense you may Stride toward a point you indicate.
 
 ### On My Mark!  [one-action]
-**Feat 1** · **Traits** Officer, [Directive], auditory, visual
+**Feat 1** · **Traits** Officer, [Directive], Auditory, Visual
 Choose an enemy. The next ally to attack it this round gains a **+1 status bonus** to that attack roll and its damage.
 
 ### Steady!  [one-action]
-**Feat 1** · **Traits** Officer, [Directive], auditory, visual
+**Feat 1** · **Traits** Officer, [Directive], Auditory, Visual
 Until the start of your next turn, each ally who can sense you gains a **+1 status bonus to AC and saving throws**.
 
 ### Take Cover!  [one-action]
-**Feat 1** · **Traits** Officer, [Directive], auditory, visual
+**Feat 1** · **Traits** Officer, [Directive], Auditory, Visual
 Each ally who can sense you may Take Cover or Step to cover.
 
 ---
@@ -36,12 +36,12 @@ Each ally who can sense you may Take Cover or Step to cover.
 ## 2nd-Level Feats
 
 ### Heads Up!  [reaction]
-**Feat 2** · **Traits** Officer, auditory, visual
+**Feat 2** · **Traits** Officer, Auditory, Visual
 **Trigger** An ally you can see is targeted by an attack.
 **Effect** The ally gains a **+2 circumstance bonus to AC** against that attack. (This is an untagged command — it coexists with the Directive you issued this round.)
 
 ### Pep Talk!  [one-action]
-**Feat 2** · **Traits** Officer, [Directive], auditory, visual
+**Feat 2** · **Traits** Officer, [Directive], Auditory, Visual
 One ally who can sense you gains **temporary Hit Points equal to your Charisma modifier** and a **+1 status bonus to their next attack or skill check** this round.
 
 ### Quick Orders
@@ -58,11 +58,11 @@ Once per round, you can issue a Directive and Step as part of the same activity.
 You can attempt a skill check that requires you to be trained even while untrained, using your level as your proficiency.
 
 ### Look Alive!  [one-action]
-**Feat 4** · **Traits** Officer, [Directive], auditory, visual
+**Feat 4** · **Traits** Officer, [Directive], Auditory, Visual
 Each ally who can sense you may Seek, gaining a **+1 status bonus** to find hidden creatures or objects.
 
 ### Shake It Off!  [one-action]
-**Feat 4** · **Traits** Officer, [Directive], auditory, visual
+**Feat 4** · **Traits** Officer, [Directive], Auditory, Visual
 One ally who can sense you reduces the value of one condition (such as frightened or clumsy) by 1.
 
 ### Silent Signal
@@ -100,11 +100,11 @@ Your rally Directives (such as Rally! and Steady On!) also restore Hit Points eq
 ## 6th-Level Feats
 
 ### Focus Fire!  [one-action]
-**Feat 6** · **Traits** Officer, [Directive], auditory, visual
+**Feat 6** · **Traits** Officer, [Directive], Auditory, Visual
 Designate a foe; allies who can sense you gain a **+1 status bonus to attacks** against it until the start of your next turn. When it drops, you may re-designate a new foe as a free action.
 
 ### Press the Advantage!  [one-action]
-**Feat 6** · **Traits** Officer, [Directive], auditory, visual
+**Feat 6** · **Traits** Officer, [Directive], Auditory, Visual
 The first time each directed ally **hits** your designated foe this round, it adds a **status bonus to that Strike's damage** equal to your Charisma modifier.
 
 ### Ready Directive
@@ -126,7 +126,7 @@ Once per round, you can repeat the temporary-Hit-Point or morale effect of your 
 When a directed ally hits the foe you designated this round, you can make a Strike against that foe as a reaction.
 
 ### Hang On!  [reaction]
-**Feat 8** · **Traits** Officer, auditory, visual
+**Feat 8** · **Traits** Officer, Auditory, Visual
 **Trigger** An ally within 30 feet is reduced to 0 Hit Points or starts to die.
 **Effect** The ally can attempt a flat check to stay at 1 Hit Point, and you restore Hit Points to it equal to your level. (Untagged — it coexists with your Directive.)
 
@@ -136,7 +136,7 @@ When a directed ally hits the foe you designated this round, you can make a Stri
 A directed ally's first Strike against an off-guard foe each round deals one additional weapon damage die.
 
 ### Mockery!  [one-action]
-**Feat 8** · **Traits** Officer, [Directive], auditory, emotion, mental
+**Feat 8** · **Traits** Officer, [Directive], Auditory, Emotion, Mental
 One enemy within 60 feet attempts a Will save against your Officer class DC; on a failure it's **off-guard** until the start of your next turn.
 
 ### Overwhelming Volley
@@ -168,7 +168,7 @@ Allies adjacent to you can't be moved against their will or knocked prone.
 Your Directives reach **every** ally who can sense you, with no range limit within sight or earshot.
 
 ### Fall Back!  [one-action]
-**Feat 10** · **Traits** Officer, [Directive], auditory, visual
+**Feat 10** · **Traits** Officer, [Directive], Auditory, Visual
 Each ally who can sense you may Stride; this movement doesn't trigger reactions.
 
 ---
@@ -176,7 +176,7 @@ Each ally who can sense you may Stride; this movement doesn't trigger reactions.
 ## 12th-Level Feats
 
 ### Battle Plan!  [two-actions]
-**Feat 12** · **Traits** Officer, [Directive], auditory, visual
+**Feat 12** · **Traits** Officer, [Directive], Auditory, Visual
 Choose two of the following and assign each to a different ally who can sense you, until the start of your next turn: a +1 status bonus to attacks, a +1 status bonus to AC, a Step, or a Seek.
 
 ### Double Time  [free-action]
@@ -194,7 +194,7 @@ You gain a +2 circumstance bonus to initiative, and you can't be made off-guard 
 ## 14th-Level Feats
 
 ### Tactical Reaction  [reaction]
-**Feat 14** · **Traits** Officer, auditory, visual
+**Feat 14** · **Traits** Officer, Auditory, Visual
 **Trigger** An ally who can sense you is about to act and would benefit from a Directive.
 **Effect** Issue a one-action Directive. (This is your Directive for the round if you haven't issued one.)
 

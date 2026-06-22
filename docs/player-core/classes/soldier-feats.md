@@ -3,7 +3,7 @@
 At every even level — and 1st — you gain a **Soldier class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a **fighting style** in their Prerequisites require that style.
 
 > **Sidebar — Spending Your One Rider**
-> Feats tagged **[suppressed]** add an effect you can attach when you make a creature suppressed — but only **one** [suppressed] effect applies per suppressing action (see *Suppress*). Collecting several gives you options to pick between, not a stack. The only exception is **Double Suppression**, below.
+> Feats tagged **[Suppressed]** add an effect you can attach when you make a creature suppressed — but only **one** [Suppressed] effect applies per suppressing action (see *Suppress*). Collecting several gives you options to pick between, not a stack. The only exception is **Double Suppression**, below.
 
 ---
 
@@ -14,7 +14,7 @@ At every even level — and 1st — you gain a **Soldier class feat**. The feats
 Until the start of your next turn, you gain a +1 circumstance bonus to AC and can't be moved against your will.
 
 ### Demand Attention  [one-action]
-**Feat 1** · **Traits** Soldier, emotion, mental
+**Feat 1** · **Traits** Soldier, Emotion, Mental
 One enemy within 30 feet attempts a Will save against your Soldier class DC.
 **Critical Success** The target is unaffected.
 **Success** The target is unaffected.
@@ -22,7 +22,7 @@ One enemy within 30 feet attempts a Will save against your Soldier class DC.
 **Critical Failure** As Failure, but the penalty lasts 1 minute or until the target hits you, whichever comes first.
 
 ### Knockback Blast
-**Feat 1** · **Traits** Soldier, suppressed
+**Feat 1** · **Traits** Soldier, Suppressed
 When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that fails its save is pushed 5 feet directly away from you.
 
 ### Suppressing Salvo
@@ -43,7 +43,7 @@ Immediately after you use Suppressing Fire, you can make a single ranged Strike 
 Once per turn, you can Interact to reload a weapon you're wielding as a free action.
 
 ### Run, Cowards!
-**Feat 2** · **Traits** Soldier, suppressed
+**Feat 2** · **Traits** Soldier, Suppressed
 When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that **critically fails** its save is fleeing until the end of its next turn.
 
 ---
@@ -66,7 +66,7 @@ Your Strikes against a suppressed foe deal one additional weapon damage die.
 When you make a melee Strike, you can also make a melee Strike against a second foe in your reach. This second Strike uses the same multiple attack penalty as the first.
 
 ### Immobilizing Fire
-**Feat 4** · **Traits** Soldier, suppressed
+**Feat 4** · **Traits** Soldier, Suppressed
 When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that fails its save is immobilized until it Escapes (against your Soldier class DC).
 
 ### Indiscriminate
@@ -75,7 +75,7 @@ When you make a creature suppressed with Suppressing Fire, you can choose this r
 You can use Suppressing Fire as a 10-foot emanation centered on yourself, blanketing every direction at once instead of a cone.
 
 ### Leg Shot
-**Feat 4** · **Traits** Soldier, suppressed
+**Feat 4** · **Traits** Soldier, Suppressed
 When you make a creature suppressed, you can choose this rider: each affected creature is off-guard until the start of your next turn.
 
 ### Wide Barrage
@@ -233,10 +233,10 @@ Make a melee Strike against each creature in your reach, and each creature you h
 ### Double Suppression
 **Feat 14** · **Traits** Soldier
 **Frequency** once per round
-When you make creatures suppressed, you can apply **two** [suppressed] riders on that action instead of one.
+When you make creatures suppressed, you can apply **two** [Suppressed] riders on that action instead of one.
 
 > **Example — Stacking the Riders**
-> *Master Sergeant Ko lays down Suppressing Fire and, with Double Suppression, attaches both Leg Shot (off-guard) and Run, Cowards! (fleeing on a critical failure). A droid that critically fails is now off-guard **and** fleeing — two riders from one barrage, the once-per-round payoff for a deep [suppressed] menu.*
+> *Master Sergeant Ko lays down Suppressing Fire and, with Double Suppression, attaches both Leg Shot (off-guard) and Run, Cowards! (fleeing on a critical failure). A droid that critically fails is now off-guard **and** fleeing — two riders from one barrage, the once-per-round payoff for a deep [Suppressed] menu.*
 
 ### Unflinching
 **Feat 14** · **Traits** Soldier

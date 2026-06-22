@@ -131,7 +131,7 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 ## Aim
 
-**Aim**  [one-action]  **·  Traits** Scoundrel, concentrate
+**Aim**  [one-action]  **·  Traits** Scoundrel, Concentrate
 **Requirements** You're wielding a ranged weapon that doesn't have the area trait.
 **Effect** Designate a foe you're aware of as your **Mark** until the start of your next turn. Your Strikes against your Mark are Exploits, and they reduce any circumstance bonus your Mark gains from cover by one step (for example, greater cover becomes standard cover). You can have only one Mark at a time; using Aim again moves your Mark to the new target.
 

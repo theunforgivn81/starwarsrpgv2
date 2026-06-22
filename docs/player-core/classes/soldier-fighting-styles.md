@@ -5,7 +5,7 @@ At 1st level, every Soldier commits to a **fighting style** — the discipline t
 Choose one of the five styles below when you make your Soldier. You can't change it later except through specific feats.
 
 > **Sidebar — One Rider at a Time**
-> Every style's **3rd-level** feature carries the **[suppressed]** trait. As always, you can apply only **one** [suppressed] effect each time you make a creature suppressed (see *Suppress*, in the Soldier chassis) — so your style rider competes for that single slot with any [suppressed] feats you take. Breadth in the build; one choice at the table.
+> Every style's **3rd-level** feature carries the **[Suppressed]** trait. As always, you can apply only **one** [Suppressed] effect each time you make a creature suppressed (see *Suppress*, in the Soldier chassis) — so your style rider competes for that single slot with any [Suppressed] feats you take. Breadth in the build; one choice at the table.
 
 ---
 
@@ -19,7 +19,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Pinning Fire
 
-**Traits** [suppressed]
+**Traits** [Suppressed]
 **(3rd level)** When you make creatures suppressed with your Suppressing Fire, you can choose this rider: each creature that fails its save is also **off-guard** until the start of your next turn.
 
 ### Sustained Barrage
@@ -50,7 +50,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Crushing Hold
 
-**Traits** [suppressed]
+**Traits** [Suppressed]
 **(3rd level)** Your Athletics maneuvers against suppressed foes gain a **+1 circumstance bonus**. In addition, when you make a creature suppressed with a maneuver, you can choose this rider: that creature is **off-guard** until the start of your next turn.
 
 ### Immovable
@@ -81,7 +81,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Shaped Charge
 
-**Traits** [suppressed]
+**Traits** [Suppressed]
 **(3rd level)** When you make creatures suppressed with an area attack, you can choose this rider: each creature that fails its save is **slowed 1** until the start of your next turn.
 
 ### Cluster Munitions
@@ -98,7 +98,8 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Carpet Bomb
 
-**Carpet Bomb**  [two-actions]  **·  Traits** Soldier, [once per minute]
+**Carpet Bomb**  [two-actions]  **·  Traits** Soldier
+**Frequency** once per minute
 **Requirements** You're wielding a weapon with the area trait.
 **(19th level)** *Capstone.* **Effect** You saturate a **30-foot burst** within your weapon's range, dealing your area weapon's damage plus **2 additional damage dice**. Choose a number of allies in the area equal to your Constitution modifier; they're unaffected. Each enemy in the area attempts a basic Reflex save against your Soldier class DC.
 **Critical Success** The creature is unaffected.
@@ -116,7 +117,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 **(1st level)** Your menace is a weapon in its own right. You become trained in your choice of **Diplomacy** or **Society**, plus one **Lore** skill — and you gain the Oppressive Presence action.
 
-**Oppressive Presence**  [one-action]  **·  Traits** Soldier, emotion, mental
+**Oppressive Presence**  [one-action]  **·  Traits** Soldier, Emotion, Mental
 **Frequency** once per round
 **Requirements** The target can see or hear you.
 **Effect** One enemy within 60 feet becomes **suppressed** until the start of your next turn. The suppression ends immediately if the target uses an action that includes you as a target. You need no weapon, line of fire, or Suppression Zone.
@@ -129,7 +130,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Veiled Threat
 
-**Traits** [suppressed]
+**Traits** [Suppressed]
 **(3rd level)** When you make a creature suppressed with Oppressive Presence, you can choose this rider: that creature is also **frightened 1** for as long as it isn't attacking you.
 
 ### Intimidating Onslaught
@@ -160,7 +161,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Brutal Sweep
 
-**Traits** [suppressed]
+**Traits** [Suppressed]
 **(3rd level)** When you make creatures suppressed with your melee whirlwind, you can choose this rider: each creature that fails its save is **pushed 5 feet** or knocked **prone** (your choice, the same for all).
 
 ### Whirling Swipe

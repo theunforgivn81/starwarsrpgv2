@@ -34,7 +34,8 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(19th level)** *Capstone.* A foe you Feint is **off-guard to everyone** until the start of your next turn, and you can plant a command in a mark's mind.
 
-**Suggest**  [two-actions]  **·  Traits** Scoundrel, linguistic, mental, [once per minute]
+**Suggest**  [two-actions]  **·  Traits** Scoundrel, Linguistic, Mental
+**Frequency** once per minute
 **Effect** One creature within 30 feet that can understand you attempts a Will save against your Scoundrel class DC.
 **Critical Success** The target is unaffected and knows you tried to manipulate it.
 **Success** The target is unaffected.
@@ -73,7 +74,8 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Perfect Shot
 
-**Perfect Shot**  [one-action]  **·  Traits** Scoundrel, [once per minute]
+**Perfect Shot**  [one-action]  **·  Traits** Scoundrel
+**Frequency** once per minute
 **Requirements** You have a Mark.
 **(19th level)** *Capstone.* **Effect** Make a ranged Strike against your Mark. If it hits, it's a **critical hit**.
 
@@ -120,7 +122,8 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Hail of Fire
 
-**Hail of Fire**  [two-actions]  **·  Traits** Scoundrel, [once per minute]
+**Hail of Fire**  [two-actions]  **·  Traits** Scoundrel
+**Frequency** once per minute
 **(19th level)** *Capstone.* **Effect** Make a ranged Strike against each enemy in a 15-foot burst within range, each with its own attack roll and MAP shared across them. Each Strike against an exploitable foe is an Exploit.
 
 ---
@@ -133,7 +136,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(1st level)** You become trained in **Stealth** and **Computers**, and a creature that is **unaware of you** is exploitable to you. You also gain the Sabotage action.
 
-**Sabotage**  [one-action]  **·  Traits** Scoundrel, technological
+**Sabotage**  [one-action]  **·  Traits** Scoundrel, Technological
 **Effect** Attempt a Computers check against a technological creature's or device's DC. On a success, the target is **glitching** until the start of your next turn (taking a status penalty to its checks and DCs); on a critical success, it's also briefly disabled.
 
 ### Ghost Tap
@@ -156,7 +159,8 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Untraceable
 
-**Untraceable**  [free-action]  **·  Traits** Scoundrel, [once per minute]
+**Untraceable**  [free-action]  **·  Traits** Scoundrel
+**Frequency** once per minute
 **(19th level)** *Capstone.* **Effect** You become **undetected** by all creatures until you act. If you make a Strike from undetected before the end of your turn, it deals **maximum Exploit dice**.
 
 ---
@@ -193,7 +197,8 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Assassinate
 
-**Assassinate**  [one-action]  **·  Traits** Scoundrel, [once per minute]
+**Assassinate**  [one-action]  **·  Traits** Scoundrel
+**Frequency** once per minute
 **Requirements** Your target is off-guard to you or unaware of you.
 **(19th level)** *Capstone.* **Effect** Make a melee Strike against the target. It deals **double Exploit dice**, and the target must succeed at a Fortitude save against your Scoundrel class DC or be **slowed 1** until the start of your next turn.
 
