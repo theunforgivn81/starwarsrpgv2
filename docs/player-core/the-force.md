@@ -197,14 +197,14 @@ Every power, grouped by the level at which it becomes available. **R** = reactio
 **Cost** 3 Attunement
 **Range** 60 feet; **Targets** 1 creature (then it arcs)
 **Defense** basic Reflex
-**Effect** A bolt leaps from foe to foe, fading as it spreads. The first target takes **3d6 electricity damage** (basic Reflex). Whenever a target fails its save, the bolt arcs to the nearest creature you haven't yet hit within 30 feet, which takes one die less and saves in turn; this continues until a target succeeds or no eligible creature remains. Increase the initial damage by one die at 11th and 17th levels.
+**Effect** A bolt leaps from foe to foe, fading as it spreads. The first target takes **2d6 electricity damage** (basic Reflex). Whenever a target fails its save, the bolt arcs to the nearest creature you haven't yet hit within 30 feet, which takes one die less and saves in turn; this continues until a target succeeds or no eligible creature remains. Increase the initial damage by one die at 11th and 17th levels.
 **Push (+1 Attunement)** A creature that critically fails its save is also **stunned 1**.
 
 ### Death Field  [two-actions]  ·  Power 13
 **Traits** Force, Offense, Dark, Void
 **Cost** 3 Attunement
 **Area** 20-foot emanation; **Defense** basic Fortitude
-**Effect** You tear at the life around you. Each enemy in the area takes **4d6 void damage** (basic Fortitude), and you regain Hit Points equal to the highest amount of damage any single creature takes. Increase the damage by one die at 17th level.
+**Effect** You tear at the life around you. Each enemy in the area takes **3d6 void damage** (basic Fortitude), and you regain Hit Points equal to the highest amount of damage any single creature takes. Increase the damage by one die at 17th level.
 **Push (+1 Attunement)** One ally in the area also regains Hit Points equal to your Level Bonus.
 
 ### Deflect  [reaction]  ·  Power 1
@@ -289,4 +289,343 @@ While Sustaining, you deal the success damage again each round and the target at
 **Effect** You unmake an area in a roar of force and fire, dealing **4d6 force damage plus 4d6 fire damage** (basic Reflex). Unattended objects and barriers in the area take double damage.
 **Push (+1 Attunement)** A creature reduced to 0 Hit Points by this power is utterly destroyed and can't be restored by anything short of true resurrection.
 
-*(Entries continue — the remaining powers, Force Disruption through Wall of Light, follow in the next set.)*
+### Force Disruption  [one-action]  ·  Power 5
+**Traits** Force, Mind, Mental
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will
+**Effect** You lash at a creature's focus.
+**Critical Success** The creature is unaffected.
+**Success** The creature is unaffected.
+**Failure** A power or other action the target is Sustaining ends, and it takes a –1 status penalty to its next Force action or concentrate action.
+**Critical Failure** As failure, and the target can't use Force actions or concentrate actions until the end of its next turn.
+**Push (+1 Attunement)** On a failure or worse, the target is also off-guard until the end of its next turn.
+
+### Force Enlightenment  [one-action]  ·  Power 17
+**Traits** Force, Body
+**Cost** 3 Attunement
+**Duration** 1 minute (Sustain)
+**Effect** You sink into a transcendent battle-calm. For the duration you gain fast healing 15, immunity to the frightened, fatigued, and sickened conditions, and a +2 status bonus to saving throws.
+**Push (+1 Attunement)** Choose an adjacent ally when you act; they gain the same benefits while they remain adjacent to you.
+
+### Force Fear  [two-actions]  ·  Power 1
+**Traits** Force, Mind, Emotion, Fear, Mental
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will
+**Effect** You strike raw terror into a mind.
+**Critical Success** The creature is unaffected.
+**Success** The creature is **frightened 1**.
+**Failure** The creature is **frightened 2**.
+**Critical Failure** The creature is **frightened 3** and must flee from you on its next turn.
+**Push (+1 Attunement)** Until the start of your next turn, the target can't reduce its frightened value below 1.
+
+### Force Hold  [two-actions]  ·  Power 5
+**Traits** Force, Alter, Incapacitation
+**Cost** 2 Attunement; **Frequency** once per minute
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Fortitude
+**Effect** You clamp a creature in an invisible vise.
+**Critical Success** The creature is unaffected.
+**Success** The creature is **slowed 1** until the end of its next turn.
+**Failure** The creature is **restrained** until the end of its next turn.
+**Critical Failure** The creature is **restrained** for 1 minute; it can attempt a new Fortitude save at the end of each of its turns, ending the effect on a success.
+**Push (+1 Attunement)** A creature restrained by this power is also **off-guard** for the duration.
+
+### Force Immunity  [one-action]  ·  Power 13
+**Traits** Force, Control
+**Cost** 3 Attunement
+**Duration** until the start of your next turn
+**Effect** Choose one damage type. You gain immunity to that damage type until the start of your next turn.
+**Push (+1 Attunement)** You instead grant the immunity to an adjacent ally.
+
+### Force Lightning  [two-actions]  ·  Power 5
+**Traits** Force, Offense, Electricity
+**Cost** 2 Attunement
+**Area** 30-foot cone; **Defense** basic Reflex
+**Effect** Lightning erupts from your fingertips, dealing **2d6 electricity damage** (basic Reflex). Increase the damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** Each creature that fails its save is **off-guard** until the start of your next turn.
+
+### Force Push  [two-actions]  ·  Power 1
+**Traits** Force, Alter
+**Cost** 1 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** basic Fortitude
+**Effect** You hurl a creature back with a wave of kinetic force, dealing **1d6 bludgeoning damage**. Increase the damage by one die at 5th, 11th, and 17th levels.
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage.
+**Failure** The creature takes full damage and is pushed 10 feet.
+**Critical Failure** The creature takes double damage, is pushed 20 feet, and falls prone.
+**Push (+1 Attunement)** The power affects a 15-foot cone instead of a single creature.
+
+### Force Reflection  [reaction]  ·  Power 9
+**Traits** Force, Control
+**Cost** 2 Attunement
+**Trigger** You are targeted by a ranged energy attack while wielding a lightsaber.
+**Effect** You gain a +3 circumstance bonus to AC against the triggering attack. If this makes the attack miss, you reflect the bolt as a ranged Force attack against another creature within 30 feet.
+**Push (+1 Attunement)** This power works against any ranged attack, not only energy attacks.
+
+### Force Resurrection  [10 minutes]  ·  Power 13
+**Traits** Force, Body, Healing
+**Cost** 3 Attunement
+**Range** touch; **Targets** 1 dead creature
+**Effect** You call a soul back to a body that has been dead no more than 3 days and is reasonably intact. The creature returns to life with full Hit Points but is **drained 2**, and you become **drained 2** from the effort.
+**Push (+1 Attunement)** The restored creature returns without the drained condition (you still take yours).
+
+### Force Revivify  [reaction]  ·  Power 9
+**Traits** Force, Body, Healing
+**Cost** 3 Attunement
+**Trigger** An ally within 30 feet dies.
+**Effect** You catch a fading spark before it's gone. The triggering ally is restored to life at 1 Hit Point, and you become **drained 1**.
+**Push (+1 Attunement)** The ally instead returns with Hit Points equal to your level.
+
+### Force Shock  [two-actions]  ·  Power 1
+**Traits** Force, Offense, Electricity
+**Cost** 1 Attunement
+**Range** 60 feet; **Targets** 1 creature
+**Effect** You loose a bolt of Force energy as a ranged Force attack. On a hit, the target takes **1d8 electricity damage** (double on a critical hit). Increase the damage by one die at 5th, 11th, and 17th levels.
+**Push (+1 Attunement)** On a hit, the target is also **clumsy 1** until the start of your next turn.
+
+### Force Stasis  [two-actions]  ·  Power 9
+**Traits** Force, Body, Incapacitation
+**Cost** 3 Attunement; **Frequency** once per minute
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Fortitude
+**Effect** You seize the flow of time around a creature.
+**Critical Success** The creature is unaffected.
+**Success** The creature is **slowed 1** until the end of its next turn.
+**Failure** The creature is **stunned 1** and **slowed 1** until the end of its next turn.
+**Critical Failure** The creature is **paralyzed** until the end of its next turn; it can attempt a new Fortitude save at the end of that turn to end the effect.
+**Push (+1 Attunement)** While affected, the target also can't take reactions.
+
+### Force Storm  [three-actions]  ·  Power 13
+**Traits** Force, Offense, Dark, Electricity
+**Cost** 3 Attunement
+**Area** 20-foot burst within 60 feet; **Defense** basic Reflex; **Duration** sustained up to 1 minute
+**Effect** You conjure a churning storm of lightning, dealing **3d6 electricity damage** (basic Reflex) when created and again each round you Sustain it. Increase the damage by one die at 17th level.
+**Push (+1 Attunement)** A creature that critically fails its save is also **stunned 1**.
+
+### Force Surge  [one-action]  ·  Power 1
+**Traits** Force, Body
+**Cost** none
+**Effect** You Stride, ignoring difficult terrain and gaining a +10-foot status bonus to your Speed for that movement.
+**Push (+1 Attunement)** The movement doesn't trigger reactions.
+
+### Force Valor  [two-actions]  ·  Power 5
+**Traits** Force, Body, Emotion
+**Cost** 2 Attunement
+**Area** 15-foot emanation; **Targets** you and allies in the area; **Duration** 1 minute
+**Effect** You fill your allies with resolve. Each target gains **10 temporary Hit Points** and a +1 status bonus to saves against fear for the duration. The temporary Hit Points increase to 15 at 11th level and 20 at 17th level.
+**Push (+1 Attunement)** Affected allies also gain a +10-foot status bonus to Speed until the start of your next turn.
+
+### Force Void  [two-actions]  ·  Power 17
+**Traits** Force, Control
+**Cost** 3 Attunement
+**Area** 20-foot emanation; **Duration** sustained up to 1 minute
+**Effect** You create a null in the Force. Within the area, Force powers and other supernatural effects are suppressed: a creature that attempts a Force action must succeed at a check against your Force DC or lose the action, and ongoing supernatural effects are suppressed while in the area.
+**Push (+1 Attunement)** When the void appears, it also attempts to dispel each ongoing Force effect in the area of your level or lower.
+
+### Force Wave  [two-actions]  ·  Power 9
+**Traits** Force, Alter
+**Cost** 3 Attunement
+**Area** 30-foot cone; **Defense** basic Fortitude
+**Effect** A wall of kinetic force surges outward, dealing **2d6 bludgeoning damage** (basic Fortitude). A creature that fails its save is pushed 10 feet; on a critical failure it's pushed 20 feet and falls prone. Increase the damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** You can shape the wave as a 20-foot burst within 30 feet instead of a cone.
+
+### Foresight  [two-actions]  ·  Power 17
+**Traits** Force, Sense, Fortune
+**Cost** 3 Attunement
+**Range** 30 feet; **Targets** 1 creature; **Duration** 1 minute (Sustain)
+**Effect** You wrap an ally in precognition. The target can't be surprised, isn't off-guard to undetected creatures, and once per round when it's attacked or attempts a save it may roll twice and use the better result.
+**Push (+1 Attunement)** The first time the target would be critically hit during the duration, the critical hit becomes a normal hit instead.
+
+### Guidance of the Force  [one-action]  ·  Power 5
+**Traits** Force, Sense, Fortune
+**Cost** 2 Attunement
+**Duration** until the end of your next turn
+**Effect** You glimpse a heartbeat ahead. Roll a d20 and set the result aside. Before the end of your next turn, you may replace one Strike's attack roll with the stored result.
+**Push (+1 Attunement)** You may apply the stored result to any check you attempt, not just a Strike.
+
+### Ionize  [two-actions]  ·  Power 5
+**Traits** Force, Offense, Electricity
+**Cost** 2 Attunement
+**Range** 60 feet; **Targets** 1 creature
+**Effect** You fire a charged ion burst as a ranged Force attack. On a hit, the target takes **2d8 electricity damage** (double against constructs and creatures in powered armor, which are also **clumsy 1** until the start of your next turn). Increase the damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** On a hit against a construct or a creature in powered armor, the target is **stunned 1**.
+
+### Kinetic Bombardment  [three-actions]  ·  Power 17
+**Traits** Force, Alter
+**Cost** 3 Attunement
+**Area** 20-foot burst within 500 feet; **Defense** basic Reflex
+**Effect** You wrench loose debris and hurl it down like artillery, dealing **4d6 bludgeoning damage** (basic Reflex). The area becomes difficult terrain.
+**Push (+1 Attunement)** Each creature that fails its save is also knocked prone.
+
+### Kinetic Slam  [two-actions]  ·  Power 5
+**Traits** Force, Alter
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** basic Reflex
+**Effect** You yank a creature off its feet and slam it down, dealing **2d6 bludgeoning damage** (basic Reflex). A creature that fails its save also falls **prone**; on a critical failure it's also **stunned 1**. Increase the damage by one die at 11th and 17th levels.
+**Push (+1 Attunement)** You slam the target into another creature within 10 feet, dealing the target's failure damage to that creature as well.
+
+### Mass Mind Trick  [three-actions]  ·  Power 9
+**Traits** Force, Mind, Incapacitation, Mental
+**Cost** 3 Attunement; **Frequency** once per minute
+**Area** 15-foot burst within 60 feet; **Defense** Will
+**Effect** You cloud the minds of many at once.
+**Critical Success** The creature is unaffected.
+**Success** The creature is unaffected.
+**Failure** The creature is **fascinated** until the start of your next turn, or follows one simple, harmless suggestion.
+**Critical Failure** The creature is **confused** for 1 round.
+**Push (+1 Attunement)** You can choose to leave allies in the area unaffected, and the burst increases to 20 feet.
+
+### Master Precognition  [reaction]  ·  Power 13
+**Traits** Force, Sense, Fortune
+**Cost** 3 Attunement
+**Trigger** You roll initiative.
+**Effect** Roll initiative twice and use the higher result. You and each ally within 30 feet are **concealed** during the first round of combat.
+**Push (+1 Attunement)** Allies within 30 feet also gain a +2 status bonus to their initiative rolls.
+
+### Mind Fracture  [two-actions]  ·  Power 17
+**Traits** Force, Mind, Dark, Incapacitation, Mental
+**Cost** 3 Attunement; **Frequency** once per minute
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will
+**Effect** You assault a mind with shattering force, dealing **6d6 mental damage**.
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage.
+**Failure** The creature takes full damage and is **confused** for 1 minute (it can attempt a new save at the end of each of its turns).
+**Critical Failure** The creature takes maximum damage, is **stunned 3**, and is **confused** for 1 minute.
+**Push (+1 Attunement)** A creature confused by this power can't attempt the flat check to act normally on its first turn.
+
+### Mind Probe  [two-actions]  ·  Power 5
+**Traits** Force, Mind, Mental
+**Cost** 2 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will; **Duration** sustained up to 1 minute
+**Effect** You sift a creature's thoughts.
+**Critical Success** The creature is unaffected and knows you tried.
+**Success** You sense the target's surface emotions but learn nothing specific.
+**Failure** Each round you Sustain, you may pose one question; the target answers truthfully, though it may be brief or evasive.
+**Critical Failure** As failure, and the target doesn't realize it's being read.
+**Push (+1 Attunement)** The target takes a –1 status penalty to Deception checks against you for 1 hour.
+
+### Mind Trick  [two-actions]  ·  Power 1
+**Traits** Force, Mind, Incapacitation, Mental
+**Cost** 1 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will
+**Effect** You bend a weak mind to your suggestion. A creature is temporarily immune for 1 hour after you target it with Mind Trick.
+**Critical Success** The creature is unaffected and recognizes the attempt.
+**Success** The creature is unaffected.
+**Failure** The creature is **fascinated** until the start of your next turn, or follows a single harmless suggestion you give.
+**Critical Failure** The creature follows one suggestion that doesn't obviously endanger it for up to 1 minute.
+**Push (+1 Attunement)** The suggestion may be a single act that puts the target in danger; it takes the act, then the effect ends.
+
+### Mind Wipe  [1 minute]  ·  Power 13
+**Traits** Force, Mind, Mental
+**Cost** 3 Attunement
+**Range** touch; **Targets** 1 creature
+**Defense** Will
+**Effect** You reach into a creature's memory and rewrite it.
+**Critical Success** The creature is unaffected and aware of the attempt.
+**Success** The creature is unaffected.
+**Failure** You erase or alter up to the last hour of the target's memories.
+**Critical Failure** You erase or alter up to the last day.
+**Push (+1 Attunement)** The tampering resists scrutiny — checks to detect or undo it take a –2 status penalty.
+
+### Precognitive Parry  [reaction]  ·  Power 1
+**Traits** Force, Sense
+**Cost** 1 Attunement
+**Trigger** You are targeted by an attack you can perceive.
+**Effect** Foreseeing the strike a heartbeat early, you gain a +1 circumstance bonus to AC against the triggering attack.
+**Push (+1 Attunement)** The bonus increases to +2, and if the attack still hits, reduce its damage by your Level Bonus.
+
+### Saber Throw  [two-actions]  ·  Power 9
+**Traits** Force, Alter
+**Cost** 2 Attunement
+**Range** 60 feet; **Requirements** You're wielding a lightsaber.
+**Effect** You hurl your lightsaber, guiding it with the Force. Make a lightsaber Strike against up to three creatures in a line; these Strikes use your current multiple attack penalty, which doesn't increase between them. The lightsaber then returns to your hand. (This deals your lightsaber's normal damage.)
+**Push (+1 Attunement)** The lightsaber ricochets to a fourth target within 10 feet of the third.
+
+### Sense Life  [one-action]  ·  Power 1
+**Traits** Force, Sense
+**Cost** none
+**Area** 30-foot emanation; **Duration** sustained
+**Effect** You feel the living around you, learning the number and rough location of living creatures in the area as an imprecise sense. You don't learn their identities, and you don't detect constructs or the undead.
+**Push (+1 Attunement)** You also sense whether each detected creature is wounded or healthy.
+
+### Sever Force  [two-actions]  ·  Power 13
+**Traits** Force, Mind, Dark, Curse
+**Cost** 3 Attunement
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will
+**Effect** You wrench a creature's bond with the Force.
+**Critical Success** The creature is unaffected.
+**Success** The creature can't use Force actions until the start of your next turn.
+**Failure** The creature can't use Force actions for 1 minute.
+**Critical Failure** The creature can't use Force actions for 1 hour, and is cut off until the curse is lifted.
+**Push (+1 Attunement)** On a failure or worse, the target also can't regain Attunement while severed.
+
+### Suspended Animation  [two-actions]  ·  Power 13
+**Traits** Force, Body
+**Cost** 3 Attunement
+**Targets** you; **Duration** up to 1 day
+**Effect** You enter a deathlike trance. You appear dead to ordinary inspection and to effects that detect life, need no air or food, and halt the progress of poisons and similar afflictions. You set a trigger or time to wake, or end the trance yourself.
+**Push (+1 Attunement)** You remain dimly aware of your surroundings, able to use Sense powers while entranced.
+
+### Telekinetic Cataclysm  [three-actions]  ·  Power 13
+**Traits** Force, Alter
+**Cost** 3 Attunement
+**Area** 20-foot burst within 120 feet; **Defense** basic Reflex
+**Effect** You implode a stretch of the battlefield, dealing **3d6 bludgeoning damage** (basic Reflex). The area becomes difficult terrain. Increase the damage by one die at 17th level.
+**Push (+1 Attunement)** Each creature that critically fails is pulled to the center of the burst and knocked prone.
+
+### Telekinetic Flight  [two-actions]  ·  Power 9
+**Traits** Force, Alter
+**Cost** 2 Attunement
+**Targets** you; **Duration** 1 minute (Sustain)
+**Effect** You lift yourself on the Force, gaining a fly Speed equal to your Speed for the duration.
+**Push (+1 Attunement)** Your flight doesn't trigger reactions caused by your movement.
+
+### Telekinetic Grasp  [two-actions]  ·  Power 1
+**Traits** Force, Alter
+**Cost** none
+**Range** 30 feet; **Targets** 1 unattended object of light Bulk; **Duration** sustained
+**Effect** You lift and guide an unattended object you can see, moving it up to 20 feet each round and manipulating simple mechanisms (pulling a lever, keying a control). You can't wield the object as a weapon. The Bulk you can lift increases as you gain levels.
+**Push (+1 Attunement)** You can attempt to pull an item from a creature's grasp, using your Force DC as a Disarm attempt.
+
+### Telekinetic Singularity  [three-actions]  ·  Power 17
+**Traits** Force, Alter
+**Cost** 3 Attunement
+**Area** 20-foot burst within 120 feet; **Defense** basic Fortitude; **Duration** sustained up to 1 minute
+**Effect** You collapse a point into a crushing gravity well, dealing **4d6 force damage** (basic Fortitude). A creature that fails its save is pulled to the center and **grabbed**; on a critical failure it's **restrained** at the center. Each round you Sustain, the well pulls and damages again.
+**Push (+1 Attunement)** The singularity also drags in unattended objects and deals double damage to objects and structures.
+
+### Transfer Essence  [reaction]  ·  Power 17
+**Traits** Force, Body, Dark
+**Cost** 3 Attunement
+**Trigger** You are reduced to 0 Hit Points or killed.
+**Effect** Rather than die, your spirit flees into a vessel — a prepared receptacle or a creature within 30 feet (an unwilling creature attempts a Will save against your Force DC to resist possession). Your body dies, but you persist, inhabiting the vessel. This is a forbidden art, and using it leaves its mark.
+**Push (+1 Attunement)** The vessel may be up to 100 feet away.
+
+### True Sight  [one-action]  ·  Power 13
+**Traits** Force, Sense
+**Cost** 3 Attunement
+**Duration** 1 minute
+**Effect** You perceive the truth of things within 60 feet, seeing through illusions, invisibility, magical disguises, and concealment created by Force effects.
+**Push (+1 Attunement)** You also see through ordinary darkness for the duration.
+
+### Vital Transfer  [two-actions]  ·  Power 1
+**Traits** Force, Body, Healing
+**Cost** 2 Attunement
+**Range** touch; **Targets** 1 living creature
+**Effect** You pour your own vitality into another. The target regains **1d8 Hit Points**, and you lose Hit Points equal to half that amount (this loss can't be prevented or reduced). Increase the healing by one die at 5th, 11th, and 17th levels.
+**Push (+1 Attunement)** You also reduce the value of one condition affecting the target (such as frightened or sickened) by 1.
+
+### Wall of Light  [two-actions]  ·  Power 17
+**Traits** Force, Control, Light
+**Cost** 3 Attunement
+**Area** a 30-foot line; **Duration** sustained up to 1 minute
+**Effect** You raise a shimmering wall of pure light. It provides greater cover and blocks Force powers from passing through it. A creature with the Dark trait that touches the wall or passes through its space takes **4d6 force damage** and is **dazzled** until the start of its next turn.
+**Push (+1 Attunement)** Allies adjacent to the wall gain resistance to void damage and to damage from Dark powers equal to your Level Bonus.
