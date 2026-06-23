@@ -142,7 +142,16 @@ Holds on-profile (the reaction specialist). Reaction economy hard-capped at 3; t
 - 🟡 **S-3 (note) — L7 fork quintet parity.** Warden's *Vigilant Bulwark* (free defensive reaction once/round) is the most reliably useful of the five L7 features; the rest trade in utility/info/offense. Judged balanced across axes; watch in play.
 - Holds: the **2-baseline-reaction** budget is the deliberate reactor identity, hard-capped at 3 (Overdrive spends a resource for the 3rd; Unclouded Sight removes only the cost); saves on-role (Reflex/Will master-with-rider, Fort the vector on HP 8); **Perception → Legendary** is the sanctioned signature (awareness/initiative, not a damage outlier); no repeatable action-positive loops (Vengeful Premonition / Foreseen Demise are trigger-recharges that obey the cap).
 
-*(Tech Specialist gets the same written-class re-pass once it's brought to publication finish.)*
+### B.7 Tech Specialist *(content-complete in player-core: [chassis](../../player-core/classes/tech-specialist.md) · [disciplines](../../player-core/classes/tech-specialist-disciplines.md) · [feats](../../player-core/classes/tech-specialist-feats.md) · [modifications](../../player-core/classes/tech-specialist-modifications.md))*
+
+Holds on-profile (utility/support engine + skill master). The two pre-flags resolve as expected.
+
+- ✅ **T-1 held — install cap.** Expanded Rig / Master Engineer / Perfect Machine each state the **+2-over-chassis cap (max 9 installs)**; nine Standby passives at cap = broad always-on competence kept minor/utility, not stacked combat power.
+- 🟡 **T-2 (watch) — Overclock-risk removal is capstone-gated.** Safety culminates in **Singularity Rig** (L20 capstone), which removes the flat check entirely → reliable Overclock every turn at L20 (~33 single-target / 2 actions, below a striker but above the Tech's single-target-1 budget). Risk genuinely bites L1–19 (mid safety feats are gated once/10 min, once/combat); risk-removal is apex-only. Lever if it over-delivers: residual flat check or once-per-round Overclock cap. Confirms **T-2**.
+- 🟡 **T-3 (note) — Droidwright companion economy.** Droid is a Commanded Actor (1 action ≈ 1:1), but Networked (L15) and Master Droidwright (L19) grant extra/independent droid actions — capstone-tier action-value for the companion fork; watch.
+- Holds: Legendary Class DC is the sanctioned spotlight (Mods mostly utility/area; hard-control Mods carry Incapacitation + once/10 min); reactions under the 3-cap; saves on-role (Evasion + Resolve master-with-rider, Fort the vector on HP 8); skill-every-level is breadth, not power; the no-daily model holds (Overclock is the gated push, risk real until the capstone).
+
+**§B now covers all seven written classes** (Soldier, Scoundrel, Officer, Consular, Guardian, Sentinel, Tech Specialist), plus §C (the Force chapter). Every one holds on-profile; all open items are documented table-watches with named levers. Remaining Gate-A work is the absolute-numbers/creature pass (Phase 7) and table playtests.
 
 ---
 
