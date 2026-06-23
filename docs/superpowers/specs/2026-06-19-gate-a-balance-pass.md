@@ -124,7 +124,16 @@ Holds on-profile (Control-caster). The **deferred metamagic/deep-pool nova** is 
 - 🟡 **C-1 (watch → balance-analysis) — deep pool + metamagic is the nova ceiling.** Pool 3 + Level Bonus, Center +3, plus **Greater Empower** (once-per-*round* maximize, L16), **Avatar of the Force** (once/encounter full refill), and **One with the Force** (−1 Attunement to all powers). Bounded by: no to-hit/DC inflation (maximize only kills variance), the 3-action economy, the ~4-die damage arc, and per-spike Frequencies. Watch the aggregate of Greater Empower on the highest-dice powers; confirm the dice-arc cap holds on everything empowerable.
 - Notes (no action): **Legendary Class DC (L17)** is the sanctioned offensive spotlight (mirrors the Guardian's Legendary saber); the save-or-suck it powers stays honest via Incapacitation + once-per-minute + crit-fail-escalation. **At-will Telekinetic Impact** is on-curve (≈ one Strike's worth per 2 actions, below a striker's turn, no attribute on the damage). **Mandate parity** holds (temp-HP-on-heal doesn't stack). **Squishy by design** (HP 8, weak Reflex is the vector).
 
-*(Guardian / Sentinel / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
+### B.5 Guardian *(content-complete in player-core: [chassis](../../player-core/classes/guardian.md) · [Forms](../../player-core/classes/guardian-forms.md) · [feats](../../player-core/classes/guardian-feats.md))*
+
+Holds on-profile (proactive bodyguard tank). Reaction-capped; single-target DPR below the Scoundrel bracket.
+
+- 🟡 **G-1 (watch → balance-analysis) — the Intercede defensive stack.** Improved Intercede (4 + level + STR ≈ 30 at L20) ≈ a full hit negated, layered with Form riders (Soresu *Eye of the Storm* reduces a ranged hit to 0; Master's Guard; Unbreakable Guardian) across 2–3 reactions/round = the Guardian's defensive ceiling. Role-appropriate and bounded (3-reaction cap, 15-ft range). Consistent with **F-A5**; lever is "drop Intercede to one scaling term" if it over-delivers. Watch Soresu's full-negate aggregate.
+- 🟡 **G-2 (note) — Juyo/Vaapad glass cannon.** *Embrace the Storm* = the game's largest to-hit bonus (+3, +4 with Mastery), but circumstance, offset by a matching AC penalty, gated on self-crowding, and Dark. Intended risk/reward; watch the attack ceiling vs bounded accuracy.
+- 🟡 **G-3 (note → rules-writing) — MA1/MA7 carryforward (no balance change).** Guardian's Reach soft-zones but can't cover open ground alone (tabled two-tank truth); Tumble Through is written vs Guardian class DC and still needs reconciling with the skill table (MA7) in the combat chapter.
+- Holds: reactions hard-capped at 3 (Vigilant Guard / Combat Reflexes raise *toward* it); saves on-role (Will + Fort master-with-rider, Reflex the vector, lightsaber the lone Legendary line); no repeatable action-positive loops (extra-action capstones are once/round at L19–20).
+
+*(Sentinel / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
 
 ---
 
