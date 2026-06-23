@@ -133,7 +133,16 @@ Holds on-profile (proactive bodyguard tank). Reaction-capped; single-target DPR 
 - 🟡 **G-3 (note → rules-writing) — MA1/MA7 carryforward (no balance change).** Guardian's Reach soft-zones but can't cover open ground alone (tabled two-tank truth); Tumble Through is written vs Guardian class DC and still needs reconciling with the skill table (MA7) in the combat chapter.
 - Holds: reactions hard-capped at 3 (Vigilant Guard / Combat Reflexes raise *toward* it); saves on-role (Will + Fort master-with-rider, Reflex the vector, lightsaber the lone Legendary line); no repeatable action-positive loops (extra-action capstones are once/round at L19–20).
 
-*(Sentinel / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
+### B.6 Sentinel *(content-complete in player-core: [chassis](../../player-core/classes/sentinel.md) · [forks](../../player-core/classes/sentinel-forks.md) · [feats](../../player-core/classes/sentinel-feats.md))*
+
+Holds on-profile (the reaction specialist). Reaction economy hard-capped at 3; the watches are the expected off-turn ones.
+
+- 🟡 **S-1 (watch → balance-analysis) — off-turn Counter aggregate.** Counter is a full-accuracy (no-MAP) reaction Strike, once/round base, stretched by Justicar *No Refuge* (extra Counters at 2 Att each), Shadow *Inevitable Ambush* (auto-crit vs off-guard + 3d6 precision), and Corsair ricochet — up to ~3 Strikes on enemy turns at high level. Bounded by the 3-reaction cap, the Attunement pool, and once/round bases.
+- 🟡 **S-2 (watch → balance-analysis) — Conduit cost-stacking** (the Gate-A flag, confirmed bounded). Reactive/Deep/Greater Conduit fire toolkit reaction-powers (Energy Absorption, Force Reflection) at −1 Att, one free/round, +1 circ — reliable every-round mitigation/redirect. Specialist payoff, not new power; capped by the 3-reaction ceiling and each power's own bounded effect.
+- 🟡 **S-3 (note) — L7 fork quintet parity.** Warden's *Vigilant Bulwark* (free defensive reaction once/round) is the most reliably useful of the five L7 features; the rest trade in utility/info/offense. Judged balanced across axes; watch in play.
+- Holds: the **2-baseline-reaction** budget is the deliberate reactor identity, hard-capped at 3 (Overdrive spends a resource for the 3rd; Unclouded Sight removes only the cost); saves on-role (Reflex/Will master-with-rider, Fort the vector on HP 8); **Perception → Legendary** is the sanctioned signature (awareness/initiative, not a damage outlier); no repeatable action-positive loops (Vengeful Premonition / Foreseen Demise are trigger-recharges that obey the cap).
+
+*(Tech Specialist gets the same written-class re-pass once it's brought to publication finish.)*
 
 ---
 
