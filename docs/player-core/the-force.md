@@ -629,3 +629,197 @@ While Sustaining, you deal the success damage again each round and the target at
 **Area** a 30-foot line; **Duration** sustained up to 1 minute
 **Effect** You raise a shimmering wall of pure light. It provides greater cover and blocks Force powers from passing through it. A creature with the Dark trait that touches the wall or passes through its space takes **4d6 force damage** and is **dazzled** until the start of its next turn.
 **Push (+1 Attunement)** Allies adjacent to the wall gain resistance to void damage and to damage from Dark powers equal to your Level Bonus.
+
+---
+
+# Lightsaber Forms
+
+If the powers above are the Force's *mind*, the **Forms** are its *blade*. A Form is a fighting stance — a school of lightsaber combat — and together they're a shared martial vocabulary that any lightsaber user can learn and the **Guardian** masters. They sit here, beside the powers, because the two are the galaxy's twin inheritances: a Guardian flows between blade Forms and Force powers in the same breath.
+
+Forms are **martial, not Force**. Entering a Form is a single action and costs **no Attunement** — it asks only that you're wielding a lightsaber. (That's deliberate: your Attunement stays free for powers, so blade and Force never compete for the same fuel.)
+
+**How Forms work:**
+- A Form is a **[Form] [Stance]** feat. Taking it grants a **[one-action]** activity (requiring a lightsaber) to **enter the stance**.
+- You can be in **one stance at a time.** Entering a Form ends any other, and you can switch Forms freely mid-combat (one action each). A stance lasts until you leave it, fall unconscious, or stop wielding a lightsaber.
+- Each Form has a **while-in-stance effect**, and each anchors a **chain** of follow-up feats that build on it.
+- Form effects are circumstance bonuses, conditions, or positioning — never level-scaling numbers — so they stay flat and don't stack with same-type bonuses.
+
+> **Sidebar — Guardian Mastery**
+> Each Form lists a **Guardian Mastery** clause: an upgrade to the stance that applies only to those who have *mastered* Forms — that is, **Guardians** (whose Blade-Flow feature is Form mastery itself), or the rare archetype that grants it. Everyone else gets the stance; the Guardian gets the stance *and* its mastery upgrade. A Consular favoring **Niman**, or any lightsaber user who picks up a Form, uses its base effect only.
+
+---
+
+## Form I — Shii-Cho
+
+### Shii-Cho  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber.
+**Effect** You enter the determined sweeps of Shii-Cho. While in this stance, your lightsaber Strikes gain **Sweep**: you gain a +1 circumstance bonus to attack a creature if you've already made a Strike against a *different* creature this turn.
+**Guardian Mastery** Strikes against a creature you haven't yet attacked this turn don't count toward or suffer your multiple attack penalty, so spreading your blows among many foes stays accurate.
+
+### Cyclone  [one-action]
+**Feat 4** · **Traits** Form
+**Prerequisites** Shii-Cho
+Make a lightsaber Strike against each enemy in your reach. These Strikes all use your current multiple attack penalty, which doesn't increase until after the activity.
+
+### Spinning Guard
+**Feat 6** · **Traits** Form
+**Prerequisites** Shii-Cho
+While you're in Shii-Cho and within reach of two or more enemies, you gain a +1 circumstance bonus to AC.
+
+### Crowd Breaker
+**Feat 8** · **Traits** Form
+**Prerequisites** Shii-Cho
+When you Strike a creature you haven't yet attacked this turn, it's **off-guard** to your allies until the start of your next turn.
+
+---
+
+## Form II — Makashi
+
+### Makashi  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber in one hand, with your other hand free.
+**Effect** You enter the elegant dueling guard of Makashi. Designate one creature as your **Dueling Target** (you can change it with a free action, or when it drops). You gain a +1 circumstance bonus to AC against your Dueling Target's attacks.
+**Guardian Mastery** Once per round, you can **Feint** your Dueling Target as a free action.
+
+### Contentious Riposte  [reaction]
+**Feat 4** · **Traits** Form
+**Prerequisites** Makashi
+**Trigger** Your Dueling Target's melee attack misses you.
+**Effect** Make a lightsaber Strike against your Dueling Target.
+
+### Precise Assault
+**Feat 6** · **Traits** Form
+**Prerequisites** Makashi
+You gain a +1 circumstance bonus to your lightsaber attack rolls against your Dueling Target.
+
+### Disarming Line  [one-action]
+**Feat 8** · **Traits** Form
+**Prerequisites** Makashi
+Make a lightsaber Strike against your Dueling Target; on a hit, you also attempt to Disarm it (using the Strike's result against its Reflex DC).
+
+---
+
+## Form III — Soresu
+
+### Soresu  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber.
+**Effect** You settle into the impenetrable defense of Soresu. While in this stance, you gain a +2 circumstance bonus to AC against ranged Strikes, and your Speed is reduced by 10 feet.
+**Guardian Mastery** The +2 circumstance bonus to AC also applies against melee Strikes — the eye of the storm.
+
+### Deflecting Wall
+**Feat 4** · **Traits** Form
+**Prerequisites** Soresu
+When you use **Deflect** (see the powers above), you can also protect one adjacent ally from the same attack.
+
+### Resolute Stance
+**Feat 6** · **Traits** Form
+**Prerequisites** Soresu
+While in Soresu, you can't be moved against your will or knocked prone.
+
+### Eye of the Storm
+**Feat 8** · **Traits** Form
+**Prerequisites** Soresu
+The first time an attack misses you each round while you're in Soresu, you can Step as a free action.
+
+---
+
+## Form IV — Ataru
+
+### Ataru  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber.
+**Effect** You take up the acrobatic aggression of Ataru. While in this stance, you can **Tumble Through** the spaces of enemies (even those larger than you); on a success, that creature is **off-guard** to your attacks until the end of your turn.
+**Guardian Mastery** You gain a +10-foot status bonus to Speed, and your movement doesn't trigger reactions.
+
+### Acrobatic Assault
+**Feat 4** · **Traits** Form
+**Prerequisites** Ataru
+The first lightsaber Strike you make against a creature whose space you've Tumbled Through this turn gains a +1 circumstance bonus to the attack roll.
+
+### Hawk-Bat Swoop  [two-actions]
+**Feat 6** · **Traits** Form
+**Prerequisites** Ataru
+Leap (or High Jump) and make a lightsaber Strike at any point during the movement; the Strike deals an additional weapon damage die. If you have Guardian Mastery, you can make a second Strike at a −5 penalty as part of this activity.
+
+### Whirling Leap  [one-action]
+**Feat 8** · **Traits** Form
+**Prerequisites** Ataru
+Stride, ignoring difficult terrain; you can make a single lightsaber Strike against one creature whose reach you pass through during the movement.
+
+---
+
+## Form V — Shien / Djem So
+
+### Shien / Djem So  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber in two hands.
+**Effect** You adopt the counter-attacking poise of Shien and Djem So. While in this stance, your two-handed lightsaber Strikes gain a +2 circumstance bonus to damage.
+**Guardian Mastery** When a creature hits you with a melee attack, you gain a +2 circumstance bonus to your next attack against it. When a creature hits you with a ranged attack, you gain a +2 circumstance bonus to AC against that creature's ranged attacks for 1 round.
+
+### Returned Fury
+**Feat 4** · **Traits** Form
+**Prerequisites** Shien / Djem So
+When you use **Deflect** or your Intercede reaction against a creature, your next lightsaber Strike against that creature this turn gains a +2 circumstance bonus to damage.
+
+### Counterstrike  [reaction]
+**Feat 6** · **Traits** Form
+**Prerequisites** Shien / Djem So
+**Trigger** A melee attack misses you.
+**Effect** Make a lightsaber Strike against the attacker.
+
+### Unbending
+**Feat 8** · **Traits** Form
+**Prerequisites** Shien / Djem So
+The first time you take damage each round while in this stance, your next lightsaber Strike before the end of your next turn deals an additional weapon damage die.
+
+---
+
+## Form VI — Niman
+
+### Niman  [one-action]
+**Feat 1** · **Traits** Form, Stance
+**Requirements** You're wielding a lightsaber.
+**Effect** You balance blade and Force in the moderate way of Niman. While in this stance, the first time you hit with a lightsaber Strike on your turn, you gain a +1 circumstance bonus to your next Force power's DC or attack roll (until the end of your next turn).
+**Guardian Mastery** The synergy runs both ways: after you Manifest a Force power, you gain a +1 circumstance bonus to your next lightsaber Strike.
+
+### Balanced Flow
+**Feat 4** · **Traits** Form
+**Prerequisites** Niman
+When you use the Center action, you can enter Niman as a free action.
+
+### Flowing Combatant
+**Feat 6** · **Traits** Form
+**Prerequisites** Niman
+After you Manifest a Force power, your next lightsaber Strike this turn ignores the target's circumstance bonus to AC.
+
+### Saber-and-Power  [two-actions]
+**Feat 8** · **Traits** Form
+**Prerequisites** Niman
+Make a lightsaber Strike and Manifest a single-action Force power, in either order, as a single activity. (You still pay the power's Attunement.) Once per round.
+
+---
+
+## Form VII — Juyo / Vaapad
+
+### Juyo / Vaapad  [one-action]
+**Feat 1** · **Traits** Form, Stance, Dark
+**Requirements** You're wielding a lightsaber.
+**Effect** You give yourself to the ferocious, churning Form VII. While in this stance, you take a −1 penalty to AC and gain a +1 circumstance bonus to your attack rolls.
+**Guardian Mastery** The circumstance bonus to attack rolls increases to +2.
+
+### Fluid Aggression
+**Feat 4** · **Traits** Form
+**Prerequisites** Juyo / Vaapad
+While in this stance, the first time you critically hit each round, you gain a +1 status bonus to your next attack roll.
+
+### Vaapad Surge
+**Feat 6** · **Traits** Form, Dark
+**Prerequisites** Juyo / Vaapad
+On a turn you're in this stance, you can fight fully open: take an additional −1 penalty to AC until the start of your next turn to deal an additional weapon damage die on your lightsaber Strikes during that turn.
+
+### Embrace the Storm
+**Feat 10** · **Traits** Form, Dark
+**Prerequisites** Juyo / Vaapad
+While in this stance, your circumstance bonus to attack rolls increases by 1 for each enemy adjacent to you beyond the first (maximum +3 total, or +4 with Guardian Mastery), but your AC penalty increases to match.
