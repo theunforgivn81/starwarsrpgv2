@@ -117,4 +117,24 @@ The **action-granting audit** (the priority Gate-A deferred to this class) **pas
 - 🟡 **Of-2 (watch → balance-analysis) — Suppressing Command (Guns Blazing L11) is a no-save lockdown** (off-guard + can't Step, 2 actions). Reliable single-target control with no roll; consider gating it (save vs Class DC, or "a foe an ally has Struck this round").
 - Notes (no action): **Will → Legendary on a frail CHA body** is on-role (HP 8 / Fort-Expert / light armor leave Fort + Reflex as the vectors); the **L20 buff-stack** (Perfect Coordination + Greater Directives + Grand Strategy + Unify) is wide-not-deep (same-type-no-stack bounds it); once/min capstone novas (All Guns Blazing, Alpha Strike) are the gated action-value ceiling.
 
-*(Guardian / Sentinel / Consular / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
+### B.4 Consular *(content-complete in player-core: [chassis](../../player-core/classes/consular.md) · [Mandates](../../player-core/classes/consular-mandates.md) · [feats](../../player-core/classes/consular-feats.md))*
+
+Holds on-profile (Control-caster). The **deferred metamagic/deep-pool nova** is the watch, as expected — bounded the right way.
+
+- 🟡 **C-1 (watch → balance-analysis) — deep pool + metamagic is the nova ceiling.** Pool 3 + Level Bonus, Center +3, plus **Greater Empower** (once-per-*round* maximize, L16), **Avatar of the Force** (once/encounter full refill), and **One with the Force** (−1 Attunement to all powers). Bounded by: no to-hit/DC inflation (maximize only kills variance), the 3-action economy, the ~4-die damage arc, and per-spike Frequencies. Watch the aggregate of Greater Empower on the highest-dice powers; confirm the dice-arc cap holds on everything empowerable.
+- Notes (no action): **Legendary Class DC (L17)** is the sanctioned offensive spotlight (mirrors the Guardian's Legendary saber); the save-or-suck it powers stays honest via Incapacitation + once-per-minute + crit-fail-escalation. **At-will Telekinetic Impact** is on-curve (≈ one Strike's worth per 2 actions, below a striker's turn, no attribute on the damage). **Mandate parity** holds (temp-HP-on-heal doesn't stack). **Squishy by design** (HP 8, weak Reflex is the vector).
+
+*(Guardian / Sentinel / Tech Specialist get the same written-class re-pass as they're brought to publication finish.)*
+
+---
+
+## C. The Force powers chapter — written-numbers pass (2026-06-22)
+
+A relative re-pass on the 55 authored power entries ([the-force.md](../../player-core/the-force.md)) — checking the prose numbers against the bounded spine. **The chapter holds.**
+
+- ✅ **Damage tracks the weapon curve.** Save powers d6 / attack & healing d8, +1 die at L5/11/17 on a {1,2,2,3,4}-base arc (≈4 dice at cap), **no attribute on Force damage** → Force damage lands at or below a weapon Strike's, buying range/area/a save instead of raw DPR.
+- ✅ **Flat values stay sub-curve** — Force Barrier resist (2 + Level Bonus), Force Valor temp HP (10/15/20), Energy Absorption (2×(2 + Level Bonus)) — soak, never negate.
+- ✅ **Push is always an effect, not a number** (off-guard, extra target, redirect, condition).
+- ✅ **Hard control gated** — the six save-or-suck powers (Hold, Stasis, Choke, Dominate Mind, Mass Mind Trick, Mind Fracture) carry Incapacitation + once-per-minute, with crit-fail escalation that never deletes or kills.
+- 🟡 **F-1 (watch → balance-analysis) — Force Destruction's 8 dice (4d6 + 4d6)** is the chapter's largest single hit, sharpened by Greater Empower. Consider whether two full dice-arcs is intended or should be one 4-die pool split across force/fire.
+- 🟡 **F-2 (note) — Mind Fracture crit-fail stunned 3** is heavy action-denial; gated (L17 / 3-Att / once-per-minute / Will / crit-fail-only), acceptable at capstone tier.
