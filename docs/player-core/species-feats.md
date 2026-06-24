@@ -406,4 +406,289 @@ Your binary brain runs two trains of thought at once. You're permanently quicken
 
 ---
 
+## Chubbit
+
+Small, scaly desert guerrillas with hyper-complex nervous systems — Chubbits dart underfoot, read the ground through their feet, and shrug off the frequencies that once tortured their people.
+
+### 1st-Level Feats
+
+### Aridus Scrambler
+**Feat 1** · **Traits** Chubbit
+You navigate jagged canyons and shifting dunes with ease. You gain a +1 circumstance bonus to Acrobatics to Balance and Athletics to Climb on rocky, sandy, or uneven terrain.
+
+### Aridus Survivor
+**Feat 1** · **Traits** Chubbit
+You endured a punishing desert homeworld. You become trained in Survival (or another skill if you're already trained), and gain a +1 circumstance bonus to Subsist or Sense Direction in deserts.
+
+### Hyper-Sensory Alertness
+**Feat 1** · **Traits** Chubbit
+Your complex nervous system processes stimuli at blinding speed. You gain a +1 circumstance bonus to initiative.
+
+### Scurry
+**Feat 1** · **Traits** Chubbit, Move
+You dart between giants' legs. You can move through the space of any Medium or larger creature, treating it as difficult terrain (you still can't end your turn there).
+
+### Speckled Camouflage
+**Feat 1** · **Traits** Chubbit
+Your mottled skin matches sand and stone. You gain a +1 circumstance bonus to Stealth to Hide or Sneak in natural desert or badland terrain.
+
+### 5th-Level Feats
+
+### Guerrilla Retreat  [reaction]
+**Feat 5** · **Traits** Chubbit, Move
+**Trigger** An adjacent enemy misses you with a melee Strike.
+**Effect** You punish the clumsy swing by vanishing from reach: Step.
+
+### Iron Tower Survivor
+**Feat 5** · **Traits** Chubbit
+You survived the Imperial Iron Tower's neurological assault. You gain resistance to sonic damage equal to your Level Bonus, and a +1 circumstance bonus to saves against Auditory and Mental effects.
+
+### Scrap-Tech Jury-Rigger
+**Feat 5** · **Traits** Chubbit
+You keep broken gear running on wire and willpower. You can Repair an item without a repair kit, taking a –2 circumstance penalty instead of being unable to try.
+
+### Tremor-Sensitive
+**Feat 5** · **Traits** Chubbit
+Your nerves feel approaching footfalls. You gain imprecise tremorsense to a range of 15 feet.
+
+### Underfoot Antics
+**Feat 5** · **Traits** Chubbit
+**Prerequisites** Scurry
+You unbalance the big ones. While you're adjacent to a Large or larger creature, it's off-guard to your melee attacks.
+
+### 9th-Level Feats
+
+### Coordinated Ambush
+**Feat 9** · **Traits** Chubbit
+You signal your squad the instant you spot danger. When you roll Stealth or Perception for initiative, one ally who can see or hear you gains a +2 circumstance bonus to their initiative.
+
+### Hit and Run  [two-actions]
+**Feat 9** · **Traits** Chubbit, Flourish
+You strike and slip away. Stride up to your Speed and make a melee Strike at any point during the movement; if the Strike hits, the rest of that movement doesn't trigger reactions from the creature you hit.
+
+### Saboteur's Insight
+**Feat 9** · **Traits** Chubbit
+**Prerequisites** trained in Crafting or Thievery
+You know which wires to cut. You gain a +1 circumstance bonus to Thievery to Disable a Device and Crafting to Sabotage, and a critical failure to disable an electronic trap or technological hazard is a failure instead.
+
+### Sensory Overdrive  [reaction]
+**Feat 9** · **Traits** Chubbit, Move
+**Trigger** You take sonic or electricity damage.
+**Effect** You channel the shock into adrenaline rather than letting it paralyze you: Stride or Step as a free action.
+
+### 13th-Level Feats
+
+### Electromagnetic Resilience
+**Feat 13** · **Traits** Chubbit
+**Prerequisites** Iron Tower Survivor
+Your nerves have fully hardened. Your sonic resistance increases to 2 + your Level Bonus, and you gain resistance to electricity damage equal to your Level Bonus.
+
+### Nerve-Strike  [two-actions]
+**Feat 13** · **Traits** Chubbit
+You know where the pain centers are. Make a melee Strike; on a hit, the target must succeed at a Fortitude save against your class DC or be enfeebled 1 for 1 minute (enfeebled 2 on a critical failure).
+
+### Uncanny Skirmisher
+**Feat 13** · **Traits** Chubbit
+**Prerequisites** Guerrilla Retreat
+Your reflexes verge on the supernatural. When you use Guerrilla Retreat, you can Step twice or Stride up to half your Speed instead.
+
+### 17th-Level Feats
+
+### Aridus Phantom
+**Feat 17** · **Traits** Chubbit
+**Prerequisites** Speckled Camouflage, master in Stealth
+You're a ghost in the wilds. While in natural terrain (desert, forest, mountains), you're permanently concealed — you can't use this to Hide, but it forces the DC 11 flat check for enemies to target you.
+
+### Hyper-Reactive Synapses  [free-action]
+**Feat 17** · **Traits** Chubbit
+**Trigger** You roll initiative.
+**Effect** Time seems to slow: before the first round begins, take a single Stride, Step, or Interact (to draw a weapon). This doesn't change your place in initiative.
+
+---
+
+## Codru-Ji
+
+Four-armed hunters whose culture treats abduction as high art — Codru-Ji excel at grappling, multi-weapon flurries, and keeping a "valuable asset" between themselves and harm.
+
+### 1st-Level Feats
+
+### Multi-Armed Coordination
+**Feat 1** · **Traits** Codru-Ji
+Your lower arms handle support work. With a single Interact action you can draw, sheathe, or pick up two different items (with free hands to do so), and you don't drop held items when you fall unconscious.
+
+### Professional Abductor
+**Feat 1** · **Traits** Codru-Ji
+You know the holds. You gain the Titan Wrestler skill feat, and when you succeed to Grapple a creature you can move it 5 feet into an adjacent open space.
+
+### Standing Slumber
+**Feat 1** · **Traits** Codru-Ji
+You sleep standing and wake instantly. You take no Perception penalty while sleeping, you don't fall prone when you sleep or drop unconscious, and standing from prone is a free action for you.
+
+### Threatening Posture
+**Feat 1** · **Traits** Codru-Ji, Emotion, Mental
+You flare all four arms to loom. You become trained in Intimidation (or another skill if already trained), and gain a +1 circumstance bonus to Demoralize while wielding two or more weapons.
+
+### Ultrasonic Sensitivity
+**Feat 1** · **Traits** Codru-Ji, Auditory
+You hear above most species' range — the whine of power cells and servos. You gain a +1 circumstance bonus to Seek creatures or objects with the Tech or Construct trait, and you can converse secretly in the ultrasonic register with others who can hear it, out to 60 feet.
+
+### 5th-Level Feats
+
+### Defensive Flurry  [one-action]
+**Feat 5** · **Traits** Codru-Ji
+**Requirements** You're wielding a melee weapon in at least two hands.
+You weave a wall of steel. When you Parry or Raise a Shield, you gain an additional +1 circumstance bonus to AC against melee attacks until the start of your next turn.
+
+### Four-Armed Reload
+**Feat 5** · **Traits** Codru-Ji, Manipulate
+**Frequency** once per round
+**Prerequisites** Multi-Armed Coordination
+Your lower hands feed power cells while your upper hands aim. You can Interact to reload a weapon as a free action.
+
+### Grappler's Advantage
+**Feat 5** · **Traits** Codru-Ji
+**Prerequisites** Professional Abductor
+Two hands to hold, two to hit. When you have a creature grabbed or restrained, your first melee Strike against it doesn't take the multiple attack penalty from the Grapple you just made.
+
+### Wyrwulf Agility
+**Feat 5** · **Traits** Codru-Ji
+You keep your larval scrambling speed. You gain a climb Speed of 15 feet and don't need your hands to climb surfaces of DC 20 or lower.
+
+### 9th-Level Feats
+
+### Hostage Shield
+**Feat 9** · **Traits** Codru-Ji
+You keep the "asset" between you and the enemy. You gain standard cover while grappling a creature of your size or larger, and an attack that misses you because of this cover hits the grappled creature instead.
+
+### Triple-Tap Technique  [free-action]
+**Feat 9** · **Traits** Codru-Ji, Flourish
+**Trigger** You've made at least two successful attacks this turn.
+**Requirements** You're wielding at least three weapons.
+**Effect** You Strike, applying the highest multiple attack penalty for that weapon.
+
+### Whirling Deflection  [reaction]
+**Feat 9** · **Traits** Codru-Ji
+**Trigger** You're hit by a ranged attack.
+**Requirements** You're wielding a melee weapon in at least two hands.
+**Effect** You spin your weapons into a blurred barrier, gaining a +2 circumstance bonus to AC against the triggering attack; if this makes it miss, you deflect the shot harmlessly.
+
+### 13th-Level Feats
+
+### Instant Bind  [free-action]
+**Feat 13** · **Traits** Codru-Ji
+**Requirements** You have a creature restrained.
+**Prerequisites** Professional Abductor
+You Interact to attach binders or rope to the restrained creature. It can't use reactions or movement actions until it Escapes (against your Thievery DC for binders or Athletics DC for rope) or you spend an action to release it.
+
+### Quadruple Strike  [two-actions]
+**Feat 13** · **Traits** Codru-Ji, Flourish
+**Frequency** once per round
+**Requirements** You're wielding melee weapons in at least three hands.
+You attack from all quadrants. Make two melee Strikes; if both hit the same target, deal additional damage equal to two weapon damage dice from a weapon in another hand. This counts as two attacks for your multiple attack penalty.
+
+### 17th-Level Feats
+
+### Master of the Complex Form
+**Feat 17** · **Traits** Codru-Ji
+Your mind drives every limb independently. You're permanently quickened 1, but can use the extra action only to Interact, Step, or reload, and you can't be flanked by creatures of your level or lower.
+
+### "Soft" Abduction  [two-actions]
+**Feat 17** · **Traits** Codru-Ji, Incapacitation
+**Requirements** You have a creature grabbed or restrained.
+**Prerequisites** Instant Bind
+You find the pressure points. Make an Athletics check against the target's Fortitude DC: critical success knocks it unconscious for 1 minute (or until it takes damage); success stuns it 3; failure stuns it 1; critical failure breaks your grapple.
+
+### Wyrwulf Metamorphosis  [one-action]
+**Feat 17** · **Traits** Codru-Ji, Polymorph
+**Frequency** once per day
+You revert to a hybrid Wyrwulf state for 1 minute: your Speed increases by 20 feet, you gain a bite (1d10 piercing) that lets you Trip as a free action on a hit, and you gain resistance to physical damage equal to 2 + your Level Bonus.
+
+---
+
+## Duros
+
+Born to the stars, Duros are the galaxy's consummate pilots and navigators — void-hardened, calm under fire, and never lost.
+
+### 1st-Level Feats
+
+### Born Spacer
+**Feat 1** · **Traits** Duros
+You were raised among the stars. You become trained in Piloting (or another skill if already trained) and gain the Zero-G Training skill feat.
+
+### Galactic Storyteller
+**Feat 1** · **Traits** Duros
+You trade tales of the spacelanes. You become trained in Spacer Lore and gain a +1 circumstance bonus to Make an Impression by sharing stories of your travels.
+
+### Intuitive Astrogation
+**Feat 1** · **Traits** Duros
+You always sense your place in a star system. You gain a +1 circumstance bonus to Survival to Sense Direction outdoors and Piloting to Plot a Course.
+
+### Technical Linguist
+**Feat 1** · **Traits** Duros
+You read the galaxy's technical tongues. You gain two additional languages and a +1 circumstance bonus to Decipher Writing on technical manuals or navigational charts.
+
+### Vacuum Acclimation
+**Feat 1** · **Traits** Duros
+The void holds no terror for you. You treat vacuum and low-gravity environmental effects as one step less severe, and you can hold your breath for 1 hour.
+
+### 5th-Level Feats
+
+### Defensive Flying  [reaction]
+**Feat 5** · **Traits** Duros
+**Trigger** A vehicle or starship you're piloting is targeted by an attack.
+**Effect** You jink hard, imposing a –2 circumstance penalty to the attack roll against your vessel.
+
+### Engine Whisperer
+**Feat 5** · **Traits** Duros
+You coax machines along bare-handed. You can Repair a technological item or vehicle system without a repair kit, taking a –2 penalty to the check.
+
+### Photographic Memory
+**Feat 5** · **Traits** Duros
+You vividly recall anything seen or read in the past week. You gain a +1 circumstance bonus to Recall Knowledge when you have a datapad or library to cross-reference.
+
+### Void Walker
+**Feat 5** · **Traits** Duros
+You're at home weightless. In zero-G you gain a fly Speed equal to your land Speed, and you can't be made off-guard while floating or flying there.
+
+### 9th-Level Feats
+
+### Calculated Risk
+**Feat 9** · **Traits** Duros, Fortune
+**Frequency** once per day
+When you roll a failure on a Computers or Piloting check, you can treat it as a success instead.
+
+### Gunnery Synergy
+**Feat 9** · **Traits** Duros
+You call the shot for your gunner. When you Aid an ally's vehicle or starship gunnery attack, a success grants a +2 circumstance bonus (instead of +1).
+
+### Spacers' Camaraderie
+**Feat 9** · **Traits** Duros
+You speak the pilots' language. You can use your Piloting modifier in place of Diplomacy when dealing with spacers, dock officials, or pilots.
+
+### 13th-Level Feats
+
+### High-G Tolerance
+**Feat 13** · **Traits** Duros
+Crushing gravity is nothing new. You're immune to the sickened condition and gain resistance to bludgeoning damage equal to your Level Bonus.
+
+### Master Navigator
+**Feat 13** · **Traits** Duros
+Your mind runs astrogation like a nav-computer — you can never get lost in space or on a surface. Once per day, you can spend 1 minute analyzing your surroundings or a star chart to fix the most direct route to a familiar destination; for 8 hours you know its direction and distance and gain a +2 circumstance bonus to Piloting or Survival to traverse it.
+
+### Snap Judgment
+**Feat 13** · **Traits** Duros
+You read situations a half-second ahead. You're permanently quickened 1, but can use the extra action only to Recall Knowledge or Point Out.
+
+### 17th-Level Feats
+
+### Ace of Aces
+**Feat 17** · **Traits** Duros, Fortune
+When piloting a vehicle or starship, you can roll any Piloting check twice and take the higher result.
+
+### One with the Void
+**Feat 17** · **Traits** Duros
+You no longer need to breathe and are immune to the damaging effects of vacuum.
+
+---
+
 *Further species' feat menus follow, one section each.*
