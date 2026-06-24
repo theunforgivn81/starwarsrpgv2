@@ -116,4 +116,294 @@ You always believe in yourself. You can use Confident Actualization once per hou
 
 ---
 
+## Anzellan
+
+Tiny, brilliant, and utterly fearless around machinery — Anzellans turn their size and their genius for tech into an outsized threat.
+
+### 1st-Level Feats
+
+### Anzellan Optics
+**Feat 1** · **Traits** Anzellan
+Your eyes are microscopes. You gain Darkvision and a +1 circumstance bonus to Perception checks to find hidden objects, traps, or tiny details.
+
+### Droidsmith
+**Feat 1** · **Traits** Anzellan
+You treat droids as cousins, not tools. You become trained in Crafting, gain the Combat Repair skill feat, and gain a +1 circumstance bonus to Repair items with the Tech trait or to Treat Wounds on constructs (using Crafting).
+
+### Indignant Spirit
+**Feat 1** · **Traits** Anzellan, Emotion, Mental
+You're small, but your personality is massive. You gain a +1 circumstance bonus to Will saves against fear, and a success against a fear effect is a critical success instead. When you remove a frightened condition from yourself, you can Demoralize an adjacent enemy as a free action.
+
+### Pocket Stowaway
+**Feat 1** · **Traits** Anzellan
+You're an expert at being carried. You can share a space with a willing Medium or larger ally, moving with them (spending no actions) and gaining standard cover, until you Dismount (1 action).
+
+### Static Adaptation
+**Feat 1** · **Traits** Anzellan
+Generations on live wires have toughened you. You gain resistance to electricity damage equal to your Level Bonus.
+
+### Underfoot Dodger
+**Feat 1** · **Traits** Anzellan
+You weave between giants' feet. You can move through the spaces of Small or larger creatures, and while you end your turn in the space of a creature at least one size larger, you gain lesser cover against attacks from outside that square.
+
+### 5th-Level Feats
+
+### Circuit Breaker
+**Feat 5** · **Traits** Anzellan
+**Prerequisites** trained in Computers or Crafting
+You know just where to jam a hydrospanner. When you damage a creature or object with the Construct or Tech trait, you ignore the first 5 points of its Hardness or resistance.
+
+### Nuisance Distraction  [one-action]
+**Feat 5** · **Traits** Anzellan
+**Requirements** You're occupying an enemy's space.
+You scramble over the target's sensors. It attempts a Reflex save against your class DC; on a failure it's dazzled until the start of your next turn (and on a critical failure, blinded for that duration).
+
+### Vent Crawler
+**Feat 5** · **Traits** Anzellan
+If there's airflow, there's a way in. You gain a climb Speed equal to half your land Speed, you can move at full Speed while Squeezing, and you ignore the usual Squeezing penalty to AC and Reflex.
+
+### 9th-Level Feats
+
+### Aggressive Rewire  [one-action]
+**Feat 9** · **Traits** Anzellan, Manipulate
+You cross the wires of an adjacent Construct. Attempt a Crafting check against its Fortitude DC: critical success confuses it 1 round; success slows it 1 for 1 round; critical failure shocks you for electricity damage equal to your Level Bonus.
+
+### Micro-Targeting
+**Feat 9** · **Traits** Anzellan
+**Prerequisites** Anzellan Optics
+You aim for the exposed joints. Your melee Strikes against creatures at least two sizes larger than you gain the deadly d8 trait (or step up an existing deadly die by one).
+
+### System Override
+**Feat 9** · **Traits** Anzellan
+**Prerequisites** master in Computers
+You speak Binary better than Basic. Your Computers checks to Disable a Device take one fewer action (minimum 1), and a critical failure to Disable a Device is a failure instead.
+
+### 13th-Level Feats
+
+### Ghost in the Shell  [two-actions]
+**Feat 13** · **Traits** Anzellan, Concentrate, Incapacitation, Manipulate
+**Prerequisites** System Override
+You project your consciousness into a machine. One unintelligent Construct (or technological object) attempts a Will save against your class DC; on a failure it gains the controlled condition, attempting a new save at the end of each of its turns. You can control only one creature this way.
+
+### Hard to Squash  [reaction]
+**Feat 13** · **Traits** Anzellan
+**Trigger** A creature larger than you hits you with a melee attack.
+**Effect** You tuck and roll: take half damage from the triggering attack and Step as a free action.
+
+### Inside the Walls
+**Feat 13** · **Traits** Anzellan
+You access the internals others can't. With an Interact action you can enter a Large or larger object (a terminal, console, or vent) as if it were a creature, gaining total cover, and you can still use Computers or Crafting on the object from inside.
+
+### 17th-Level Feats
+
+### "Bad Baby" Protocol  [reaction]
+**Feat 17** · **Traits** Anzellan, Electricity
+**Prerequisites** Indignant Spirit
+**Trigger** A creature Grapples, Swallows, or Restrains you.
+**Effect** Your personal defense field flares: the creature takes 5d8 electricity damage and must succeed at a Fortitude save against your class DC or be stunned 1 and release you. The field persists 1 minute, dealing 2d8 electricity to anyone touching you.
+
+### Machine Whisperer  [two-actions]
+**Feat 17** · **Traits** Anzellan, Auditory, Incapacitation, Linguistic
+**Frequency** once per 10 minutes
+**Prerequisites** legendary in Computers
+You shout a backdoor command at a Droid or Construct (even a mindless one, ignoring its mental immunities). It attempts a Will save against your class DC: success stuns it 1; failure confuses it 1 minute; critical failure leaves it controlled by you for 1 minute (a clearly suicidal order ends the effect and stuns it 3 instead).
+
+### Quantum Tinkering
+**Feat 17** · **Traits** Anzellan
+**Frequency** once per day
+**Prerequisites** Droidsmith
+You fix the unfixable: Repair 25 Hit Points to a destroyed item or 50 to an intact one. Used on a destroyed Construct, a very hard Crafting check for your level revives it at 1 Hit Point.
+
+---
+
+## Bothan
+
+Spymasters and manipulators, Bothans win their battles with information — and a knife held where no one's looking.
+
+### 1st-Level Feats
+
+### Informed Target
+**Feat 1** · **Traits** Bothan
+You studied the anatomy charts. You can Recall Knowledge as a free action at the start of your turn against an unidentified creature; on a success, your first Strike against it this turn deals +1d6 precision damage.
+
+### Paranoid Alertness
+**Feat 1** · **Traits** Bothan
+Always expecting a knife in the back, you gain a +2 circumstance bonus to initiative, and you can't be made off-guard by hidden or undetected creatures of your level or lower at the start of combat.
+
+### Political Animal
+**Feat 1** · **Traits** Bothan
+Every conversation is a duel. You can use Society (or a Politics Lore) to Sense Motive, and when you detect a lie you also learn *why* the target is lying.
+
+### Spynet Initiate
+**Feat 1** · **Traits** Bothan
+You have a contact in the Bothan Spynet. You become trained in Diplomacy and Underworld Lore, Gather Information in half the time, and gain a +1 circumstance bonus to it.
+
+### Wavering Fur
+**Feat 1** · **Traits** Bothan, Visual
+You speak through the ripple of your fur. You gain Sign Language, and your signing is subtle enough that only those trained in Bothan body language notice you're communicating at all.
+
+### 5th-Level Feats
+
+### Face in the Crowd
+**Feat 5** · **Traits** Bothan
+You always keep someone between you and the threat. While within 10 feet of at least two other creatures of your size or larger, you can Hide and Sneak even while observed, and you gain standard cover (rather than lesser) from attackers who aren't adjacent to you.
+
+### Kway Teow Defense  [reaction]
+**Feat 5** · **Traits** Bothan
+**Frequency** once per 10 minutes
+**Trigger** You're hit by a creature you've Recalled Knowledge about or Sensed Motive on within the last minute.
+**Effect** You anticipated it. Gain resistance to the triggering attack's damage equal to 2 + your Level Bonus.
+
+### Sow Discord  [two-actions]
+**Feat 5** · **Traits** Bothan, Auditory, Linguistic, Mental
+**Prerequisites** trained in Deception
+You whisper the perfect lie at an enemy within 30 feet; it attempts a Will save against your Deception DC. On a failure it can't be aided by allies for 1 round (no flanking, ally buffs, or Aid); on a critical failure it's confused 1 round.
+
+### Spynet Safehouse
+**Feat 5** · **Traits** Bothan
+**Prerequisites** Spynet Initiate
+In any settlement of village size or larger, you can locate a hidden safehouse, letting your team take a long rest in hostile territory without fear of discovery.
+
+### 9th-Level Feats
+
+### Opportunistic Betrayal  [reaction]
+**Feat 9** · **Traits** Bothan
+**Trigger** An enemy within your melee reach is hit by one of its own allies (from confusion, a critical failure, or an area effect).
+**Effect** You exploit the chaos: make a melee Strike against that enemy, which is off-guard against it. If you have no other precision source, the Strike deals +1d6 precision damage.
+
+### Psychological Warfare
+**Feat 9** · **Traits** Bothan, Emotion, Mental
+**Prerequisites** Sow Discord
+You break the spirit, not just the body. When you successfully Demoralize a creature, it takes mental damage equal to your Level Bonus; on a critical success, it's also stunned 1.
+
+### Spynet Requisition
+**Feat 9** · **Traits** Bothan, Downtime
+**Frequency** once per day
+You call in a favor: with 10 minutes of contact, a specific item of level 5 or lower is delivered to you within 1d4 hours (on loan — return or pay within 3 days, or lose this feat for a month).
+
+### 13th-Level Feats
+
+### Blackmail Logic  [reaction]
+**Feat 13** · **Traits** Bothan, Mental
+**Prerequisites** Political Animal
+**Trigger** A creature you're aware of attempts to attack you.
+**Effect** You utter a phrase of blackmail that makes it hesitate. It attempts a Will save against your Diplomacy or Deception DC: on a failure it's stupefied 2 and must choose a different target (wasting the action if none is valid); on a critical failure it ends its turn.
+
+### "Many Bothans Died…"  [reaction]
+**Feat 13** · **Traits** Bothan, Emotion, Mental
+**Trigger** You're reduced to 0 Hit Points.
+**Effect** Your fall becomes a rallying cry. Allies within 60 feet gain a +2 status bonus to attack rolls, AC, and saves, and temporary Hit Points equal to your level, for 1 minute or until you regain consciousness.
+
+### Master of Disguise
+**Feat 13** · **Traits** Bothan
+**Prerequisites** expert in Deception
+You adopt a persona with terrifying speed: you Impersonate in 1 minute rather than 10, and after studying someone for an hour you gain a +2 circumstance bonus to pass as them.
+
+### 17th-Level Feats
+
+### Grand Manipulator  [one-action]
+**Feat 17** · **Traits** Bothan, Incapacitation, Linguistic, Mental
+**Prerequisites** Psychological Warfare
+You convince an enemy its leader betrayed it. One creature within 60 feet that can hear you attempts a Will save against your class DC: success leaves it stupefied 2 and off-guard to you; failure leaves it controlled for 1 round; critical failure, controlled for 1 minute (new save at the end of each of its turns).
+
+### Omniscient Network
+**Feat 17** · **Traits** Bothan
+**Prerequisites** Spynet Requisition
+You're a high-ranking handler fed constant data. You can't be flanked; you can Recall Knowledge about any topic and treat failures as one step better; and you have the benefits of true sight out to 30 feet.
+
+---
+
+## Cerean
+
+Cerean binary brains process the battlefield as logic and geometry — calm, analytical, and almost impossible to rattle.
+
+### 1st-Level Feats
+
+### Binary Processing
+**Feat 1** · **Traits** Cerean, Mental
+Your two brain-lobes work in tandem. You gain the Dubious Knowledge skill feat, and a critical failure to Recall Knowledge is a failure instead.
+
+### Calculated Trajectory
+**Feat 1** · **Traits** Cerean
+You compute parabolas instinctively. You gain a +1 circumstance bonus to attack rolls with thrown weapons and grenades, and reduce the second-range-increment penalty for thrown weapons by 2.
+
+### Intuitive Geometry
+**Feat 1** · **Traits** Cerean
+You see the world as angles and vectors. You can use your Intelligence modifier instead of Wisdom for initiative.
+
+### Logical Stoicism
+**Feat 1** · **Traits** Cerean
+Pure logic suppresses volatile emotion. You gain a +1 circumstance bonus to Will saves against emotion and fear, and a success against a fear effect is a critical success instead.
+
+### Two Hearts
+**Feat 1** · **Traits** Cerean
+Your dual hearts grant uncanny stamina. You gain a +1 circumstance bonus to Fortitude saves, and when you would become fatigued you can attempt a DC 15 flat check to avoid it.
+
+### 5th-Level Feats
+
+### Analytical Defense  [one-action]
+**Feat 5** · **Traits** Cerean
+You analyze a foe's fighting style. Attempt to Recall Knowledge about a creature you see: on a success you gain a +1 circumstance bonus to AC against it for 1 minute (+2 on a critical success). On a failure you gain nothing and can't analyze it again for 1 round.
+
+### Dual Focus
+**Feat 5** · **Traits** Cerean
+**Prerequisites** Binary Processing
+You hold two complex tasks at once: a single Sustain action can sustain two different effects.
+
+### Mental Partitioning
+**Feat 5** · **Traits** Cerean
+You quarantine a compromised lobe. While affected by a mental effect imposing confused, controlled, or stupefied, you can attempt a new Will save at the start of each of your turns to end it, even if it wouldn't normally allow one.
+
+### Rapid Assessment
+**Feat 5** · **Traits** Cerean
+**Prerequisites** Intuitive Geometry
+You process visuals at superhuman speed: you can Seek as a free action at the start of your turn, but only to scan for creatures in line of sight.
+
+### 9th-Level Feats
+
+### Binary Redundancy
+**Feat 9** · **Traits** Cerean
+**Prerequisites** Mental Partitioning
+If one brain shuts down, the other takes over: you're immune to the stunned condition (unless its duration is permanent); an effect that would stun you slows you 1 instead.
+
+### Logical Discourse
+**Feat 9** · **Traits** Cerean, Auditory, Linguistic, Mental
+You dismantle a worldview in a sentence. You can use Society or Diplomacy to Demoralize (crushing doubt rather than fear); on a critical success, the target is also stupefied 1 for 1 minute.
+
+### Predictive Reflexes  [reaction]
+**Feat 9** · **Traits** Cerean, Misfortune
+**Frequency** once per day
+**Prerequisites** Analytical Defense
+**Trigger** A creature affected by your Analytical Defense attacks you.
+**Effect** You calculated this strike: the attacker rolls the attack twice and takes the worse result.
+
+### 13th-Level Feats
+
+### Cardiovascular Overdrive  [free-action]
+**Feat 13** · **Traits** Cerean
+**Frequency** once per day
+**Prerequisites** Two Hearts
+**Trigger** You start your turn enfeebled, fatigued, or slowed.
+**Effect** Your second heart surges: remove the enfeebled, fatigued, and slowed conditions, and gain temporary Hit Points equal to your level.
+
+### Combat Calculation
+**Feat 13** · **Traits** Cerean
+**Prerequisites** Analytical Defense
+When you succeed at an Analytical Defense check, your attacks against that creature also ignore the first 5 points of its physical or energy resistance for 1 minute.
+
+### 17th-Level Feats
+
+### Cognitive Overclock
+**Feat 17** · **Traits** Cerean, Mental
+**Prerequisites** Binary Processing
+Your binary brain runs two trains of thought at once. You're permanently quickened 1, but can use the extra action only to Recall Knowledge, Seek, Sustain, or use Analytical Defense.
+
+### Perfect Logic  [free-action]
+**Feat 17** · **Traits** Cerean, Fortune
+**Frequency** once per day
+**Trigger** You attempt an Intelligence- or Wisdom-based skill check or a Will save.
+**Effect** You execute the only path to victory: don't roll the d20 — treat the result as a natural 20.
+
+---
+
 *Further species' feat menus follow, one section each.*
