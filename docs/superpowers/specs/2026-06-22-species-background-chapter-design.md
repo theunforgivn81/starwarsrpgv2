@@ -30,6 +30,7 @@ The [species roster](2026-06-15-species-roster.md) (27 organic species + a herit
 
 **Deferred (need other systems first; clean pointers, no placeholders in the prose):**
 - The **4 Force-sensitive backgrounds** (Dathomir Witch, Warden of the Sky, Temple Youngling, Sith Initiate) — pending Force-sensitivity / Force Adept design.
+- **Kel Dor's 7 Force-flavored ancestry feats** (Baran Do Sensitive, Sage's Warning, Electric Judgment, Life Sense, Grand Sage, Storm Caller, Wrath of Dorin) — held out of `species-feats.md` (Kel Dor ships 11 published feats); they grant Force powers/sensitivity, so they join the same deferred Force-content bucket. Restore when Force-sensitivity / Force Adept is designed. *(Only Force-feat-heavy species in the roster; all others ported in full.)*
 - The **Lore-category taxonomy** (Settlement/Planet/Craft/Science/Org/Engineering/Creature/Species) that powers the "any X Lore" grants — labels stand; taxonomy is a later content pass.
 - Background **skill-feat stat blocks** — named in each background, statted in the general **Feats** chapter.
 
