@@ -140,7 +140,7 @@ You're an expert at being carried. You can share a space with a willing Medium o
 
 ### Static Adaptation
 **Feat 1** · **Traits** Anzellan
-Generations on live wires have toughened you. You gain resistance to electricity damage equal to your Level Bonus.
+Generations on live wires have toughened you. You gain resistance to electricity damage equal to half your level (minimum 1).
 
 ### Underfoot Dodger
 **Feat 1** · **Traits** Anzellan
@@ -166,7 +166,7 @@ If there's airflow, there's a way in. You gain a climb Speed equal to half your 
 
 ### Aggressive Rewire  [one-action]
 **Feat 9** · **Traits** Anzellan, Manipulate
-You cross the wires of an adjacent Construct. Attempt a Crafting check against its Fortitude DC: critical success confuses it 1 round; success slows it 1 for 1 round; critical failure shocks you for electricity damage equal to your Level Bonus.
+You cross the wires of an adjacent Construct. Attempt a Crafting check against its Fortitude DC: critical success confuses it 1 round; success slows it 1 for 1 round; critical failure shocks you for electricity damage equal to your level.
 
 ### Micro-Targeting
 **Feat 9** · **Traits** Anzellan
@@ -252,7 +252,7 @@ You always keep someone between you and the threat. While within 10 feet of at l
 **Feat 5** · **Traits** Bothan
 **Frequency** once per 10 minutes
 **Trigger** You're hit by a creature you've Recalled Knowledge about or Sensed Motive on within the last minute.
-**Effect** You anticipated it. Gain resistance to the triggering attack's damage equal to 2 + your Level Bonus.
+**Effect** You anticipated it. Gain resistance to the triggering attack's damage equal to 2 + your level.
 
 ### Sow Discord  [two-actions]
 **Feat 5** · **Traits** Bothan, Auditory, Linguistic, Mental
@@ -274,7 +274,7 @@ In any settlement of village size or larger, you can locate a hidden safehouse, 
 ### Psychological Warfare
 **Feat 9** · **Traits** Bothan, Emotion, Mental
 **Prerequisites** Sow Discord
-You break the spirit, not just the body. When you successfully Demoralize a creature, it takes mental damage equal to your Level Bonus; on a critical success, it's also stunned 1.
+You break the spirit, not just the body. When you successfully Demoralize a creature, it takes mental damage equal to your level; on a critical success, it's also stunned 1.
 
 ### Spynet Requisition
 **Feat 9** · **Traits** Bothan, Downtime
@@ -441,7 +441,7 @@ Your mottled skin matches sand and stone. You gain a +1 circumstance bonus to St
 
 ### Iron Tower Survivor
 **Feat 5** · **Traits** Chubbit
-You survived the Imperial Iron Tower's neurological assault. You gain resistance to sonic damage equal to your Level Bonus, and a +1 circumstance bonus to saves against Auditory and Mental effects.
+You survived the Imperial Iron Tower's neurological assault. You gain resistance to sonic damage equal to half your level (minimum 1), and a +1 circumstance bonus to saves against Auditory and Mental effects.
 
 ### Scrap-Tech Jury-Rigger
 **Feat 5** · **Traits** Chubbit
@@ -481,7 +481,7 @@ You know which wires to cut. You gain a +1 circumstance bonus to Thievery to Dis
 ### Electromagnetic Resilience
 **Feat 13** · **Traits** Chubbit
 **Prerequisites** Iron Tower Survivor
-Your nerves have fully hardened. Your sonic resistance increases to 2 + your Level Bonus, and you gain resistance to electricity damage equal to your Level Bonus.
+Your nerves have fully hardened. Your sonic resistance increases to equal your level, and you gain resistance to electricity damage equal to half your level (minimum 1).
 
 ### Nerve-Strike  [two-actions]
 **Feat 13** · **Traits** Chubbit
@@ -601,7 +601,7 @@ You find the pressure points. Make an Athletics check against the target's Forti
 ### Wyrwulf Metamorphosis  [one-action]
 **Feat 17** · **Traits** Codru-Ji, Polymorph
 **Frequency** once per day
-You revert to a hybrid Wyrwulf state for 1 minute: your Speed increases by 20 feet, you gain a bite (1d10 piercing) that lets you Trip as a free action on a hit, and you gain resistance to physical damage equal to 2 + your Level Bonus.
+You revert to a hybrid Wyrwulf state for 1 minute: your Speed increases by 20 feet, you gain a bite (1d10 piercing) that lets you Trip as a free action on a hit, and you gain resistance 10 to physical damage.
 
 ---
 
@@ -669,7 +669,7 @@ You speak the pilots' language. You can use your Piloting modifier in place of D
 
 ### High-G Tolerance
 **Feat 13** · **Traits** Duros
-Crushing gravity is nothing new. You're immune to the sickened condition and gain resistance to bludgeoning damage equal to your Level Bonus.
+Crushing gravity is nothing new. You're immune to the sickened condition and gain resistance to bludgeoning damage equal to half your level (minimum 1).
 
 ### Master Navigator
 **Feat 13** · **Traits** Duros

@@ -18,7 +18,7 @@ The [species roster](2026-06-15-species-roster.md) (27 organic species + a herit
 - `docs/player-core/backgrounds.md` — the **36 backgrounds** (boosts / trained skill / Lore); each names its skill feat (statted later in the general Feats chapter).
 
 **Re-evaluation conventions ("map, don't copy", as with the Force toolkit):**
-- Bounded effects only — circumstance bonuses, conditions, or utility; **no flat per-level numbers**; flat values key to the Level Bonus where needed.
+- **Two axes, two scalings (corrected 2026-06-25).** Bounding is **d20-axis only**: keep check/save/DC bonuses to **circumstance +1/+2** (Level Bonus governs the to-hit spine, not feat values). **Damage-axis** values — *resistances and damage riders* — follow **ORC/2E scaling**, because hits scale multiplicatively via striking (1→4 dice) and a Level-Bonus-capped value (max 6) decays against them. So: typed **resistance = half your level (min 1)** (upgrades to full level), damage riders **= your level**, polymorph/battle-form values flat. *Do NOT peg resistances/damage to the Level Bonus* — that conflates the two axes. (Per [[orc-2e-is-default-substrate]]: unspecified rules inherit ORC/2E.)
 - Restated attributes removed (use the relevant skill/Class DC); INT/Class-DC keying where apt.
 - Force-flavored ancestry feats that grant powers route to the [Force toolkit](2026-06-15-shared-force-toolkit.md), not class-locked grants.
 - Traits Capitalized; reuse timers as a **Frequency** line (per [[traits-capitalized-frequency-separate]]).
