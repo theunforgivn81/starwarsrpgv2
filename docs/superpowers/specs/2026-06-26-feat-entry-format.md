@@ -70,7 +70,7 @@ What we drop or adapt:
 > ```
 > No action glyph (no activation); prerequisite present but **no activation notation** (no Frequency/Trigger/Requirements/Cost), so the effect is plain prose with **no** `**Effect**` label even though degrees could apply; the repeatable note is a **Special** line, placed last (matching the printed book).
 
-A second worked example — an activation-notation, degree-based feat (from [human feats](../../player-core/species-feats.md)). Note **Prerequisites precedes Frequency** (locked order, §1), and the **Frequency** line forces the `**Effect**` label:
+A second worked example — an activation-notation, degree-based feat (from the [Human feats](../../player-core/02-species.md)). Note **Prerequisites precedes Frequency** (locked order, §1), and the **Frequency** line forces the `**Effect**` label:
 
 ```
 ### Aggressive Negotiations  [two-actions]
