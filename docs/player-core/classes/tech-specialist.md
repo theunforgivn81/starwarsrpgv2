@@ -88,23 +88,23 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Deploy (Custom Rig [3], Modification Library, Overclock), Engineering Discipline, class feat, species feat |
 | 2 | +1 | Class feat, skill feat, skill increase |
-| 3 | +1 | Tech Expertise, Tech Savvy, Discipline feature, general feat, skill increase |
+| 3 | +1 | Tech Savvy, Discipline feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat, skill increase |
 | 5 | +2 | Custom Rig [4], Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Emergency Reroute, Evasion, Weapon Specialization, Discipline feature, general feat, skill increase |
+| 7 | +2 | Tech Expertise, Emergency Reroute, Evasion, Weapon Specialization, Discipline feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
 | 9 | +3 | Custom Rig [5], Fortitude Expertise, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
-| 11 | +3 | Tech Mastery, Discipline feature, general feat, skill increase |
+| 11 | +3 | Discipline feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
 | 13 | +4 | Custom Rig [6], Light Armor Expertise, Perception Mastery, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Greater Weapon Specialization, Discipline feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Tech Mastery, Discipline feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Apex Engineering, Custom Rig [7], species feat, skill increase |
+| 17 | +5 | Custom Rig [7], species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
-| 19 | +5 | Light Armor Mastery, Discipline feature, general feat, skill increase |
+| 19 | +5 | Apex Engineering, Light Armor Mastery, Discipline feature, general feat, skill increase |
 | 20 | +6 | Singularity Rig, ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -139,7 +139,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Tech Expertise
 
-**(3rd level)** Your proficiency rank for your Tech class DC increases to expert.
+**(7th level)** Your proficiency rank for your Tech class DC increases to expert.
 
 ## Tech Savvy
 
@@ -184,7 +184,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Tech Mastery
 
-**(11th level)** Your proficiency rank for your Tech class DC increases to master.
+**(15th level)** Your proficiency rank for your Tech class DC increases to master.
 
 ## Light Armor Expertise
 
@@ -200,7 +200,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Apex Engineering
 
-**(17th level)** Your proficiency rank for your Tech class DC increases to legendary — your Modifications and Overclocks are the hardest in the galaxy to resist.
+**(19th level)** Your proficiency rank for your Tech class DC increases to legendary — your Modifications and Overclocks are the hardest in the galaxy to resist.
 
 ## Light Armor Mastery
 

@@ -82,6 +82,19 @@ Every class gains these automatically (not feats, not class-specific) — the st
 - Flat once per Strike (not per die). *(Values Gate-A tunable against our compressed math; structure is fixed at the traditional 7/15 cadence.)*
 - **Open question (flagged):** whether Force-heavy classes want a parallel "Force Specialization" so their primary damage keeps pace the way martials' does — deferred; the dice/Tier track may already suffice.
 
+### 3.1b Class DC tracks
+
+A class DC advances on one of two tracks, chosen by whether the class's **primary offense routes through its class DC** (its powers/effects target saves) or the DC only backs **secondary** effects (occasional maneuvers, a few feats):
+
+| Track | Progression | Used by |
+|---|---|---|
+| **Good** | **Expert L7 · Master L15 · Legendary L19** | Consular, Soldier, Tech Specialist (class DC *is* the weapon) |
+| **Normal** | **Expert L9 · Master L17** (no Legendary) | Guardian, Sentinel, Scoundrel, Officer (class DC is secondary) |
+
+- Mirrors the ORC **Good** caster/Soldier path exactly; the **Normal** track is a clean, balanced replacement for ORC's assorted Envoy/Operative/Solarian schedules. Only Good reaches **Legendary** — the privilege of a class whose DC is its main attack.
+- Bounded accuracy keeps the gap small (≤1 rank ≈ ±1 at any level), so a Normal-track class's situational DC is only slightly easier to beat than a Good-track specialist's.
+- Each step is its own **named class feature** (per the features-table convention) — e.g. *Consular Expertise / Consular Mastery / Force Mastery*; *Guardian Expertise / Greater Guardian Expertise*. The Guardian's master step was un-bundled from Greater Blade-Flow to sit on the standard cadence.
+
 ### 3.2 Universal Save Expertise (the success→crit-success pattern)
 
 Every class follows the standard ORC save-expertise shape — **two strong saves, one weak** — so resilience is a class identity, not an ad-hoc table:

@@ -91,21 +91,21 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Premonition, Foretell, Premonition fork (subclass), class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Sentinel Expertise, fork feature, general feat, skill increase |
+| 3 | +1 | fork feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Fortitude Expertise, Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Perception Mastery, Weapon Specialization, fork feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Evasion, species feat, skill increase |
+| 9 | +3 | Sentinel Expertise, Evasion, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Resolve, fork feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Light Armor Expertise, Sentinel Mastery, Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Light Armor Expertise, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, Incredible Senses, fork feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Unclouded Sight, species feat, skill increase |
+| 17 | +5 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Fork feature, general feat, skill increase |
 | 20 | +6 | Prescience, ability boosts, class feat, skill feat |
@@ -143,7 +143,7 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Sentinel Expertise
 
-**(3rd level)** Your proficiency rank for your Sentinel class DC increases to expert.
+**(9th level)** Your proficiency rank for your Sentinel class DC increases to expert.
 
 ## Fortitude Expertise
 
@@ -181,7 +181,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Sentinel Mastery
 
-**(13th level)** Your proficiency rank for your Sentinel class DC increases to master.
+**(17th level)** Your proficiency rank for your Sentinel class DC increases to master.
 
 ## Weapon Mastery
 

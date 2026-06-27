@@ -92,13 +92,13 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Guardian Expertise, Reflex Expertise, Form feature, general feat, skill increase |
+| 3 | +1 | Reflex Expertise, Form feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Armor Expertise, Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Perception Expertise, Vigilant Guard, Weapon Specialization, Form feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Improved Intercede, Resolve, species feat, skill increase |
+| 9 | +3 | Guardian Expertise, Improved Intercede, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Armor Mastery, Juggernaut, Form feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
@@ -106,7 +106,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, Perception Mastery, Form feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Master's Guard, species feat, skill increase |
+| 17 | +5 | Greater Guardian Expertise, Master's Guard, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Form feature, general feat, skill increase |
 | 20 | +6 | Unbreakable Guardian, ability boosts, class feat, skill feat |
@@ -141,7 +141,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Guardian Expertise
 
-**(3rd level)** Your proficiency rank for your Guardian class DC increases to expert.
+**(9th level)** Your proficiency rank for your Guardian class DC increases to expert.
 
 ## Reflex Expertise
 
@@ -191,7 +191,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Greater Blade-Flow
 
-**(13th level)** Your command of the Forms reaches a higher plane: while in any Form, you gain an additional benefit appropriate to that Form (detailed with each Form), and the lines between blade and Force blur further. In addition, your proficiency rank for your Guardian class DC increases to master.
+**(13th level)** Your command of the Forms reaches a higher plane: while in any Form, you gain an additional benefit appropriate to that Form (detailed with each Form), and the lines between blade and Force blur further.
 
 ## Weapon Mastery
 
@@ -204,6 +204,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Perception Mastery
 
 **(15th level)** Your proficiency rank for Perception increases to master.
+
+## Greater Guardian Expertise
+
+**(17th level)** Your proficiency rank for your Guardian class DC increases to master.
 
 ## Master's Guard
 

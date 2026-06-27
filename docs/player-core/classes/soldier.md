@@ -111,7 +111,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Legendary Armor, Perception Mastery, Pinned Down, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
-| 19 | +5 | Fighting style feature, general feat, skill increase |
+| 19 | +5 | Peerless Soldier, fighting style feature, general feat, skill increase |
 | 20 | +6 | No Quarter, class feat, skill feat, ability boosts |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -230,6 +230,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 ## Pinned Down
 
 **(17th level)** Nothing escapes your sights. Enemies that are **suppressed** can't take **reactions** and are **off-guard** to ranged attacks, and your Suppression Zone is larger.
+
+## Peerless Soldier
+
+**(19th level)** Your proficiency rank for your Soldier class DC increases to legendary — your suppression is the hardest in the galaxy to shrug off.
 
 ## No Quarter
 

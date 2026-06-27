@@ -97,21 +97,21 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Exploit, Aim, specialization, class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Scoundrel Expertise, specialization feature, general feat, skill increase |
+| 3 | +1 | specialization feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Exploit 2d6, Master Gunner, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Evasion, Operative's Edge, Weapon Specialization, specialization feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Resolve, Scoundrel Resilience, species feat, skill increase |
+| 9 | +3 | Scoundrel Expertise, Resolve, Scoundrel Resilience, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Exploit 3d6, On the Move, Scoundrel Mastery, specialization feature, general feat, skill increase |
+| 11 | +3 | Exploit 3d6, On the Move, specialization feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Greater Evasion, Legendary Gunner, Light Armor Expertise, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, specialization feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Exploit 4d6, species feat, skill increase |
+| 17 | +5 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Light Armor Mastery, specialization feature, general feat, skill increase |
 | 20 | +6 | Perfect Opening, ability boosts, class feat, skill feat |
@@ -141,7 +141,7 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 ## Scoundrel Expertise
 
-**(3rd level)** Your proficiency rank for your Scoundrel class DC increases to expert.
+**(9th level)** Your proficiency rank for your Scoundrel class DC increases to expert.
 
 ## Master Gunner
 
@@ -175,7 +175,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Scoundrel Mastery
 
-**(11th level)** Your proficiency rank for your Scoundrel class DC increases to master.
+**(17th level)** Your proficiency rank for your Scoundrel class DC increases to master.
 
 ## Light Armor Expertise
 

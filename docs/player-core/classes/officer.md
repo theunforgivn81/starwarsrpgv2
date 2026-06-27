@@ -92,13 +92,13 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Command, Get-the-Job-Done, leadership style, class feat, bonus directive feat, species feat |
 | 2 | +1 | Class feat, skill feat, skill increase |
-| 3 | +1 | Adaptive Talent, Officer Expertise, leadership feature, general feat, skill increase |
+| 3 | +1 | Adaptive Talent, leadership feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat, skill increase |
 | 5 | +2 | Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Officer Mastery, Weapon Specialization, leadership feature, general feat, skill increase |
+| 7 | +2 | Weapon Specialization, leadership feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
-| 9 | +3 | Resolve, species feat, skill increase |
+| 9 | +3 | Officer Expertise, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
 | 11 | +3 | Fortitude Expertise, leadership feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
@@ -106,7 +106,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 14 | +4 | Class feat, skill feat, skill increase |
 | 15 | +4 | Evasion, Greater Weapon Specialization, Legendary Improvisation, leadership feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Greater Resolve, Perception Mastery, species feat, skill increase |
+| 17 | +5 | Officer Mastery, Greater Resolve, Perception Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
 | 19 | +5 | Light Armor Mastery, leadership feature, general feat, skill increase |
 | 20 | +6 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
@@ -149,7 +149,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Officer Expertise
 
-**(3rd level)** Your proficiency rank for your Officer class DC increases to expert.
+**(9th level)** Your proficiency rank for your Officer class DC increases to expert.
 
 ## Perception Expertise
 
@@ -161,7 +161,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Officer Mastery
 
-**(7th level)** Your proficiency rank for your Officer class DC increases to master.
+**(17th level)** Your proficiency rank for your Officer class DC increases to master.
 
 ## Weapon Specialization
 

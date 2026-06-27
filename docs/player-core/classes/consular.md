@@ -95,21 +95,21 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Reflex Expertise, Mandate feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Consular Expertise, Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Mandate feature, general feat, skill increase |
+| 7 | +2 | Consular Expertise, Mandate feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Greater Manifest, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Consular Mastery, Juggernaut, Weapon Expertise, Mandate feature, general feat, skill increase |
+| 11 | +3 | Juggernaut, Weapon Expertise, Mandate feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, Weapon Specialization, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Resolve, Mandate feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Resolve, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Force Mastery, species feat, skill increase |
+| 17 | +5 | species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
-| 19 | +5 | Mandate feature, general feat, skill increase |
+| 19 | +5 | Force Mastery, Mandate feature, general feat, skill increase |
 | 20 | +6 | Avatar of the Force, ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -124,7 +124,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **The broadest reach.** You can learn powers from **all six Applications** (most Force users lean on one or two). Your **repertoire** — the powers you know — is the largest in the galaxy: at 1st level it holds the power your **Mandate** grants you, plus **four** powers of your choice that you're high enough level to learn, from any Application. You add another power to your repertoire each time you gain a class feat, and your Manifest-development features (below) widen both how many powers you know and which tiers you can reach.
 
-**Your DC is your weapon.** When a power you Manifest lets a foe resist, they roll against your **Consular class DC** (your Force DC). This is the stat you live and die by, and it climbs higher than any other class's (to Legendary at 17th level).
+**Your DC is your weapon.** When a power you Manifest lets a foe resist, they roll against your **Consular class DC** (your Force DC). This is the stat you live and die by, and it climbs higher than any other class's (to Legendary at 19th level).
 
 ## Telekinetic Impact
 
@@ -143,7 +143,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Consular Expertise
 
-**(5th level)** Your proficiency rank for your Consular class DC increases to expert.
+**(7th level)** Your proficiency rank for your Consular class DC increases to expert.
 
 ## Heightened Manifest
 
@@ -163,7 +163,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Consular Mastery
 
-**(11th level)** Your proficiency rank for your Consular class DC increases to master.
+**(15th level)** Your proficiency rank for your Consular class DC increases to master.
 
 ## Juggernaut
 
@@ -195,7 +195,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Force Mastery
 
-**(17th level)** Your proficiency rank for your Consular class DC increases to legendary — your manifested powers are the hardest in the galaxy to resist.
+**(19th level)** Your proficiency rank for your Consular class DC increases to legendary — your manifested powers are the hardest in the galaxy to resist.
 
 ## Avatar of the Force
 
