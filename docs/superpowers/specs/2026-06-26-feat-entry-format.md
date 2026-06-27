@@ -43,12 +43,9 @@ The header glyph and the `**Feat N** · **Traits** …` line are **mandatory** o
 
 ## 3. When to label `**Effect**`
 
-Use the **`**Effect**`** label when — and only when — the entry has any of:
-- a **Trigger** (reaction / triggered free action), or
-- a **Requirements** line, or
-- **degrees of success** (the effect depends on a check or save).
+Use the **`**Effect**`** label when — and only when — the entry has any **activation notation**: a **Frequency**, **Trigger**, **Requirements**, or **Cost** line. The label separates those activation conditions from the description of what happens.
 
-In those cases `**Effect**` delimits "what happens" from the activation conditions above it. **Otherwise write the effect as plain prose with no label** — passive feats, simple actions, and prerequisite-only or cost-only feats get no `**Effect**` label. (Frequency, Prerequisites, or Cost alone do **not** force the label.)
+**Otherwise write the effect as plain prose with no label** — passive feats, plain actions, and prerequisite-only feats get no `**Effect**` label, **even when the effect has degrees of success** (the degrees simply follow the prose). **Prerequisites** and degrees of success **alone** do **not** force an `**Effect**` label; only the four activation lines do.
 
 ## 4. Conventions vs. the printed book / Archives-of-Nethys
 
@@ -71,15 +68,15 @@ What we drop or adapt:
 > Even in the worst circumstances, you can perform basic tasks. Choose a skill you're trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).
 > **Special** You can select this feat multiple times. Each time, choose a different skill and gain the benefits for that skill.
 > ```
-> No action glyph (no activation); prerequisite present but no Trigger/Requirements/degrees, so the effect is plain prose with **no** `**Effect**` label; the repeatable note is a **Special** line, placed last (matching the printed book).
+> No action glyph (no activation); prerequisite present but **no activation notation** (no Frequency/Trigger/Requirements/Cost), so the effect is plain prose with **no** `**Effect**` label even though degrees could apply; the repeatable note is a **Special** line, placed last (matching the printed book).
 
-A second worked example — a triggered, degree-based feat (from [guardian-feats / human feats](../../player-core/species-feats.md)):
+A second worked example — an activation-notation, degree-based feat (from [human feats](../../player-core/species-feats.md)). Note **Prerequisites precedes Frequency** (locked order, §1), and the **Frequency** line forces the `**Effect**` label:
 
 ```
 ### Aggressive Negotiations  [two-actions]
 **Feat 9** · **Traits** Human, Auditory, Linguistic, Mental
-**Frequency** once per 10 minutes
 **Prerequisites** trained in Diplomacy or Intimidation
+**Frequency** once per 10 minutes
 **Effect** You shout down or charm your foes mid-fight. Attempt a Diplomacy or Intimidation check against the Will DC of each enemy within 30 feet.
 **Critical Success** The target is stunned 1.
 **Success** The target is off-guard until the start of your next turn.
@@ -91,7 +88,7 @@ A second worked example — a triggered, degree-based feat (from [guardian-feats
 - [ ] `### Name` + (optional) action token; `**Feat N** · **Traits** …` line present
 - [ ] Fields in locked order (§1); none silently reordered or dropped
 - [ ] Traits Capitalized; reuse timer is **Frequency**, not a trait
-- [ ] `**Effect**` label present iff Trigger / Requirements / degrees present (§3)
+- [ ] `**Effect**` label present iff activation notation (Frequency / Trigger / Requirements / Cost) present (§3)
 - [ ] Degrees of success, when used, in Crit-Success → Crit-Failure order
 - [ ] Repeatable / misc notes in a `**Special**` line, placed last
 - [ ] Values bounded (circ +1/+2); no restated key attribute
