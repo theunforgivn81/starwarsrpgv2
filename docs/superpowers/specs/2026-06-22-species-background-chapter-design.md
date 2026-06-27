@@ -24,6 +24,19 @@ The [species roster](2026-06-15-species-roster.md) (27 organic species + a herit
 - Traits Capitalized; reuse timers as a **Frequency** line (per [[traits-capitalized-frequency-separate]]).
 - Ancestry feats follow the publication feat-entry template (Name · Feat N · Traits · Prerequisites · effect).
 
+**Background entry format (Paizo prose — locked 2026-06-26).** Each background is written as published prose, **not** bolded label-lines, matching the PF2 Player Core / Starfinder 2e house style (model: [Acolyte](https://2e.aonsrd.com/backgrounds/134-acolyte)). Per-entry shape, in order:
+1. `### <Name>` header.
+2. One descriptive paragraph — the prior life, second person.
+3. Blank line, then the **boosts sentence**, verbatim shape: `Choose two attribute boosts. One must be to **<X>** or **<Y>**, and one is a free attribute boost.` — attribute names **bold**; always one constrained pair + one free.
+4. Blank line, then the **training + feat sentence**: `You're trained in the <Skill> skill and <Lore>. You gain the <Feat> skill feat.`
+   - Skill / Lore / Feat names render **inline (no bold or italic)** — only attribute names carry the keyword signal.
+   - The **Force** skill is written "the Force skill" (never "the The Force skill").
+   - Fixed Lore → "the `<Name>` Lore skill"; choice Lore → "a/an `<Category>` Lore skill of your choice" (keep the article from the grant).
+   - **General-feat exception** (Podracer): "You gain the `<Feat>` general feat."
+   - **No** `**Attribute Boosts**` / `**Trained Skills**` / `**Skill Feat**` label-lines.
+
+Entries listed alphabetically. Applied to all 40 entries (currently in `docs/player-core/02-species.md`) on 2026-06-26, commit `91de6b7`.
+
 **Authored Droid construct rules** (the roster deferred these): the Droid is a `Construct` — immune to disease, poison, and effects targeting a living mind (most `[mental]`); no Constitution-based effects (its HP uses a fixed value in place of the Con term, TBD-by-the-HP-rule); **healed by Repair (Crafting), not Medicine**; doesn't eat/sleep/breathe; its in-combat recovery analog replaces Catch Your Breath with a Repair-based equivalent. Kept lean and player-facing.
 
 **Authored Size rules** (small framework gap): a brief table — Tiny (reach 0, +1 some Stealth contexts), Small (no combat penalty in our bounded frame; fits tight spaces), Medium (baseline), Large (reach 10 ft, takes more space). Effects bounded and minimal.
