@@ -25,6 +25,7 @@ Render the fields that apply, **in this exact order**; omit a field only when ge
 **Success** <…>                            applicable degrees, in this order
 **Failure** <…>
 **Critical Failure** <…>
+**Special** <…>                        ← repeatable / misc notes; ALWAYS last
 ```
 
 The header glyph and the `**Feat N** · **Traits** …` line are **mandatory** on every entry. Everything between Traits and the effect is optional and appears only when applicable.
@@ -36,6 +37,7 @@ The header glyph and the `**Feat N** · **Traits** …` line are **mandatory** o
 - **Traits.** All traits **Capitalized**; comma-separated; on the `**Feat N** · **Traits** …` line. Reuse timers are a **Frequency** line, **never** a trait. (Per [[traits-capitalized-frequency-separate]].)
 - **Prerequisites.** Name the exact gate (a prior feat, a proficiency, an attribute). If a feat requires another feat, the prerequisite must be that feat's exact name.
 - **Cost.** The project resource spend (Attunement, Focus, etc.) — `**Cost** 1 Attunement`. This is distinct from action cost (the header glyph).
+- **Special.** Repeatability and other miscellaneous notes go in a **`**Special**`** line, placed **last** (after the effect and any degrees of success) — matching the printed book. Standard repeatable wording: "You can select this feat multiple times. Each time, choose a different … and gain the benefits …" Do **not** fold these into the effect prose.
 - **No restated key attribute.** A feat that uses a Class DC / class verb does not restate the keying attribute — it's already baked in. (Per [[class-dc-no-attribute-restate]].)
 - **Bounded values.** Feat bonuses are **circumstance +1/+2**, conditions, or new options — never runaway numbers, and never pegged to the Level Bonus. Damage-axis riders (resistances, damage adds) follow ORC/2E scaling. (Per [[orc-2e-is-default-substrate]].)
 
@@ -48,12 +50,14 @@ Use the **`**Effect**`** label when — and only when — the entry has any of:
 
 In those cases `**Effect**` delimits "what happens" from the activation conditions above it. **Otherwise write the effect as plain prose with no label** — passive feats, simple actions, and prerequisite-only or cost-only feats get no `**Effect**` label. (Frequency, Prerequisites, or Cost alone do **not** force the label.)
 
-## 4. Divergences from the Archives-of-Nethys display
+## 4. Conventions vs. the printed book / Archives-of-Nethys
 
-- **No `**Special**` line.** Repeatability and similar notes are folded into the effect prose ("You can select this feat more than once, choosing a different … each time."), never a separate labeled line.
-- **No blanket `Effect:` label.** Per §3, only conditional/degree feats carry it.
-- **`Traits` is a run-in**, not a standalone `Traits:` block — it shares the `**Feat N** · **Traits** …` line.
-- **Source/page lines are omitted** (this is the source).
+What we follow from the **printed** Paizo entry (confirmed against the printed Assurance capture): `**Special**` is a real labeled line placed last (§2); a simple feat's effect is **plain prose with no `Effect:` label**; traits sit in a band by the name.
+
+What we drop or adapt:
+- **No blanket `Effect:` label.** AoN's database view labels every field; the print and this standard label `**Effect**` only per §3.
+- **`Traits` is a run-in**, not a standalone block — it shares the `**Feat N** · **Traits** …` line (we don't render trait pills in markdown).
+- **`Source` / page lines are omitted** — the printed book's "Source Player Core pg. X" line has no analog in a single-book homebrew (this *is* the source).
 
 ## 5. Worked conversion (AoN → house style)
 
@@ -64,9 +68,10 @@ In those cases `**Effect**` delimits "what happens" from the activation conditio
 > ### Assurance
 > **Feat 1** · **Traits** Fortune, General, Skill
 > **Prerequisites** trained in at least one skill
-> Even in the worst circumstances, you can perform basic tasks. Choose a skill you're trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers). You can select this feat multiple times, choosing a different skill each time.
+> Even in the worst circumstances, you can perform basic tasks. Choose a skill you're trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).
+> **Special** You can select this feat multiple times. Each time, choose a different skill and gain the benefits for that skill.
 > ```
-> No action glyph (no activation); prerequisite present but no Trigger/Requirements/degrees, so the effect is plain prose with **no** `**Effect**` label; the repeatable "Special" is folded into the prose.
+> No action glyph (no activation); prerequisite present but no Trigger/Requirements/degrees, so the effect is plain prose with **no** `**Effect**` label; the repeatable note is a **Special** line, placed last (matching the printed book).
 
 A second worked example — a triggered, degree-based feat (from [guardian-feats / human feats](../../player-core/species-feats.md)):
 
@@ -88,5 +93,5 @@ A second worked example — a triggered, degree-based feat (from [guardian-feats
 - [ ] Traits Capitalized; reuse timer is **Frequency**, not a trait
 - [ ] `**Effect**` label present iff Trigger / Requirements / degrees present (§3)
 - [ ] Degrees of success, when used, in Crit-Success → Crit-Failure order
-- [ ] No `**Special**` line; repeatability inlined in prose
+- [ ] Repeatable / misc notes in a `**Special**` line, placed last
 - [ ] Values bounded (circ +1/+2); no restated key attribute
