@@ -105,9 +105,9 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Armor Mastery, Withering Fire, species feat, skill increase |
+| 13 | +4 | Armor Mastery, Soldier Weapon Mastery, Withering Fire, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Soldier Weapon Mastery, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Soldier Mastery, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Legendary Armor, Perception Mastery, Pinned Down, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -200,6 +200,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 **(13th level)** Your proficiency ranks for light, medium, and heavy armor and for unarmored defense increase to master.
 
+## Soldier Weapon Mastery
+
+**(13th level)** Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
+
 ## Withering Fire
 
 **(13th level)** Your suppression grinds the enemy down. The attack-roll penalty of your **suppressed** condition deepens to **–2**, and you gain a **second Suppressing Reaction** each round.
@@ -207,9 +211,9 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 > **Sidebar — Your Reactions Have a Ceiling**
 > No matter how many reactions your features and feats grant, you can use **at most three reactions per round**. Withering Fire's second Suppressing Reaction, Covering Fire, and a Reactive Shot all draw from that same ceiling — choose which triggers are worth answering.
 
-## Soldier Weapon Mastery
+## Soldier Mastery
 
-**(15th level)** Your proficiency ranks for simple weapons, martial weapons, unarmed attacks, and your Soldier class DC increase to master.
+**(15th level)** Your proficiency rank for your Soldier class DC increases to master.
 
 ## Unshakable Juggernaut
 

@@ -94,19 +94,19 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Guardian Expertise, Reflex Expertise, Form feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Armor Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Armor Expertise, Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Perception Expertise, Vigilant Guard, Weapon Specialization, Form feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Improved Intercede, Lightsaber Mastery, Resolve, species feat, skill increase |
+| 9 | +3 | Improved Intercede, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Armor Mastery, Juggernaut, Form feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Greater Blade-Flow, Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Greater Blade-Flow, Weapon Mastery, Lightsaber Legend, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, Perception Mastery, Form feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Lightsaber Legend, Master's Guard, species feat, skill increase |
+| 17 | +5 | Master's Guard, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Form feature, general feat, skill increase |
 | 20 | +6 | Unbreakable Guardian, ability boosts, class feat, skill feat |
@@ -153,7 +153,11 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Weapon Expertise
 
-**(5th level)** Your proficiency ranks for simple weapons and martial weapons increase to expert. (Your lightsaber is already expert and stays a step ahead.)
+**(5th level)** Your proficiency ranks for simple weapons and martial weapons increase to expert. (Your lightsaber runs a rank ahead — it reaches master at this level; see Lightsaber Mastery.)
+
+## Lightsaber Mastery
+
+**(5th level)** Your proficiency rank for the lightsaber increases to master.
 
 ## Perception Expertise
 
@@ -172,10 +176,6 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Improved Intercede
 
 **(9th level)** Your protection deepens. Intercede now reduces the damage your ally takes by **4 + your level + your Strength modifier**.
-
-## Lightsaber Mastery
-
-**(9th level)** Your proficiency rank for the lightsaber increases to master.
 
 ## Resolve
 
@@ -197,6 +197,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 **(13th level)** Your proficiency ranks for simple weapons and martial weapons increase to master.
 
+## Lightsaber Legend
+
+**(13th level)** Your proficiency rank for the lightsaber increases to legendary — the premier blade in the galaxy.
+
 ## Perception Mastery
 
 **(15th level)** Your proficiency rank for Perception increases to master.
@@ -204,10 +208,6 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Master's Guard
 
 **(17th level)** You are the perfect bodyguard. You can use Intercede against an attack *before* its damage is rolled, reducing it as normal, and an ally you Intercede for can't be reduced below 1 Hit Point by the triggering attack.
-
-## Lightsaber Legend
-
-**(17th level)** Your proficiency rank for the lightsaber increases to legendary — the premier blade in the galaxy.
 
 ## Unbreakable Guardian
 

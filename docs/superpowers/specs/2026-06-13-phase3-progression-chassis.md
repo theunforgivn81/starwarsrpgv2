@@ -52,7 +52,22 @@ The level term still cancels on-level (T2 holds); all accuracy above the baselin
 - **Feat-budget separation:** class / skill / general / species feats draw from separate budgets, so combat **class feats** can never cannibalize the **skill feats** that fuel active out-of-combat play (protects Pillar 5 structurally).
 - **Feat-tax rule (design-time):** any feat taken by >70% of builds that *can* take it is folded into the baseline and replaced with a real choice.
 
-### 3.1 Universal Combat Features — Weapon Specialization (L7 / L15)
+### 3.1 Universal Combat Features — Weapon Proficiency & Weapon Specialization
+
+#### Weapon proficiency tracks
+
+Weapon proficiency follows one of two standardized tracks. Increases land at fixed levels, and **no track reaches Legendary from a Trained start** — a deliberate departure from ORC that keeps top-end accuracy bounded.
+
+| Track | Progression (from Trained) | Used by |
+|---|---|---|
+| **Normal** | **Expert at L5 · Master at L13** | every class except the Consular |
+| **Poor** | **Expert at L11** (no further) | the Consular (pure caster) |
+
+- **A head-start sits one rank higher throughout.** A class that *starts* a given weapon at **Expert** rides the Normal increases from that higher base — **Master at L5, Legendary at L13** for that weapon. This is the only route to Legendary. Current head-starts: the **Guardian's lightsaber** and the **Scoundrel's simple/martial ranged** weapons.
+- **Scoundrel quirk (retained):** its ranged weapons of each category run a rank ahead of its melee — the reason only the Scoundrel reaches Legendary ranged.
+- The former **Soldier** anomaly (Master at L15) is corrected to the Normal **Master at L13**.
+
+#### Weapon Specialization (L7 / L15)
 
 Every class gains these automatically (not feats, not class-specific) — the standard ORC damage-scaling spine that keeps weapon DPR pacing with per-level HP inflation (the §9 slog risk):
 
@@ -62,7 +77,7 @@ Every class gains these automatically (not feats, not class-specific) — the st
 | **15** | **Greater Weapon Specialization** | The above increases to **+4 (Expert) / +6 (Master) / +8 (Legendary)**. |
 
 - **Keyed to weapon proficiency, not a fixed number.** A class capped at Expert weapons stays at the Expert value; a martial reaching Legendary scales further. For a low-weapon-proficiency class (e.g. a Force/Perception class still Trained at L7) the feature is **granted on the cadence but dormant until its weapons reach Expert** — coherent, and it switches on automatically.
-- **Pure-caster exception (Consular).** A class that almost never Strikes shouldn't carry a dead L7 grant. The **Consular** instead follows the ORC pure-caster schedule: **Weapon Specialization at L13** (it reaches Expert weapons at L11, so it's live when granted) and **no Greater Weapon Specialization**. The martial L7/L15 cadence above remains the default; the Consular is the deliberate exception. (The **Tech Specialist** keeps the L7/L15 cadence but is *not* dormant — its weapons reach **Expert at L5, Master at L13**, supporting the Armstech rig-gunner.)
+- **Pure-caster Weapon Spec exception (Consular).** Because it follows the **Poor** weapon track (Expert at L11) and almost never Strikes, the Consular shouldn't carry a dead L7 Weapon Spec. It instead takes **Weapon Specialization at L13** (live when granted) and **no Greater Weapon Specialization** — the ORC pure-caster schedule. Every other class keeps the L7/L15 cadence.
 - **Applies to weapon/unarmed Strikes only — including off-turn reaction Strikes** (Reactive Shot, a Sentinel Counter). It does **not** apply to **Force-power damage**, which scales on its own dice track ([toolkit §3.1](2026-06-15-shared-force-toolkit.md)); stacking both would double-dip and break the toolkit balance pass. The asymmetry is intended: **martials scale via Weapon Specialization; Force powers scale via dice/Tier.**
 - Flat once per Strike (not per die). *(Values Gate-A tunable against our compressed math; structure is fixed at the traditional 7/15 cadence.)*
 - **Open question (flagged):** whether Force-heavy classes want a parallel "Force Specialization" so their primary damage keeps pace the way martials' does — deferred; the dice/Tier track may already suffice.
