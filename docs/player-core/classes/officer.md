@@ -96,19 +96,19 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat, skill increase |
 | 5 | +2 | Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Weapon Specialization, leadership feature, general feat, skill increase |
+| 7 | +2 | Weapon Specialization, Light Armor Expertise, leadership feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
 | 9 | +3 | Officer Expertise, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
 | 11 | +3 | Fortitude Expertise, leadership feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
-| 13 | +4 | Light Armor Expertise, Tactician, Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Tactician, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Evasion, Greater Weapon Specialization, Legendary Improvisation, leadership feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Evasion, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
 | 17 | +5 | Officer Mastery, Greater Resolve, Perception Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
-| 19 | +5 | Light Armor Mastery, leadership feature, general feat, skill increase |
+| 19 | +5 | leadership feature, general feat, skill increase |
 | 20 | +6 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -183,7 +183,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Light Armor Expertise
 
-**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
 
 ## Weapon Mastery
 
@@ -207,7 +207,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Light Armor Mastery
 
-**(19th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
+**(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
 
 ## Unify the Squad
 

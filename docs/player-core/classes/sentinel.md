@@ -95,15 +95,15 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Fortitude Expertise, Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Perception Mastery, Weapon Specialization, fork feature, general feat, skill increase |
+| 7 | +2 | Perception Mastery, Weapon Specialization, Light Armor Expertise, fork feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Sentinel Expertise, Evasion, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Resolve, fork feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Light Armor Expertise, Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Incredible Senses, fork feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, fork feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -177,7 +177,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Light Armor Expertise
 
-**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
 
 ## Sentinel Mastery
 
@@ -190,6 +190,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Incredible Senses
 
 **(15th level)** Your proficiency rank for Perception increases to legendary — the keenest senses in the galaxy.
+
+## Light Armor Mastery
+
+**(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
 
 ## Unclouded Sight
 

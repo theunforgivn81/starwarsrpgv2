@@ -95,6 +95,21 @@ A class DC advances on one of two tracks, chosen by whether the class's **primar
 - Bounded accuracy keeps the gap small (≤1 rank ≈ ±1 at any level), so a Normal-track class's situational DC is only slightly easier to beat than a Good-track specialist's.
 - Each step is its own **named class feature** (per the features-table convention) — e.g. *Consular Expertise / Consular Mastery / Force Mastery*; *Guardian Expertise / Greater Guardian Expertise*. The Guardian's master step was un-bundled from Greater Blade-Flow to sit on the standard cadence.
 
+### 3.1c Armor tracks
+
+Armor proficiency advances on one of three tracks, by how central armor is to the class's defense:
+
+| Track | Progression | Used by |
+|---|---|---|
+| **Good** | **Expert L7 · Master L13 · Legendary L17** | Soldier, Guardian |
+| **Normal** | **Expert L7 · Master L15** | Scoundrel, Sentinel, Officer |
+| **Poor** | **Expert L13** | Consular, Tech Specialist |
+
+- Mirrors ORC: the Soldier's Good path (ORC's only Legendary-armor path) and the casters' Poor path are kept as-is; **Normal** replaces ORC's late "everyone else" (Expert L13 / Master L19), pulling Expert forward to **L7** so non-specialists aren't a rank behind on AC for half the game.
+- **Good is shared by the two frontline anchors.** The Soldier reaches Legendary in *all* armor (incl. heavy); the Guardian in light/medium. They stay balanced against the field because each *also* reaches Legendary in its signature attack axis — the Soldier its class DC, the Guardian its lightsaber.
+- The three **Normal** tracks now form a ladder by defensive urgency: weapon **Expert@5/Master@13** → armor **Expert@7/Master@15** → class DC **Expert@9/Master@17**.
+- **Poor** classes (Consular, Tech) defend with non-armor tools (Force barriers, gadget Standbys); Expert@13 keeps their AC from sliding too far without making armor their game. (Tech already runs Normal weapons + Good class DC; Normal armor too would overtune it.)
+
 ### 3.2 Universal Save Expertise (the success→crit-success pattern)
 
 Every class follows the standard ORC save-expertise shape — **two strong saves, one weak** — so resilience is a class identity, not an ad-hoc table:

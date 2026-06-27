@@ -104,7 +104,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 16 | +5 | Class feat, skill feat, skill increase |
 | 17 | +5 | Custom Rig [7], species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
-| 19 | +5 | Apex Engineering, Light Armor Mastery, Discipline feature, general feat, skill increase |
+| 19 | +5 | Apex Engineering, Discipline feature, general feat, skill increase |
 | 20 | +6 | Singularity Rig, ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
@@ -201,10 +201,6 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Apex Engineering
 
 **(19th level)** Your proficiency rank for your Tech class DC increases to legendary — your Modifications and Overclocks are the hardest in the galaxy to resist.
-
-## Light Armor Mastery
-
-**(19th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
 
 ## Singularity Rig
 

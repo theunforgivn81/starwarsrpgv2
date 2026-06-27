@@ -94,19 +94,19 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Reflex Expertise, Form feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Armor Expertise, Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
+| 5 | +2 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Perception Expertise, Vigilant Guard, Weapon Specialization, Form feature, general feat, skill increase |
+| 7 | +2 | Armor Expertise, Perception Expertise, Vigilant Guard, Weapon Specialization, Form feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Guardian Expertise, Improved Intercede, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Armor Mastery, Juggernaut, Form feature, general feat, skill increase |
+| 11 | +3 | Juggernaut, Form feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Greater Blade-Flow, Weapon Mastery, Lightsaber Legend, species feat, skill increase |
+| 13 | +4 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, Perception Mastery, Form feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Greater Guardian Expertise, Master's Guard, species feat, skill increase |
+| 17 | +5 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Form feature, general feat, skill increase |
 | 20 | +6 | Unbreakable Guardian, ability boosts, class feat, skill feat |
@@ -149,7 +149,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Armor Expertise
 
-**(5th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
+**(7th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
 
 ## Weapon Expertise
 
@@ -183,7 +183,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Armor Mastery
 
-**(11th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master.
+**(13th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master.
 
 ## Juggernaut
 
@@ -208,6 +208,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Greater Guardian Expertise
 
 **(17th level)** Your proficiency rank for your Guardian class DC increases to master.
+
+## Legendary Armor
+
+**(17th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to legendary.
 
 ## Master's Guard
 
