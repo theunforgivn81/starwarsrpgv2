@@ -97,15 +97,15 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Consular Expertise, Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Weapon Specialization, Mandate feature, general feat, skill increase |
+| 7 | +2 | Mandate feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Greater Manifest, Resolve, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Consular Mastery, Juggernaut, Weapon Expertise, Mandate feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, species feat, skill increase |
+| 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, Weapon Specialization, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Resolve, Greater Weapon Specialization, Mandate feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Resolve, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Force Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -153,12 +153,6 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(5th level)** Your proficiency rank for Perception increases to expert.
 
-## Weapon Specialization
-
-**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. As a Consular you rarely meet that threshold before 11th level, so this feature mostly waits in reserve — but it switches on the moment your weapons reach expert.
-
-At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
-
 ## Greater Manifest
 
 **(9th level)** The Force's greater mysteries open to you. You can learn and Manifest **Greater** (3-Attunement) powers, and both your pool and your repertoire continue to grow.
@@ -190,6 +184,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Perception Mastery
 
 **(13th level)** Your proficiency rank for Perception increases to master.
+
+## Weapon Specialization
+
+**(13th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat **+2** damage. You reach expert with your simple weapons and lightsaber at 11th level, so this is live when you gain it — a small reward for the Consular who takes blade in hand, never your main line of attack.
 
 ## Greater Resolve
 

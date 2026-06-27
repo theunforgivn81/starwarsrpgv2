@@ -90,7 +90,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat, skill increase |
 | 3 | +1 | Tech Expertise, Tech Savvy, Discipline feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat, skill increase |
-| 5 | +2 | Custom Rig [4], Perception Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Custom Rig [4], Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
 | 7 | +2 | Emergency Reroute, Evasion, Weapon Specialization, Discipline feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
@@ -98,7 +98,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
 | 11 | +3 | Tech Mastery, Discipline feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
-| 13 | +4 | Custom Rig [6], Light Armor Expertise, Perception Mastery, species feat, skill increase |
+| 13 | +4 | Custom Rig [6], Light Armor Expertise, Perception Mastery, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
 | 15 | +4 | Greater Weapon Specialization, Discipline feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
@@ -153,6 +153,10 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 **(5th level)** Your proficiency rank for Perception increases to expert.
 
+## Weapon Expertise
+
+**(5th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to expert. (An Armstech's martial weapons advance alongside them.)
+
 ## Emergency Reroute
 
 **Emergency Reroute**  [reaction]  · **Traits** Tech
@@ -166,7 +170,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Weapon Specialization
 
-**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. As a Tech Specialist you rarely meet that threshold, so this mostly waits in reserve.
+**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. Your weapons reach expert at 5th level, so this is live the moment you gain it — most valuable to an Armstech rig-gunner, but a steady boost to any Tech who Strikes.
 
 At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
 
@@ -189,6 +193,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Perception Mastery
 
 **(13th level)** Your proficiency rank for Perception increases to master.
+
+## Weapon Mastery
+
+**(13th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to master. (An Armstech's martial weapons advance alongside them.)
 
 ## Apex Engineering
 

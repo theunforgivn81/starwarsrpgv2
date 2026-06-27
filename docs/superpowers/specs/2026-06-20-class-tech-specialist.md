@@ -28,7 +28,7 @@
 | **Will** | **Expert** | disciplined analyst — a strong save → **Master** (Resolve) |
 | **Fortitude** | Trained | the frail save (→ Expert cap — the lab-tech's vulnerability) |
 | **Class DC** (Tech) | Trained | Modification / Overclock save-DC — the caster's "weapon" (→ **Legendary**) |
-| **Weapons** | Trained — simple + unarmed | barely a fighter (→ Expert cap) |
+| **Weapons** | Trained — simple + unarmed | the rig does the fighting (→ **Expert** L5 · **Master** L13) |
 | **Defense** | Trained — light + unarmored | → Master armor |
 | **Skills** | **Crafting** + an **Engineering Lore** + Trained in **4 + Int** | the most skills of any class — and a **skill increase every level** (§3) |
 
@@ -38,7 +38,7 @@ No Force resource — non-Force. Its "resource texture" is the **installed loado
 
 ## 3. Level Progression (chassis)
 
-Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 class feat, **Weapon Specialization** (L7/L15 — mostly dormant), and **Save Expertise** (§3.2). ✦ = Tech core feature · ◆ = Discipline (subclass) feature.
+Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 class feat, **Weapon Specialization** (L7/L15 — live once weapons reach Expert at L5), and **Save Expertise** (§3.2). ✦ = Tech core feature · ◆ = Discipline (subclass) feature.
 
 | Lvl | Class features & chassis grants | Proficiency advances |
 |---|---|---|
@@ -46,7 +46,7 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 | 2 | class feat · skill feat · **skill increase** | — |
 | 3 | general feat · **skill increase** · **Tech Savvy** ✦ · ◆ | Class DC → **Expert** |
 | 4 | class feat · skill feat · **skill increase** | — |
-| 5 | ancestry feat · **skill increase** · attribute boosts · **Custom Rig [4 installed]** ✦ | Perception → **Expert** |
+| 5 | ancestry feat · **skill increase** · attribute boosts · **Custom Rig [4 installed]** ✦ | Perception → **Expert** · Weapons → **Expert** |
 | 6 | class feat · skill feat · **skill increase** | — |
 | 7 | general feat · **skill increase** · ◆ · **Emergency Reroute** ✦ · Weapon Specialization | **Reflex → Master** *(Evasion)* |
 | 8 | class feat · skill feat · **skill increase** | — |
@@ -54,7 +54,7 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 | 10 | class feat · skill feat · **skill increase** · attribute boosts | — |
 | 11 | general feat · **skill increase** · ◆ | Class DC → **Master** |
 | 12 | class feat · skill feat · **skill increase** | — |
-| 13 | ancestry feat · **skill increase** · **Custom Rig [6 installed]** ✦ | armor → **Expert** · Perception → **Master** |
+| 13 | ancestry feat · **skill increase** · **Custom Rig [6 installed]** ✦ | armor → **Expert** · Perception → **Master** · Weapons → **Master** |
 | 14 | class feat · skill feat · **skill increase** | — |
 | 15 | general feat · **skill increase** · attribute boosts · ◆ · Greater Weapon Specialization | — |
 | 16 | class feat · skill feat · **skill increase** | — |
@@ -65,7 +65,7 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 
 - **Skill increase every level (L2–20)** — the signature (most classes get them on odd levels; the Tech Specialist gets them *every* level), so it's the **skill master** (reaching Legendary in multiple skills). The most skills of any class.
 - **Save expertise** (§3.2): **Reflex (Evasion, L7)** + **Will (Resolve, L9)** → Master with the rider; **Fort caps at Expert** (the weak save). No Legendary save — the spotlight is **Legendary Class DC** (the Mod/Overclock save-DC, its "weapon," like the Consular).
-- **Weapon track** caps at **Expert** (the pure non-combatant).
+- **Weapon track:** Expert at L5, Master at L13 — supports the Armstech rig-gunner; the rest of the class fights through its Mods.
 - **No dead levels**; advancement levels Gate-A tunable.
 
 ---

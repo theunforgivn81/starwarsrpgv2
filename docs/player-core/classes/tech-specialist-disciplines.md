@@ -59,7 +59,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 *Why carry one weapon when your rig can be all of them?* The Discipline that turns the gadgeteer into a frontline threat.
 
 ### Jury-Rigged Arsenal
-**(1st level)** You become trained in **medium armor** and **martial weapons** (they advance with your light armor and simple weapons). Through **Predictive Ballistics**, you use your Intelligence modifier for ranged attacks with a rig-interfaced weapon. You add the **Fragmentation Charge** Modification to your Library for free.
+**(1st level)** You become trained in **medium armor** and **martial weapons** — your medium armor advances with your light armor, and your martial weapons with your simple weapons (to expert at 5th level and master at 13th). Through **Predictive Ballistics**, you use your Intelligence modifier for ranged attacks with a rig-interfaced weapon. You add the **Fragmentation Charge** Modification to your Library for free.
 
 ### Suppressive Overdrive
 **(3rd level)** You can Overclock a rig-interfaced ranged weapon to make an Area Fire attack with it (a basic save against your Tech class DC).
