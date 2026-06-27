@@ -135,7 +135,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each grants a **l
 | 15 | **Star of the Show** | The social spotlight (signature appeals, command a room); in combat, your Directives reach **all** allies who can sense you. |
 | 19 | **Grand Performance** *(capstone)* | A battlefield morale swing — allies gain a major status bonus; foes are demoralized en masse. |
 
-### 5.4 Infosphere Director — *(information warfare; intel & anti-tech)*
+### 5.4 HoloNet Director — *(information warfare; intel & anti-tech)*
 
 | Lvl | Feature | Effect |
 |---|---|---|
@@ -168,7 +168,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each grants a **l
 | 15 | **Second Wind** | Rally from the brink — restore HP + clear conditions to a battered ally (once/encounter). |
 | 19 | **No One Left Behind** *(capstone)* | `[once per minute]` keep every ally within range from dropping below 1 HP for a round (the heroic last stand). |
 
-**Cross-balance & action-granting notes.** Same-level features compare with different *shapes*: From the Front = mobility, From the Shadows = off-guard/ambush, In the Spotlight = morale/flair, Infosphere = intel/anti-tech, Guns Blazing = aggressive fire, Through Desperate Times = protection/rally. **Every action-grant stays bounded** (movement, or *one* conditional/contingent Strike, capped by the one-Directive-per-round rule and `[once per minute]` on the mass ones) — the priority [Gate-A](2026-06-19-gate-a-balance-pass.md) check. Status bonuses don't stack across multiple Officers (same type). Class-DC for debuff Directives (no restated attribute). Through Desperate Times overlaps the Bio-Tech *healer* niche but via **rally/temp-HP/condition-relief**, not Mod-healing — a morale protector, not a medic.
+**Cross-balance & action-granting notes.** Same-level features compare with different *shapes*: From the Front = mobility, From the Shadows = off-guard/ambush, In the Spotlight = morale/flair, HoloNet = intel/anti-tech, Guns Blazing = aggressive fire, Through Desperate Times = protection/rally. **Every action-grant stays bounded** (movement, or *one* conditional/contingent Strike, capped by the one-Directive-per-round rule and `[once per minute]` on the mass ones) — the priority [Gate-A](2026-06-19-gate-a-balance-pass.md) check. Status bonuses don't stack across multiple Officers (same type). Class-DC for debuff Directives (no restated attribute). Through Desperate Times overlaps the Bio-Tech *healer* niche but via **rally/temp-HP/condition-relief**, not Mod-healing — a morale protector, not a medic.
 
 ---
 
@@ -241,7 +241,7 @@ Directives are **acquired from features and feats** (ORC-style), not chosen from
 | **From the Front** | *Vanguard's Order* (4 — allies who reposition via your Directive also gain +damage) · *Unbreakable Formation* (8 — allies adjacent to you can't be forced-moved) |
 | **From the Shadows** | *Silent Signal* (4 — issue Directives without auditory/visual tells) · *Killing Coordination* (8 — a directed ally's first Strike vs an off-guard foe gains an extra die) |
 | **In the Spotlight** | *Dazzling Display* (4 `[Flourish]` — Performance to make foes off-guard) · *Encore* (8 — repeat a morale Directive's effect once/round) |
-| **Infosphere Director** | *Tactical Network* (4 — share targeting; allies ignore an assessed foe's cover) · *Predictive Analysis* (8 — an ally may reroll an attack vs a foe you've assessed, once/round) |
+| **HoloNet Director** | *Tactical Network* (4 — share targeting; allies ignore an assessed foe's cover) · *Predictive Analysis* (8 — an ally may reroll an attack vs a foe you've assessed, once/round) |
 | **Guns Blazing** | *Suppressing Orders* (4 — coordinate fire to Suppress-style pin a foe) · *Overwhelming Volley* (8 — Ready Arms!'s contingent ally Strike may come from **whichever of two allies** you choose — still **one** Strike; *(Gate-A O-1: capped at one, not two, to stay ≤1:1)*) |
 | **Through Desperate Times** | *Field Triage* (4 — your rally Directives also heal a little) · *Last Stand* (8 — `[once per minute]` keep a dropped ally at 1 HP) |
 
@@ -251,7 +251,7 @@ Directives are **acquired from features and feats** (ORC-style), not chosen from
 
 ## 8. Carried Forward
 
-- ~~**§5 Leadership Styles** (~3)~~ — **DONE (2026-06-20):** **six** (From the Front / From the Shadows / In the Spotlight / Infosphere Director / Guns Blazing / Through Desperate Times), all adapting the prior Envoy styles.
+- ~~**§5 Leadership Styles** (~3)~~ — **DONE (2026-06-20):** **six** (From the Front / From the Shadows / In the Spotlight / HoloNet Director / Guns Blazing / Through Desperate Times), all adapting the prior Envoy styles.
 - ~~**§7 class feats** (~50)~~ — **DONE (2026-06-20):** §7.1 ~31 general (a large directive-granting block + shapers) + §7.2 12 style.
 - ~~**§6 base Directive list**~~ — **RESOLVED (2026-06-20):** directives are feature/feat-granted (not a separate "known" list); the catalog is §4/§5/§7. Depth concern closed (§9). Per-Directive prose → rules-writing.
 - **Gate-A (priority — the deferred action-granting audit):** validate that no Directive/feat nets the party **positive actions repeatably** (>1:1 grants forbidden by §4.1); the one-Directive-per-round economy; stacking the same status bonus across multiple Officers (doesn't stack — same type); Get-the-Job-Done's bonus values; Will-Legendary on a frail CHA class.

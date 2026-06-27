@@ -68,7 +68,7 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **Scrapper** | Utility | jury-rig versatilist — re-tune Mods; *ignore* an Overclock failure |
 | **Armstech** | Offense | combat engineer — weapons/armor; Overclock a gun to Area/Auto-Fire |
 | **Droidwright** | Companion | a droid partner (§F Commanded Actor); failed Overclock buffs the droid |
-| **Slicer** | Control | electronic warfare — hack at range; Overclock → target off-guard |
+| **Slicer** | Control | electronic warfare — slice at range; Overclock → target off-guard |
 
 ## 5. Soldier — Fighting Styles *(CON · Suppress)* — **5, built** *(all ORC styles adapted)*
 
@@ -91,7 +91,7 @@ The prior "Path of the…" subclasses are orphaned (old Sentinel was a Force-rog
 | **From the Front** | frontline — movement/positioning grants; fight alongside |
 | **From the Shadows** | covert — ambush, off-guard setup, stealth |
 | **In the Spotlight** | performer — paired maneuvers, morale, the social spotlight |
-| **Infosphere Director** | intel — Recall Knowledge, targeting data, anti-tech |
+| **HoloNet Director** | intel — Recall Knowledge, targeting data, anti-tech |
 | **Guns Blazing** | aggressive fire — initiative, ready-arms, the bounded free-ally-Strike |
 | **Through Desperate Times** | protector — rally, temp HP, keep-them-alive |
 

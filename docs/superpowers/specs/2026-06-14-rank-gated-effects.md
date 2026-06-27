@@ -42,9 +42,9 @@
 - **Legendary — Vanish.** You can **Hide even while observed and without cover** (briefly); creatures you are Hidden from are **Off-Guard** to your first Strike each turn. *(Categorical capability.)*
 
 ### Computers *(Technician signature — slicing)*
-- **Expert — Multitask.** A successful **Hack** also lets you **Access Infosphere** (pull data) as part of the same action; you may attempt Hack in **1 action** once per encounter. *(Rider + mode.)*
-- **Master — Backdoor.** A **critical** Hack plants a **backdoor** (re-enter later without a check); you can Hack a system **remotely** via the infosphere (lift the "be at the console" limit). *(New degree + removed limit.)*
-- **Legendary — Ghost.** Your Hacks **never trigger alarms on a failure** (only crit-fail), and you can Hack **multiple linked systems** with one action. *(Crit-fail protection + scale.)*
+- **Expert — Multitask.** A successful **Slice** also lets you **Access HoloNet** (pull data) as part of the same action; you may attempt Slice in **1 action** once per encounter. *(Rider + mode.)*
+- **Master — Backdoor.** A **critical** Slice plants a **backdoor** (re-enter later without a check); you can Slice a system **remotely** via the HoloNet (lift the "be at the console" limit). *(New degree + removed limit.)*
+- **Legendary — Ghost.** Your Slices **never trigger alarms on a failure** (only crit-fail), and you can Slice **multiple linked systems** with one action. *(Crit-fail protection + scale.)*
 
 ### Medicine *(Technician — Field Medic)*
 - **Expert — Field Surgeon.** **Treat Wounds** also ends one minor condition on a success; **Administer First Aid** is **1 action**. *(Rider + reduced cost.)*
@@ -66,7 +66,7 @@
 ## 5. Validation Against the Gating Rule
 
 - Spot-check: none of the above says "you must be rank X to *attempt* Y." Each grants a *new* capability to the higher-rank character. ✔
-- "Removed-limit" effects (Quiet Step, Backdoor-remote, Hurl, Pull From the Brink, Unerring Fire) all lift a **proficiency** constraint on the *holder* — a novice's normal Sneak/Hack/Shove/Treat Wounds/Strike is untouched. ✔
+- "Removed-limit" effects (Quiet Step, Backdoor-remote, Hurl, Pull From the Brink, Unerring Fire) all lift a **proficiency** constraint on the *holder* — a novice's normal Sneak/Slice/Shove/Treat Wounds/Strike is untouched. ✔
 - Numbers stay bounded: the only flat bumps are the small Deflection-stance steps (+1→+3 over the campaign, already in budget); everything else is capability. ✔ T1 satisfied without re-opening the spread.
 
 ---

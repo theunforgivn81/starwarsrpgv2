@@ -257,7 +257,7 @@ Droids are built, not born — thinking machines as varied as the tasks they're 
 Then choose a **Droid Class** — your chassis — which supplies the rest of your attribute boosts and a signature feature:
 
 - **Class I (Physical & Medical Science).** *Boost: Wisdom.* **Analytical Heuristics** — you become trained in Medicine or a Science Lore and carry an integrated medkit.
-- **Class II (Engineering & Astromech).** *Boost: Dexterity. Size Small, Speed 20 feet.* **Integrated Utility Sockets** — you become trained in Computers or Crafting, gain a built-in datajack or arc welder, and can interface with local networks without a handheld device.
+- **Class II (Engineering & Astromech).** *Boost: Dexterity. Size Small, Speed 20 feet.* **Integrated Utility Sockets** — you become trained in Computers or Crafting, gain a built-in scomp link or arc welder, and can interface with local networks without a handheld device.
 - **Class III (Protocol & Social).** *Boosts: Wisdom, Charisma. Flaw: Strength.* **Cybot-Galactica Interaction Matrix** — you become trained in Diplomacy or Society, learn two additional languages, and gain a +1 circumstance bonus to Make an Impression with proper etiquette.
 - **Class IV (Combat & Security).** *Boosts: Strength, Dexterity. Flaw: Charisma.* **Integrated Ordnance Systems** — you become trained in Intimidation or Warfare Lore and have a built-in weapon hardpoint: with an hour's work you integrate a one-handed weapon that can't be Disarmed or dropped and that you Draw or Stow as a free action.
 - **Class V (Labor & Menial).** *Boost: Strength.* **Heavy-Grade Hydraulic Frame** — you gain a +1 circumstance bonus to your Fortitude or Reflex DC against Shove and Trip, and you ignore the Speed penalty from being encumbered.

@@ -140,7 +140,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each adapts a pri
 | 15 | **Networked** | Deploy a second, smaller drone, or your Command grants the droid an extra action. |
 | 19 | **Master Droidwright** *(capstone)* | The droid becomes a formidable partner — a legendary-grade companion that can act more independently. |
 
-### 5.5 Slicer — *(Control · the electronic-warfare hacker)*
+### 5.5 Slicer — *(Control · the electronic-warfare specialist)*
 
 | Lvl | Feature | Effect |
 |---|---|---|
@@ -148,7 +148,7 @@ Branch at **L1** on the **1/3/7/11/15/19** cadence (◆ rows). Each adapts a pri
 | 3 | **Security Compromise** | When you **Overclock** a Mod requiring a save/attack vs an enemy, the target is **off-guard** until your next turn. |
 | 7 | **System Shock** | Slice a foe's gear — jam a weapon (it can't be used 1 round) or blind a sensor (off-guard / can't Seek). |
 | 11 | **Hostile Takeover** | Briefly **commandeer an enemy droid, construct, or vehicle** (it acts on your command; save ends). |
-| 15 | **Ghost in the Machine** | Hack at long range / multiple devices at once; ignore most electronic security. |
+| 15 | **Ghost in the Machine** | Slice at long range / multiple devices at once; ignore most electronic security. |
 | 19 | **Total Control** *(capstone)* | `[once per 10 min]` seize every hostile device/construct in range for a round (mass takeover, incap-gated). |
 
 **Cross-balance notes.** Same-level features compare with different *shapes*: Bio-Tech = healing, Scrapper = flexibility + Overclock-safety, Armstech = damage, Droidwright = an extra actor, Slicer = debuff/control. The unifying axis is **how each reshapes Overclock** (mitigate / redirect / weaponize). INT-substitutions (Medicine, Survival, ranged attacks → INT) keep each single-attribute (no MAD). Droidwright's companion is the one piece needing [§F Commanded Actors](2026-06-13-connective-tissue-and-review-remediation.md) (no separate initiative/reaction; Commanded on the Tech's turn). Hard control (Hostile Takeover, Total Control) carries `[incapacitation]`/`[once per 10 min]` gates; the few `[once per day]` capstones (Scrapper) are the sparing high-level tools per [Phase 3 §7](2026-06-13-phase3-progression-chassis.md).
@@ -173,7 +173,7 @@ Every Modification has three parts + an access **Level**:
 
 | Mod | Lvl | Activate / Overclock (Standby in italics) |
 |---|---|---|
-| **Overload Logic** | 1 | Electricity, 30 ft, basic Reflex. *Standby: wireless Hack/Disable at 15 ft.* OC: d6→d8 +INT, target clumsy. |
+| **Overload Logic** | 1 | Electricity, 30 ft, basic Reflex. *Standby: wireless Slice/Disable at 15 ft.* OC: d6→d8 +INT, target clumsy. |
 | **Fusion Torch** | 1 | Melee plasma Strike (fire+slashing, finesse, ignores Hardness). *Standby: +1 Force Open metal.* OC: +2 atk, bigger dice, ignore more Hardness. |
 | **Repulsor Emitter** | 1 | 15-ft cone bludgeoning + push (basic Fort). *Standby: +2 Bulk limits.* OC: 10-ft emanation, +INT, prone. |
 | **Fragmentation Charge** | 1 | Thrown frag — burst piercing (basic Reflex). *Standby: a held charge.* OC: bigger burst +INT, persistent bleed. |
@@ -238,7 +238,7 @@ Every Modification has three parts + an access **Level**:
 | 1 | **Bypass** | Your damaging Mods **ignore the first 2 points of Hardness/resistance** (scales with level). |
 | 2 | **Surge Protector** | `[once per 10 min]` treat an Overclock **critical failure as a failure** (no Mod disabled). |
 | 2 | **Diagnostic Sweep** | `[1 action]` multi-spectrum scan: Seek a burst; reveal hidden tech/creatures. |
-| 2 | **Holonet Scavenger** | Learn Modifications faster/cheaper; carry one extra Library Mod. |
+| 2 | **HoloNet Scavenger** | Learn Modifications faster/cheaper; carry one extra Library Mod. |
 | 4 | **Recharge** | `[once per 10 min]` end your own Overclock **lockout** early (1 action). |
 | 4 | **Armor-Piercing Protocols** | Your Mod/weapon damage **ignores resistance equal to your INT** against constructs & armored foes. |
 | 4 | **Reactive Shield** `[R]` | Magnetize debris / micro-deflectors to **reduce a hit's damage** by 2 + half your level. |
@@ -267,7 +267,7 @@ Every Modification has three parts + an access **Level**:
 | **Scrapper** | *Unstable Conversion* (4 — a re-tuned (Jury-Rigged) Mod adds a rider matching its new type) · *Cannibalize* (8 — strip a device/corpse-droid for a one-use part) · *Ablative Mastery* (12 — Ablative Casing works twice as often) |
 | **Armstech** | *Armor-Shredder* (4 — your rig-weapon Strikes reduce the target's AC on a hit) · *Auto-Turret* (8 — deploy an autonomous turret, a Commanded emplacement) · *Heavy Ordnance Expert* (12 — your area Mods/weapons gain +1 die and bigger areas) |
 | **Droidwright** | *Combat Droid* (4 — the droid gains a second attack / a strong Strike) · *Reinforced Droid* (8 — droid durability + a defensive reaction) · *Networked Command* (12 — once/round Command the droid as a free action) |
-| **Slicer** | *System Crash* (4 — jam a foe's weapon or blind a sensor on a hit) · *Viral Payload* (8 — your Overload Logic spreads to an adjacent foe) · *Total Override* (12 — `[once per 10 min]` hack several devices/constructs at once) |
+| **Slicer** | *System Crash* (4 — jam a foe's weapon or blind a sensor on a hit) · *Viral Payload* (8 — your Overload Logic spreads to an adjacent foe) · *Total Override* (12 — `[once per 10 min]` slice several devices/constructs at once) |
 
 **Balance notes.** The Overclock-economy line is the Tech's "metamagic," gated by `[once per 10 min]` / once-per-round / once-per-combat so the flat-check risk still bites (the no-daily limiter holds). **+install feats** (Expanded Rig, Master Engineer, Perfect Machine) explicitly **don't stack past a modest ceiling** — Gate-A watch on total installs vs the prepared-power budget. Reactions (Reactive Countermeasure/Shield, Repulsor Field) compete for the single baseline reaction + the chassis Emergency Reroute, under the 3-cap. Class-DC saves, INT-only-on-Overclock, and Tier-boundary scaling all carry from §6.1.
 

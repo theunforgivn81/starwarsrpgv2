@@ -78,10 +78,10 @@
 ### Computers (INT) — *slicing/electronics*
 | Action | Cost | Gate | Effect |
 |---|---|---|---|
-| Access Infosphere | `[exploration]` | — | look up data on a network (the digital "Gather Information"). |
+| Access HoloNet | `[exploration]` | — | look up data on a network (the digital "Gather Information"). |
 | Operate Device | `[exploration]` | — | use standard tech/UI/controls. |
 | Recall Knowledge (data/AI) | 1a | — | know systems, programs, droids' software. |
-| **Hack** | `[exploration]`/`[encounter]` | **T** | breach a secured system (the digital "Pick a Lock"). |
+| **Slice** | `[exploration]`/`[encounter]` | **T** | breach a secured system (the digital "Pick a Lock"). |
 | Disable a Device | 2a | **T** | neutralize an **electronic** system/trap/alarm. |
 | Decipher Writing | `[exploration]` | **T** | decode encrypted data. |
 
@@ -181,7 +181,7 @@ Seek (find hidden/undetected), Sense Motive (read intentions — the social-engi
 ## 7. Rank-Effect Anchors (sets up the next spec)
 
 Rank-gated effects (the Gate A T1 directive) will hook these surfaces — *capability, not bigger numbers*:
-- **New degree outcomes** an Expert+ unlocks (e.g., a Master slicer's *Hack* crit also plants a backdoor).
+- **New degree outcomes** an Expert+ unlocks (e.g., a Master slicer's *Slice* crit also plants a backdoor).
 - **New action options / modes** (e.g., Legendary Stealth lets you Sneak at full Speed; Expert Medicine reduces Treat Wounds time).
 - **Riders on success** (e.g., Master Intimidation's Demoralize also slows).
 - **Removing a limit** (e.g., Expert removes the "can't retry" or range/cover requirement of an action).

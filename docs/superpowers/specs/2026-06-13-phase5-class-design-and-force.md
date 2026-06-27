@@ -134,7 +134,7 @@ Guardians have an Attunement pool *(size: Gate A)* and the **Center** action (§
 
 **Identity:** a gadgeteer force-multiplier; the party's "no-cleric" support engine. **Typical turn:** command a drone, drop a device, patch/buff an ally. **Verb: Deploy.**
 **Role** 1/2/1/3/2/1/1 (sum 11) · **Key** INT · **HP** 8 · **Signature** Legendary Computers/Repair + gadget DC.
-**Subclasses (L1):** **Droid Tech** (combat drone) · **Field Medic** (stims/healing gadgets) · **Saboteur** (mines/hacking/zones).
+**Subclasses (L1):** **Droid Tech** (combat drone) · **Field Medic** (stims/healing gadgets) · **Saboteur** (mines/slicing/zones).
 
 **Signature — Command Drone** `[manipulate]`, **1 action.** Your **Drone** (a `[companion]` Commanded Actor — [connective-tissue §F](2026-06-13-connective-tissue-and-review-remediation.md); scales with you) takes **up to 2 actions**: Stride, ranged Strike, Aid, or activate a gadget. **Uncommanded it takes no actions** (it holds) — so it never grants free action economy (resolves playtest F4); it acts on your turn with no separate initiative or reaction (resolves F5).
 **Deploy Device** `[manipulate]`, **2 actions, `[once per minute]`.** Place a gadget: **turret** (ranged Strikes), **shield emitter** (allies within 10 ft gain cover/temp HP), or **medbeacon** (allies within 10 ft regain HP **once on deploy** — a burst, not a per-round fountain; throttled by the `[once per minute]` cooldown). *The medbeacon is the optional party heal — never mandatory (Phase 2 floor covers a Technician-less party).* Vitality-power and medbeacon healing are **not** subject to stim tolerance (which is stim-only, [Phase 6 §3](2026-06-13-phase6-equipment-and-economy.md)); they're bounded instead by Attunement/action and deploy-cooldown costs.

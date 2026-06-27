@@ -727,7 +727,7 @@ A Droid doesn't choose a heritage; it has a **chassis** — the frame it was bui
 
 **Class I (Physical & Medical Science).** *Boost: Wisdom.* **Analytical Heuristics** — you become trained in Medicine or a Science Lore and carry an integrated medkit.
 
-**Class II (Engineering & Astromech).** *Boost: Dexterity. Size Small, Speed 20 feet.* **Integrated Utility Sockets** — you become trained in Computers or Crafting, gain a built-in datajack or arc welder, and can interface with local networks without a handheld device.
+**Class II (Engineering & Astromech).** *Boost: Dexterity. Size Small, Speed 20 feet.* **Integrated Utility Sockets** — you become trained in Computers or Crafting, gain a built-in scomp link or arc welder, and can interface with local networks without a handheld device.
 
 **Class III (Protocol & Social).** *Boosts: Wisdom, Charisma. Flaw: Strength.* **Cybot-Galactica Interaction Matrix** — you become trained in Diplomacy or Society, learn two additional languages, and gain a +1 circumstance bonus to Make an Impression with proper etiquette.
 
