@@ -128,7 +128,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Telekinetic Impact
 
-**Telekinetic Impact**  [one-action] or [two-actions]  **·  Traits** Force, Alter
+**Telekinetic Impact**  [one-action] or [two-actions]  · **Traits** Force, Alter
 **Cost** none
 **Range** 60 feet; **Targets** 1 creature
 **Effect** You strike a foe with a lash of pure kinetic force — a ranged Force attack that needs no Attunement, so you're never without a weapon. On a hit, the target takes **1d8 force damage** (double on a critical hit). If you spend **two actions**, the impact deals an additional die of damage and pushes the target 5 feet on a hit. Increase the damage by one die at 5th, 11th, and 17th levels.

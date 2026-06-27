@@ -155,7 +155,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Emergency Reroute
 
-**Emergency Reroute**  [reaction]  **·  Traits** Tech
+**Emergency Reroute**  [reaction]  · **Traits** Tech
 **Frequency** once per 10 minutes
 **(7th level)** **Trigger** You fail or critically fail an Overclock flat check.
 **Effect** You reroute the surge before it cascades — treat the result as one degree better (a critical failure becomes a failure; a failure becomes a success).

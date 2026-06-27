@@ -128,7 +128,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 > **Sidebar — Directives and Reactions**
 > Only **[Directive]**-tagged orders count against your one-per-round limit. Your **reactive** commands — warnings and rescues like *Heads Up!* — are **not** [Directive]-tagged; they're reactions, so they fire in the *same* round as the Directive you issued. Like everyone, you can use at most **three reactions per round**, which is what keeps those from chaining.
 
-**Get-the-Job-Done**  [one-action] or [two-actions]  **·  Traits** Officer, [Directive], Auditory, Visual
+**Get-the-Job-Done**  [one-action] or [two-actions]  · **Traits** Officer, [Directive], Auditory, Visual
 **Effect** Choose an enemy within 60 feet that you can see. You and allies who can sense you gain a **+1 status bonus to attack rolls** against that enemy until the start of your next turn.
 **Lead by Example** *(2 actions):* You also Strike the chosen enemy, adding a status bonus to that Strike's damage equal to your Charisma modifier, and you and allies who can sense you gain a **+1 status bonus to damage rolls** against it until the start of your next turn. This damage bonus increases to **+2 at 11th level** and **+3 at 17th level**.
 

@@ -122,7 +122,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(1st level)** Your defining capability, in three linked parts: the fire that creates a zone, the zone that persists, and the reaction that enforces it.
 
-**Suppressing Fire**  [two-actions]  **·  Traits** Soldier
+**Suppressing Fire**  [two-actions]  · **Traits** Soldier
 **Requirements** You're wielding a loaded ranged weapon.
 **Effect** You lay down fire across a **15-foot cone** (or a **10-foot burst** within the weapon's first range increment), creating a **Suppression Zone** there. Each creature in the area attempts a basic Reflex save against your Soldier class DC. The zone persists until the start of your next turn; if you use a weapon with the area trait, increase the cone or burst by 5 feet.
 **Critical Success** The creature is unaffected.
@@ -132,7 +132,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 While your Suppression Zone is up, every enemy inside it is suppressed, and any enemy that Strides within or through the zone, or takes a hostile action while inside it, triggers your Suppressing Reaction.
 
-**Suppressing Reaction**  [reaction]  **·  Traits** Soldier
+**Suppressing Reaction**  [reaction]  · **Traits** Soldier
 **Trigger** An enemy in your Suppression Zone moves or takes a hostile action.
 **Effect** Make a ranged Strike against the triggering enemy; this Strike ignores your multiple attack penalty. Instead of the Strike, you may halt the enemy, ending its movement in the space it currently occupies. You can use the Suppressing Reaction **once per round** (Withering Fire grants a second at 13th level).
 

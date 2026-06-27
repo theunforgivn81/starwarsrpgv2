@@ -1,7 +1,7 @@
 # Activated-Ability Entry Formats — Actions, Powers, Modifications
 
 **Date:** 2026-06-27
-**Status:** Proposed (for review — a few normalization choices flagged in §6)
+**Status:** Approved (2026-06-27; both §6 normalization choices approved)
 **Type:** Presentation standard. Companion to the [feat-entry format](2026-06-26-feat-entry-format.md). Governs every **activated-ability stat block that is not a feat**: class/subclass-granted **Actions** (Directives, signature strikes, etc.), **Force Powers** (`the-force.md`), and **Tech Modifications** (`tech-specialist-modifications.md`).
 **Model:** PF2/SF2 printed action, spell, and item-activation blocks, adapted to this game's resources (Attunement, the Tech three-mode rig).
 

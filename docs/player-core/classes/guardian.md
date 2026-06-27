@@ -121,13 +121,13 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Intercede
 
-**Intercede**  [reaction]  **·  Traits** Guardian
+**Intercede**  [reaction]  · **Traits** Guardian
 **Trigger** An enemy damages an ally within 15 feet of you that you can perceive.
 **Effect** You throw yourself — or your will — into the blow. Reduce the damage your ally takes by **2 + your level**, and until the end of your next turn you gain a **+2 circumstance bonus to attack rolls against that enemy**. This costs no Attunement, and you can use it once per round (Vigilant Guard grants a second reaction at 7th level).
 
 ## Guardian's Reach
 
-**Guardian's Reach**  [reaction]  **·  Traits** Guardian
+**Guardian's Reach**  [reaction]  · **Traits** Guardian
 **Trigger** A creature within your reach uses a move action to leave a square within your reach.
 **Effect** You make a melee lightsaber Strike against it at full accuracy (this Strike ignores your multiple attack penalty). The creature's movement still happens — the Strike is the price of leaving your guard. A foe can **Tumble Through** your space (Acrobatics against your Guardian class DC) to move without provoking this. Guardian's Reach shares your reaction budget with Deflect and Intercede.
 

@@ -34,7 +34,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(19th level)** *Capstone.* A foe you Feint is **off-guard to everyone** until the start of your next turn, and you can plant a command in a mark's mind.
 
-**Suggest**  [two-actions]  **·  Traits** Scoundrel, Linguistic, Mental
+**Suggest**  [two-actions]  · **Traits** Scoundrel, Linguistic, Mental
 **Frequency** once per minute
 **Effect** One creature within 30 feet that can understand you attempts a Will save against your Scoundrel class DC.
 **Critical Success** The target is unaffected and knows you tried to manipulate it.
@@ -58,9 +58,11 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### One Shot
 
-**One Shot**  [one-action]  **·  Traits** Scoundrel, [Flourish]
+**(7th level)**
+
+**One Shot**  [one-action]  · **Traits** Scoundrel, [Flourish]
 **Requirements** You have a Mark.
-**(7th level)** **Effect** Make a single ranged Strike against your Mark. It gains **one additional Exploit die**, and if you haven't moved this turn, it ignores the Mark's cover and concealment.
+**Effect** Make a single ranged Strike against your Mark. It gains **one additional Exploit die**, and if you haven't moved this turn, it ignores the Mark's cover and concealment.
 
 ### Deadeye
 
@@ -68,16 +70,20 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Overwatch
 
-**Overwatch**  [reaction]  **·  Traits** Scoundrel
+**(15th level)**
+
+**Overwatch**  [reaction]  · **Traits** Scoundrel
 **Trigger** Your Mark makes a Strike, uses a manifestation or device, or leaves its space.
-**(15th level)** **Effect** Make a ranged Strike against your Mark.
+**Effect** Make a ranged Strike against your Mark.
 
 ### Perfect Shot
 
-**Perfect Shot**  [one-action]  **·  Traits** Scoundrel
+**(19th level)** *Capstone.*
+
+**Perfect Shot**  [one-action]  · **Traits** Scoundrel
 **Frequency** once per minute
 **Requirements** You have a Mark.
-**(19th level)** *Capstone.* **Effect** Make a ranged Strike against your Mark. If it hits, it's a **critical hit**.
+**Effect** Make a ranged Strike against your Mark. If it hits, it's a **critical hit**.
 
 ---
 
@@ -97,34 +103,38 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(7th level)** You learn three trick shots, each a separate **[one-action]** **[Flourish]** activity. (If you already have a feat granting one of these, you instead learn another trick shot of your choice.)
 
-**Disarming Shot**  [one-action]  **·  Traits** Scoundrel, [Flourish]
+**Disarming Shot**  [one-action]  · **Traits** Scoundrel, [Flourish]
 **Effect** Make a ranged Strike that also attempts to knock a held item from the target; on a hit, the target attempts a save against your Scoundrel class DC or drops one held item.
 
-**Ricochet Shot**  [one-action]  **·  Traits** Scoundrel, [Flourish]
+**Ricochet Shot**  [one-action]  · **Traits** Scoundrel, [Flourish]
 **Effect** Make a ranged Strike that ignores the target's cover and concealment, banked off a nearby surface.
 
-**Pinning Shot**  [one-action]  **·  Traits** Scoundrel, [Flourish]
+**Pinning Shot**  [one-action]  · **Traits** Scoundrel, [Flourish]
 **Effect** Make a ranged Strike; on a hit, the target is **off-guard** until the start of your next turn.
 
 ### Rapid Fire
 
-**Rapid Fire**  [one-action]  **·  Traits** Scoundrel
+**(11th level)**
+
+**Rapid Fire**  [one-action]  · **Traits** Scoundrel
 **Frequency** once per round
-**(11th level)** **Effect** Make two ranged Strikes, against the same target or two targets within 10 feet of each other. Both use your current multiple attack penalty, which doesn't increase until after the activity.
+**Effect** Make two ranged Strikes, against the same target or two targets within 10 feet of each other. Both use your current multiple attack penalty, which doesn't increase until after the activity.
 
 ### Fastest Draw
 
 **(15th level)** You gain a **+2 circumstance bonus** to initiative rolls, and you're always ready to clear leather.
 
-**Quick Draw**  [reaction]  **·  Traits** Scoundrel
+**Quick Draw**  [reaction]  · **Traits** Scoundrel
 **Trigger** A creature within 30 feet draws a weapon or makes a Strike.
 **Effect** Draw a one-handed gun if needed and make a ranged Strike against the triggering creature.
 
 ### Hail of Fire
 
-**Hail of Fire**  [two-actions]  **·  Traits** Scoundrel
+**(19th level)** *Capstone.*
+
+**Hail of Fire**  [two-actions]  · **Traits** Scoundrel
 **Frequency** once per minute
-**(19th level)** *Capstone.* **Effect** Make a ranged Strike against each enemy in a 15-foot burst within range, each with its own attack roll and MAP shared across them. Each Strike against an exploitable foe is an Exploit.
+**Effect** Make a ranged Strike against each enemy in a 15-foot burst within range, each with its own attack roll and MAP shared across them. Each Strike against an exploitable foe is an Exploit.
 
 ---
 
@@ -136,14 +146,16 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(1st level)** You become trained in **Stealth** and **Computers**, and a creature that is **unaware of you** is exploitable to you. You also gain the Sabotage action.
 
-**Sabotage**  [one-action]  **·  Traits** Scoundrel, Technological
+**Sabotage**  [one-action]  · **Traits** Scoundrel, Technological
 **Effect** Attempt a Computers check against a technological creature's or device's DC. On a success, the target is **glitching** until the start of your next turn (taking a status penalty to its checks and DCs); on a critical success, it's also briefly disabled.
 
 ### Ghost Tap
 
-**Ghost Tap**  [free-action]  **·  Traits** Scoundrel
+**(3rd level)**
+
+**Ghost Tap**  [free-action]  · **Traits** Scoundrel
 **Trigger** You make a Strike while hidden or undetected.
-**(3rd level)** **Effect** Attempt a Deception check to immediately become hidden again from the target, even though striking would normally reveal you.
+**Effect** Attempt a Deception check to immediately become hidden again from the target, even though striking would normally reveal you.
 
 ### Sabotage Mastery
 
@@ -159,9 +171,11 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Untraceable
 
-**Untraceable**  [free-action]  **·  Traits** Scoundrel
+**(19th level)** *Capstone.*
+
+**Untraceable**  [free-action]  · **Traits** Scoundrel
 **Frequency** once per minute
-**(19th level)** *Capstone.* **Effect** You become **undetected** by all creatures until you act. If you make a Strike from undetected before the end of your turn, it deals **maximum Exploit dice**.
+**Effect** You become **undetected** by all creatures until you act. If you make a Strike from undetected before the end of your turn, it deals **maximum Exploit dice**.
 
 ---
 
@@ -173,7 +187,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 **(1st level)** You become trained in **Athletics**, and you become **expert in finesse and agile melee weapons and unarmed attacks**. Uniquely, these advance alongside your ranged sub-track — your finesse melee reaches **legendary** when your guns do. You can use **Aim with a finesse melee weapon** to set a melee Mark, and you gain Reactive Step.
 
-**Reactive Step**  [reaction]  **·  Traits** Scoundrel
+**Reactive Step**  [reaction]  · **Traits** Scoundrel
 **Trigger** A creature moves into a space within your reach.
 **Effect** Step toward the triggering creature.
 
@@ -183,13 +197,17 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Flurry
 
-**Flurry**  [one-action]  **·  Traits** Scoundrel, [Flourish]
-**(7th level)** **Effect** Make two melee Strikes with a finesse or agile weapon. Both use your current multiple attack penalty, which doesn't increase until after the activity.
+**(7th level)**
+
+**Flurry**  [one-action]  · **Traits** Scoundrel, [Flourish]
+**Effect** Make two melee Strikes with a finesse or agile weapon. Both use your current multiple attack penalty, which doesn't increase until after the activity.
 
 ### Tumbling Assault
 
-**Tumbling Assault**  [two-actions]  **·  Traits** Scoundrel
-**(11th level)** **Effect** Stride up to your Speed. During this movement you can move through one enemy's space (attempt Acrobatics to Tumble Through against its Reflex DC). Make one melee Strike against that enemy at any point during the movement; the enemy is off-guard to this Strike.
+**(11th level)**
+
+**Tumbling Assault**  [two-actions]  · **Traits** Scoundrel
+**Effect** Stride up to your Speed. During this movement you can move through one enemy's space (attempt Acrobatics to Tumble Through against its Reflex DC). Make one melee Strike against that enemy at any point during the movement; the enemy is off-guard to this Strike.
 
 ### Lethal Precision
 
@@ -197,10 +215,12 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Assassinate
 
-**Assassinate**  [one-action]  **·  Traits** Scoundrel
+**(19th level)** *Capstone.*
+
+**Assassinate**  [one-action]  · **Traits** Scoundrel
 **Frequency** once per minute
 **Requirements** Your target is off-guard to you or unaware of you.
-**(19th level)** *Capstone.* **Effect** Make a melee Strike against the target. It deals **double Exploit dice**, and the target must succeed at a Fortitude save against your Scoundrel class DC or be **slowed 1** until the start of your next turn.
+**Effect** Make a melee Strike against the target. It deals **double Exploit dice**, and the target must succeed at a Fortitude save against your Scoundrel class DC or be **slowed 1** until the start of your next turn.
 
 ---
 

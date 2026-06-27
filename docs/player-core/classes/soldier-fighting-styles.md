@@ -98,10 +98,12 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Carpet Bomb
 
-**Carpet Bomb**  [two-actions]  **·  Traits** Soldier
+**(19th level)** *Capstone.*
+
+**Carpet Bomb**  [two-actions]  · **Traits** Soldier
 **Frequency** once per minute
 **Requirements** You're wielding a weapon with the area trait.
-**(19th level)** *Capstone.* **Effect** You saturate a **30-foot burst** within your weapon's range, dealing your area weapon's damage plus **2 additional damage dice**. Choose a number of allies in the area equal to your Constitution modifier; they're unaffected. Each enemy in the area attempts a basic Reflex save against your Soldier class DC.
+**Effect** You saturate a **30-foot burst** within your weapon's range, dealing your area weapon's damage plus **2 additional damage dice**. Choose a number of allies in the area equal to your Constitution modifier; they're unaffected. Each enemy in the area attempts a basic Reflex save against your Soldier class DC.
 **Critical Success** The creature is unaffected.
 **Success** Half damage, and the creature is suppressed.
 **Failure** Full damage, and the creature is suppressed.
@@ -117,7 +119,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 **(1st level)** Your menace is a weapon in its own right. You become trained in your choice of **Diplomacy** or **Society**, plus one **Lore** skill — and you gain the Oppressive Presence action.
 
-**Oppressive Presence**  [one-action]  **·  Traits** Soldier, Emotion, Mental
+**Oppressive Presence**  [one-action]  · **Traits** Soldier, Emotion, Mental
 **Frequency** once per round
 **Requirements** The target can see or hear you.
 **Effect** One enemy within 60 feet becomes **suppressed** until the start of your next turn. The suppression ends immediately if the target uses an action that includes you as a target. You need no weapon, line of fire, or Suppression Zone.
@@ -166,14 +168,18 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Whirling Swipe
 
-**Whirling Swipe**  [two-actions]  **·  Traits** Soldier
+**(7th level)**
+
+**Whirling Swipe**  [two-actions]  · **Traits** Soldier
 **Requirements** You're wielding a two-handed melee weapon.
-**(7th level)** **Effect** Make one melee Strike against **each enemy in your reach**. Each Strike uses your current multiple attack penalty, and that penalty doesn't increase until after the activity ends; it then counts toward your multiple attack penalty for the rest of the turn as normal.
+**Effect** Make one melee Strike against **each enemy in your reach**. Each Strike uses your current multiple attack penalty, and that penalty doesn't increase until after the activity ends; it then counts toward your multiple attack penalty for the rest of the turn as normal.
 
 ### Reaping Advance
 
-**Reaping Advance**  [two-actions]  **·  Traits** Soldier
-**(11th level)** **Effect** **Stride**, then use your melee whirlwind Suppressing Fire. In addition (whether or not you use this activity), enemies adjacent to you at the start of your turn are **suppressed**, and your melee whirlwind emanation increases to **10 feet**.
+**(11th level)**
+
+**Reaping Advance**  [two-actions]  · **Traits** Soldier
+**Effect** **Stride**, then use your melee whirlwind Suppressing Fire. In addition (whether or not you use this activity), enemies adjacent to you at the start of your turn are **suppressed**, and your melee whirlwind emanation increases to **10 feet**.
 
 ### Cleaving Momentum
 

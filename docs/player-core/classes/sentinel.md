@@ -118,7 +118,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(1st level)** Your defining capability — and the reason your turn never really ends. You gain a **second reaction each round, usable only for Premonition**, so you can answer two threats a round where others answer one. (You can stretch to a third: see Overdrive, below.)
 
-**Premonition**  [reaction]  **·  Traits** Sentinel, Concentrate
+**Premonition**  [reaction]  · **Traits** Sentinel, Concentrate
 **Trigger** A creature you can perceive makes an attack or other hostile action against you or an ally within 30 feet.
 **Effect** Choose one **response** from the menu below and resolve it against the trigger. The reaction itself is free; some responses cost Attunement.
 
@@ -132,7 +132,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Foretell
 
-**Foretell**  [one-action]  **·  Traits** Sentinel, Concentrate
+**Foretell**  [one-action]  · **Traits** Sentinel, Concentrate
 **Effect** You read a creature's immediate future. Designate one creature you can perceive as **foreseen** until the start of your next turn. While it's foreseen, it can't make you off-guard, and you gain a +1 circumstance bonus to AC and saves against it. The next Premonition you trigger off that creature is **empowered**: *Evade* lets you **Stride** instead of Step; *Counter* treats the target as **off-guard**; *Warn* grants the ally the Step **and** the +2 bonus.
 
 This is your proactive play — the button you press on your own turn to turn foresight into a reactive payoff. It costs no Attunement.
