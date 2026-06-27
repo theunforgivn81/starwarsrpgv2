@@ -34,7 +34,7 @@ You can use Crafting to jury-rig temporary tools or consumables, and you gain a 
 **Feat 2** · **Traits** Tech
 You run a multi-spectrum scan, Seeking a burst around you and revealing hidden technology and creatures.
 
-### Holonet Scavenger
+### HoloNet Scavenger
 **Feat 2** · **Traits** Tech
 You learn Modifications faster and more cheaply, and you can keep one extra Modification in your Library.
 
@@ -192,7 +192,7 @@ Once per round, you can Command your droid as a free action.
 **Feat 12** · **Traits** Tech
 **Prerequisites** Slicer
 **Frequency** once per 10 minutes
-You hack several devices or constructs at once.
+You Slice several devices or constructs at once.
 
 ---
 

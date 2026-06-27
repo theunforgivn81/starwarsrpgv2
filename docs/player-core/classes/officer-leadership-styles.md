@@ -121,7 +121,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ---
 
-# Infosphere Director
+# HoloNet Director
 
 *You fight with information — knowing the enemy better than it knows itself, and telling everyone where to aim.* A commander of intel and anti-tech warfare.
 

@@ -102,7 +102,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 
 ---
 
-# Slicer — the electronic-warfare hacker
+# Slicer — the electronic-warfare specialist
 
 *Every system has a back door.* The Discipline of jamming, blinding, and seizing the enemy's own machines.
 
@@ -119,7 +119,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(11th level)** You briefly commandeer an enemy droid, construct, or vehicle; it acts on your command until it succeeds at a save to end the effect. *(This is hard control — it carries the Incapacitation trait.)*
 
 ### Ghost in the Machine
-**(15th level)** You can hack at long range and against multiple devices at once, and you ignore most electronic security.
+**(15th level)** You can Slice at long range and against multiple devices at once, and you ignore most electronic security.
 
 ### Total Control
 **(19th level)** *Capstone.* **Frequency** once per 10 minutes. You seize every hostile device and construct in range for a round — a mass takeover (Incapacitation).

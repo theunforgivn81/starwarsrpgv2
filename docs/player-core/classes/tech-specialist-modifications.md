@@ -16,7 +16,7 @@ These are the **Modifications** — the Tech Specialist's toolbox. You learn the
 
 ### Overload Logic · Modification 1
 **Traits** Tech, Electricity
-**Standby** You can wirelessly Hack or Disable a Device at up to 15 feet.
+**Standby** You can wirelessly Slice or Disable a Device at up to 15 feet.
 **Activate** [two-actions] One creature within 30 feet takes 1d6 electricity damage (basic Reflex).
 **Overclock** Step the damage die to d8 and add your Intelligence modifier; the target is also clumsy 1 until the start of your next turn.
 

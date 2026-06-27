@@ -137,7 +137,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Leadership Style
 
-**(1st level)** Every Officer adopts a **leadership style** — the school of command that grants a signature skill, a bonus skill feat, a signature Directive, and further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **From the Front**, **From the Shadows**, **In the Spotlight**, **Infosphere Director**, **Guns Blazing**, or **Through Desperate Times**; each is detailed in **Officer Leadership Styles**.
+**(1st level)** Every Officer adopts a **leadership style** — the school of command that grants a signature skill, a bonus skill feat, a signature Directive, and further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **From the Front**, **From the Shadows**, **In the Spotlight**, **HoloNet Director**, **Guns Blazing**, or **Through Desperate Times**; each is detailed in **Officer Leadership Styles**.
 
 ## Bonus Directive Feat
 

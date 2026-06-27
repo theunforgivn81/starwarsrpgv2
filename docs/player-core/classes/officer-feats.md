@@ -82,7 +82,7 @@ Attempt a Performance check against the Will DCs of foes in a 15-foot emanation;
 
 ### Tactical Network
 **Feat 4** · **Traits** Officer
-**Prerequisites** Infosphere Director
+**Prerequisites** HoloNet Director
 Allies who can sense you ignore the cover of any foe you've assessed with Digital Assessment! this combat.
 
 ### Suppressing Orders
@@ -146,7 +146,7 @@ The contingent free Strike from Ready Arms! can come from **whichever** of two a
 
 ### Predictive Analysis
 **Feat 8** · **Traits** Officer
-**Prerequisites** Infosphere Director
+**Prerequisites** HoloNet Director
 Once per round, an ally who can sense you can reroll an attack roll against a foe you've assessed with Digital Assessment!.
 
 ### Reissue

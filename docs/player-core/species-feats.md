@@ -1053,7 +1053,7 @@ Your horn attack gains the Forceful trait and its damage die increases to 1d8.
 ### Iktotchi Prescience
 **Feat 5** · **Traits** Iktotchi, Concentrate, Exploration, Mental
 **Frequency** once per day
-You focus on a creature you've seen, touched, or studied for at least 1 minute within the last week. After 1 minute of concentration, the target attempts a Will save against your class DC or spell DC, whichever is higher.
+You focus on a creature you've seen, touched, or studied for at least 1 minute within the last week. After 1 minute of concentration, the target attempts a Will save against your class DC or Force DC, whichever is higher.
 **Critical Success** It's unaffected and realizes something tried to view it; you can't target it again for 24 hours.
 **Success** You learn its general direction if it's within 10 miles.
 **Failure** For 10 minutes you sense its direction and approximate distance while it's on the same planet; within 120 feet you ignore its concealed condition and it can't be undetected by you.
