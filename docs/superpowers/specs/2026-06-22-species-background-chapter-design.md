@@ -22,7 +22,7 @@ The [species roster](2026-06-15-species-roster.md) (27 organic species + a herit
 - Restated attributes removed (use the relevant skill/Class DC); INT/Class-DC keying where apt.
 - Force-flavored ancestry feats that grant powers route to the [Force toolkit](2026-06-15-shared-force-toolkit.md), not class-locked grants.
 - Traits Capitalized; reuse timers as a **Frequency** line (per [[traits-capitalized-frequency-separate]]).
-- Ancestry feats follow the publication feat-entry template (Name · Feat N · Traits · Prerequisites · effect).
+- Ancestry feats follow the canonical [feat-entry format](2026-06-26-feat-entry-format.md) (Name · Feat N · Traits · optional gates · effect).
 
 **Background entry format (Paizo prose — locked 2026-06-26).** Each background is written as published prose, **not** bolded label-lines, matching the PF2 Player Core / Starfinder 2e house style (model: [Acolyte](https://2e.aonsrd.com/backgrounds/134-acolyte)). Per-entry shape, in order:
 1. `### <Name>` header.
