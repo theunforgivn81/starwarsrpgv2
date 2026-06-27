@@ -20,7 +20,7 @@ You gain a +1 circumstance bonus to saves against fear and mental effects, and o
 ### Telekinetic Leap  [one-action]
 **Feat 1** · **Traits** Guardian
 **Cost** 1 Attunement
-You Leap with a burst of the Force, clearing a long gap or closing on a distant foe — the melee guardian's way to reach the firing line.
+**Effect** You Leap with a burst of the Force, clearing a long gap or closing on a distant foe — the melee guardian's way to reach the firing line.
 
 ---
 
@@ -53,7 +53,7 @@ When your lightsaber Strike hits, the target takes a −1 circumstance penalty t
 ### Telekinetic Throw  [two-actions]
 **Feat 4** · **Traits** Guardian
 **Cost** 1 Attunement
-You hurl an adjacent or grabbed creature; it takes bludgeoning damage and falls prone unless it succeeds at a Reflex save against your Guardian class DC.
+**Effect** You hurl an adjacent or grabbed creature; it takes bludgeoning damage and falls prone unless it succeeds at a Reflex save against your Guardian class DC.
 
 ---
 
@@ -86,7 +86,7 @@ You add **Force Wave** to your repertoire (see *The Force*).
 ### Saber Barrier  [two-actions]
 **Feat 8** · **Traits** Guardian
 **Cost** 2 Attunement
-You project a barrier of deflected energy; you and adjacent allies gain temporary Hit Points equal to your level until the start of your next turn.
+**Effect** You project a barrier of deflected energy; you and adjacent allies gain temporary Hit Points equal to your level until the start of your next turn.
 
 ---
 
@@ -171,7 +171,7 @@ Once per turn, you can switch Forms as a free action.
 ### Grand Master
 **Feat 20** · **Traits** Guardian
 **Frequency** once per round
-You gain an extra action you can use only to make a lightsaber Strike or a Form action, and your Guardian Mastery clauses gain a small additional benefit appropriate to each Form.
+**Effect** You gain an extra action you can use only to make a lightsaber Strike or a Form action, and your Guardian Mastery clauses gain a small additional benefit appropriate to each Form.
 
 ---
 

@@ -40,7 +40,7 @@ You can use The Force skill to Recall Knowledge about any Force-related topic, a
 ### Sustaining Will
 **Feat 2** · **Traits** Consular
 **Frequency** once per round
-You Sustain a Force power as a free action.
+**Effect** You Sustain a Force power as a free action.
 
 ### Telekinetic Finesse
 **Feat 2** · **Traits** Consular
@@ -54,7 +54,7 @@ You can perform delicate manipulation at range with Telekinetic Grasp — pickin
 **Feat 4** · **Traits** Consular
 **Prerequisites** Mandate of Vitality
 **Frequency** once per round
-You Manifest Vital Transfer at a range of 30 feet and without paying its Hit Point cost.
+**Effect** You Manifest Vital Transfer at a range of 30 feet and without paying its Hit Point cost.
 
 ### Crushing Grasp
 **Feat 4** · **Traits** Consular
@@ -129,7 +129,7 @@ Your maximum Attunement pool increases by 1.
 ### Empower Manifest
 **Feat 8** · **Traits** Consular
 **Frequency** once per minute
-You Manifest one power with its damage or healing dice maximized rather than rolled.
+**Effect** You Manifest one power with its damage or healing dice maximized rather than rolled.
 
 ### Life Bond
 **Feat 8** · **Traits** Consular
@@ -174,7 +174,7 @@ You add **Telekinetic Flight** to your repertoire (see *The Force*).
 ### Quickened Manifest
 **Feat 10** · **Traits** Consular
 **Frequency** once per minute
-You Manifest a single-action power as a free action.
+**Effect** You Manifest a single-action power as a free action.
 
 ---
 
@@ -198,7 +198,7 @@ You automatically disbelieve illusions you observe, and once per round you can r
 ### Phase Step  [one-action]
 **Feat 12** · **Traits** Consular
 **Frequency** once per minute
-You step through the Force, teleporting up to 30 feet to a space you can see.
+**Effect** You step through the Force, teleporting up to 30 feet to a space you can see.
 
 ### Rapid Regeneration
 **Feat 12** · **Traits** Consular
@@ -208,7 +208,7 @@ When you restore Hit Points to an ally, you can instead grant them fast healing 
 ### Restorative Aura  [two-actions]
 **Feat 12** · **Traits** Consular, Healing
 **Cost** 2 Attunement
-Each ally in a 15-foot emanation regains Hit Points equal to 2d8 plus your Level Bonus.
+**Effect** Each ally in a 15-foot emanation regains Hit Points equal to 2d8 plus your Level Bonus.
 
 ### Wide Aperture
 **Feat 12** · **Traits** Consular
@@ -232,7 +232,7 @@ Your Offense powers ignore an amount of the target's resistance equal to your le
 ### Overchannel
 **Feat 14** · **Traits** Consular
 **Frequency** once per minute
-You Manifest a power you can't currently afford, paying the missing Attunement as an equal number of Hit Points. You're then fatigued.
+**Effect** You Manifest a power you can't currently afford, paying the missing Attunement as an equal number of Hit Points. You're then fatigued.
 
 ---
 
@@ -246,7 +246,7 @@ Empower Manifest's Frequency becomes once per round.
 ### Twin Manifest
 **Feat 16** · **Traits** Consular
 **Frequency** once per minute
-You Manifest two single-action powers as a single two-action activity.
+**Effect** You Manifest two single-action powers as a single two-action activity.
 
 ---
 
@@ -255,7 +255,7 @@ You Manifest two single-action powers as a single two-action activity.
 ### Cosmic Conduit
 **Feat 18** · **Traits** Consular
 **Frequency** once per minute
-The next power you Manifest this turn is treated as one tier higher, as though you had learned its greater version.
+**Effect** The next power you Manifest this turn is treated as one tier higher, as though you had learned its greater version.
 
 ---
 

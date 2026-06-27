@@ -32,7 +32,7 @@ You roll Perception for initiative with a +2 circumstance bonus, and you can't b
 ### Anticipatory Reflex
 **Feat 2** · **Traits** Sentinel
 **Frequency** once per minute
-You use a defensive Premonition response (Evade or Warn) even when you have no reaction remaining, by spending 1 Attunement.
+**Effect** You use a defensive Premonition response (Evade or Warn) even when you have no reaction remaining, by spending 1 Attunement.
 
 ### Evasive Foresight
 **Feat 2** · **Traits** Sentinel
@@ -62,7 +62,7 @@ When your **Counter** hits, the target can't make you off-guard until the start 
 ### Foreseen Pivot
 **Feat 4** · **Traits** Sentinel
 **Frequency** once per minute
-You reroll a failed saving throw against a creature you can perceive, keeping the higher result.
+**Effect** You reroll a failed saving throw against a creature you can perceive, keeping the higher result.
 
 ### Punishing Resolve
 **Feat 4** · **Traits** Sentinel
@@ -110,7 +110,7 @@ Your **Counter** can also trigger when a creature in reach Strides or makes a ra
 ### Precognitive Dodge
 **Feat 6** · **Traits** Sentinel
 **Frequency** once per round
-When you would be critically hit, spend 1 Attunement to make it a normal hit instead.
+**Effect** When you would be critically hit, spend 1 Attunement to make it a normal hit instead.
 
 ---
 
@@ -168,7 +168,7 @@ You add **Force Reflection** to your repertoire (see *The Force*), fired as a Pr
 ### Storm of Premonition
 **Feat 10** · **Traits** Sentinel
 **Frequency** once per minute
-This round, your Overdrive Premonition costs no Attunement.
+**Effect** This round, your Overdrive Premonition costs no Attunement.
 
 ### Unshakable
 **Feat 10** · **Traits** Sentinel
@@ -214,7 +214,7 @@ The Force reaction-powers you channel through Premonition gain a +1 circumstance
 **Feat 14** · **Traits** Sentinel
 **Prerequisites** Shadow
 **Frequency** once per minute
-After a successful Counter while hidden, you immediately Hide again.
+**Effect** After a successful Counter while hidden, you immediately Hide again.
 
 ### Quickdraw Corsair
 **Feat 14** · **Traits** Sentinel
@@ -232,13 +232,13 @@ While you have at least 1 Attunement and aren't off-guard, you gain a +1 circums
 ### Master's Reaction
 **Feat 16** · **Traits** Sentinel
 **Frequency** once per round
-You use a Premonition response and a Force-power reaction on the same trigger, paying 1 additional Attunement.
+**Effect** You use a Premonition response and a Force-power reaction on the same trigger, paying 1 additional Attunement.
 
 ### Relentless Riposte
 **Feat 16** · **Traits** Sentinel
 **Prerequisites** Justicar
 **Frequency** once per minute
-Your Vengeful Premonition also triggers on a normal hit, not only a critical hit.
+**Effect** Your Vengeful Premonition also triggers on a normal hit, not only a critical hit.
 
 ### Retributive Guard
 **Feat 16** · **Traits** Sentinel
@@ -268,12 +268,12 @@ Your Foretell affects all foes within 30 feet.
 ### Inevitability
 **Feat 20** · **Traits** Sentinel
 **Frequency** once per round
-When you Foretell a foe, the first time it would hit you or a foreseen ally before the start of your next turn, you make it a miss instead.
+**Effect** When you Foretell a foe, the first time it would hit you or a foreseen ally before the start of your next turn, you make it a miss instead.
 
 ### Perfect Premonition
 **Feat 20** · **Traits** Sentinel
 **Frequency** once per round
-One Premonition response you use this round costs no Attunement, whatever it is — even Counter or Foresee fires free — and you can choose which response to use *after* the triggering attack's roll is revealed. (This doesn't raise your three-reaction limit.)
+**Effect** One Premonition response you use this round costs no Attunement, whatever it is — even Counter or Foresee fires free — and you can choose which response to use *after* the triggering attack's roll is revealed. (This doesn't raise your three-reaction limit.)
 
 ---
 

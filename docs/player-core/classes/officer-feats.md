@@ -55,7 +55,7 @@ Once per round, you can issue a Directive and Step as part of the same activity.
 ### Improvised Mastery
 **Feat 4** · **Traits** Officer
 **Frequency** once per hour
-You can attempt a skill check that requires you to be trained even while untrained, using your level as your proficiency.
+**Effect** You can attempt a skill check that requires you to be trained even while untrained, using your level as your proficiency.
 
 ### Look Alive!  [one-action]
 **Feat 4** · **Traits** Officer, [Directive], Auditory, Visual
@@ -123,7 +123,7 @@ Once per round, you can repeat the temporary-Hit-Point or morale effect of your 
 ### Follow-Up
 **Feat 8** · **Traits** Officer
 **Frequency** once per round
-When a directed ally hits the foe you designated this round, you can make a Strike against that foe as a reaction.
+**Effect** When a directed ally hits the foe you designated this round, you can make a Strike against that foe as a reaction.
 
 ### Hang On!  [reaction]
 **Feat 8** · **Traits** Officer, Auditory, Visual
@@ -152,7 +152,7 @@ Once per round, an ally who can sense you can reroll an attack roll against a fo
 ### Reissue
 **Feat 8** · **Traits** Officer
 **Frequency** once per round
-You can repeat the Directive you issued last round as a free action, sustaining the same order.
+**Effect** You can repeat the Directive you issued last round as a free action, sustaining the same order.
 
 ### Unbreakable Formation
 **Feat 8** · **Traits** Officer
@@ -225,7 +225,7 @@ You can issue Directives even when you'd normally be unable to be heard or seen 
 ### One Unit
 **Feat 20** · **Traits** Officer
 **Frequency** once per minute
-Each ally who can sense you may immediately take a free **Step** and gains a status surge — a +2 status bonus to attacks and saves until the start of your next turn.
+**Effect** Each ally who can sense you may immediately take a free **Step** and gains a status surge — a +2 status bonus to attacks and saves until the start of your next turn.
 
 ### Perfect Coordination
 **Feat 20** · **Traits** Officer

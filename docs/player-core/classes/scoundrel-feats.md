@@ -20,7 +20,7 @@ Make a ranged Strike against your Mark that also attempts to disarm it; on a hit
 ### Mobile Aim
 **Feat 1** · **Traits** Scoundrel
 **Frequency** once per round
-You can Aim as part of a Stride, setting up on the move.
+**Effect** You can Aim as part of a Stride, setting up on the move.
 
 ### Nimble Dodge  [reaction]
 **Feat 1** · **Traits** Scoundrel
@@ -42,7 +42,7 @@ Make a ranged Strike that ignores the target's cover and concealment, banked off
 ### Sidestep
 **Feat 2** · **Traits** Scoundrel
 **Frequency** once per round
-Immediately after you make a Strike, you can Step as a free action.
+**Effect** Immediately after you make a Strike, you can Step as a free action.
 
 ### Vital Shot
 **Feat 2** · **Traits** Scoundrel
@@ -238,7 +238,7 @@ Your Exploit against your Mark ignores the target's resistance to precision dama
 ### Unerring Shot  [one-action]
 **Feat 18** · **Traits** Scoundrel
 **Frequency** once per minute
-Make a ranged Strike that automatically hits (this isn't a critical hit).
+**Effect** Make a ranged Strike that automatically hits (this isn't a critical hit).
 
 ---
 
@@ -247,7 +247,7 @@ Make a ranged Strike that automatically hits (this isn't a critical hit).
 ### Deadeye Legend
 **Feat 20** · **Traits** Scoundrel
 **Frequency** once per round
-Maximize the Exploit dice on one Strike.
+**Effect** Maximize the Exploit dice on one Strike.
 
 ### One in a Million
 **Feat 20** · **Traits** Scoundrel

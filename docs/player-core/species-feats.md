@@ -25,7 +25,8 @@ Raised amid the Core's technology and bureaucracy, you become trained in Compute
 
 ### General Training
 **Feat 1** · **Traits** Human
-Your adaptability shows in a range of useful skills. You gain a 1st-level general feat (you must meet its prerequisites). You can select this feat more than once, choosing a different general feat each time.
+Your adaptability shows in a range of useful skills. You gain a 1st-level general feat (you must meet its prerequisites).
+**Special** You can select this feat more than once, choosing a different general feat each time.
 
 ### Natural Ambition
 **Feat 1** · **Traits** Human
@@ -57,8 +58,8 @@ You handle situations out of your depth. You gain the Untrained Improvisation ge
 
 ### Aggressive Negotiations  [two-actions]
 **Feat 9** · **Traits** Human, Auditory, Linguistic, Mental
-**Frequency** once per 10 minutes
 **Prerequisites** trained in Diplomacy or Intimidation
+**Frequency** once per 10 minutes
 **Effect** You shout down or charm your foes mid-fight. Attempt a Diplomacy or Intimidation check against the Will DC of each enemy within 30 feet.
 **Critical Success** The target is stunned 1.
 **Success** The target is off-guard until the start of your next turn.
@@ -83,7 +84,8 @@ You split your focus across disciplines with ease. You gain a 2nd-level multicla
 
 ### Advanced General Training
 **Feat 13** · **Traits** Human
-Adventuring has taught you many useful tricks. You gain a general feat of 7th level or lower (meeting its prerequisites). You can select this feat more than once, choosing a different feat each time.
+Adventuring has taught you many useful tricks. You gain a general feat of 7th level or lower (meeting its prerequisites).
+**Special** You can select this feat more than once, choosing a different feat each time.
 
 ### Desperate Ingenuity  [free-action]
 **Feat 13** · **Traits** Human, Auditory, Linguistic, Mental
@@ -156,7 +158,7 @@ You know just where to jam a hydrospanner. When you damage a creature or object 
 ### Nuisance Distraction  [one-action]
 **Feat 5** · **Traits** Anzellan
 **Requirements** You're occupying an enemy's space.
-You scramble over the target's sensors. It attempts a Reflex save against your class DC; on a failure it's dazzled until the start of your next turn (and on a critical failure, blinded for that duration).
+**Effect** You scramble over the target's sensors. It attempts a Reflex save against your class DC; on a failure it's dazzled until the start of your next turn (and on a critical failure, blinded for that duration).
 
 ### Vent Crawler
 **Feat 5** · **Traits** Anzellan
@@ -204,15 +206,15 @@ You access the internals others can't. With an Interact action you can enter a L
 
 ### Machine Whisperer  [two-actions]
 **Feat 17** · **Traits** Anzellan, Auditory, Incapacitation, Linguistic
-**Frequency** once per 10 minutes
 **Prerequisites** legendary in Computers
-You shout a backdoor command at a Droid or Construct (even a mindless one, ignoring its mental immunities). It attempts a Will save against your class DC: success stuns it 1; failure confuses it 1 minute; critical failure leaves it controlled by you for 1 minute (a clearly suicidal order ends the effect and stuns it 3 instead).
+**Frequency** once per 10 minutes
+**Effect** You shout a backdoor command at a Droid or Construct (even a mindless one, ignoring its mental immunities). It attempts a Will save against your class DC: success stuns it 1; failure confuses it 1 minute; critical failure leaves it controlled by you for 1 minute (a clearly suicidal order ends the effect and stuns it 3 instead).
 
 ### Quantum Tinkering
 **Feat 17** · **Traits** Anzellan
-**Frequency** once per day
 **Prerequisites** Droidsmith
-You fix the unfixable: Repair 25 Hit Points to a destroyed item or 50 to an intact one. Used on a destroyed Construct, a very hard Crafting check for your level revives it at 1 Hit Point.
+**Frequency** once per day
+**Effect** You fix the unfixable: Repair 25 Hit Points to a destroyed item or 50 to an intact one. Used on a destroyed Construct, a very hard Crafting check for your level revives it at 1 Hit Point.
 
 ---
 
@@ -279,7 +281,7 @@ You break the spirit, not just the body. When you successfully Demoralize a crea
 ### Spynet Requisition
 **Feat 9** · **Traits** Bothan, Downtime
 **Frequency** once per day
-You call in a favor: with 10 minutes of contact, a specific item of level 5 or lower is delivered to you within 1d4 hours (on loan — return or pay within 3 days, or lose this feat for a month).
+**Effect** You call in a favor: with 10 minutes of contact, a specific item of level 5 or lower is delivered to you within 1d4 hours (on loan — return or pay within 3 days, or lose this feat for a month).
 
 ### 13th-Level Feats
 
@@ -372,8 +374,8 @@ You dismantle a worldview in a sentence. You can use Society or Diplomacy to Dem
 
 ### Predictive Reflexes  [reaction]
 **Feat 9** · **Traits** Cerean, Misfortune
-**Frequency** once per day
 **Prerequisites** Analytical Defense
+**Frequency** once per day
 **Trigger** A creature affected by your Analytical Defense attacks you.
 **Effect** You calculated this strike: the attacker rolls the attack twice and takes the worse result.
 
@@ -381,8 +383,8 @@ You dismantle a worldview in a sentence. You can use Society or Diplomacy to Dem
 
 ### Cardiovascular Overdrive  [free-action]
 **Feat 13** · **Traits** Cerean
-**Frequency** once per day
 **Prerequisites** Two Hearts
+**Frequency** once per day
 **Trigger** You start your turn enfeebled, fatigued, or slowed.
 **Effect** Your second heart surges: remove the enfeebled, fatigued, and slowed conditions, and gain temporary Hit Points equal to your level.
 
@@ -537,13 +539,13 @@ You hear above most species' range — the whine of power cells and servos. You 
 ### Defensive Flurry  [one-action]
 **Feat 5** · **Traits** Codru-Ji
 **Requirements** You're wielding a melee weapon in at least two hands.
-You weave a wall of steel. When you Parry or Raise a Shield, you gain an additional +1 circumstance bonus to AC against melee attacks until the start of your next turn.
+**Effect** You weave a wall of steel. When you Parry or Raise a Shield, you gain an additional +1 circumstance bonus to AC against melee attacks until the start of your next turn.
 
 ### Four-Armed Reload
 **Feat 5** · **Traits** Codru-Ji, Manipulate
-**Frequency** once per round
 **Prerequisites** Multi-Armed Coordination
-Your lower hands feed power cells while your upper hands aim. You can Interact to reload a weapon as a free action.
+**Frequency** once per round
+**Effect** Your lower hands feed power cells while your upper hands aim. You can Interact to reload a weapon as a free action.
 
 ### Grappler's Advantage
 **Feat 5** · **Traits** Codru-Ji
@@ -576,15 +578,15 @@ You keep the "asset" between you and the enemy. You gain standard cover while gr
 
 ### Instant Bind  [free-action]
 **Feat 13** · **Traits** Codru-Ji
-**Requirements** You have a creature restrained.
 **Prerequisites** Professional Abductor
-You Interact to attach binders or rope to the restrained creature. It can't use reactions or movement actions until it Escapes (against your Thievery DC for binders or Athletics DC for rope) or you spend an action to release it.
+**Requirements** You have a creature restrained.
+**Effect** You Interact to attach binders or rope to the restrained creature. It can't use reactions or movement actions until it Escapes (against your Thievery DC for binders or Athletics DC for rope) or you spend an action to release it.
 
 ### Quadruple Strike  [two-actions]
 **Feat 13** · **Traits** Codru-Ji, Flourish
 **Frequency** once per round
 **Requirements** You're wielding melee weapons in at least three hands.
-You attack from all quadrants. Make two melee Strikes; if both hit the same target, deal additional damage equal to two weapon damage dice from a weapon in another hand. This counts as two attacks for your multiple attack penalty.
+**Effect** You attack from all quadrants. Make two melee Strikes; if both hit the same target, deal additional damage equal to two weapon damage dice from a weapon in another hand. This counts as two attacks for your multiple attack penalty.
 
 ### 17th-Level Feats
 
@@ -594,14 +596,14 @@ Your mind drives every limb independently. You're permanently quickened 1, but c
 
 ### "Soft" Abduction  [two-actions]
 **Feat 17** · **Traits** Codru-Ji, Incapacitation
-**Requirements** You have a creature grabbed or restrained.
 **Prerequisites** Instant Bind
-You find the pressure points. Make an Athletics check against the target's Fortitude DC: critical success knocks it unconscious for 1 minute (or until it takes damage); success stuns it 3; failure stuns it 1; critical failure breaks your grapple.
+**Requirements** You have a creature grabbed or restrained.
+**Effect** You find the pressure points. Make an Athletics check against the target's Fortitude DC: critical success knocks it unconscious for 1 minute (or until it takes damage); success stuns it 3; failure stuns it 1; critical failure breaks your grapple.
 
 ### Wyrwulf Metamorphosis  [one-action]
 **Feat 17** · **Traits** Codru-Ji, Polymorph
 **Frequency** once per day
-You revert to a hybrid Wyrwulf state for 1 minute: your Speed increases by 20 feet, you gain a bite (1d10 piercing) that lets you Trip as a free action on a hit, and you gain resistance 10 to physical damage.
+**Effect** You revert to a hybrid Wyrwulf state for 1 minute: your Speed increases by 20 feet, you gain a bite (1d10 piercing) that lets you Trip as a free action on a hit, and you gain resistance 10 to physical damage.
 
 ---
 
@@ -655,7 +657,7 @@ You're at home weightless. In zero-G you gain a fly Speed equal to your land Spe
 ### Calculated Risk
 **Feat 9** · **Traits** Duros, Fortune
 **Frequency** once per day
-When you roll a failure on a Computers or Piloting check, you can treat it as a success instead.
+**Effect** When you roll a failure on a Computers or Piloting check, you can treat it as a success instead.
 
 ### Gunnery Synergy
 **Feat 9** · **Traits** Duros
@@ -726,7 +728,7 @@ You're a master of gravity-based warfare. You become trained in Crafting and gai
 ### Drop Bear Tactics  [one-action]
 **Feat 5** · **Traits** Ewok
 **Requirements** You're at least 10 feet above your target.
-You turn gravity into a weapon, dropping onto a creature. Make a melee Strike.
+**Effect** You turn gravity into a weapon, dropping onto a creature. Make a melee Strike.
 **Effect** On a hit you deal the weapon's damage plus 1d6 falling damage and take none yourself. On a miss you take half the normal falling damage and land adjacent to the target.
 
 ### Tech-Breaker
@@ -776,9 +778,9 @@ You strike from nowhere and vanish. If you start your turn hidden or undetected 
 
 ### Hero of the Tribe  [one-action]
 **Feat 17** · **Traits** Ewok, Auditory, Emotion, Mental
-**Frequency** once per minute
 **Prerequisites** Tribal Bond
-Your war cry inspires terrifying courage. All allies within 60 feet gain temporary Hit Points equal to twice your level and a +2 status bonus to damage rolls for 1 minute.
+**Frequency** once per minute
+**Effect** Your war cry inspires terrifying courage. All allies within 60 feet gain temporary Hit Points equal to twice your level and a +2 status bonus to damage rolls for 1 minute.
 
 ---
 
@@ -855,7 +857,7 @@ When you use Boar's Charge, you ignore difficult terrain, and if the Strike at t
 ### Horde Breaker  [two-actions]
 **Feat 13** · **Traits** Gamorrean
 **Requirements** You're wielding a weapon with the Sweep or Backswing trait.
-You swing wildly through the enemy ranks. Make a melee Strike against a foe; if it hits, make another Strike against a different foe adjacent to the first, continuing until you miss or run out of adjacent targets. You can't attack the same creature twice, and your multiple attack penalty increases only after the entire activity resolves.
+**Effect** You swing wildly through the enemy ranks. Make a melee Strike against a foe; if it hits, make another Strike against a different foe adjacent to the first, continuing until you miss or run out of adjacent targets. You can't attack the same creature twice, and your multiple attack penalty increases only after the entire activity resolves.
 
 ### Indomitable Vigor
 **Feat 13** · **Traits** Gamorrean
@@ -870,9 +872,9 @@ Your cranial plating is incredibly dense. You gain resistance equal to your leve
 
 ### Juggernaut's Stance  [one-action]
 **Feat 17** · **Traits** Gamorrean, Stance
-**Frequency** once per day
 **Prerequisites** Pain Is Weakness
-You channel the stamina of the Gamorrean Matriarchs. While in this stance, you gain resistance 15 to all physical damage, you're immune to the prone condition and to being Shoved or repositioned by nonmagical means, and you ignore difficult and greater difficult terrain.
+**Frequency** once per day
+**Effect** You channel the stamina of the Gamorrean Matriarchs. While in this stance, you gain resistance 15 to all physical damage, you're immune to the prone condition and to being Shoved or repositioned by nonmagical means, and you ignore difficult and greater difficult terrain.
 
 ### Too Stupid to Die  [reaction]
 **Feat 17** · **Traits** Gamorrean
@@ -882,9 +884,9 @@ You channel the stamina of the Gamorrean Matriarchs. While in this stance, you g
 
 ### Warlord's Roar  [one-action]
 **Feat 17** · **Traits** Gamorrean, Auditory, Emotion, Fear, Mental
-**Frequency** once per minute
 **Prerequisites** Muscular Menace
-You bellow with the authority of a Clan Matriarch. All enemies within 30 feet attempt a Will save against your class DC.
+**Frequency** once per minute
+**Effect** You bellow with the authority of a Clan Matriarch. All enemies within 30 feet attempt a Will save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target is frightened 1.
 **Failure** The target is frightened 2 and stunned 1.
@@ -995,9 +997,9 @@ You move through air as if it were water. You gain a fly Speed equal to your Spe
 
 ### Grand Army General  [one-action]
 **Feat 17** · **Traits** Gungan, Auditory, Visual
-**Frequency** once per hour
 **Prerequisites** "Bombad" Bravado
-You summon the courage of Captain Tarpals with a war cry. All allies within 60 feet are quickened for 1 round (using the extra action only to Stride or Strike), and any ally suffering a fear effect reduces their frightened condition to 0.
+**Frequency** once per hour
+**Effect** You summon the courage of Captain Tarpals with a war cry. All allies within 60 feet are quickened for 1 round (using the extra action only to Stride or Strike), and any ally suffering a fear effect reduces their frightened condition to 0.
 
 ---
 
@@ -1017,8 +1019,8 @@ You're trained in Piloting (or another skill of your choice if you'd already bec
 
 ### Precognitive Visions  [reaction]
 **Feat 1** · **Traits** Iktotchi
-**Frequency** once per hour
 **Prerequisites** The pending check relates to the subject of your visions (GM approval)
+**Frequency** once per hour
 **Trigger** You're about to attempt a saving throw, Perception check, or skill check.
 **Effect** You see the outcome a split second early. You gain a +2 circumstance bonus to the triggering check. During your daily preparations you can change the subject of your visions.
 
@@ -1053,7 +1055,7 @@ Your horn attack gains the Forceful trait and its damage die increases to 1d8.
 ### Iktotchi Prescience
 **Feat 5** · **Traits** Iktotchi, Concentrate, Exploration, Mental
 **Frequency** once per day
-You focus on a creature you've seen, touched, or studied for at least 1 minute within the last week. After 1 minute of concentration, the target attempts a Will save against your class DC or Force DC, whichever is higher.
+**Effect** You focus on a creature you've seen, touched, or studied for at least 1 minute within the last week. After 1 minute of concentration, the target attempts a Will save against your class DC or Force DC, whichever is higher.
 **Critical Success** It's unaffected and realizes something tried to view it; you can't target it again for 24 hours.
 **Success** You learn its general direction if it's within 10 miles.
 **Failure** For 10 minutes you sense its direction and approximate distance while it's on the same planet; within 120 feet you ignore its concealed condition and it can't be undetected by you.
@@ -1064,7 +1066,7 @@ You focus on a creature you've seen, touched, or studied for at least 1 minute w
 ### Guided Piloting
 **Feat 9** · **Traits** Iktotchi, Fortune
 **Frequency** once per round
-While piloting a starship, your precognition guides your hand. You can reroll a Piloting check, but you must take the second result.
+**Effect** While piloting a starship, your precognition guides your hand. You can reroll a Piloting check, but you must take the second result.
 
 ### Shared Warning  [free-action]
 **Feat 9** · **Traits** Iktotchi
@@ -1098,7 +1100,7 @@ You read your enemies' intent perfectly. You automatically detect the surface th
 ### Prophetic Destiny
 **Feat 17** · **Traits** Iktotchi, Concentrate, Exploration, Mental, Secret
 **Frequency** once per day
-You enter a trance to glimpse the outcome of a course of action you plan within the next 7 days, stating the goal and timeframe. After 10 minutes the GM makes a secret DC 6 flat check; on a success you receive a symbolic image — Harmony (good), Calamity (bad), Discord (mixed), or Void (insignificant or unreadable) — and on a failure you receive Void. Later actions may alter the future and invalidate the vision.
+**Effect** You enter a trance to glimpse the outcome of a course of action you plan within the next 7 days, stating the goal and timeframe. After 10 minutes the GM makes a secret DC 6 flat check; on a success you receive a symbolic image — Harmony (good), Calamity (bad), Discord (mixed), or Void (insignificant or unreadable) — and on a failure you receive Void. Later actions may alter the future and invalidate the vision.
 
 ---
 
@@ -1138,7 +1140,7 @@ You synthesize healing balms from local flora. You can use Nature instead of Med
 ### Ithorian Bellow  [two-actions]
 **Feat 5** · **Traits** Ithorian, Sonic
 **Frequency** once per minute
-You blast sonic energy in a 15-foot cone, dealing 3d6 sonic damage with a basic Fortitude save against your class DC. At 7th level the damage increases to 4d6, and by 1d6 every 2 levels thereafter (maximum 10d6 at 19th level).
+**Effect** You blast sonic energy in a 15-foot cone, dealing 3d6 sonic damage with a basic Fortitude save against your class DC. At 7th level the damage increases to 4d6, and by 1d6 every 2 levels thereafter (maximum 10d6 at 19th level).
 
 ### Reverberating Speech
 **Feat 5** · **Traits** Ithorian, Auditory, Linguistic
@@ -1174,15 +1176,15 @@ You process two distinct visual fields. You can't be flanked by creatures of you
 ### Restorative Pollen  [two-actions]
 **Feat 13** · **Traits** Ithorian, Healing
 **Frequency** once per day
-You release bio-luminescent spores in a 15-foot emanation. You and all living allies in the area regain 4d8 + your Constitution modifier Hit Points, and any ally suffering a poison effect can immediately attempt a new save against it with a +2 circumstance bonus.
+**Effect** You release bio-luminescent spores in a 15-foot emanation. You and all living allies in the area regain 4d8 + your Constitution modifier Hit Points, and any ally suffering a poison effect can immediately attempt a new save against it with a +2 circumstance bonus.
 
 ### 17th-Level Feats
 
 ### Avatar of Restoration  [two-actions]
 **Feat 17** · **Traits** Ithorian
-**Frequency** once per hour
 **Prerequisites** Botanical Alchemist
-You touch a point on the ground and rapid plant growth erupts in a 20-foot radius. The area is difficult terrain for your enemies but not you or your allies, the foliage grants concealment, and anyone who ends their turn within it gains regeneration 10. The garden lasts 1 minute.
+**Frequency** once per hour
+**Effect** You touch a point on the ground and rapid plant growth erupts in a 20-foot radius. The area is difficult terrain for your enemies but not you or your allies, the foliage grants concealment, and anyone who ends their turn within it gains regeneration 10. The garden lasts 1 minute.
 
 ### Diplomatic Immunity
 **Feat 17** · **Traits** Ithorian, Mental, Visual
@@ -1191,9 +1193,9 @@ Your peaceful presence makes violence against you mentally painful. Each time a 
 
 ### Discordant Cataclysm  [three-actions]
 **Feat 17** · **Traits** Ithorian, Sonic
-**Frequency** once per day
 **Prerequisites** Ithorian Bellow
-You open all four throats fully, dealing 12d6 sonic damage in a 60-foot cone with a basic Fortitude save against your class DC. On a failure the target is deafened for 1 minute; on a critical failure it's stunned 1 and deafened permanently. This attack ignores all Hardness of structures and objects in the area.
+**Frequency** once per day
+**Effect** You open all four throats fully, dealing 12d6 sonic damage in a 60-foot cone with a basic Fortitude save against your class DC. On a failure the target is deafened for 1 minute; on a critical failure it's stunned 1 and deafened permanently. This attack ignores all Hardness of structures and objects in the area.
 
 ---
 
@@ -1287,9 +1289,9 @@ Your ion shots chain between targets. When you hit a target with an ion or elect
 
 ### Droid Dominator  [two-actions]
 **Feat 17** · **Traits** Jawa, Incapacitation, Manipulate
-**Frequency** once per day
 **Prerequisites** Restraining Bolt Logic
-You don't just stop droids; you own them. Attempt a Crafting or Computers check against the Will DC of one Construct or Tech creature within 30 feet, ignoring its immunity to mental effects and to the controlled condition.
+**Frequency** once per day
+**Effect** You don't just stop droids; you own them. Attempt a Crafting or Computers check against the Will DC of one Construct or Tech creature within 30 feet, ignoring its immunity to mental effects and to the controlled condition.
 **Critical Success** The target is controlled by you for 1 minute.
 **Success** The target is confused for 1 minute.
 **Failure** The target is stunned 1.
@@ -1350,7 +1352,7 @@ Your mind is an ordered archive that rejects intrusion. You're immune to mind-re
 ### Toxic Exhalation  [two-actions]
 **Feat 9** · **Traits** Kel Dor, Poison
 **Frequency** once per 10 minutes
-You vent your native atmosphere as a 15-foot cone of gas. Each creature in the area attempts a Fortitude save against your class DC. Creatures that don't breathe or are immune to poison are unaffected.
+**Effect** You vent your native atmosphere as a 15-foot cone of gas. Each creature in the area attempts a Fortitude save against your class DC. Creatures that don't breathe or are immune to poison are unaffected.
 **Critical Success** The target is unaffected.
 **Success** The target is sickened 1.
 **Failure** The target takes 3d6 poison damage and is sickened 1.
@@ -1425,7 +1427,7 @@ Your bite carries a mild paralytic toxin. When you score a critical hit with you
 ### Savrip's Stride  [two-actions]
 **Feat 5** · **Traits** Mantellian Savrip
 **Requirements** Your hands are free.
-You drop to all fours for a sudden burst of speed and Stride up to three times your Speed.
+**Effect** You drop to all fours for a sudden burst of speed and Stride up to three times your Speed.
 
 ### 9th-Level Feats
 
@@ -1440,9 +1442,9 @@ You're a terror in close quarters. You gain a +1 circumstance bonus to Athletics
 
 ### Terrifying Bellow  [two-actions]
 **Feat 9** · **Traits** Mantellian Savrip, Auditory, Emotion, Fear, Mental
-**Frequency** once per 10 minutes
 **Prerequisites** trained in Intimidation
-You unleash a primal roar that shatters courage. Attempt to Demoralize each hostile creature in a 30-foot emanation with a single Intimidation check, compared to each target's Will DC. You take no penalty against targets that don't understand your language.
+**Frequency** once per 10 minutes
+**Effect** You unleash a primal roar that shatters courage. Attempt to Demoralize each hostile creature in a 30-foot emanation with a single Intimidation check, compared to each target's Will DC. You take no penalty against targets that don't understand your language.
 
 ### Venomous Spit
 **Feat 9** · **Traits** Mantellian Savrip, Poison
@@ -1539,9 +1541,9 @@ You flash patterns across your skin. You can communicate silently with other Mon
 
 ### Squad Commander  [one-action]
 **Feat 9** · **Traits** Mon Calamari, Auditory, Visual
-**Frequency** once per round
 **Prerequisites** trained in Diplomacy or Intimidation
-You designate an enemy within 60 feet. Until the start of your next turn, the first time any ally hits that enemy with a Strike, the ally deals an additional 1d6 precision damage.
+**Frequency** once per round
+**Effect** You designate an enemy within 60 feet. Until the start of your next turn, the first time any ally hits that enemy with a Strike, the ally deals an additional 1d6 precision damage.
 
 ### Unflappable Calculator
 **Feat 9** · **Traits** Mon Calamari
@@ -1571,15 +1573,15 @@ You treat vacuum like water. You gain a fly Speed equal to your Speed in zero-gr
 
 ### Admiral's Order  [three-actions]
 **Feat 17** · **Traits** Mon Calamari, Auditory, Visual, Mental
-**Frequency** once per minute
 **Prerequisites** Squad Commander
-You shout a command to concentrate fire. Choose an enemy; each ally within 60 feet who can see or hear you and has line of sight to it can immediately use a reaction to make a single ranged Strike against it at a –2 penalty.
+**Frequency** once per minute
+**Effect** You shout a command to concentrate fire. Choose an enemy; each ally within 60 feet who can see or hear you and has line of sight to it can immediately use a reaction to make a single ranged Strike against it at a –2 penalty.
 
 ### Legendary Shipwright  [two-actions]
 **Feat 17** · **Traits** Mon Calamari
-**Frequency** once per 10 minutes
 **Prerequisites** Analytic Repair
-You fix a hyperdrive with a hydrospanner and three seconds. Touch a broken or damaged object, vehicle, or droid to restore 6d8 + your Intelligence modifier Hit Points to it and remove the broken condition. On a vehicle you're piloting, you can do this as part of a Pilot action.
+**Frequency** once per 10 minutes
+**Effect** You fix a hyperdrive with a hydrospanner and three seconds. Touch a broken or damaged object, vehicle, or droid to restore 6d8 + your Intelligence modifier Hit Points to it and remove the broken condition. On a vehicle you're piloting, you can do this as part of a Pilot action.
 
 ### Omniscient Sight
 **Feat 17** · **Traits** Mon Calamari
@@ -1613,7 +1615,7 @@ You're built like a blue fire hydrant. You gain a +2 circumstance bonus to your 
 ### Tactical Snacking  [one-action]
 **Feat 1** · **Traits** Ortolan, Manipulate
 **Frequency** once per 10 minutes
-You wolf down a nutrient-dense snack, gaining temporary Hit Points equal to your level (minimum 1) that last 1 minute.
+**Effect** You wolf down a nutrient-dense snack, gaining temporary Hit Points equal to your level (minimum 1) that last 1 minute.
 
 ### 5th-Level Feats
 
@@ -1642,7 +1644,7 @@ You eat with terrifying efficiency. You can use Tactical Snacking as a free acti
 ### "Don't Shoot the Band!"  [one-action]
 **Feat 9** · **Traits** Ortolan, Auditory, Emotion, Mental
 **Frequency** once per hour
-You make yourself seem harmless. Attempt a Performance check against the Will DC of each enemy within 30 feet.
+**Effect** You make yourself seem harmless. Attempt a Performance check against the Will DC of each enemy within 30 feet.
 **Critical Success** Until the start of your next turn (or until you take a hostile action), the target must attempt a Will save each time it tries to attack you, failing to do so on a failed save.
 **Success** As critical success, but the effect lasts only until the start of your next turn.
 
@@ -1661,13 +1663,13 @@ You're a portable barricade. You provide standard cover to any ally of your size
 ### Food Coma
 **Feat 13** · **Traits** Ortolan, Healing
 **Frequency** once per day
-You sleep it off. With 10 minutes undisturbed you fall asleep, regaining Hit Points equal to half your maximum and removing the fatigued and enfeebled conditions.
+**Effect** You sleep it off. With 10 minutes undisturbed you fall asleep, regaining Hit Points equal to half your maximum and removing the fatigued and enfeebled conditions.
 
 ### Resonant Belch  [two-actions]
 **Feat 13** · **Traits** Ortolan, Sonic
-**Frequency** once per 10 minutes
 **Prerequisites** Tactical Snacking
-You loose your last meal as a 15-foot cone of sound. Each creature in the area takes 5d6 sonic damage and attempts a Fortitude save against your class DC.
+**Frequency** once per 10 minutes
+**Effect** You loose your last meal as a 15-foot cone of sound. Each creature in the area takes 5d6 sonic damage and attempts a Fortitude save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target takes half damage.
 **Failure** The target takes full damage and is sickened 1.
@@ -1688,9 +1690,9 @@ Your hide is like leather armor. You gain resistance to bludgeoning, piercing, a
 
 ### The Grand Finale  [three-actions]
 **Feat 17** · **Traits** Ortolan, Auditory, Mental, Incapacitation
-**Frequency** once per day
 **Prerequisites** Jizz-Wailer Prodigy
-You hit a frequency that resonates with most species' minds. Each enemy in a 30-foot emanation attempts a Will save against your class DC.
+**Frequency** once per day
+**Effect** You hit a frequency that resonates with most species' minds. Each enemy in a 30-foot emanation attempts a Will save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target is stunned 1.
 **Failure** The target is stunned 3.
@@ -1786,7 +1788,7 @@ Your infrared sight is always active. You gain thermal vision as a precise sense
 ### Apex Predator's Shot  [two-actions]
 **Feat 17** · **Traits** Rodian, Incapacitation
 **Requirements** You're wielding a rifle or pistol and your target is unaware of you or off-guard.
-You wait for the heartbeat between breaths to deliver a terminal shot. Make a ranged Strike. On a success, the hit resolves as a critical success, including any critical specialization effect. On a critical success, the Strike deals triple damage instead of double, and the target must succeed at a Fortitude save against your class DC or drop to 0 Hit Points.
+**Effect** You wait for the heartbeat between breaths to deliver a terminal shot. Make a ranged Strike. On a success, the hit resolves as a critical success, including any critical specialization effect. On a critical success, the Strike deals triple damage instead of double, and the target must succeed at a Fortitude save against your class DC or drop to 0 Hit Points.
 
 ### Guildmaster's Contract  [one-action]
 **Feat 17** · **Traits** Rodian
@@ -1839,7 +1841,7 @@ Your digitigrade legs run down fleeing targets. Your Speed increases by 5 feet, 
 ### Stalker's Pounce  [one-action]
 **Feat 5** · **Traits** Shistavanen
 **Requirements** You're hidden from or undetected by your target.
-You burst from cover. Stride up to your Speed toward an enemy; if you end within melee reach, you can make a melee Strike, and on a hit the target is off-guard until the start of your next turn.
+**Effect** You burst from cover. Stride up to your Speed toward an enemy; if you end within melee reach, you can make a melee Strike, and on a hit the target is off-guard until the start of your next turn.
 
 ### Throat-Ripper
 **Feat 5** · **Traits** Shistavanen
@@ -1855,9 +1857,9 @@ You fight best against the odds. While no allies are within 15 feet of you, you 
 
 ### Instinctive Astrogation
 **Feat 9** · **Traits** Shistavanen, Fortune
-**Frequency** once per hour
 **Prerequisites** expert in Piloting
-You feel the hyperspace lanes. You can Plot a Course as a 1-round activity instead of taking 1 minute or longer. When you fail a Piloting check to navigate a hazard or astrogate, you can reroll it; you must use the second result.
+**Frequency** once per hour
+**Effect** You feel the hyperspace lanes. You can Plot a Course as a 1-round activity instead of taking 1 minute or longer. When you fail a Piloting check to navigate a hazard or astrogate, you can reroll it; you must use the second result.
 
 ### Rapid Tracking
 **Feat 9** · **Traits** Shistavanen
@@ -1869,7 +1871,7 @@ You read a trail at a dead sprint. You can move at full Speed while Tracking wit
 ### Alpha's Howl  [one-action]
 **Feat 13** · **Traits** Shistavanen, Auditory, Emotion, Fear, Mental
 **Frequency** once per 10 minutes
-You unleash a chilling howl. Each enemy within 30 feet attempts a Will save against your class DC.
+**Effect** You unleash a chilling howl. Each enemy within 30 feet attempts a Will save against your class DC.
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 1.
 **Failure** The creature is frightened 2 and fleeing for 1 round.
@@ -1888,9 +1890,9 @@ Nothing keeps you from your prey. You ignore the effects of difficult terrain an
 
 ### Master of the Lanes
 **Feat 17** · **Traits** Shistavanen, Fortune
-**Frequency** once per hour
 **Prerequisites** Instinctive Astrogation
-You fly on instinct alone. When you pilot a vehicle or starship, its maneuverability improves by one step, and at the start of each round of vehicle combat you gain the benefits of a defensive piloting action without spending an action. Once per hour, when you fail a Piloting check for a stunt or hazard, you can reroll with a +2 circumstance bonus; you must use the second result.
+**Frequency** once per hour
+**Effect** You fly on instinct alone. When you pilot a vehicle or starship, its maneuverability improves by one step, and at the start of each round of vehicle combat you gain the benefits of a defensive piloting action without spending an action. Once per hour, when you fail a Piloting check for a stunt or hazard, you can reroll with a +2 circumstance bonus; you must use the second result.
 
 ### Primeval Awareness
 **Feat 17** · **Traits** Shistavanen
@@ -1970,7 +1972,7 @@ You find utility where others see nothing. During your daily preparations you ca
 **Feat 9** · **Traits** Squib, Manipulate
 **Prerequisites** Improvised Weapon Familiarity
 **Requirements** You're holding a weapon with the Tech trait that isn't broken.
-You jury-rig the weapon's power cell to dump all its energy at once. Make a Strike with the weapon; it deals an additional 1d8 electricity damage per weapon damage die and gains the Electricity trait. On a critical hit the weapon gains the Arc trait. After the attack resolves, the weapon becomes broken.
+**Effect** You jury-rig the weapon's power cell to dump all its energy at once. Make a Strike with the weapon; it deals an additional 1d8 electricity damage per weapon damage die and gains the Electricity trait. On a critical hit the weapon gains the Arc trait. After the attack resolves, the weapon becomes broken.
 
 ### Scramble Away  [reaction]
 **Feat 9** · **Traits** Squib, Move
@@ -2007,9 +2009,9 @@ You move through chaos like a fish through water. You ignore difficult terrain c
 
 ### Technological Miracle  [three-actions]
 **Feat 17** · **Traits** Squib
-**Frequency** once per day
 **Prerequisites** legendary in Crafting
-You perform a repair that defies logic. Touch a broken or destroyed technological object of up to 10 Bulk; it's instantly restored to full Hit Points and functionality. Alternatively, touch a functioning device to let it run without a power source or ammunition for 1 hour.
+**Frequency** once per day
+**Effect** You perform a repair that defies logic. Touch a broken or destroyed technological object of up to 10 Bulk; it's instantly restored to full Hit Points and functionality. Alternatively, touch a functioning device to let it run without a power source or ammunition for 1 hour.
 
 ---
 
@@ -2051,9 +2053,9 @@ You're most comfortable in the dark. While in dim light or darkness, you gain a 
 
 ### Instinctual Route  [one-action]
 **Feat 5** · **Traits** Sullustan, Move
-**Frequency** once per round
 **Prerequisites** Internal Gyroscope
-You find the dead zones in enemy fire. Stride up to your Speed; during this movement you ignore difficult terrain, and your movement doesn't trigger reactions from enemies.
+**Frequency** once per round
+**Effect** You find the dead zones in enemy fire. Stride up to your Speed; during this movement you ignore difficult terrain, and your movement doesn't trigger reactions from enemies.
 
 ### Seismic Tremors
 **Feat 5** · **Traits** Sullustan
@@ -2063,9 +2065,9 @@ You feel footsteps through the floor. You gain imprecise tremorsense to 30 feet,
 
 ### Navigator's Insight  [one-action]
 **Feat 9** · **Traits** Sullustan
-**Frequency** once per round
 **Prerequisites** Internal Gyroscope
-You guide your squad through the killing ground. Choose one ally within 30 feet; it can immediately use a reaction to Stride or Step, ignoring difficult terrain during that movement.
+**Frequency** once per round
+**Effect** You guide your squad through the killing ground. Choose one ally within 30 feet; it can immediately use a reaction to Stride or Step, ignoring difficult terrain during that movement.
 
 ### Ricochet Shot
 **Feat 9** · **Traits** Sullustan
@@ -2107,8 +2109,8 @@ You are one with the stone. You gain a burrow Speed equal to your land Speed, tu
 
 ### Zero-Error Trajectory  [free-action]
 **Feat 17** · **Traits** Sullustan, Fortune
-**Frequency** once per day
 **Prerequisites** Instinctual Route
+**Frequency** once per day
 **Trigger** You roll initiative.
 **Effect** You act before the enemy's neurons fire. You take your turn before any other creature regardless of the initiative results (rolling off against any creature with a similar ability), and for the first round your Speed is doubled.
 
@@ -2157,7 +2159,7 @@ Your sense of smell and heat detection sharpen. You gain scent as an imprecise s
 ### Regenerative Stimulation  [one-action]
 **Feat 5** · **Traits** Trandoshan, Healing
 **Frequency** once per hour
-You focus your body's energy to close wounds, regaining 2d8 Hit Points, plus an additional 1d8 for every 2 levels you have beyond 5th.
+**Effect** You focus your body's energy to close wounds, regaining 2d8 Hit Points, plus an additional 1d8 for every 2 levels you have beyond 5th.
 
 ### Shed Skin  [reaction]
 **Feat 5** · **Traits** Trandoshan
@@ -2181,7 +2183,7 @@ You target by heat alone. You don't need a flat check to target a concealed or h
 ### Persistent Regeneration  [one-action]
 **Feat 13** · **Traits** Trandoshan, Healing
 **Frequency** once per day
-You activate your latent healing, gaining fast healing 5 for 1 minute. This healing stops if you take acid or fire damage, resuming at the start of your next turn.
+**Effect** You activate your latent healing, gaining fast healing 5 for 1 minute. This healing stops if you take acid or fire damage, resuming at the start of your next turn.
 
 ### Predator's Resilience
 **Feat 13** · **Traits** Trandoshan
@@ -2190,7 +2192,7 @@ A thickened hide and high pain tolerance turn blows aside. You gain resistance t
 ### Scorekeeper's Gaze  [one-action]
 **Feat 13** · **Traits** Trandoshan, Fortune
 **Frequency** once per hour
-The next attack roll you make before the end of your turn is rolled twice, using the better result. That attack ignores circumstance penalties to the roll and any flat check from the target being concealed or hidden.
+**Effect** The next attack roll you make before the end of your turn is rolled twice, using the better result. That attack ignores circumstance penalties to the roll and any flat check from the target being concealed or hidden.
 
 ### Ultimate Survivor  [reaction]
 **Feat 13** · **Traits** Trandoshan
@@ -2227,7 +2229,7 @@ With no written language, your people preserve history through perfect memory. Y
 ### Sand-Slip  [one-action]
 **Feat 1** · **Traits** Tusken Raider
 **Requirements** You're standing on sand, loose dirt, or rubble.
-You shift your weight across shifting ground. You Step, and this movement ignores difficult terrain caused by sand, rubble, or loose earth.
+**Effect** You shift your weight across shifting ground. You Step, and this movement ignores difficult terrain caused by sand, rubble, or loose earth.
 
 ### Tusken Weapon Familiarity
 **Feat 1** · **Traits** Tusken Raider
@@ -2257,12 +2259,12 @@ During a 10-minute rest, you recount your ancestors' battles to invigorate your 
 ### Gaffi Whirlwind  [two-actions]
 **Feat 9** · **Traits** Tusken Raider, Flourish
 **Requirements** You're wielding a gaffi stick or other two-handed melee weapon.
-You spin your weapon in a deadly arc, making a melee Strike against each enemy adjacent to you. Roll damage once and apply it to all you hit. This counts as one attack for your multiple attack penalty, which doesn't increase until all the Strikes resolve.
+**Effect** You spin your weapon in a deadly arc, making a melee Strike against each enemy adjacent to you. Roll damage once and apply it to all you hit. This counts as one attack for your multiple attack penalty, which doesn't increase until all the Strikes resolve.
 
 ### Patient Marksman  [two-actions]
 **Feat 9** · **Traits** Tusken Raider
 **Requirements** You're wielding a loaded ranged weapon.
-You steady your breathing and line up the shot. Make a ranged Strike with a +2 circumstance bonus to the attack roll, ignoring the target's concealed condition.
+**Effect** You steady your breathing and line up the shot. Make a ranged Strike with a +2 circumstance bonus to the attack roll, ignoring the target's concealed condition.
 
 ### Water Discipline
 **Feat 9** · **Traits** Tusken Raider
@@ -2272,8 +2274,8 @@ Your body is optimized for extreme dehydration. You need only one-quarter the us
 
 ### Blinding Sand  [reaction]
 **Feat 13** · **Traits** Tusken Raider, Manipulate
-**Requirements** You're standing on loose dirt, sand, or rubble.
 **Trigger** A creature attacks you.
+**Requirements** You're standing on loose dirt, sand, or rubble.
 **Effect** You kick blinding grit into the attacker's eyes. It must succeed at a Reflex save against your class DC or be blinded until the end of its current turn (forcing the DC 11 flat check to target you, including against the triggering attack).
 
 ### Krayt's Fury  [free-action]
@@ -2351,15 +2353,15 @@ You fade into a scene by seeming harmless. In social or urban environments you c
 
 ### Dancing Blade Style  [free-action]
 **Feat 9** · **Traits** Twi'lek
-**Frequency** once per turn
 **Prerequisites** Rylothian Grace
+**Frequency** once per turn
 **Trigger** You score a critical hit with a melee weapon that has the Agile or Finesse trait.
 **Effect** You flow into a new position. You Step, and the target is off-guard until the start of your next turn.
 
 ### Hypnotic Lekku-Weave  [two-actions]
 **Feat 9** · **Traits** Twi'lek, Emotion, Mental, Visual
 **Frequency** once per 10 minutes
-You weave a rhythmic motion that overloads onlookers. Up to four creatures within 30 feet who can see you attempt a Will save against your class DC.
+**Effect** You weave a rhythmic motion that overloads onlookers. Up to four creatures within 30 feet who can see you attempt a Will save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target is dazzled for 1 round.
 **Failure** The target is fascinated by you for 1 minute.
@@ -2367,8 +2369,8 @@ You weave a rhythmic motion that overloads onlookers. Up to four creatures withi
 
 ### Tidal-Lock Twist  [reaction]
 **Feat 9** · **Traits** Twi'lek, Fortune
-**Frequency** once per 10 minutes
 **Prerequisites** Rylothian Grace
+**Frequency** once per 10 minutes
 **Trigger** You're hit by a melee attack.
 **Effect** You twist through an impossible arc. The attacker must reroll the attack and use the lower result.
 
@@ -2380,9 +2382,9 @@ Your people survived occupation, and your mind is a fortress. When you succeed a
 
 ### Micro-Tremor Anticipation  [one-action]
 **Feat 13** · **Traits** Twi'lek
-**Frequency** once per hour
 **Prerequisites** Lekku Tremors
-You read a target's micro-movements. Choose one creature within 30 feet; for 1 minute you gain a +2 circumstance bonus to AC against that creature's attacks, and it's off-guard to your attacks.
+**Frequency** once per hour
+**Effect** You read a target's micro-movements. Choose one creature within 30 feet; for 1 minute you gain a +2 circumstance bonus to AC against that creature's attacks, and it's off-guard to your attacks.
 
 ### 17th-Level Feats
 
@@ -2390,7 +2392,7 @@ You read a target's micro-movements. Choose one creature within 30 feet; for 1 m
 **Feat 17** · **Traits** Twi'lek, Stance
 **Prerequisites** Rylothian Grace
 **Requirements** You're unarmored or wearing light armor.
-You enter a trance of constant kinetic flow. While in the stance you gain a +1 status bonus to AC, you're immune to the grabbed, restrained, and prone conditions, and if you move at least 10 feet during your turn you gain concealment until the start of your next turn.
+**Effect** You enter a trance of constant kinetic flow. While in the stance you gain a +1 status bonus to AC, you're immune to the grabbed, restrained, and prone conditions, and if you move at least 10 feet during your turn you gain concealment until the start of your next turn.
 
 ### Memory of the Kalikori  [free-action]
 **Feat 17** · **Traits** Twi'lek, Mental
@@ -2401,7 +2403,7 @@ You enter a trance of constant kinetic flow. While in the stance you gain a +1 s
 ### Subversive Whisper  [one-action]
 **Feat 17** · **Traits** Twi'lek, Auditory, Incapacitation, Linguistic, Mental
 **Frequency** once per round
-You whisper a phrase that triggers deep paranoia. One enemy within 30 feet attempts a Will save against your class DC.
+**Effect** You whisper a phrase that triggers deep paranoia. One enemy within 30 feet attempts a Will save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target is stupefied 1 for 1 round.
 **Failure** The target is confused for 1 round, attacking its nearest ally.
@@ -2460,9 +2462,9 @@ You know exactly where to hit a machine. Strike a Construct, droid, or vehicle w
 
 ### Cryo-Vent Overload  [two-actions]
 **Feat 9** · **Traits** Ugnaught, Cold
-**Frequency** once per minute
 **Prerequisites** Industrial Resilience
-You coat your striking surface in industrial freezing agents. Make a melee or ranged Strike; on a hit it deals an additional 2d6 cold damage, ignoring Hardness, and the target must attempt a Fortitude save against your class DC.
+**Frequency** once per minute
+**Effect** You coat your striking surface in industrial freezing agents. Make a melee or ranged Strike; on a hit it deals an additional 2d6 cold damage, ignoring Hardness, and the target must attempt a Fortitude save against your class DC.
 **Critical Success** The target is unaffected.
 **Success** The target takes a –10-foot status penalty to Speed for 1 round.
 **Failure** The target is slowed 1 for 1 round.
@@ -2481,9 +2483,9 @@ You organize your party like a work crew. When you Aid an ally's skill check, yo
 
 ### Master of Machines  [one-action]
 **Feat 13** · **Traits** Ugnaught, Incapacitation, Manipulate
-**Frequency** once per 10 minutes
 **Prerequisites** Droid Disassembler
-You hotwire a droid's logic gate mid-fight. Attempt a Crafting check against the higher of the Fortitude or Will DC of one Construct or Tech creature within reach.
+**Frequency** once per 10 minutes
+**Effect** You hotwire a droid's logic gate mid-fight. Attempt a Crafting check against the higher of the Fortitude or Will DC of one Construct or Tech creature within reach.
 **Critical Success** The target is confused for 1 minute.
 **Success** The target is stunned 1.
 **Failure** The target is unaffected.
@@ -2497,16 +2499,16 @@ The job isn't done until it's done. You ignore difficult terrain caused by rubbl
 
 ### Earned Retirement  [reaction]
 **Feat 17** · **Traits** Ugnaught, Fortune
-**Frequency** once per day
 **Prerequisites** Indentured Stamina
+**Frequency** once per day
 **Trigger** You'd be reduced to 0 Hit Points but not instantly killed.
 **Effect** You've worked too hard to die before spending your credits. You remain at 1 Hit Point, gain temporary Hit Points equal to your level, and immediately Step.
 
 ### Grand Foreman  [reaction]
 **Feat 17** · **Traits** Ugnaught, Auditory, Visual
-**Frequency** once per day
 **Prerequisites** Union Steward
-You bark orders that turn the team into a machine. All allies within 30 feet gain the quickened condition for 1 minute, using the extra action only to Strike, Stride, or Interact. An ally who doesn't use the extra action on their turn becomes fatigued at the end of that turn.
+**Frequency** once per day
+**Effect** You bark orders that turn the team into a machine. All allies within 30 feet gain the quickened condition for 1 minute, using the extra action only to Strike, Stride, or Interact. An ally who doesn't use the extra action on their turn becomes fatigued at the end of that turn.
 
 ### Matter Decomposition
 **Feat 17** · **Traits** Ugnaught
@@ -2549,7 +2551,7 @@ You trained in the weapons of the Wookiee hunters and the Claatuvac Guild. You'r
 **Feat 5** · **Traits** Wookiee, Move
 **Prerequisites** Canopy Climber
 **Requirements** You're in an environment with vertical features such as trees, pillars, or rafters.
-You launch yourself between anchor points. Leap horizontally or vertically, doubling the distance you can leap. If you end the movement grabbing a ledge or branch, you don't need to check to Grab an Edge.
+**Effect** You launch yourself between anchor points. Leap horizontally or vertically, doubling the distance you can leap. If you end the movement grabbing a ledge or branch, you don't need to check to Grab an Edge.
 
 ### Bowcaster Ballistics
 **Feat 5** · **Traits** Wookiee
@@ -2571,9 +2573,9 @@ Your grip can crush a durasteel pipe like paper. You gain the Titan Wrestler ski
 
 ### Defiant Roar  [two-actions]
 **Feat 9** · **Traits** Wookiee, Auditory, Emotion, Mental
-**Frequency** once per 10 minutes
 **Prerequisites** Intimidating Roar
-You loose a deafening bellow. Attempt an Intimidation check against the Will DC of all enemies within 30 feet.
+**Frequency** once per 10 minutes
+**Effect** You loose a deafening bellow. Attempt an Intimidation check against the Will DC of all enemies within 30 feet.
 **Critical Success** The target is frightened 2.
 **Success** The target is frightened 1.
 **Failure** The target is unaffected.
@@ -2590,7 +2592,7 @@ You practice the Kashyyyk art of wood-tech. You can use Nature instead of Crafti
 **Feat 13** · **Traits** Wookiee
 **Prerequisites** Wookiee Weapon Familiarity
 **Requirements** You're wielding a melee weapon in the Sword group.
-You spin your blade into a deadly perimeter, Striking every enemy within your reach. Roll each attack separately; they count as one attack for your multiple attack penalty, which increases only after all attacks resolve.
+**Effect** You spin your blade into a deadly perimeter, Striking every enemy within your reach. Roll each attack separately; they count as one attack for your multiple attack penalty, which increases only after all attacks resolve.
 
 ### Tenacious Vitality
 **Feat 13** · **Traits** Wookiee
@@ -2606,8 +2608,8 @@ Barriers are just things you haven't smashed yet. Your melee Strikes deal double
 
 ### Life Debt Sacrifice  [reaction]
 **Feat 17** · **Traits** Wookiee
-**Frequency** once per minute
 **Prerequisites** Honor Bound
+**Frequency** once per minute
 **Trigger** Your designated Charge takes damage from an attack while adjacent to you.
 **Effect** You interpose your massive bulk, taking the damage instead. You gain resistance to that damage instance equal to your level.
 
@@ -2682,13 +2684,13 @@ You force your body to function even when broken. You ignore the enfeebled and c
 **Feat 9** · **Traits** Zabrak
 **Prerequisites** Zabrak Weapon Familiarity
 **Requirements** You're wielding a weapon with the Double trait or a staff.
-You strike high and low in a scissoring sweep. Make two Strikes against a single target; the second's multiple attack penalty is reduced (–2 instead of –5, or –4 instead of –10). If both hit, combine the damage for resistances, and the target must succeed at a Reflex save against your class DC or fall prone.
+**Effect** You strike high and low in a scissoring sweep. Make two Strikes against a single target; the second's multiple attack penalty is reduced (–2 instead of –5, or –4 instead of –10). If both hit, combine the damage for resistances, and the target must succeed at a Reflex save against your class DC or fall prone.
 
 ### Terrifying Visage  [one-action]
 **Feat 9** · **Traits** Zabrak, Visual, Emotion, Mental
-**Frequency** once per minute
 **Prerequisites** trained in Intimidation
-You use your tattoos and horns to project a demonic aura. Attempt an Intimidation check to Demoralize each enemy within 30 feet; you don't take the penalty for not sharing a language.
+**Frequency** once per minute
+**Effect** You use your tattoos and horns to project a demonic aura. Attempt an Intimidation check to Demoralize each enemy within 30 feet; you don't take the penalty for not sharing a language.
 
 ### 13th-Level Feats
 
@@ -2699,8 +2701,8 @@ When pushed to your limit, your second heart beats out of sync with the first, f
 
 ### Biological Redundancy  [reaction]
 **Feat 13** · **Traits** Zabrak
-**Frequency** once per hour
 **Prerequisites** Two-Hearted Stamina
+**Frequency** once per hour
 **Trigger** You're subjected to an effect that would make you sickened, paralyzed, or stunned.
 **Effect** When one organ fails, another takes over. Immediately attempt a new saving throw against the triggering effect with a +2 circumstance bonus; on a success, you negate the effect.
 
@@ -2713,14 +2715,14 @@ Your body purges toxins with terrifying efficiency. You're immune to diseases, a
 
 ### Systemic Purge  [two-actions]
 **Feat 17** · **Traits** Zabrak, Healing
-**Frequency** once per day
 **Prerequisites** Biological Redundancy
-You accelerate your metabolism to burn out foreign influences. Remove all persistent damage you're currently suffering, and attempt to counteract one poison, disease, or curse affecting you using your Fortitude modifier; on a success, the condition is removed.
+**Frequency** once per day
+**Effect** You accelerate your metabolism to burn out foreign influences. Remove all persistent damage you're currently suffering, and attempt to counteract one poison, disease, or curse affecting you using your Fortitude modifier; on a success, the condition is removed.
 
 ### Undying Ferocity  [reaction]
 **Feat 17** · **Traits** Zabrak, Fortune
-**Frequency** once per day
 **Prerequisites** Stoic Determination
+**Frequency** once per day
 **Trigger** You're reduced to 0 Hit Points but not killed instantly.
 **Effect** Your refusal to die keeps you standing. You remain at 1 Hit Point and don't gain the dying or unconscious condition. You gain temporary Hit Points equal to your level, and for 1 minute you can't fall below 1 Hit Point unless you take damage equal to your massive-damage threshold.
 
@@ -2787,15 +2789,15 @@ Your memory banks hold the schematics of millions of species. You can use Medici
 
 ### Don't Shoot!  [one-action]
 **Feat 5** · **Traits** Droid, Mental
-**Frequency** once per hour
 **Prerequisites** Class III chassis
+**Frequency** once per hour
 **Requirements** You haven't taken a hostile action this turn.
-You assume a non-threatening posture. Until the start of your next turn, an enemy must succeed at a Will save against your class DC to target you with an attack. Taking any hostile action ends this effect immediately.
+**Effect** You assume a non-threatening posture. Until the start of your next turn, an enemy must succeed at a Will save against your class DC to target you with an attack. Taking any hostile action ends this effect immediately.
 
 ### Emergency Repair Protocol  [two-actions]
 **Feat 5** · **Traits** Droid
 **Frequency** once per day
-You patch yourself in the field. You use Crafting to Repair yourself without a repair kit; the DC and Hit Points restored match a Medicine check to Treat Wounds, and this doesn't count against your immunity timer for other healing.
+**Effect** You patch yourself in the field. You use Crafting to Repair yourself without a repair kit; the DC and Hit Points restored match a Medicine check to Treat Wounds, and this doesn't count against your immunity timer for other healing.
 
 ### Hazard Plating
 **Feat 5** · **Traits** Droid
@@ -2818,9 +2820,9 @@ You install enhanced optics. You gain darkvision.
 
 ### Targeting Computer  [two-actions]
 **Feat 5** · **Traits** Droid, Flourish, Sustain
-**Frequency** once per hour
 **Prerequisites** Class IV chassis
-You lock onto a target, then Strike it. Until the start of your next turn, you ignore the target's concealed condition and reduce any cover it benefits from (other than greater cover) by one step. Sustaining this costs two actions and has the Flourish trait.
+**Frequency** once per hour
+**Effect** You lock onto a target, then Strike it. Until the start of your next turn, you ignore the target's concealed condition and reduce any cover it benefits from (other than greater cover) by one step. Sustaining this costs two actions and has the Flourish trait.
 
 ### 9th-Level Feats
 

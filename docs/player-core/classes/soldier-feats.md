@@ -173,7 +173,7 @@ When you lose the dying condition, you gain temporary Hit Points equal to your l
 ### Hybrid Technique
 **Feat 10** · **Traits** Soldier
 **Frequency** once per round
-You can combine two of your single-action Soldier abilities into a single two-action activity, performing both in either order.
+**Effect** You can combine two of your single-action Soldier abilities into a single two-action activity, performing both in either order.
 
 ### Last Stand  [reaction]
 **Feat 10** · **Traits** Soldier
@@ -233,7 +233,7 @@ Make a melee Strike against each creature in your reach, and each creature you h
 ### Double Suppression
 **Feat 14** · **Traits** Soldier
 **Frequency** once per round
-When you make creatures suppressed, you can apply **two** [Suppressed] riders on that action instead of one.
+**Effect** When you make creatures suppressed, you can apply **two** [Suppressed] riders on that action instead of one.
 
 > **Example — Stacking the Riders**
 > *Master Sergeant Ko lays down Suppressing Fire and, with Double Suppression, attaches both Leg Shot (off-guard) and Run, Cowards! (fleeing on a critical failure). A droid that critically fails is now off-guard **and** fleeing — two riders from one barrage, the once-per-round payoff for a deep [Suppressed] menu.*
@@ -254,7 +254,7 @@ You gain a further reaction each round (up to the three-reaction limit), and you
 ### Indomitable
 **Feat 16** · **Traits** Soldier
 **Frequency** once per 10 minutes
-When you fail a saving throw, you can treat it as a success instead.
+**Effect** When you fail a saving throw, you can treat it as a success instead.
 
 ---
 

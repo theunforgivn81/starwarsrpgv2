@@ -41,7 +41,7 @@ You learn Modifications faster and more cheaply, and you can keep one extra Modi
 ### Surge Protector
 **Feat 2** · **Traits** Tech
 **Frequency** once per 10 minutes
-You treat an Overclock critical failure as an ordinary failure (no Modification is disabled).
+**Effect** You treat an Overclock critical failure as an ordinary failure (no Modification is disabled).
 
 ---
 
@@ -64,7 +64,7 @@ Your healing Modifications work at a range of 30 feet.
 ### Recharge  [one-action]
 **Feat 4** · **Traits** Tech
 **Frequency** once per 10 minutes
-You end your own Overclock lockout early.
+**Effect** You end your own Overclock lockout early.
 
 ### Armor-Shredder
 **Feat 4** · **Traits** Tech
@@ -181,7 +181,7 @@ Your area Modifications and weapons gain an additional die and a larger area.
 **Feat 12** · **Traits** Tech
 **Prerequisites** Bio-Tech
 **Frequency** once per 10 minutes
-You release self-replicating nanites; an ally gains fast healing for a short time.
+**Effect** You release self-replicating nanites; an ally gains fast healing for a short time.
 
 ### Networked Command
 **Feat 12** · **Traits** Tech
@@ -192,7 +192,7 @@ Once per round, you can Command your droid as a free action.
 **Feat 12** · **Traits** Tech
 **Prerequisites** Slicer
 **Frequency** once per 10 minutes
-You Slice several devices or constructs at once.
+**Effect** You Slice several devices or constructs at once.
 
 ---
 
@@ -231,7 +231,7 @@ Your Overclock effects deal an additional die beyond their normal boost.
 ### Apotheosis Engine
 **Feat 20** · **Traits** Tech
 **Frequency** once per round
-You Activate a Modification as a free action.
+**Effect** You Activate a Modification as a free action.
 
 ### Perfect Machine
 **Feat 20** · **Traits** Tech
