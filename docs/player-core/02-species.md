@@ -3638,287 +3638,287 @@ A background is the second of your three big choices — after species, before c
 
 You choose your background at 1st level, and the choice is **permanent** — it's who you *were*, and that history doesn't trade away. If none of the entries below quite fits the character in your head, work with your GM to adjust one or build your own to the same shape.
 
-Each entry gives a short description of the life, then its **Attribute Boosts**, **Trained Skills**, and **Skill Feat**. They're listed alphabetically.
+Each entry gives a short description of the life, then the attribute boosts, skill training, and skill feat it grants. They're listed alphabetically.
 
 ### Agent
 You operate in the shadows of the galaxy's sprawling conflicts, trading in secrets, sabotage, and subversion. Perhaps you are a ruthless operative maintaining order from within the Imperial Security Bureau, a corporate spy stealing hyperspace schematics, or an undercover asset running covert Rebel Alliance missions in the seedy underworld of Ord Mantell. You have mastered the art of blending in, manipulating the unwary, and extracting vital intelligence before slipping away undetected. The life of a spy is one of constant paranoia and shifting loyalties, leaving you with a sharp mind, a talent for deception, and the instinct to always check your six.
 
-**Attribute Boosts** Intelligence or Charisma, and one free
-**Trained Skills** Deception, an Organization Lore of your choice
-**Skill Feat** Without a Trace
+Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Deception skill and an Organization Lore skill of your choice. You gain the Without a Trace skill feat.
 
 ### Artisan
 You are a master of physical creation, turning raw materials and scattered components into functional works of art. Whether you operate a bustling industrial forge, run a specialized custom blaster shop on Nar Shaddaa, or meticulously craft lore-accurate armor and weaponry for demanding clients across the Core Worlds, your hands are rarely clean. You understand the deep mechanics of the galaxy's gear, from the precise calibration of a vibroblade's ultrasonic generator to the heat dispersion of heavy blast plating. Your dedication to your craft has given you an unparalleled eye for detail and the practical skills to repair, maintain, and upgrade equipment under any conditions.
 
-**Attribute Boosts** Strength or Intelligence, and one free
-**Trained Skills** Crafting, a Craft Lore of your choice
-**Skill Feat** Specialty Crafting
+Choose two attribute boosts. One must be to **Strength** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and a Craft Lore skill of your choice. You gain the Specialty Crafting skill feat.
 
 ### Artist
 You see the galaxy not as a battlefield or a marketplace, but as a boundless canvas. You might be a renowned holovid director capturing the drama of the Republic, a subversive street painter leaving anti-authoritarian murals on the plastoid walls of Lothal, or a mesmerizing dancer performing in the opulent courts of the Hutts. Your medium is emotion and expression, and you possess a keen understanding of aesthetics, cultural nuances, and how to captivate an audience. Though venturing into dangerous territories is a far cry from a gallery exhibition, your creative problem-solving, keen observational skills, and deep insight into the galactic condition are invaluable assets.
 
-**Attribute Boosts** Dexterity or Charisma, and one free
-**Trained Skills** Crafting, Art Lore
-**Skill Feat** Specialty Crafting
+Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and the Art Lore skill. You gain the Specialty Crafting skill feat.
 
 ### Bartender
 You have spent countless rotations wiping down the sticky counter of a bustling cantina, serving up Lum, spotchka, and Corellian ale to a colorful array of smugglers, mercenaries, and moisture farmers. Whether you ran a shady watering hole in the lower levels of Coruscant or poured drinks for nervous Rebel operatives laying low on Ord Mantell, you have mastered the art of listening. You know how to defuse a blaster-drawn standoff with a well-timed word, spot a loaded sabacc deck from across the room, and glean highly classified, galaxy-spanning secrets from patrons who have simply had one drink too many.
 
-**Attribute Boosts** Wisdom or Charisma, and one free
-**Trained Skills** Diplomacy, Alcohol Lore
-**Skill Feat** Seasoned
+Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Diplomacy skill and the Alcohol Lore skill. You gain the Seasoned skill feat.
 
 ### Bounty Hunter
 The galaxy is full of people who have a price on their head, and you are the one who collects it. Whether licensed by the Bounty Hunters' Guild or operating independently on the lawless fringes of the Outer Rim, you make your living tracking down bail jumpers, political dissidents, and dangerous criminals. You are fluent in the language of chain codes, tracking fobs, and shady underworld contacts. This dangerous profession requires a cold, pragmatic approach to the galaxy, leaving you with a talent for intimidation, survival instincts honed in hostile environments, and an unwavering focus on the target—and the payout.
 
-**Attribute Boosts** Strength or Constitution, and one free
-**Trained Skills** Survival, Underworld Lore
-**Skill Feat** Experienced Tracker
+Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Survival skill and the Underworld Lore skill. You gain the Experienced Tracker skill feat.
 
 ### Clone Engineer
 You are a specialist in the complex and highly guarded science of genetic replication. Whether you honed your craft in the sterile, storm-battered facilities of Kamino, worked within a classified Imperial science division, or operated a black-market medical lab in the Outer Rim, your life's work has been the design, decanting, and maintenance of biological life. You intimately understand the intricate processes of growth acceleration, behavioral modification, and flash-training regimens. Though you have stepped away from the glowing amber of the cloning cylinders, your deep, clinical knowledge of anatomy, genetics, and biotechnology makes you an unparalleled asset when it comes to keeping your allies functioning—or dismantling your enemies with surgical precision.
 
-**Attribute Boosts** Intelligence or Wisdom, and one free
-**Trained Skills** Medicine, Genetic Engineering Lore
-**Skill Feat** Experienced Professional
+Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Medicine skill and the Genetic Engineering Lore skill. You gain the Experienced Professional skill feat.
 
 ### Courier
 In a galaxy where the HoloNet is monitored, sliced, and censored at every turn, some messages and packages simply must be delivered by hand. You are a runner, entrusted with moving physical data spikes, sensitive intelligence, or high-value contraband across dangerous borders. Whether you relied on a fast swoop bike to navigate the crowded skylanes of a metropolis or a heavily modified light freighter to slip past Imperial blockades, speed and discretion are your lifeblood. Your experiences have given you razor-sharp reflexes, a knack for navigating treacherous routes, and the athletic ability to keep moving when the local authorities are hot on your tail.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** Survival, a Settlement Lore of your choice
-**Skill Feat** Urban Survivalist
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Survival skill and a Settlement Lore skill of your choice. You gain the Urban Survivalist skill feat.
 
 ### Dathomir Witch
 You are a part of one of the many Force-sensitive clans on Dathomir. You and your sisters, under the guidance of the Clan Mother, form powerful connections with one another and the untamed wilds of the planet. Your people are a matriarchal society of warriors who train in the art of war and the usage of both muscle and the Force in combat.
 
-**Attribute Boosts** Strength or Wisdom, and one free
-**Trained Skills** The Force, Dathomir Lore
-**Skill Feat** Force Sensitive
+Choose two attribute boosts. One must be to **Strength** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Force skill and the Dathomir Lore skill. You gain the Force Sensitive skill feat.
 
 ### Diplomat
 You represent a planetary government, a powerful megacorporation, or a sweeping coalition like the Republic or the Rebel Alliance. Your battlefield is the Senate floor, the tense negotiation table, or the opulent reception halls of the Core Worlds. You are trained to navigate complex treaties, mediate deadly disputes, and sway the opinions of planetary governors and warlords alike. In a galaxy prone to solving its problems with turbolasers and thermal detonators, your silver tongue, deep cultural insight, and ironclad composure are your absolute greatest weapons.
 
-**Attribute Boosts** Intelligence or Charisma, and one free
-**Trained Skills** Diplomacy, a Planet Lore of your choice
-**Skill Feat** Group Impression
+Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Diplomacy skill and a Planet Lore skill of your choice. You gain the Group Impression skill feat.
 
 ### Doctor
 Whether you served as a trauma surgeon in a pristine Republic medcenter, a desperate field medic in the muddy trenches of the Outer Rim, or a back-alley cybernetics installer on Nar Shaddaa, your trade is the fragile nature of organic life. You have spent your career up to your elbows in bacta and biosynthetic patches, treating horrific blaster burns, vibroblade gashes, and the myriad diseases of a thousand different worlds. You possess a clinical detachment, a deep understanding of multi-species anatomy, and the steady hands required to save lives when the rest of the galaxy is intent on ending them.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** Medicine, Anatomy Lore
-**Skill Feat** Battle Medicine
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Medicine skill and the Anatomy Lore skill. You gain the Battle Medicine skill feat.
 
 ### Droid Technician
 Droids are the invisible, ticking lifeblood of the galaxy, and you are one of the few who truly understands how they think. You might have operated a dust-choked droid repair shop on Tatooine, served as a specialized astromech handler in a starfighter squadron, or reprogrammed stolen security droids for a local syndicate. You are fluent in binary, comfortable with a hydrospanner in hand, and intimately familiar with the quirks of heuristic processors. You see droids not just as simple appliances, but as complex puzzles of wiring, motivators, and logic gates that you can coax, repair, or completely rewrite to suit your needs.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Crafting, Droidtech Lore
-**Skill Feat** Combat Repair
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and the Droidtech Lore skill. You gain the Combat Repair skill feat.
 
 ### Engineer
 You are the grease-stained, hydrospanner-wielding backbone of galactic infrastructure. Whether you spent your career calibrating hyperdrive motivators in a bustling Corellian shipyard, maintaining the failing life-support systems of an Outer Rim mining colony, or designing structural shielding for corporate dreadnoughts, your mind is a steel trap of schematics and thermodynamic principles. You know how to coax miracles out of a failing reactor and can jury-rig a bypass with little more than a fusion cutter and a spool of conductive wire.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Crafting, an Engineering Lore of your choice
-**Skill Feat** Specialty Crafting
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and an Engineering Lore skill of your choice. You gain the Specialty Crafting skill feat.
 
 ### Entertainer
 You have made your way through the galaxy by capturing the attention and credits of the masses. You might be a traveling acrobat performing in the zero-gravity circus troupes of the Mid Rim, a charismatic HoloNet personality broadcasting from the heart of the Core Worlds, or a dramatic storyteller weaving tales in fire-lit camps. Unlike a specialized Jizz Wailer or a conceptual Artist, your focus is entirely on the spectacle and the crowd. You know how to read a room, hold an audience in the palm of your hand, and use your natural magnetism to charm your way into—or out of—almost any situation.
 
-**Attribute Boosts** Dexterity or Charisma, and one free
-**Trained Skills** Performance, Media Lore
-**Skill Feat** Virtuosic Performer
+Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Performance skill and the Media Lore skill. You gain the Virtuosic Performer skill feat.
 
 ### Farmer
 The galaxy relies on the grueling, unglamorous labor of those who work the land, and you are one of them. Whether you spent your life repairing moisture vaporators beneath the twin suns of Tatooine, harvesting vast tracts of nutrient-rich kelp on the oceans of Mon Cala, or tending to terraced vineyards on Naboo, your days were defined by hard physical labor and the unpredictable whims of the environment. You have developed a resilient constitution, an intimate understanding of the natural world, and a pragmatic, calloused toughness that serves you well far beyond the borders of your homestead.
 
-**Attribute Boosts** Constitution or Wisdom, and one free
-**Trained Skills** Nature, a Planet Lore of your choice
-**Skill Feat** Train Animal
+Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Nature skill and a Planet Lore skill of your choice. You gain the Train Animal skill feat.
 
 ### Fringer
 You have spent your life on the edge of the galaxy's map, carving out an existence in the lawless expanse of the Outer Rim or the uncharted territories of Wild Space. Far from the polished bureaucracy of the Core Worlds, you learned to survive where the authorities either don't care or actively make things worse. Whether you were a homesteader on a volatile moon, a drifter jumping between shadowports, or a scout navigating treacherous asteroid fields, your survival relied entirely on your own wits. You know how to live off the grid, stretch meager resources, and spot trouble long before it crosses your threshold.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Crafting, Salvage Lore
-**Skill Feat** Quick Repair
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and the Salvage Lore skill. You gain the Quick Repair skill feat.
 
 ### Gambler
 The galaxy is a game of chance, and you intend to win it. You have spent your life in the glittering casinos of Canto Bight, the smoke-filled cantinas of Nar Shaddaa, and the high-stakes VIP lounges of corporate cruisers. Whether you make your living counting cards at the pazaak table, bluffing your way through a cutthroat game of sabacc, or running the odds on illegal swoop races, you rely on a sharp mind and an unreadable expression. You are an expert at calculating risk, reading the subtle tells of your opponents, and knowing exactly when to walk away—or when to double down and bet it all.
 
-**Attribute Boosts** Dexterity or Charisma, and one free
-**Trained Skills** Deception, Gambling Lore
-**Skill Feat** Lie to Me
+Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Deception skill and the Gambling Lore skill. You gain the Lie to Me skill feat.
 
 ### Hermit
 For years, you chose the quiet isolation of the galaxy's most remote corners over the deafening noise of civilization. You might have retreated to the sun-baked Jundland Wastes, the swampy bogs of a forgotten world, or the icy caves of a desolate moon to escape a haunted past, hide from a galactic purge, or seek quiet enlightenment. This prolonged solitude taught you profound self-reliance, deep patience, and an intimate understanding of the natural, untamed environments around you. Though you have finally stepped back into the wider galaxy, you carry the quiet vigilance and rugged survival instincts of someone who has lived entirely by their own means.
 
-**Attribute Boosts** Intelligence or Wisdom, and one free
-**Trained Skills** Nature, a Creature or Species Lore of your choice
-**Skill Feat** Natural Medicine
+Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Nature skill and a Creature or Species Lore skill of your choice. You gain the Natural Medicine skill feat.
 
 ### HoloNet Technician
 You are the vital link that keeps a sprawling, fragmented galaxy connected. Whether you spent your cycles maintaining massive orbital HoloNet transceivers, laying sub-surface fiber lines in the depths of Coruscant, or illegally splicing local communication towers for an Outer Rim syndicate, you understand the invisible web of data that binds star systems together. Your work requires a sharp mind, an intricate knowledge of routing protocols, and the technical prowess to bypass heavily encrypted channels. While others see the galaxy as a collection of physical planets, you see it as a ceaseless, manipulable stream of frequencies, bandwidth, and signal relays.
 
-**Attribute Boosts** Intelligence or Wisdom, and one free
-**Trained Skills** Computers, HoloNet Lore
-**Skill Feat** Hologram Skeptic
+Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Computers skill and the HoloNet Lore skill. You gain the Hologram Skeptic skill feat.
 
 ### Investigator
 In a galaxy overflowing with corporate corruption, spice smuggling, and political assassinations, you are the one who untangles the truth. You might have been a hardened detective for CorSec, an independent sleuth operating in the rain-slicked lower levels of Nar Shaddaa, or a Sector Ranger piecing together fragmented data trails across the Mid Rim. You have a keen eye for detail, a methodical approach to dissecting a scene, and a talent for interrogating tight-lipped suspects. You know how to read the shadows of the galactic underworld and follow the cred-trail, no matter how deeply the syndicate or the Empire has buried it.
 
-**Attribute Boosts** Intelligence or Wisdom, and one free
-**Trained Skills** Society, Underworld Lore
-**Skill Feat** Streetwise
+Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Society skill and the Underworld Lore skill. You gain the Streetwise skill feat.
 
 ### Jizz Wailer
 You are a working musician, earning your credits playing the upbeat, frenetic rhythms of jizz music in smoky cantinas, neon-lit swoop tracks, and shady underworld clubs across the Outer Rim. With your trusty kloo horn, slitherhorn, or bandfill in hand, you have seen the galaxy from the vantage point of a dimly lit stage. This life has taught you how to read a tough crowd, negotiate with ruthless venue owners, and know exactly when a bar brawl is about to erupt so you can slip out the back door with your instrument and your tip jar intact.
 
-**Attribute Boosts** Constitution or Charisma, and one free
-**Trained Skills** Performance, Jizz Lore
-**Skill Feat** Impressive Performance
+Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Performance skill and the Jizz Lore skill. You gain the Impressive Performance skill feat.
 
 ### Laborer
 You are the muscle that builds the galaxy's grandest projects and moves its heaviest freight. Whether you spent your years hauling bulky cargo containers in the bustling spaceports of Corellia, extracting raw materials in deep-core mines, or riveting hull plating in a sprawling orbital shipyard, your life has been defined by backbreaking physical exertion. You know the value of a hard day's work and possess a rugged, calloused endurance that most soft-handed Core Worlders can barely comprehend. This life of heavy lifting has given you immense physical strength and a practical understanding of the heavy machinery used to reshape worlds.
 
-**Attribute Boosts** Strength or Constitution, and one free
-**Trained Skills** Athletics, Labor Lore
-**Skill Feat** Hefty Hauler
+Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Athletics skill and the Labor Lore skill. You gain the Hefty Hauler skill feat.
 
 ### Mandalorian
 You were raised in the strict, martial culture of Mandalore. Whether you were born to a clan or taken in as a foundling and raised in the Creed, your childhood was defined by rigorous combat training and a deep reverence for the weapons and armor that keep your people alive. You have sworn the Resol'nare, learning the importance of self-defense, family, and field maintenance of your gear.
 
-**Attribute Boosts** Strength or Constitution, and one free
-**Trained Skills** Crafting, Mandalorian Lore
-**Skill Feat** Quick Repair
+Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and the Mandalorian Lore skill. You gain the Quick Repair skill feat.
 
 ### Mercenary
 Your blaster belongs to the highest bidder. Whether you spent your career guarding Hutt spice shipments on Nal Hutta, fighting in corporate proxy wars across the Corporate Sector, or taking highly classified, off-the-books contracts for planetary governors, your loyalty is strictly rented. You are a professional soldier of fortune who views the galaxy's endless conflicts not as a tragedy, but as a reliable source of income. This life of constant, transactional violence has given you a pragmatic understanding of combat, an ironclad approach to negotiating your cut, and a reputation that ensures people think twice before crossing you.
 
-**Attribute Boosts** Strength or Dexterity, and one free
-**Trained Skills** Intimidation, Mercenary Lore
-**Skill Feat** Intimidating Glare
+Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
+
+You're trained in the Intimidation skill and the Mercenary Lore skill. You gain the Intimidating Glare skill feat.
 
 ### Noble
 You were born into privilege and power, raised among the elite of the galaxy. Whether your bloodline ties you to the planetary monarchs of worlds like Alderaan or Naboo, or you belong to a wealthy corporate dynasty operating out of the bustling Core Worlds, you were groomed for leadership and high society from an early age. Your upbringing was defined by political tutoring, strict etiquette, and the finest education credits could buy. Though you have traded the safety of your estate for the unpredictable life of an adventurer, you still carry the poise, diplomatic connections, and perhaps the heavy expectations of your family's legacy.
 
-**Attribute Boosts** Intelligence or Charisma, and one free
-**Trained Skills** Society, a Planet Lore of your choice
-**Skill Feat** Courtly Graces
+Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Society skill and a Planet Lore skill of your choice. You gain the Courtly Graces skill feat.
 
 ### Outlaw
 You have lived your life one step ahead of the law, whether that law was the iron grip of the Imperial Security Bureau, the jurisdiction of Republic Sector Rangers, or the relentless enforcers of the Hutt Cartels. You might be a daring swoop-ganger, a spice runner operating out of Mos Eisley, or a notorious pirate raiding hyperlanes in the Outer Rim. Living on the wrong side of the galactic legal code has made you resourceful, paranoid, and quick on the draw. You know how to spot a bounty hunter in a crowded cantina, forge a chain code, and survive when an entire sector is looking for you.
 
-**Attribute Boosts** Dexterity or Charisma, and one free
-**Trained Skills** Intimidation, Underworld Lore
-**Skill Feat** Intimidating Shot
+Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Intimidation skill and the Underworld Lore skill. You gain the Intimidating Shot skill feat.
 
 ### Pickpocket
 You survived the unforgiving lower levels of the galaxy's sprawling ecumenopolises by lifting what you needed from those who wouldn't miss it. Whether you were a desperate street urchin dodging local authorities on Lothal, a nimble grifter working the bustling transit hubs of Coruscant, or a slick thief lifting cred-sticks and code cylinders in the casinos of Canto Bight, your hands are quicker than the eye. You have a keen sense for the ebb and flow of a crowd, an eye for easy marks, and the split-second reflexes needed to disappear into the neon-lit alleys the moment someone realizes their pockets are empty.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Thievery, Underworld Lore
-**Skill Feat** Pickpocket
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Thievery skill and the Underworld Lore skill. You gain the Pickpocket skill feat.
 
 ### Podracer
 You spent your formative years strapped into a cockpit, dragged at breakneck speeds by a pair of massive, over-charged engines. Whether you competed on the dust-choked circuits of Tatooine or the perilous, winding courses of Malastare, podracing requires razor-sharp reflexes and an intimate understanding of high-performance mechanics to keep your racer from violently exploding mid-lap. You survived the most dangerous motorsport in the galaxy, leaving you with an adrenaline addiction, a knack for squeezing every ounce of thrust out of a repulsorlift engine, and the twitch-reflex instincts necessary to act before anyone else even realizes the race has started.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Piloting, Speeder Engineering Lore
-**Feat** Incredible Initiative (general feat)
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Piloting skill and the Speeder Engineering Lore skill. You gain the Incredible Initiative general feat.
 
 ### Prisoner
 You spent agonizing years locked away in the galaxy's most brutal penal systems. Whether you were unjustly thrown into the sun-scorched labor camps of Wobani, forced to mine raw spice in the pitch-black depths of Kessel, or held in a high-security Imperial detention block, your freedom was entirely stripped from you. Surviving incarceration required a hardened mind, an iron will, and a pragmatic understanding of shifting alliances among both guards and inmates. Though you have finally broken your chains or served your time, you carry the heavy, unseen scars of a life spent behind ray shields, leaving you with an intense appreciation for freedom and the survival instincts of a cornered Loth-cat.
 
-**Attribute Boosts** Strength or Constitution, and one free
-**Trained Skills** Stealth, Underworld Lore
-**Skill Feat** Experienced Smuggler
+Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
 
 ### Recruit
 You enlisted—or were perhaps conscripted—into one of the galaxy's many armed forces, trading your civilian life for a uniform, a standard-issue blaster, and the chain of command. You might have survived the grueling, standardized boot camps of the Imperial Academy, volunteered for a local planetary defense force, or joined the desperate, scrappy struggle of the Rebel Alliance. Regardless of whose banner you served under, basic training drilled discipline, camaraderie, and essential tactical skills into your core. You know how to follow orders, maintain your gear in the field, and keep your head down when the blaster bolts start flying.
 
-**Attribute Boosts** Strength or Constitution, and one free
-**Trained Skills** Survival, Warfare Lore
-**Skill Feat** Terrain Expertise
+Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Survival skill and the Warfare Lore skill. You gain the Terrain Expertise skill feat.
 
 ### Saboteur
 You specialize in dismantling the galaxy's infrastructure from the inside out. Whether you were a Rebel operative tasked with blowing Imperial shield generators on heavily guarded moons, a ruthless corporate mercenary disabling rival hyperdrive manufacturing facilities, or an independent anarchist sowing chaos in the Core Worlds, your expertise lies in calculated destruction. You possess an intimate understanding of structural weak points, explosive ordnance, and the slicing skills needed to bypass heavy blast doors before the charges detonate. You know firsthand that a well-placed thermal detonator or a subtly severed power conduit can cripple a Star Destroyer just as effectively as a fleet of starfighters.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** Thievery, an Engineering Lore of your choice
-**Skill Feat** Concealing Legerdemain
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Thievery skill and an Engineering Lore skill of your choice. You gain the Concealing Legerdemain skill feat.
 
 ### Salvager
 The galaxy is littered with the rusted hulks of forgotten wars and discarded technology, and you have made a hard-scrabble living picking their bones clean. Whether you scrambled through the dark, perilous corridors of downed cruisers in a scrapping guild, haggled over droid parts in sun-baked desert canyons, or floated through dangerous orbital debris fields, you possess an eagle eye for valuable tech. You know how to safely bypass decaying security grids, extract a functional hyperdrive motivator from a mountain of slag, and turn a derelict starship's trash into a pocketful of hard-won credits.
 
-**Attribute Boosts** Strength or Dexterity, and one free
-**Trained Skills** Athletics, Salvage Lore
-**Skill Feat** Combat Climber
+Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
+
+You're trained in the Athletics skill and the Salvage Lore skill. You gain the Combat Climber skill feat.
 
 ### Scientist
 Your life is dedicated to the empirical truths of the galaxy. Whether you served in the prestigious Republic Science Division, conducted classified hypermatter research for the Empire, or cataloged bizarre xenobiology in the uncharted reaches of the Unknown Regions, you view the universe through a lens of data, hypotheses, and rigorous experimentation. You are far more comfortable in a pristine laboratory or analyzing sensor readings from a datapad than you are holding a blaster. Your analytical mind, deep knowledge of the physical sciences, and ability to process complex variables make you an invaluable asset when encountering the galaxy's many unexplained phenomena.
 
-**Attribute Boosts** Intelligence or Wisdom, and one free
-**Trained Skills** Crafting, a Science Lore of your choice
-**Skill Feat** Assurance
+Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Crafting skill and a Science Lore skill of your choice. You gain the Assurance skill feat.
 
 ### Sith Initiate
 You were forged in the crucible of the dark side, taught to draw power from passion, anger, and the pursuit of absolute control. Whether you survived the brutal, cutthroat trials of an ancient Sith Academy on Korriban, served as a secret apprentice under the shadow of the Rule of Two, or were cultivated by a secretive enclave of dark side cultists, your training was entirely devoid of the Jedi's pacifism. You were taught to channel your darkest emotions into raw power and aggressive lightsaber combat. Though you may have broken away from your masters or are currently carving your own path through the galaxy, you carry the indomitable will, cunning, and lethal Force connection of a true dark side acolyte.
 
-**Attribute Boosts** Strength or Charisma, and one free
-**Trained Skills** The Force, Sith Order Lore
-**Skill Feat** Force Sensitive
+Choose two attribute boosts. One must be to **Strength** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Force skill and the Sith Order Lore skill. You gain the Force Sensitive skill feat.
 
 ### Slicer
 You are a master of the digital underworld, fluent in the complex, layered code that regulates the galaxy's sprawling networks. Whether you spent your time cracking Imperial databanks for the Rebellion, siphoning untraceable fractions of credits from corporate accounts in the Core Worlds, or bypassing the heavy security grids of Hutt crime lords, your weapon of choice is a custom datapad and a pocket full of data spikes. You view firewalls, encryption protocols, and security cameras as puzzles meant to be solved, possessing the technical genius and sheer audacity required to manipulate the galaxy's most secure systems from the shadows of a cantina booth.
 
-**Attribute Boosts** Dexterity or Intelligence, and one free
-**Trained Skills** Computers, Slicing Lore
-**Skill Feat** Digital Diversion
+Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
+
+You're trained in the Computers skill and the Slicing Lore skill. You gain the Digital Diversion skill feat.
 
 ### Smuggler
 You make your living moving illicit cargo from one side of the galaxy to the other, entirely under the radar of local authorities and planetary blockades. Whether you ran glitterstim spice through the Kessel Run, transported black-market blasters for desperate insurgencies, or simply ferried untaxed goods past Imperial customs, your life relies on heavily modified sublight engines and hidden deck compartments. You are a fast-talking risk-taker who knows exactly how to bribe a docking bay official, outrun a tractor beam, and shoot first when a deal inevitably goes sour in a dusty Outer Rim spaceport.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** Stealth, Piracy Lore
-**Skill Feat** Experienced Smuggler
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Stealth skill and the Piracy Lore skill. You gain the Experienced Smuggler skill feat.
 
 ### Space Pirate
 The hyperlanes are your hunting ground, and the cargo manifests of passing freighters are your personal catalog. Whether you rode with a ruthless swoop gang that graduated to armed boarding craft, served under the banner of a notorious corsair in the Outer Rim, or mutinied against a corporate shipping conglomerate, you take what you want by force and intimidation. You are well-versed in the chaotic violence of ship-to-ship boarding actions, the tactical use of ion cannons to disable your prey, and the cutthroat politics of dividing the spoils among a crew of hardened criminals.
 
-**Attribute Boosts** Strength or Dexterity, and one free
-**Trained Skills** Intimidation, Piracy Lore
-**Skill Feat** Group Coercion
+Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
+
+You're trained in the Intimidation skill and the Piracy Lore skill. You gain the Group Coercion skill feat.
 
 ### Spacer
 The vibration of deck plates under your boots is the closest thing you have ever known to solid ground. You are a creature of the hyperlanes, raised hopping from spaceport to spaceport and trading standard days for parsecs. You know how to coax a few more lightyears out of a failing hyperdrive motivator, how to talk your way past a suspicious planetary customs patrol, and which orbital docking bays offer the cheapest refueling rates. For you, the galaxy isn't a collection of grand political struggles; it's an endless web of trade routes, cargo manifests, and the comforting hum of sublight engines.
 
-**Attribute Boosts** Dexterity or Constitution, and one free
-**Trained Skills** Piloting, Hyperspace Lore
-**Skill Feat** Express Driver
+Choose two attribute boosts. One must be to **Dexterity** or **Constitution**, and one is a free attribute boost.
+
+You're trained in the Piloting skill and the Hyperspace Lore skill. You gain the Express Driver skill feat.
 
 ### Street Rat
 You grew up in the claustrophobic alleys, exhaust-choked ventilation shafts, and bustling marketplaces of the galaxy's most unforgiving cities. Whether you were an orphaned scavenger dodging Stormtrooper patrols on Lothal, a nimble beggar working the sunless lower levels of Coruscant, or a runaway surviving the neon-lit shadows of Nar Shaddaa, the streets were your only teacher. You lack a formal education or a silver spoon, but you possess an unparalleled instinct for urban survival, a talent for vanishing into a crowd, and the acrobatic agility needed to scramble across rooftops when the local enforcers give chase.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** Survival, a Settlement Lore of your choice
-**Skill Feat** Urban Survivalist
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Survival skill and a Settlement Lore skill of your choice. You gain the Urban Survivalist skill feat.
 
 ### Temple Youngling
 You were brought to the tranquil, echoing halls of the Jedi Temple at a very young age, trading a family you barely remember for the strict, monastic life of an initiate. Under the watchful eyes of wise masters, your childhood was spent mastering meditation, practicing basic lightsaber forms, and learning to sense and manipulate the fundamental flows of the Force. Your early trials and lessons were carefully designed to guide you toward your ultimate destiny within the Order—whether navigating the galaxy as a scholarly Consular, defending the innocent as a martial Guardian, or seeking out the dark side's shadows as a balanced Sentinel. Even if the galaxy's turbulent events have prematurely torn you away from the Temple's safety, you carry the deep-rooted discipline, philosophical teachings, and burgeoning abilities of a dedicated Force initiate.
 
-**Attribute Boosts** Wisdom or Charisma, and one free
-**Trained Skills** The Force, Jedi Order Lore
-**Skill Feat** Force Sensitive
+Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
+
+You're trained in the Force skill and the Jedi Order Lore skill. You gain the Force Sensitive skill feat.
 
 ### Warden of the Sky
 You are an ascetic protector of the spacelanes, wandering the galaxy's hyperlanes to safeguard travelers from pirates, marauders, and cosmic hazards. Unlike the Jedi, you do not rely on lightsabers or grand temples; instead, you trust your martial discipline, your attunement to the cosmic flow, and the subtle guidance of the Force to keep the stars safe. Your life hitching rides aboard freighters and transports has made you intimately familiar with the intricacies of deep space travel, and your connection to the energy fields of the galaxy allows you to sense danger long before the proximity alarms begin to chime.
 
-**Attribute Boosts** Dexterity or Wisdom, and one free
-**Trained Skills** The Force, Spacer Lore
-**Skill Feat** Force Sensitive
+Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
+
+You're trained in the Force skill and the Spacer Lore skill. You gain the Force Sensitive skill feat.
 
 ---
 
