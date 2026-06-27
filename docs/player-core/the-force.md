@@ -41,7 +41,7 @@ Powers cost Attunement by tier:
 | **Standard** | **1–2** | The workhorses — your attacks, saves, and buffs. |
 | **Greater** | **3** | The tier-breakers — scaled control, mass effects, resurrection, area devastation (available only at higher levels). |
 
-> A power with **combat impact always costs at least 1 Attunement.** The 0-cost powers are deliberately minor utility, so they can't be the whole fight.
+> A **power on this list** with combat impact always costs at least 1 Attunement; the 0-cost powers here are deliberately minor utility, so they can't be the whole fight. (A class's own signature attack — such as the Consular's Telekinetic Impact — is a class feature rather than a power on this list, and follows the cost printed in its own entry.)
 
 ### Your Force DC and your rolls
 

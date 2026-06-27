@@ -26,7 +26,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Precision damage**. Extra damage that comes from placing a hit exactly, rather than from force or energy. A creature that is immune or resistant to precision damage ignores that much of it — the built-in counter to your Exploit.
 
-**Flourish**. The trait on your splashiest techniques. You can use only **one [Flourish] action per round**, so trick shots stay a choice, not a chant.
+**Flourish**. The trait on your splashiest techniques. You can use only **one [Flourish] action per turn**, so trick shots stay a choice, not a chant.
 
 ---
 

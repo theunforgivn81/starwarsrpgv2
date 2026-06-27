@@ -3,7 +3,7 @@
 At 1st level and every even level you gain a **Scoundrel class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a **specialization** in their Prerequisites require it.
 
 > **Sidebar — Flourishes and Reactions**
-> Many trick shots carry the **[Flourish]** trait — you can use only **one Flourish action per round**, so a deep trick-shot menu is a set of *choices*, not a combo. Separately, your **[reaction]** feats (Nimble Dodge, Gun Parry, Combat Roll, Defensive Roll) all compete for your single baseline reaction; like every character, you can use at most **three reactions per round**.
+> Many trick shots carry the **[Flourish]** trait — you can use only **one Flourish action per turn**, so a deep trick-shot menu is a set of *choices*, not a combo. Separately, your **[reaction]** feats (Nimble Dodge, Gun Parry, Combat Roll, Defensive Roll) all compete for your single baseline reaction; like every character, you can use at most **three reactions per round**.
 
 ---
 

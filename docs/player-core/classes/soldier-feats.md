@@ -17,9 +17,9 @@ Until the start of your next turn, you gain a +1 circumstance bonus to AC and ca
 **Feat 1** · **Traits** Soldier, Emotion, Mental
 One enemy within 30 feet attempts a Will save against your Soldier class DC.
 **Critical Success** The target is unaffected.
-**Success** The target is unaffected.
-**Failure** Until the start of your next turn, the target takes a –1 circumstance penalty to attack rolls that don't include you.
-**Critical Failure** As Failure, but the penalty lasts 1 minute or until the target hits you, whichever comes first.
+**Success** Until the start of your next turn, the target takes a –1 circumstance penalty to attack rolls that don't include you.
+**Failure** As Success, but the penalty lasts 1 minute or until the target hits you, whichever comes first.
+**Critical Failure** As Failure, and the target is **off-guard** until the start of your next turn.
 
 ### Knockback Blast
 **Feat 1** · **Traits** Soldier, Suppressed
@@ -111,7 +111,7 @@ Until the start of your next turn, you take a –2 circumstance penalty to AC an
 
 ### Scattering Fire
 **Feat 6** · **Traits** Soldier
-When you use Suppressing Fire, you can attempt to scatter those caught in it: each creature in the area is pushed 5 feet away from you unless it succeeds at a Reflex save against your Soldier class DC.
+When you use Suppressing Fire, you can also scatter those caught in it: each creature that **fails** its save against that Suppressing Fire is pushed **10 feet** directly away from you, and each creature that **critically fails** is also knocked **prone**.
 
 ---
 
