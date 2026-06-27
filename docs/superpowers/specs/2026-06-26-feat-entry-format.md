@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-26
 **Status:** Approved (codifies the de-facto house style already used across all feat files)
-**Type:** Presentation standard. Governs how **every** feat is printed — class feats, species/ancestry feats, general & skill feats, Lightsaber Form feats, and any feat-shaped block (heritages, fighting styles, leadership styles, modifications) in `docs/player-core/`.
+**Type:** Presentation standard. Governs how **every feat** is printed — class feats, species/ancestry feats, general & skill feats, and Lightsaber Form feats (anything with a `**Feat N**` line) in `docs/player-core/`. Activated abilities that are **not** feats — class/subclass **Actions**, **Force Powers**, and **Tech Modifications** — follow the companion [activated-ability formats](2026-06-27-activated-ability-formats.md), which inherits the shared core (action token, Traits, the `**Effect**` rule, degrees) from this doc.
 **Model:** PF2 Player Core / Starfinder 2e *printed* feat entries (e.g. [Assurance](https://2e.aonsrd.com/feats/763-assurance)). Note the Archives-of-Nethys page renders **every** field with a bold label (`Traits:`, `Effect:`, `Special:`) — that is database display, **not** the print style we follow. See §4.
 
 ---
