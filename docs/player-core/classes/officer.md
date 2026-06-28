@@ -96,17 +96,17 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat, skill increase |
 | 5 | +2 | Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Weapon Specialization, Light Armor Expertise, leadership feature, general feat, skill increase |
+| 7 | +2 | Weapon Specialization, Light Armor Expertise, Resolve, Evasion, leadership feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
-| 9 | +3 | Officer Expertise, Resolve, species feat, skill increase |
+| 9 | +3 | Officer Expertise, Fortitude Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
-| 11 | +3 | Fortitude Expertise, leadership feature, general feat, skill increase |
+| 11 | +3 | leadership feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
 | 13 | +4 | Tactician, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Evasion, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Resolve, Greater Evasion, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Officer Mastery, Greater Resolve, Perception Mastery, species feat, skill increase |
+| 17 | +5 | Officer Mastery, Perception Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
 | 19 | +5 | leadership feature, general feat, skill increase |
 | 20 | +6 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
@@ -171,11 +171,11 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Resolve
 
-**(9th level)** Your will is the squad's backbone. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(7th level)** Your will is the squad's backbone. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
 ## Fortitude Expertise
 
-**(11th level)** Your proficiency rank for Fortitude saves increases to expert.
+**(9th level)** Your proficiency rank for Fortitude saves increases to expert.
 
 ## Tactician
 
@@ -191,7 +191,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Evasion
 
-**(15th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
+**(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
 
 ## Legendary Improvisation
 
@@ -199,7 +199,11 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Greater Resolve
 
-**(17th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
+**(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
+
+## Greater Evasion
+
+**(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
 
 ## Perception Mastery
 

@@ -103,13 +103,13 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Evasion, Operative's Edge, Weapon Specialization, Light Armor Expertise, specialization feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Scoundrel Expertise, Resolve, Scoundrel Resilience, species feat, skill increase |
+| 9 | +3 | Scoundrel Expertise, Scoundrel Resilience, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Exploit 3d6, On the Move, specialization feature, general feat, skill increase |
+| 11 | +3 | Exploit 3d6, On the Move, Resolve, specialization feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Greater Evasion, Legendary Gunner, species feat, skill increase |
+| 13 | +4 | Legendary Gunner, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Light Armor Mastery, specialization feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Light Armor Mastery, Greater Evasion, specialization feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -167,7 +167,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Resolve
 
-**(9th level)** Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
+**(11th level)** Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
 ## On the Move
 
@@ -183,7 +183,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Greater Evasion
 
-**(13th level)** You're never quite where the blast lands. When you roll a failure on a Reflex save against an effect that allows a basic save, you get a success instead.
+**(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
 
 ## Legendary Gunner
 

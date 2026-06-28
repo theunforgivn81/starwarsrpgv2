@@ -130,7 +130,23 @@ A save's Master step (Normal L11 / Good L7) lands earlier than weapon (L13), arm
 
 #### 3.2.1 Per-class save composition
 
-Set by the balance review below — each class assigns Good/Normal/Poor to Fort/Reflex/Will so its resilience profile matches its role, fantasy, and the rest of its chassis. *(TBD — pending the save balance review.)*
+Set by the **"three Legendary proficiencies total"** budget rule: across weapon, armor, class DC, Perception, and saves, each class reaches Legendary in **exactly three**. Classes with fewer Legendary *offenses* buy that resilience back through *more Good saves*.
+
+| Class | Fortitude | Reflex | Will | The three Legendaries |
+|---|---|---|---|---|
+| **Soldier** | **Good** | Poor | Normal | armor · class DC · **Fort** |
+| **Guardian** | Normal | Poor | **Good** | lightsaber · armor · **Will** |
+| **Scoundrel** | Poor | **Good** | Normal | ranged · Perception\* · **Reflex** |
+| **Consular** | **Good** | Poor | **Good** | class DC · **Fort** · **Will** |
+| **Tech** | Poor | **Good** | **Good** | class DC · **Reflex** · **Will** |
+| **Sentinel** | Poor | **Good** | **Good** | Perception · **Reflex** · **Will** |
+| **Officer** | Poor | **Good** | **Good** | Perception\* · **Will** · **Reflex** |
+
+\*Scoundrel and Officer rely on a **Legendary Perception** (to be confirmed in the Perception pass) to hit three; the rest get there through saves alone.
+
+- The three **offense-Legendary** classes (Soldier/Guardian/Scoundrel) take **one** Good save; the four with no Legendary offense (Consular/Tech/Sentinel/Officer) become save-fortresses with **two** Good saves.
+- Every class keeps exactly **one Poor save** as its soft spot. The spread is deliberately Fort-heavy (weak for four classes) and never weak-Will (heroes resist domination).
+- *Carry-forward:* a two-Good class stacks two "→Master" features at L7 and two "→Legendary" at L15 — to be smoothed in the level-density pass if needed.
 
 ---
 

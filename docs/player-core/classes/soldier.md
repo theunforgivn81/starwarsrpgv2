@@ -95,13 +95,13 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Suppress, Overwhelming Assault, Walking Armory, fighting style, class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Fearsome Bulwark, Reflex Expertise, fighting style feature, general feat, skill increase |
+| 3 | +1 | Fearsome Bulwark, fighting style feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Perception Expertise, Soldier Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Armor Expertise, Soldier Expertise, Tough as Nails, Weapon Specialization, fighting style feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Dig In, species feat, skill increase |
+| 9 | +3 | Dig In, Reflex Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
@@ -157,7 +157,7 @@ While your Suppression Zone is up, every enemy inside it is suppressed, and any 
 
 ## Reflex Expertise
 
-**(3rd level)** Your proficiency rank for Reflex saves increases to expert.
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
 
 ## Perception Expertise
 

@@ -93,17 +93,17 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | fork feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Fortitude Expertise, Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
+| 5 | +2 | Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Perception Mastery, Weapon Specialization, Light Armor Expertise, fork feature, general feat, skill increase |
+| 7 | +2 | Perception Mastery, Weapon Specialization, Light Armor Expertise, Evasion, Resolve, fork feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Sentinel Expertise, Evasion, species feat, skill increase |
+| 9 | +3 | Sentinel Expertise, Fortitude Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Resolve, fork feature, general feat, skill increase |
+| 11 | +3 | fork feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, fork feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, Greater Evasion, Greater Resolve, fork feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -147,7 +147,7 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Fortitude Expertise
 
-**(5th level)** Your proficiency rank for Fortitude saves increases to expert.
+**(9th level)** Your proficiency rank for Fortitude saves increases to expert.
 
 ## Weapon Expertise
 
@@ -169,11 +169,11 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Evasion
 
-**(9th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
+**(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
 
 ## Resolve
 
-**(11th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
 ## Light Armor Expertise
 
@@ -194,6 +194,14 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Light Armor Mastery
 
 **(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
+
+## Greater Evasion
+
+**(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
+
+## Greater Resolve
+
+**(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
 
 ## Unclouded Sight
 

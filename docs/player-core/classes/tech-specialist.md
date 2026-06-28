@@ -92,15 +92,15 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat, skill increase |
 | 5 | +2 | Custom Rig [4], Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Tech Expertise, Emergency Reroute, Evasion, Weapon Specialization, Discipline feature, general feat, skill increase |
+| 7 | +2 | Tech Expertise, Emergency Reroute, Evasion, Resolve, Weapon Specialization, Discipline feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
-| 9 | +3 | Custom Rig [5], Fortitude Expertise, Resolve, species feat, skill increase |
+| 9 | +3 | Custom Rig [5], Fortitude Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
 | 11 | +3 | Discipline feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
 | 13 | +4 | Custom Rig [6], Light Armor Expertise, Perception Mastery, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Greater Weapon Specialization, Tech Mastery, Discipline feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Tech Mastery, Greater Evasion, Greater Resolve, Discipline feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
 | 17 | +5 | Custom Rig [7], species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
@@ -180,11 +180,19 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Resolve
 
-**(9th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
 ## Tech Mastery
 
 **(15th level)** Your proficiency rank for your Tech class DC increases to master.
+
+## Greater Evasion
+
+**(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
+
+## Greater Resolve
+
+**(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
 
 ## Light Armor Expertise
 

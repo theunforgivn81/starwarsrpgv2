@@ -93,19 +93,19 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Manifest, Telekinetic Impact, Mandate, class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Reflex Expertise, Mandate feature, general feat, skill increase |
+| 3 | +1 | Mandate feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Consular Expertise, Mandate feature, general feat, skill increase |
+| 7 | +2 | Consular Expertise, Resolve, Juggernaut, Mandate feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Greater Manifest, Resolve, species feat, skill increase |
+| 9 | +3 | Greater Manifest, Reflex Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Juggernaut, Weapon Expertise, Mandate feature, general feat, skill increase |
+| 11 | +3 | Weapon Expertise, Mandate feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, Weapon Specialization, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Resolve, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Resolve, Unshakable Juggernaut, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -139,7 +139,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Reflex Expertise
 
-**(3rd level)** Your proficiency rank for Reflex saves increases to expert.
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
 
 ## Consular Expertise
 
@@ -159,7 +159,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Resolve
 
-**(9th level)** Your mind is a fortress. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(7th level)** Your mind is a fortress. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
 ## Consular Mastery
 
@@ -167,7 +167,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Juggernaut
 
-**(11th level)** Your body endures what your will commands. Your proficiency rank for Fortitude saves increases to master, and when you roll a success on a Fortitude save, you get a critical success instead.
+**(7th level)** Your body endures what your will commands. Your proficiency rank for Fortitude saves increases to master, and when you roll a success on a Fortitude save, you get a critical success instead.
 
 ## Weapon Expertise
 
@@ -192,6 +192,10 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 ## Greater Resolve
 
 **(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
+
+## Unshakable Juggernaut
+
+**(15th level)** Your proficiency rank for Fortitude saves increases to legendary. When you roll a critical failure on a Fortitude save, you get a failure instead, and when you fail a Fortitude save against an effect that deals damage, you take half that damage.
 
 ## Force Mastery
 

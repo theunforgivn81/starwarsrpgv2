@@ -92,19 +92,19 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 |:---:|:---:|---|
 | 1 | +1 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
 | 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Reflex Expertise, Form feature, general feat, skill increase |
+| 3 | +1 | Form feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Armor Expertise, Perception Expertise, Vigilant Guard, Weapon Specialization, Form feature, general feat, skill increase |
+| 7 | +2 | Armor Expertise, Perception Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Guardian Expertise, Improved Intercede, Resolve, species feat, skill increase |
+| 9 | +3 | Guardian Expertise, Improved Intercede, Reflex Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Juggernaut, Form feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Perception Mastery, Form feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Perception Mastery, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -145,7 +145,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Reflex Expertise
 
-**(3rd level)** Your proficiency rank for Reflex saves increases to expert.
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
 
 ## Armor Expertise
 
@@ -179,7 +179,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Resolve
 
-**(9th level)** Your discipline is unshakable. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(7th level)** Your discipline is unshakable. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
 ## Armor Mastery
 
@@ -204,6 +204,10 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Perception Mastery
 
 **(15th level)** Your proficiency rank for Perception increases to master.
+
+## Greater Resolve
+
+**(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
 
 ## Greater Guardian Expertise
 
