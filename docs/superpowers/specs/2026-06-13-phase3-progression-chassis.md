@@ -110,16 +110,27 @@ Armor proficiency advances on one of three tracks, by how central armor is to th
 - The three **Normal** tracks now form a ladder by defensive urgency: weapon **Expert@5/Master@13** → armor **Expert@7/Master@15** → class DC **Expert@9/Master@17**.
 - **Poor** classes (Consular, Tech) defend with non-armor tools (Force barriers, gadget Standbys); Expert@13 keeps their AC from sliding too far without making armor their game. (Tech already runs Normal weapons + Good class DC; Normal armor too would overtune it.)
 
-### 3.2 Universal Save Expertise (the success→crit-success pattern)
+### 3.2 Save tracks (the success→crit-success pattern)
 
-Every class follows the standard ORC save-expertise shape — **two strong saves, one weak** — so resilience is a class identity, not an ad-hoc table:
+A single save advances on one of three tracks. Each class is **composed** of three saves (Fort/Reflex/Will) drawn from these tracks — the per-class mix is set by the balance review in §3.2.1:
 
-- **Two saves → Master**, each via a **named class feature that bundles the rider: when you roll a *success* on that save, you get a *critical success* instead.** (Flavored per class — *Juggernaut / Tough as Nails* = Fort, *Resolve* = Will, *Evasion* = Reflex.) Granted at class-determined levels (typically one in Tier II ~L7–9, one in Tier III ~L11).
-- **The third (weak) save caps at Expert** — every class has **one deliberate save vulnerability** (its soft spot; varies by class so enemies get a vector against each).
-- **Signature save → Legendary** *(optional, one class's spotlight)*: a **"Greater / Unshakable"** feature (Tier IV ~L15–17) that adds **critical failure → failure** *and* **half damage on a failed save vs a damaging effect**. Deepens one of the two strong saves.
-- **Early limited rider** *(optional flavor, ~L3)*: the **"Bravery"** pattern — success→crit-success vs a *narrow* category (e.g., Fear) before the full feature comes online.
+| Track | Start (L1) | Expert | Master (+ *success→crit* rider) | Legendary (+ *crit-fail→fail* & half-on-fail) |
+|---|---|---|---|---|
+| **Good** | Expert | — | **L7** | **L15** |
+| **Normal** | Expert | — | **L11** | — |
+| **Poor** | Trained | **L9** | — | — |
 
-**This is a baseline expectation for every class** (alongside Weapon Specialization). It is *not* extra resilience layered on top of our save tables — it **replaces** ad-hoc "→ Master" entries, and the **Expert-capped weak save is the balancing cost** of the two rider'd saves. *(Retrofitted into the Sentinel and Guardian; native to the Soldier.)*
+- **Good** — the class's signature defense: starts at Expert, reaches **Master at L7** with the *success→crit* rider, and is the only track that reaches **Legendary (L15)** — which adds *critical failure → failure* and *half damage on a failed save vs a damaging effect*.
+- **Normal** — a solid strong save: starts at Expert, reaches **Master at L11** with the *success→crit* rider; never Legendary.
+- **Poor** — the deliberate vulnerability: starts Trained, reaches **Expert at L9** and stops — no rider. Every class carries **at least one Poor save** (its soft spot), so enemies get a vector against each.
+- Each step is a **named class feature** flavored per class — *Tough as Nails / Juggernaut* (Fort), *Resolve* (Will), *Evasion* (Reflex), and a *Greater / Unshakable* feature for the Legendary step.
+- **Optional early limited rider (~L3):** the *"Bravery"* pattern — success→crit vs a narrow category (e.g., Fear) before the full feature comes online.
+
+A save's Master step (Normal L11 / Good L7) lands earlier than weapon (L13), armor (L15), or class-DC (L17) Master — because a failed save punishes harder than a lagging attack stat.
+
+#### 3.2.1 Per-class save composition
+
+Set by the balance review below — each class assigns Good/Normal/Poor to Fort/Reflex/Will so its resilience profile matches its role, fantasy, and the rest of its chassis. *(TBD — pending the save balance review.)*
 
 ---
 
