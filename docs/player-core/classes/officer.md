@@ -215,7 +215,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Unify the Squad
 
-**(20th level)** *Capstone.* Your command reaches its zenith: the Directive you issue each round affects **every** ally who can sense you, regardless of range or its normal target limits, and you can lead by example as part of issuing it.
+**(20th level)** Your command reaches its zenith: the Directive you issue each round affects **every** ally who can sense you, regardless of range or its normal target limits, and you can lead by example as part of issuing it.
 
 ---
 

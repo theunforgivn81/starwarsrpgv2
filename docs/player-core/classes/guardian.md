@@ -219,7 +219,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Unbreakable Guardian
 
-**(20th level)** *Capstone.* You are the wall that does not fall. Your Intercede has no range limit within your line of sight, and once per round, when an ally you can see would be reduced to 0 Hit Points, you can Intercede to leave them at 1 Hit Point instead — no matter where the blow comes from.
+**(20th level)** You are the wall that does not fall. Your Intercede has no range limit within your line of sight, and once per round, when an ally you can see would be reduced to 0 Hit Points, you can Intercede to leave them at 1 Hit Point instead — no matter where the blow comes from.
 
 ---
 

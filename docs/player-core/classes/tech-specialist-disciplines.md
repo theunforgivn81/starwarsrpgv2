@@ -26,7 +26,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(15th level)** Your healing Modifications can affect all allies in a burst, and you can cleanse one condition from each.
 
 ### Panacea
-**(19th level)** *Capstone.* **Frequency** once per 10 minutes. You release a master-grade nanite cloud: heal every ally in a 30-foot emanation and counteract diseases, poisons, and persistent damage afflicting them.
+**(19th level)** **Frequency** once per 10 minutes. You release a master-grade nanite cloud: heal every ally in a 30-foot emanation and counteract diseases, poisons, and persistent damage afflicting them.
 
 ---
 
@@ -50,7 +50,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(15th level)** You can craft temporary gear and consumables from scrap on the fly, and you can re-tune two installed Modifications during preparations.
 
 ### Field Expedient Genius
-**(19th level)** *Capstone.* **Frequency** once per day. You jury-rig a bespoke solution — replicate the effect of any Modification you don't know, or improvise a major effect from the materials at hand.
+**(19th level)** **Frequency** once per day. You jury-rig a bespoke solution — replicate the effect of any Modification you don't know, or improvise a major effect from the materials at hand.
 
 ---
 
@@ -65,7 +65,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(3rd level)** You can Overclock a rig-interfaced ranged weapon to make an Area Fire attack with it (a basic save against your Tech class DC).
 
 ### Integrated Weapon
-**(7th level)** Your rig-weapon's Strikes add a small Intelligence-based rider effect, and Overclocking the weapon adds damage.
+**(7th level)** Your rig-weapon's Strikes add a small Intelligence-based effect, and Overclocking the weapon adds damage.
 
 ### Deployable Turret
 **(11th level)** You can Activate a Modification to set up an autonomous turret — a Commanded emplacement that lays down fire when you Command it.
@@ -74,7 +74,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(15th level)** Your area weapons and Modifications ignore some cover and Hardness, and their blasts are larger.
 
 ### Walking Arsenal
-**(19th level)** *Capstone.* You Overclock your weapon attacks reliably — once per round, treat a failed Overclock flat check for a weapon as a success.
+**(19th level)** You Overclock your weapon attacks reliably — once per round, treat a failed Overclock flat check for a weapon as a success.
 
 ---
 
@@ -98,7 +98,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(15th level)** You can deploy a second, smaller drone, or your Command grants the droid an extra action.
 
 ### Master Droidwright
-**(19th level)** *Capstone.* Your droid becomes a formidable partner — a legendary-grade companion that can take some actions on its own without waiting for your Command.
+**(19th level)** Your droid becomes a formidable partner — a legendary-grade companion that can take some actions on its own without waiting for your Command.
 
 ---
 
@@ -122,7 +122,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(15th level)** You can Slice at long range and against multiple devices at once, and you ignore most electronic security.
 
 ### Total Control
-**(19th level)** *Capstone.* **Frequency** once per 10 minutes. You seize every hostile device and construct in range for a round — a mass takeover (Incapacitation).
+**(19th level)** **Frequency** once per 10 minutes. You seize every hostile device and construct in range for a round — a mass takeover (Incapacitation).
 
 ---
 

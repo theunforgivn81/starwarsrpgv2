@@ -29,7 +29,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(15th level)** Once per round, when an ally within range would be critically hit, you can react to make it a normal hit instead.
 
 ### Unbreakable Watch
-**(19th level)** *Capstone.* Allies within 15 feet of you can't be critically hit while you're conscious and not off-guard. Once per round, your protective reaction shields every ally within range from one area effect.
+**(19th level)** Allies within 15 feet of you can't be critically hit while you're conscious and not off-guard. Once per round, your protective reaction shields every ally within range from one area effect.
 
 ---
 
@@ -53,7 +53,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(15th level)** When you **Evade**, you can Stride (not just Step) and Hide as part of the reaction. A creature that loses track of you is off-guard to your next Counter.
 
 ### Inevitable Ambush
-**(19th level)** *Capstone.* Your precision die increases to **3d6**. Once per round, your **Counter** against a creature that's off-guard to you is automatically a critical hit if it hits.
+**(19th level)** Your precision die increases to **3d6**. Once per round, your **Counter** against a creature that's off-guard to you is automatically a critical hit if it hits.
 
 ---
 
@@ -77,7 +77,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(15th level)** When your **Counter** hits, the target is **frightened 1** (frightened 2 on a critical hit).
 
 ### No Refuge
-**(19th level)** *Capstone.* You can Counter beyond the once-per-round limit by spending 2 Attunement per extra Counter. A creature frightened by your Counter can't reduce its frightened value below 1 while it's within your Premonition range.
+**(19th level)** You can Counter beyond the once-per-round limit by spending 2 Attunement per extra Counter. A creature frightened by your Counter can't reduce its frightened value below 1 while it's within your Premonition range.
 
 ---
 
@@ -101,7 +101,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(15th level)** Against a creature you've Recalled this encounter, your Premonition responses gain a +1 circumstance bonus without a check, and your **Maneuver** against it also leaves it off-guard until the start of your next turn.
 
 ### Case Closed
-**(19th level)** *Capstone.* Once per round, a successful **Maneuver** lets you apply a second, different maneuver to that foe for free. Creatures you've Recalled can't be hidden or concealed from you, and your **Counter** treats them as off-guard.
+**(19th level)** Once per round, a successful **Maneuver** lets you apply a second, different maneuver to that foe for free. Creatures you've Recalled can't be hidden or concealed from you, and your **Counter** treats them as off-guard.
 
 ---
 
@@ -125,7 +125,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(15th level)** When you **Counter** with a blaster, the bolt ricochets to a second creature within 15 feet of the first, dealing half the Counter's damage (no second roll).
 
 ### Outer Rim Legend
-**(19th level)** *Capstone.* Your blaster **Counter** ricochets to up to two additional creatures (half damage each), a foe you make off-guard with a trick this round is off-guard to your whole party, and your ranged Premonition Strikes ignore all cover and concealment.
+**(19th level)** Your blaster **Counter** ricochets to up to two additional creatures (half damage each), a foe you make off-guard with a trick this round is off-guard to your whole party, and your ranged Premonition Strikes ignore all cover and concealment.
 
 ---
 

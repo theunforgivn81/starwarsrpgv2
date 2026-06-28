@@ -209,7 +209,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Prescience
 
-**(20th level)** *Capstone.* Your foresight is total. You can't be surprised, and you're never off-guard to any creature you can perceive. You and allies within 30 feet gain a +4 status bonus to initiative. Once per round, your Premonition can trigger off *any* hostile action a foe takes, not only an attack.
+**(20th level)** Your foresight is total. You can't be surprised, and you're never off-guard to any creature you can perceive. You and allies within 30 feet gain a +4 status bonus to initiative. Once per round, your Premonition can trigger off *any* hostile action a foe takes, not only an attack.
 
 ---
 

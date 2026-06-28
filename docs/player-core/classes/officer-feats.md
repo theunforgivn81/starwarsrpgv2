@@ -204,7 +204,7 @@ You gain a +2 circumstance bonus to initiative, and you can't be made off-guard 
 
 ### Grand Strategy!
 **Feat 16** · **Traits** Officer
-When you issue a Directive that offers multiple modes or riders, it applies **two** of them at once.
+When you issue a Directive that offers multiple optional effects, it applies **two** of them at once.
 
 ### Greater Directives
 **Feat 16** · **Traits** Officer

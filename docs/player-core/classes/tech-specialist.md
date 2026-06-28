@@ -212,7 +212,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Singularity Rig
 
-**(20th level)** *Capstone.* Your rig has transcended its safe limits entirely. Your Overclock flat check **always succeeds and never causes a lockout**, and your Overclocked Modifications deal an additional die of their effect.
+**(20th level)** Your rig has transcended its safe limits entirely. Your Overclock flat check **always succeeds and never causes a lockout**, and your Overclocked Modifications deal an additional die of their effect.
 
 ---
 

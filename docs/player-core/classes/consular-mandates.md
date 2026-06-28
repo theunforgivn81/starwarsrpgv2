@@ -35,7 +35,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Singularity
 
-**(19th level)** *Capstone.* You add **Telekinetic Singularity** to your repertoire. Once per round, after you Manifest an Alter power, you can apply its Push upgrade as a free action.
+**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you Manifest an Alter power, you can apply its Push upgrade as a free action.
 
 ---
 
@@ -65,7 +65,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Foresight
 
-**(19th level)** *Capstone.* You add **Foresight** to your repertoire. You yourself can't be surprised, and you gain roll-twice fortune against the first attack to target you each round.
+**(19th level)** You add **Foresight** to your repertoire. You yourself can't be surprised, and you gain roll-twice fortune against the first attack to target you each round.
 
 ---
 
@@ -95,7 +95,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Sanctuary
 
-**(19th level)** *Capstone.* You add **Wall of Light** to your repertoire, and you can shape its protection as a zone that shelters your allies.
+**(19th level)** You add **Wall of Light** to your repertoire, and you can shape its protection as a zone that shelters your allies.
 
 ---
 
@@ -125,7 +125,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Resurrection
 
-**(19th level)** *Capstone.* You add **Force Resurrection** to your repertoire. Death itself is no longer final at your hands.
+**(19th level)** You add **Force Resurrection** to your repertoire. Death itself is no longer final at your hands.
 
 ---
 
@@ -155,7 +155,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Shatter Will
 
-**(19th level)** *Capstone.* You add **Mind Fracture** and **Sever Force** to your repertoire — the apex of mental domination.
+**(19th level)** You add **Mind Fracture** and **Sever Force** to your repertoire — the apex of mental domination.
 
 ---
 
@@ -185,7 +185,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Annihilation
 
-**(19th level)** *Capstone.* You add **Force Destruction** to your repertoire, unmaking your enemies utterly.
+**(19th level)** You add **Force Destruction** to your repertoire, unmaking your enemies utterly.
 
 ---
 

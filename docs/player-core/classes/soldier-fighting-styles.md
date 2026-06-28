@@ -4,8 +4,8 @@ At 1st level, every Soldier commits to a **fighting style** — the discipline t
 
 Choose one of the five styles below when you make your Soldier. You can't change it later except through specific feats.
 
-> **Sidebar — One Rider at a Time**
-> Every style's **3rd-level** feature carries the **[Suppressed]** trait. As always, you can apply only **one** [Suppressed] effect each time you make a creature suppressed (see *Suppress*, in the Soldier chassis) — so your style rider competes for that single slot with any [Suppressed] feats you take. Breadth in the build; one choice at the table.
+> **Sidebar — One [Suppressed] Effect at a Time**
+> Every style's **3rd-level** feature carries the **[Suppressed]** trait. As always, you can apply only **one** [Suppressed] effect each time you make a creature suppressed (see *Suppress*, in the Soldier chassis) — so your style's effect competes for that single slot with any [Suppressed] feats you take.
 
 ---
 
@@ -20,7 +20,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 ### Pinning Fire
 
 **Traits** [Suppressed]
-**(3rd level)** When you make creatures suppressed with your Suppressing Fire, you can choose this rider: each creature that fails its save is also **off-guard** until the start of your next turn.
+**(3rd level)** When you make creatures suppressed with your Suppressing Fire, you can choose this effect: each creature that fails its save is also **off-guard** until the start of your next turn.
 
 ### Sustained Barrage
 
@@ -36,7 +36,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Total Lockdown
 
-**(19th level)** *Capstone.* Your Suppression Zone is enormous, enemies inside it can't move toward your allies, and a creature that **critically fails** its save against your Suppressing Fire is **stunned 1**.
+**(19th level)** Your Suppression Zone is enormous, enemies inside it can't move toward your allies, and a creature that **critically fails** its save against your Suppressing Fire is **stunned 1**.
 
 ---
 
@@ -51,7 +51,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 ### Crushing Hold
 
 **Traits** [Suppressed]
-**(3rd level)** Your Athletics maneuvers against suppressed foes gain a **+1 circumstance bonus**. In addition, when you make a creature suppressed with a maneuver, you can choose this rider: that creature is **off-guard** until the start of your next turn.
+**(3rd level)** Your Athletics maneuvers against suppressed foes gain a **+1 circumstance bonus**. In addition, when you make a creature suppressed with a maneuver, you can choose this effect: that creature is **off-guard** until the start of your next turn.
 
 ### Immovable
 
@@ -67,7 +67,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Unbreakable Line
 
-**(19th level)** *Capstone.* A suppressed enemy's attack can't reduce you below **1 Hit Point**, and at the start of each of your turns, every adjacent enemy becomes **suppressed**.
+**(19th level)** A suppressed enemy's attack can't reduce you below **1 Hit Point**, and at the start of each of your turns, every adjacent enemy becomes **suppressed**.
 
 ---
 
@@ -82,7 +82,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 ### Shaped Charge
 
 **Traits** [Suppressed]
-**(3rd level)** When you make creatures suppressed with an area attack, you can choose this rider: each creature that fails its save is **slowed 1** until the start of your next turn.
+**(3rd level)** When you make creatures suppressed with an area attack, you can choose this effect: each creature that fails its save is **slowed 1** until the start of your next turn.
 
 ### Cluster Munitions
 
@@ -98,7 +98,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Carpet Bomb
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Carpet Bomb**  [two-actions]  · **Traits** Soldier
 **Frequency** once per minute
@@ -133,7 +133,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 ### Veiled Threat
 
 **Traits** [Suppressed]
-**(3rd level)** When you make a creature suppressed with Oppressive Presence, you can choose this rider: that creature is also **frightened 1** for as long as it isn't attacking you.
+**(3rd level)** When you make a creature suppressed with Oppressive Presence, you can choose this effect: that creature is also **frightened 1** for as long as it isn't attacking you.
 
 ### Intimidating Onslaught
 
@@ -149,7 +149,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Unquestioned Authority
 
-**(19th level)** *Capstone.* Every enemy that can see you and **isn't** currently attacking you is **suppressed**.
+**(19th level)** Every enemy that can see you and **isn't** currently attacking you is **suppressed**.
 
 ---
 
@@ -164,7 +164,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 ### Brutal Sweep
 
 **Traits** [Suppressed]
-**(3rd level)** When you make creatures suppressed with your melee whirlwind, you can choose this rider: each creature that fails its save is **pushed 5 feet** or knocked **prone** (your choice, the same for all).
+**(3rd level)** When you make creatures suppressed with your melee whirlwind, you can choose this effect: each creature that fails its save is **pushed 5 feet** or knocked **prone** (your choice, the same for all).
 
 ### Whirling Swipe
 
@@ -187,7 +187,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Eye of the Hurricane
 
-**(19th level)** *Capstone.* At the start of each of your turns, all enemies adjacent to you are **suppressed** and **off-guard** to you, and your whirlwind Suppressing Fire deals damage even to creatures that critically succeed at their save.
+**(19th level)** At the start of each of your turns, all enemies adjacent to you are **suppressed** and **off-guard** to you, and your whirlwind Suppressing Fire deals damage even to creatures that critically succeed at their save.
 
 ---
 

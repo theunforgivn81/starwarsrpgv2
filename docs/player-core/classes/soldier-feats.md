@@ -2,7 +2,7 @@
 
 At every even level — and 1st — you gain a **Soldier class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a **fighting style** in their Prerequisites require that style.
 
-> **Sidebar — Spending Your One Rider**
+> **Sidebar — Spending Your One [Suppressed] Effect**
 > Feats tagged **[Suppressed]** add an effect you can attach when you make a creature suppressed — but only **one** [Suppressed] effect applies per suppressing action (see *Suppress*). Collecting several gives you options to pick between, not a stack. The only exception is **Double Suppression**, below.
 
 ---
@@ -23,7 +23,7 @@ One enemy within 30 feet attempts a Will save against your Soldier class DC.
 
 ### Knockback Blast
 **Feat 1** · **Traits** Soldier, Suppressed
-When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that fails its save is pushed 5 feet directly away from you.
+When you make a creature suppressed with Suppressing Fire, you can choose this effect: each creature that fails its save is pushed 5 feet directly away from you.
 
 ### Suppressing Salvo
 **Feat 1** · **Traits** Soldier
@@ -44,7 +44,7 @@ Once per turn, you can Interact to reload a weapon you're wielding as a free act
 
 ### Run, Cowards!
 **Feat 2** · **Traits** Soldier, Suppressed
-When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that **critically fails** its save is fleeing until the end of its next turn.
+When you make a creature suppressed with Suppressing Fire, you can choose this effect: each creature that **critically fails** its save is fleeing until the end of its next turn.
 
 ---
 
@@ -67,7 +67,7 @@ When you make a melee Strike, you can also make a melee Strike against a second 
 
 ### Immobilizing Fire
 **Feat 4** · **Traits** Soldier, Suppressed
-When you make a creature suppressed with Suppressing Fire, you can choose this rider: each creature that fails its save is immobilized until it Escapes (against your Soldier class DC).
+When you make a creature suppressed with Suppressing Fire, you can choose this effect: each creature that fails its save is immobilized until it Escapes (against your Soldier class DC).
 
 ### Indiscriminate
 **Feat 4** · **Traits** Soldier
@@ -76,7 +76,7 @@ You can use Suppressing Fire as a 10-foot emanation centered on yourself, blanke
 
 ### Leg Shot
 **Feat 4** · **Traits** Soldier, Suppressed
-When you make a creature suppressed, you can choose this rider: each affected creature is off-guard until the start of your next turn.
+When you make a creature suppressed, you can choose this effect: each affected creature is off-guard until the start of your next turn.
 
 ### Wide Barrage
 **Feat 4** · **Traits** Soldier
@@ -233,10 +233,10 @@ Make a melee Strike against each creature in your reach, and each creature you h
 ### Double Suppression
 **Feat 14** · **Traits** Soldier
 **Frequency** once per round
-**Effect** When you make creatures suppressed, you can apply **two** [Suppressed] riders on that action instead of one.
+**Effect** When you make creatures suppressed, you can apply **two** [Suppressed] effects on that action instead of one.
 
-> **Example — Stacking the Riders**
-> *Master Sergeant Ko lays down Suppressing Fire and, with Double Suppression, attaches both Leg Shot (off-guard) and Run, Cowards! (fleeing on a critical failure). A droid that critically fails is now off-guard **and** fleeing — two riders from one barrage, the once-per-round payoff for a deep [Suppressed] menu.*
+> **Example — Stacking the Effects**
+> *Master Sergeant Ko lays down Suppressing Fire and, with Double Suppression, attaches both Leg Shot (off-guard) and Run, Cowards! (fleeing on a critical failure). A droid that critically fails is now off-guard **and** fleeing — two [Suppressed] effects from one barrage.*
 
 ### Unflinching
 **Feat 14** · **Traits** Soldier

@@ -199,7 +199,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Perfect Opening
 
-**(20th level)** *Capstone.* You make your own openings. The first Strike you make each turn against a foe treats that foe as exploitable even if it isn't yet, dealing your full Exploit damage. In addition, your Strikes against your Mark are critical hits on a 19–20.
+**(20th level)** You make your own openings. The first Strike you make each turn against a foe treats that foe as exploitable even if it isn't yet, dealing your full Exploit damage. In addition, your Strikes against your Mark are critical hits on a 19–20.
 
 ---
 

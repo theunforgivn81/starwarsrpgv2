@@ -32,7 +32,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Master Manipulator
 
-**(19th level)** *Capstone.* A foe you Feint is **off-guard to everyone** until the start of your next turn, and you can plant a command in a mark's mind.
+**(19th level)** A foe you Feint is **off-guard to everyone** until the start of your next turn, and you can plant a command in a mark's mind.
 
 **Suggest**  [two-actions]  · **Traits** Scoundrel, Linguistic, Mental
 **Frequency** once per minute
@@ -78,7 +78,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Perfect Shot
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Perfect Shot**  [one-action]  · **Traits** Scoundrel
 **Frequency** once per minute
@@ -130,7 +130,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Hail of Fire
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Hail of Fire**  [two-actions]  · **Traits** Scoundrel
 **Frequency** once per minute
@@ -171,7 +171,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Untraceable
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Untraceable**  [free-action]  · **Traits** Scoundrel
 **Frequency** once per minute
@@ -215,7 +215,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 
 ### Assassinate
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Assassinate**  [one-action]  · **Traits** Scoundrel
 **Frequency** once per minute

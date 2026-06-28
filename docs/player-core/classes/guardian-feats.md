@@ -36,7 +36,7 @@ Your Intercede range increases to 20 feet, and you can use Intercede against an 
 
 ### Telekinetic Shove
 **Feat 2** · **Traits** Guardian
-Your Force Push gains a Shove rider, and once per turn it costs 1 less Attunement when you use it against a creature in your reach.
+Your Force Push also lets you Shove the target, and once per turn it costs 1 less Attunement when you use it against a creature in your reach.
 
 ---
 

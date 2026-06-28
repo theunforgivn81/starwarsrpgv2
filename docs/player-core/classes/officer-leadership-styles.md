@@ -48,7 +48,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Tip of the Spear
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Tip of the Spear**  [two-actions]  · **Traits** Officer, [Directive], Auditory, Visual
 **Effect** Choose an enemy. Each ally who can sense you may make a free **Stride** toward it and gains a status bonus to damage on their next Strike against it this round.
@@ -91,7 +91,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Perfect Ambush
 
-**(19th level)** *Capstone.* On the first round of any combat your side begins, every enemy is **off-guard** to all of your allies until the end of that round.
+**(19th level)** On the first round of any combat your side begins, every enemy is **off-guard** to all of your allies until the end of that round.
 
 ---
 
@@ -134,7 +134,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Grand Performance
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **Grand Performance**  [two-actions]  · **Traits** Officer, [Directive], Auditory, Visual
 **Effect** Each ally who can sense you gains a **+2 status bonus** to attacks, damage, and saves until the start of your next turn, and each enemy that can sense you is **frightened 1**.
@@ -177,7 +177,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### Total Information Control
 
-**(19th level)** *Capstone.* Once per round, you can let an ally who can sense you **reroll** a failed check. Enemies you've assessed with Digital Assessment! this combat are **off-guard** to all of your allies.
+**(19th level)** Once per round, you can let an ally who can sense you **reroll** a failed check. Enemies you've assessed with Digital Assessment! this combat are **off-guard** to all of your allies.
 
 ---
 
@@ -224,7 +224,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### All Guns Blazing
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **All Guns Blazing**  [two-actions]  · **Traits** Officer, [Directive], Auditory, Visual
 **Frequency** once per minute
@@ -274,7 +274,7 @@ Choose one of the six below when you make your Officer. You can't change it late
 
 ### No One Left Behind
 
-**(19th level)** *Capstone.*
+**(19th level)**
 
 **No One Left Behind**  [reaction]  · **Traits** Officer
 **Frequency** once per minute

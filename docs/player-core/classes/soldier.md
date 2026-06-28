@@ -24,8 +24,8 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Area weapon**. A weapon (or firing mode) that attacks an area rather than one target. Area weapons enlarge your Suppression Zone; zone size is the equipment-and-style axis of your control.
 
-> **Sidebar — One Rider at a Time**
-> Many feats and fighting-style features let you attach an *extra* effect — off-guard, frightened, slowed, pushed — to a creature you suppress. These effects all carry the **[Suppressed]** trait, and **you may apply only one [Suppressed] effect per action that applies the suppressed condition.** Collect as many riders as you like across your build; you still pick exactly one each time you suppress.
+> **Sidebar — One [Suppressed] Effect at a Time**
+> Many feats and fighting-style features let you attach an *extra* effect — off-guard, frightened, slowed, pushed — to a creature you suppress. These effects all carry the **[Suppressed]** trait, and **you may apply only one [Suppressed] effect per action that applies the suppressed condition.** Collect as many of these effects as you like across your build; you still pick exactly one each time you suppress.
 
 ---
 

@@ -84,7 +84,7 @@ When you damage a foe's gear with a Modification, you can jam its weapon or blin
 ### Unstable Conversion
 **Feat 4** · **Traits** Tech
 **Prerequisites** Scrapper
-A Modification you've re-tuned with Jury-Rigged Adapter gains a rider matching its new damage type (persistent damage, a push, a slow, and so on).
+A Modification you've re-tuned with Jury-Rigged Adapter gains an added effect matching its new damage type (persistent damage, a push, a slow, and so on).
 
 ---
 

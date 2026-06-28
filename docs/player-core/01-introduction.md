@@ -60,7 +60,7 @@ Almost everything you attempt uses the same simple procedure:
 
 Your **bonus** is built from a few parts you'll see on every check:
 
-- **Level Bonus** — a small number that rises as you gain levels (it's printed right on your class table: +2 early, up to +7 at the highest levels). Everyone's Level Bonus grows at the same gentle pace — this is what keeps the math bounded.
+- **Level Bonus** — a small number that rises as you gain levels (it's printed right on your class table: +2 early, up to +7 at the highest levels). Everyone's Level Bonus grows at the same gentle pace.
 - **Proficiency rank** — how trained you are in *this* thing: **Trained +1, Expert +2, Master +3, Legendary +4** (and +0 if you're **untrained**).
 - **Attribute modifier** — the relevant talent (Strength, Dexterity, and so on), from about −1 to +6.
 - **Bonuses and penalties** — situational nudges from cover, aid, conditions, and gear.

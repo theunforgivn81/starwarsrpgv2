@@ -179,7 +179,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Master Manifest
 
-**(13th level)** You command the Force's highest expressions. You can learn and Manifest the most powerful (4th-tier) powers, and your **Telekinetic Impact** gains an additional rider: on a hit, you may forgo the push to instead make the target **off-guard** to you until the start of your next turn.
+**(13th level)** You command the Force's highest expressions. You can learn and Manifest the most powerful (4th-tier) powers, and your **Telekinetic Impact** gains an additional effect: on a hit, you may forgo the push to instead make the target **off-guard** to you until the start of your next turn.
 
 ## Perception Mastery
 
@@ -187,7 +187,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Weapon Specialization
 
-**(13th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat **+2** damage. You reach expert with your simple weapons and lightsaber at 11th level, so this is live when you gain it — a small reward for the Consular who takes blade in hand, never your main line of attack.
+**(13th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat **+2** damage.
 
 ## Greater Resolve
 
@@ -203,7 +203,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Avatar of the Force
 
-**(20th level)** *Capstone.* You and the Force are very nearly one. Once per round, you can Manifest a power **without spending Attunement**, and once per encounter you can restore your Attunement pool to full as a single action.
+**(20th level)** You and the Force are very nearly one. Once per round, you can Manifest a power **without spending Attunement**, and once per encounter you can restore your Attunement pool to full as a single action.
 
 ---
 
