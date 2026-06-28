@@ -145,7 +145,7 @@ While your Suppression Zone is up, every enemy inside it is suppressed, and any 
 
 ## Walking Armory
 
-**(1st level)** You wear your arsenal like a second skin. You can use your **Constitution modifier in place of Strength** to meet an armor's Strength requirement. If you already meet that requirement, **reduce the armor's Bulk by 1**. Your carrying capacity also increases. This is what lets a Constitution-based Soldier wear the heaviest armor in the game without spending a point on Strength.
+**(1st level)** You wear your arsenal like a second skin. You can use your **Constitution modifier in place of Strength** to meet an armor's Strength requirement. If you already meet that requirement, **reduce the armor's Bulk by 1**. Your carrying capacity also increases.
 
 ## Fighting Style
 
@@ -217,7 +217,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 ## Unshakable Juggernaut
 
-**(15th level)** You shrug off what would fell others. Your proficiency in Fortitude saves increases to **legendary**; a **critical failure** on a Fortitude save becomes an ordinary **failure**; and when you **fail** a Fortitude save against an effect that deals damage, you take **half** that damage. With Tough as Nails, this makes your body the hardest target in the game.
+**(15th level)** You shrug off what would fell others. Your proficiency in Fortitude saves increases to **legendary**; a **critical failure** on a Fortitude save becomes an ordinary **failure**; and when you **fail** a Fortitude save against an effect that deals damage, you take **half** that damage.
 
 ## Legendary Armor
 
