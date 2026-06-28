@@ -96,9 +96,9 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 8 | +3 | Class feat, skill feat, skill increase |
 | 9 | +3 | Custom Rig [5], Fortitude Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
-| 11 | +3 | Discipline feature, general feat, skill increase |
+| 11 | +3 | Perception Mastery, Discipline feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat, skill increase |
-| 13 | +4 | Custom Rig [6], Light Armor Expertise, Perception Mastery, Weapon Mastery, species feat, skill increase |
+| 13 | +4 | Custom Rig [6], Light Armor Expertise, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
 | 15 | +4 | Greater Weapon Specialization, Tech Mastery, Greater Evasion, Greater Resolve, Discipline feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
@@ -200,7 +200,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Perception Mastery
 
-**(13th level)** Your proficiency rank for Perception increases to master.
+**(11th level)** Your proficiency rank for Perception increases to master.
 
 ## Weapon Mastery
 

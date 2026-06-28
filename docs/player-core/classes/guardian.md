@@ -96,15 +96,15 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 4 | +2 | Class feat, skill feat |
 | 5 | +2 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Armor Expertise, Perception Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
+| 7 | +2 | Armor Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Guardian Expertise, Improved Intercede, Reflex Expertise, species feat, skill increase |
+| 9 | +3 | Guardian Expertise, Improved Intercede, Reflex Expertise, Perception Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Juggernaut, Form feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Perception Mastery, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -161,7 +161,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Perception Expertise
 
-**(7th level)** Your proficiency rank for Perception increases to expert.
+**(9th level)** Your proficiency rank for Perception increases to expert.
 
 ## Vigilant Guard
 
@@ -200,10 +200,6 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 ## Lightsaber Legend
 
 **(13th level)** Your proficiency rank for the lightsaber increases to legendary — the premier blade in the galaxy.
-
-## Perception Mastery
-
-**(15th level)** Your proficiency rank for Perception increases to master.
 
 ## Greater Resolve
 

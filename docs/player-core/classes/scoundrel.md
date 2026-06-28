@@ -109,7 +109,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 12 | +4 | Class feat, skill feat |
 | 13 | +4 | Legendary Gunner, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Light Armor Mastery, Greater Evasion, specialization feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Weapon Specialization, Light Armor Mastery, Greater Evasion, Eagle Eyes, specialization feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
 | 17 | +5 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
@@ -184,6 +184,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 ## Greater Evasion
 
 **(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
+
+## Eagle Eyes
+
+**(15th level)** Your proficiency rank for Perception increases to legendary — nothing on the battlefield escapes your notice.
 
 ## Legendary Gunner
 

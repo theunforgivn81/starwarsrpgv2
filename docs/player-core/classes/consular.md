@@ -101,9 +101,9 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 8 | +3 | Class feat, skill feat |
 | 9 | +3 | Greater Manifest, Reflex Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Weapon Expertise, Mandate feature, general feat, skill increase |
+| 11 | +3 | Weapon Expertise, Perception Mastery, Mandate feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Light Armor Expertise, Master Manifest, Perception Mastery, Weapon Specialization, species feat, skill increase |
+| 13 | +4 | Light Armor Expertise, Master Manifest, Weapon Specialization, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Resolve, Unshakable Juggernaut, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
@@ -183,7 +183,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Perception Mastery
 
-**(13th level)** Your proficiency rank for Perception increases to master.
+**(11th level)** Your proficiency rank for Perception increases to master.
 
 ## Weapon Specialization
 

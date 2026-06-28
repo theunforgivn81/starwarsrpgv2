@@ -97,11 +97,11 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat |
 | 3 | +1 | Fearsome Bulwark, fighting style feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Perception Expertise, Soldier Weapon Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Soldier Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat |
 | 7 | +2 | Armor Expertise, Soldier Expertise, Tough as Nails, Weapon Specialization, fighting style feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Dig In, Reflex Expertise, species feat, skill increase |
+| 9 | +3 | Dig In, Reflex Expertise, Perception Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, ability boosts |
 | 11 | +3 | Soldier's Resolution, fighting style feature, general feat, skill increase |
 | 12 | +4 | Class feat, skill feat |
@@ -109,7 +109,7 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 14 | +4 | Class feat, skill feat |
 | 15 | +4 | Greater Weapon Specialization, Soldier Mastery, Unshakable Juggernaut, fighting style feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Legendary Armor, Perception Mastery, Pinned Down, species feat, skill increase |
+| 17 | +5 | Legendary Armor, Pinned Down, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat |
 | 19 | +5 | Peerless Soldier, fighting style feature, general feat, skill increase |
 | 20 | +6 | No Quarter, class feat, skill feat, ability boosts |
@@ -161,7 +161,7 @@ While your Suppression Zone is up, every enemy inside it is suppressed, and any 
 
 ## Perception Expertise
 
-**(5th level)** Your proficiency rank for Perception increases to expert.
+**(9th level)** Your proficiency rank for Perception increases to expert.
 
 ## Soldier Weapon Expertise
 
@@ -222,10 +222,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 ## Legendary Armor
 
 **(17th level)** Your proficiency ranks for light, medium, and heavy armor and for unarmored defense increase to legendary.
-
-## Perception Mastery
-
-**(17th level)** Your proficiency rank for Perception increases to master.
 
 ## Pinned Down
 

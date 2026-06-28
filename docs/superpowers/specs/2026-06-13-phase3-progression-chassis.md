@@ -110,6 +110,20 @@ Armor proficiency advances on one of three tracks, by how central armor is to th
 - The three **Normal** tracks now form a ladder by defensive urgency: weapon **Expert@5/Master@13** → armor **Expert@7/Master@15** → class DC **Expert@9/Master@17**.
 - **Poor** classes (Consular, Tech) defend with non-armor tools (Force barriers, gadget Standbys); Expert@13 keeps their AC from sliding too far without making armor their game. (Tech already runs Normal weapons + Good class DC; Normal armor too would overtune it.)
 
+### 3.1d Perception tracks
+
+Perception advances on one of three tracks. ORC gives no usable pattern (only its caster Poor line is clean), so Good/Normal mirror the save-track shape for memorability.
+
+| Track | Start (L1) | Expert | Master | Legendary | Used by |
+|---|---|---|---|---|---|
+| **Good** | Expert | — | **L7** | **L15** | Scoundrel, Sentinel, Officer |
+| **Normal** | Trained | **L5** | **L11** | — | Consular, Tech Specialist |
+| **Poor** | Trained | **L9** | — | — | Soldier, Guardian |
+
+- Closes the **"three Legendary proficiencies total"** budget (§3.2.1): the three Good-Perception classes are exactly those that needed a third Legendary from Perception (Scoundrel, Officer) or already had it (Sentinel). The four already at three — Soldier/Guardian (armor + offense), Consular/Tech (class DC + saves) — cap below Legendary here.
+- **Soldier & Guardian take Poor Perception on purpose:** they already hold the game's strongest offense-plus-defense combos, so battlefield awareness is the deliberate price (heads-down in the fray; weak Reflex *and* weak Perception = surprise/AoE is their vector).
+- Only the **Poor** line echoes ORC (its caster track, tidied to Expert@9). The "Soldier Expert@5-and-stop" and "Envoy beats Operative to Legendary" oddities are dropped.
+
 ### 3.2 Save tracks (the success→crit-success pattern)
 
 A single save advances on one of three tracks. Each class is **composed** of three saves (Fort/Reflex/Will) drawn from these tracks — the per-class mix is set by the balance review in §3.2.1:

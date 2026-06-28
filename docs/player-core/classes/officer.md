@@ -61,7 +61,7 @@ You build the network: contacts, favors, reputation, and the kind of standing th
 At 1st level you gain the following proficiencies. Your total bonus on any check or DC is the **Level Bonus** for your level (see the table) **plus** your proficiency-rank bonus — Trained +1, Expert +2, Master +3, Legendary +4 — **plus** the relevant attribute modifier.
 
 **Perception**  
-Trained in Perception
+Expert in Perception
 
 **Saving Throws**  
 Expert in Reflex  
@@ -94,9 +94,9 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 2 | +1 | Class feat, skill feat, skill increase |
 | 3 | +1 | Adaptive Talent, leadership feature, general feat, skill increase |
 | 4 | +2 | Class feat, skill feat, skill increase |
-| 5 | +2 | Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
+| 5 | +2 | Weapon Expertise, ability boosts, species feat, skill increase |
 | 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Weapon Specialization, Light Armor Expertise, Resolve, Evasion, leadership feature, general feat, skill increase |
+| 7 | +2 | Weapon Specialization, Light Armor Expertise, Resolve, Evasion, Perception Mastery, leadership feature, general feat, skill increase |
 | 8 | +3 | Class feat, skill feat, skill increase |
 | 9 | +3 | Officer Expertise, Fortitude Expertise, species feat, skill increase |
 | 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
@@ -104,9 +104,9 @@ The **Level Bonus** column is the universal proficiency level term — **1 + ⌊
 | 12 | +4 | Class feat, skill feat, skill increase |
 | 13 | +4 | Tactician, Weapon Mastery, species feat, skill increase |
 | 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Greater Resolve, Greater Evasion, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
+| 15 | +4 | Greater Resolve, Greater Evasion, Ever Watchful, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
 | 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Officer Mastery, Perception Mastery, species feat, skill increase |
+| 17 | +5 | Officer Mastery, species feat, skill increase |
 | 18 | +5 | Class feat, skill feat, skill increase |
 | 19 | +5 | leadership feature, general feat, skill increase |
 | 20 | +6 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
@@ -150,10 +150,6 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 ## Officer Expertise
 
 **(9th level)** Your proficiency rank for your Officer class DC increases to expert.
-
-## Perception Expertise
-
-**(5th level)** Your proficiency rank for Perception increases to expert.
 
 ## Weapon Expertise
 
@@ -205,9 +201,13 @@ At **15th level**, this becomes **Greater Weapon Specialization**, and the bonus
 
 **(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
 
+## Ever Watchful
+
+**(15th level)** Your proficiency rank for Perception increases to legendary — you miss nothing on the field.
+
 ## Perception Mastery
 
-**(17th level)** Your proficiency rank for Perception increases to master.
+**(7th level)** Your proficiency rank for Perception increases to master.
 
 ## Light Armor Mastery
 
