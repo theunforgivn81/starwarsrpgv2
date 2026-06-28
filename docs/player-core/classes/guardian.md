@@ -86,30 +86,30 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
+The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +1 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
-| 2 | +1 | Class feat, skill feat |
-| 3 | +1 | Form feature, general feat, skill increase |
-| 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
-| 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Armor Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
-| 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Guardian Expertise, Improved Intercede, Reflex Expertise, Perception Expertise, species feat, skill increase |
-| 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Juggernaut, Form feature, general feat, skill increase |
-| 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
-| 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
-| 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
-| 18 | +5 | Class feat, skill feat |
-| 19 | +5 | Form feature, general feat, skill increase |
-| 20 | +6 | Unbreakable Guardian, ability boosts, class feat, skill feat |
+| 1 | +2 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
+| 2 | +2 | Class feat, skill feat |
+| 3 | +2 | Form feature, general feat, skill increase |
+| 4 | +3 | Class feat, skill feat |
+| 5 | +3 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
+| 6 | +3 | Class feat, skill feat |
+| 7 | +3 | Armor Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
+| 8 | +4 | Class feat, skill feat |
+| 9 | +4 | Guardian Expertise, Improved Intercede, Reflex Expertise, Perception Expertise, species feat, skill increase |
+| 10 | +4 | Class feat, skill feat, ability boosts |
+| 11 | +4 | Juggernaut, Form feature, general feat, skill increase |
+| 12 | +5 | Class feat, skill feat |
+| 13 | +5 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
+| 14 | +5 | Class feat, skill feat |
+| 15 | +5 | Greater Weapon Specialization, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
+| 16 | +6 | Class feat, skill feat |
+| 17 | +6 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
+| 18 | +6 | Class feat, skill feat |
+| 19 | +6 | Form feature, general feat, skill increase |
+| 20 | +7 | Unbreakable Guardian, ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 

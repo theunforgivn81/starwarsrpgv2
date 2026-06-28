@@ -82,30 +82,30 @@ Trained in Tech class DC
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As a Tech Specialist, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
+The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As a Tech Specialist, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +1 | Deploy (Custom Rig [3], Modification Library, Overclock), Engineering Discipline, class feat, species feat |
-| 2 | +1 | Class feat, skill feat, skill increase |
-| 3 | +1 | Tech Savvy, Discipline feature, general feat, skill increase |
-| 4 | +2 | Class feat, skill feat, skill increase |
-| 5 | +2 | Custom Rig [4], Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
-| 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Tech Expertise, Emergency Reroute, Evasion, Resolve, Weapon Specialization, Discipline feature, general feat, skill increase |
-| 8 | +3 | Class feat, skill feat, skill increase |
-| 9 | +3 | Custom Rig [5], Fortitude Expertise, species feat, skill increase |
-| 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
-| 11 | +3 | Perception Mastery, Discipline feature, general feat, skill increase |
-| 12 | +4 | Class feat, skill feat, skill increase |
-| 13 | +4 | Custom Rig [6], Light Armor Expertise, Weapon Mastery, species feat, skill increase |
-| 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Greater Weapon Specialization, Tech Mastery, Greater Evasion, Greater Resolve, Discipline feature, ability boosts, general feat, skill increase |
-| 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Custom Rig [7], species feat, skill increase |
-| 18 | +5 | Class feat, skill feat, skill increase |
-| 19 | +5 | Apex Engineering, Discipline feature, general feat, skill increase |
-| 20 | +6 | Singularity Rig, ability boosts, class feat, skill feat, skill increase |
+| 1 | +2 | Deploy (Custom Rig [3], Modification Library, Overclock), Engineering Discipline, class feat, species feat |
+| 2 | +2 | Class feat, skill feat, skill increase |
+| 3 | +2 | Tech Savvy, Discipline feature, general feat, skill increase |
+| 4 | +3 | Class feat, skill feat, skill increase |
+| 5 | +3 | Custom Rig [4], Perception Expertise, Weapon Expertise, ability boosts, species feat, skill increase |
+| 6 | +3 | Class feat, skill feat, skill increase |
+| 7 | +3 | Tech Expertise, Emergency Reroute, Evasion, Resolve, Weapon Specialization, Discipline feature, general feat, skill increase |
+| 8 | +4 | Class feat, skill feat, skill increase |
+| 9 | +4 | Custom Rig [5], Fortitude Expertise, species feat, skill increase |
+| 10 | +4 | Class feat, skill feat, skill increase, ability boosts |
+| 11 | +4 | Perception Mastery, Discipline feature, general feat, skill increase |
+| 12 | +5 | Class feat, skill feat, skill increase |
+| 13 | +5 | Custom Rig [6], Light Armor Expertise, Weapon Mastery, species feat, skill increase |
+| 14 | +5 | Class feat, skill feat, skill increase |
+| 15 | +5 | Greater Weapon Specialization, Tech Mastery, Greater Evasion, Greater Resolve, Discipline feature, ability boosts, general feat, skill increase |
+| 16 | +6 | Class feat, skill feat, skill increase |
+| 17 | +6 | Custom Rig [7], species feat, skill increase |
+| 18 | +6 | Class feat, skill feat, skill increase |
+| 19 | +6 | Apex Engineering, Discipline feature, general feat, skill increase |
+| 20 | +7 | Singularity Rig, ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 

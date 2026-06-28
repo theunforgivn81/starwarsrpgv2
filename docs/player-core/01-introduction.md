@@ -60,7 +60,7 @@ Almost everything you attempt uses the same simple procedure:
 
 Your **bonus** is built from a few parts you'll see on every check:
 
-- **Level Bonus** — a small number that rises as you gain levels (it's printed right on your class table: +1 early, up to +6 at the highest levels). Everyone's Level Bonus grows at the same gentle pace — this is what keeps the math bounded.
+- **Level Bonus** — a small number that rises as you gain levels (it's printed right on your class table: +2 early, up to +7 at the highest levels). Everyone's Level Bonus grows at the same gentle pace — this is what keeps the math bounded.
 - **Proficiency rank** — how trained you are in *this* thing: **Trained +1, Expert +2, Master +3, Legendary +4** (and +0 if you're **untrained**).
 - **Attribute modifier** — the relevant talent (Strength, Dexterity, and so on), from about −1 to +6.
 - **Bonuses and penalties** — situational nudges from cover, aid, conditions, and gear.
@@ -68,7 +68,7 @@ Your **bonus** is built from a few parts you'll see on every check:
 So a check is usually `d20 + Level Bonus + proficiency + attribute (+ anything situational)` against a DC.
 
 > **Example — One Roll**
-> *Vex tries to slice a locked blast door. She's a 3rd-level Scoundrel (Level Bonus +1), Expert in Computers (+2), with a Dexterity of... no — Computers uses Intelligence (+3). Her bonus is +1 +2 +3 = +6. The GM sets the DC at 18 (a serious lock). Vex rolls a 13; 13 + 6 = 19. Nineteen meets 18 — the door hisses open.*
+> *Vex tries to slice a locked blast door. She's a 3rd-level Scoundrel (Level Bonus +2), Expert in Computers (+2), with a Dexterity of... no — Computers uses Intelligence (+3). Her bonus is +2 +2 +3 = +7. The GM sets the DC at 18 (a serious lock). Vex rolls a 13; 13 + 7 = 20. Twenty meets 18 — the door hisses open.*
 
 ### The Four Degrees of Success
 
@@ -137,7 +137,7 @@ A handful of words you'll meet constantly:
 - **DC (Difficulty Class)** — the number a check must reach.
 - **Hit Points (HP)** — your health; at 0 you fall and start dying.
 - **Initiative** — the roll (usually Perception) that sets turn order.
-- **Level Bonus** — the universal per-level number added to checks and DCs (1 + ⌊level ÷ 4⌋).
+- **Level Bonus** — the universal per-level number added to checks and DCs (2 + ⌊level ÷ 4⌋).
 - **NPC** — any character the GM plays.
 - **Proficiency** — your training rank: untrained +0, trained +1, expert +2, master +3, legendary +4.
 - **Reaction** — something you do on another's turn when its trigger fires; three per round, maximum.
@@ -250,7 +250,7 @@ You're **trained** in the skills your class and background grant, **plus** a num
 Spend your starting credits on a weapon or two, armor, and tools (see the equipment chapter), then fill in the small stuff: your **Hit Points** (`species base + your level × (class HP + CON modifier)`), your **AC**, your saves, your Perception, and your Speed. Note your class's **first feature** and any feats. Then give your character a name, a face, and a reason to be in that cantina booth.
 
 > **Example — Building Vex**
-> *Concept: a fast-talking pistol artist with a debt she's outrunning. **Species:** human (a boost to Dexterity and one free). **Background:** outlaw (boosts to Dexterity and Charisma; trained in Stealth; a skill feat). **Class:** Scoundrel, Gunslinger specialization (key attribute Dexterity; trained in Acrobatics from the spec). She finalizes Dexterity at +3, with Charisma and Constitution behind it. **Skills:** her class and background give Stealth, Acrobatics, and more; her +1 Intelligence adds one extra (she takes Computers). **Gear:** a pair of blaster pistols and light armor. She writes down her Hit Points, her +1 Level Bonus, and her Exploit — and she's ready for the catwalk.*
+> *Concept: a fast-talking pistol artist with a debt she's outrunning. **Species:** human (a boost to Dexterity and one free). **Background:** outlaw (boosts to Dexterity and Charisma; trained in Stealth; a skill feat). **Class:** Scoundrel, Gunslinger specialization (key attribute Dexterity; trained in Acrobatics from the spec). She finalizes Dexterity at +3, with Charisma and Constitution behind it. **Skills:** her class and background give Stealth, Acrobatics, and more; her +1 Intelligence adds one extra (she takes Computers). **Gear:** a pair of blaster pistols and light armor. She writes down her Hit Points, her +2 Level Bonus, and her Exploit — and she's ready for the catwalk.*
 
 ### Leveling Up
 

@@ -85,30 +85,30 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
+The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +1 | Premonition, Foretell, Premonition fork (subclass), class feat, species feat |
-| 2 | +1 | Class feat, skill feat |
-| 3 | +1 | fork feature, general feat, skill increase |
-| 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
-| 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Perception Mastery, Weapon Specialization, Light Armor Expertise, Evasion, Resolve, fork feature, general feat, skill increase |
-| 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Sentinel Expertise, Fortitude Expertise, species feat, skill increase |
-| 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | fork feature, general feat, skill increase |
-| 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Weapon Mastery, species feat, skill increase |
-| 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, Greater Evasion, Greater Resolve, fork feature, ability boosts, general feat, skill increase |
-| 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
-| 18 | +5 | Class feat, skill feat |
-| 19 | +5 | Fork feature, general feat, skill increase |
-| 20 | +6 | Prescience, ability boosts, class feat, skill feat |
+| 1 | +2 | Premonition, Foretell, Premonition fork (subclass), class feat, species feat |
+| 2 | +2 | Class feat, skill feat |
+| 3 | +2 | fork feature, general feat, skill increase |
+| 4 | +3 | Class feat, skill feat |
+| 5 | +3 | Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
+| 6 | +3 | Class feat, skill feat |
+| 7 | +3 | Perception Mastery, Weapon Specialization, Light Armor Expertise, Evasion, Resolve, fork feature, general feat, skill increase |
+| 8 | +4 | Class feat, skill feat |
+| 9 | +4 | Sentinel Expertise, Fortitude Expertise, species feat, skill increase |
+| 10 | +4 | Class feat, skill feat, ability boosts |
+| 11 | +4 | fork feature, general feat, skill increase |
+| 12 | +5 | Class feat, skill feat |
+| 13 | +5 | Weapon Mastery, species feat, skill increase |
+| 14 | +5 | Class feat, skill feat |
+| 15 | +5 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, Greater Evasion, Greater Resolve, fork feature, ability boosts, general feat, skill increase |
+| 16 | +6 | Class feat, skill feat |
+| 17 | +6 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
+| 18 | +6 | Class feat, skill feat |
+| 19 | +6 | Fork feature, general feat, skill increase |
+| 20 | +7 | Prescience, ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 

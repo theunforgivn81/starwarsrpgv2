@@ -91,30 +91,30 @@ Trained in Scoundrel class DC
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
+The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +1 | Exploit, Aim, specialization, class feat, species feat |
-| 2 | +1 | Class feat, skill feat |
-| 3 | +1 | specialization feature, general feat, skill increase |
-| 4 | +2 | Class feat, skill feat |
-| 5 | +2 | Exploit 2d6, Master Gunner, ability boosts, species feat, skill increase |
-| 6 | +2 | Class feat, skill feat |
-| 7 | +2 | Evasion, Operative's Edge, Weapon Specialization, Light Armor Expertise, specialization feature, general feat, skill increase |
-| 8 | +3 | Class feat, skill feat |
-| 9 | +3 | Scoundrel Expertise, Scoundrel Resilience, species feat, skill increase |
-| 10 | +3 | Class feat, skill feat, ability boosts |
-| 11 | +3 | Exploit 3d6, On the Move, Resolve, specialization feature, general feat, skill increase |
-| 12 | +4 | Class feat, skill feat |
-| 13 | +4 | Legendary Gunner, species feat, skill increase |
-| 14 | +4 | Class feat, skill feat |
-| 15 | +4 | Greater Weapon Specialization, Light Armor Mastery, Greater Evasion, Eagle Eyes, specialization feature, ability boosts, general feat, skill increase |
-| 16 | +5 | Class feat, skill feat |
-| 17 | +5 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
-| 18 | +5 | Class feat, skill feat |
-| 19 | +5 | specialization feature, general feat, skill increase |
-| 20 | +6 | Perfect Opening, ability boosts, class feat, skill feat |
+| 1 | +2 | Exploit, Aim, specialization, class feat, species feat |
+| 2 | +2 | Class feat, skill feat |
+| 3 | +2 | specialization feature, general feat, skill increase |
+| 4 | +3 | Class feat, skill feat |
+| 5 | +3 | Exploit 2d6, Master Gunner, ability boosts, species feat, skill increase |
+| 6 | +3 | Class feat, skill feat |
+| 7 | +3 | Evasion, Operative's Edge, Weapon Specialization, Light Armor Expertise, specialization feature, general feat, skill increase |
+| 8 | +4 | Class feat, skill feat |
+| 9 | +4 | Scoundrel Expertise, Scoundrel Resilience, species feat, skill increase |
+| 10 | +4 | Class feat, skill feat, ability boosts |
+| 11 | +4 | Exploit 3d6, On the Move, Resolve, specialization feature, general feat, skill increase |
+| 12 | +5 | Class feat, skill feat |
+| 13 | +5 | Legendary Gunner, species feat, skill increase |
+| 14 | +5 | Class feat, skill feat |
+| 15 | +5 | Greater Weapon Specialization, Light Armor Mastery, Greater Evasion, Eagle Eyes, specialization feature, ability boosts, general feat, skill increase |
+| 16 | +6 | Class feat, skill feat |
+| 17 | +6 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
+| 18 | +6 | Class feat, skill feat |
+| 19 | +6 | specialization feature, general feat, skill increase |
+| 20 | +7 | Perfect Opening, ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 

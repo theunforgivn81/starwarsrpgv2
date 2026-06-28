@@ -86,30 +86,30 @@ Trained in Officer class DC
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **1 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As an Officer, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
+The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As an Officer, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +1 | Command, Get-the-Job-Done, leadership style, class feat, bonus directive feat, species feat |
-| 2 | +1 | Class feat, skill feat, skill increase |
-| 3 | +1 | Adaptive Talent, leadership feature, general feat, skill increase |
-| 4 | +2 | Class feat, skill feat, skill increase |
-| 5 | +2 | Weapon Expertise, ability boosts, species feat, skill increase |
-| 6 | +2 | Class feat, skill feat, skill increase |
-| 7 | +2 | Weapon Specialization, Light Armor Expertise, Resolve, Evasion, Perception Mastery, leadership feature, general feat, skill increase |
-| 8 | +3 | Class feat, skill feat, skill increase |
-| 9 | +3 | Officer Expertise, Fortitude Expertise, species feat, skill increase |
-| 10 | +3 | Class feat, skill feat, skill increase, ability boosts |
-| 11 | +3 | leadership feature, general feat, skill increase |
-| 12 | +4 | Class feat, skill feat, skill increase |
-| 13 | +4 | Tactician, Weapon Mastery, species feat, skill increase |
-| 14 | +4 | Class feat, skill feat, skill increase |
-| 15 | +4 | Greater Resolve, Greater Evasion, Ever Watchful, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
-| 16 | +5 | Class feat, skill feat, skill increase |
-| 17 | +5 | Officer Mastery, species feat, skill increase |
-| 18 | +5 | Class feat, skill feat, skill increase |
-| 19 | +5 | leadership feature, general feat, skill increase |
-| 20 | +6 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
+| 1 | +2 | Command, Get-the-Job-Done, leadership style, class feat, bonus directive feat, species feat |
+| 2 | +2 | Class feat, skill feat, skill increase |
+| 3 | +2 | Adaptive Talent, leadership feature, general feat, skill increase |
+| 4 | +3 | Class feat, skill feat, skill increase |
+| 5 | +3 | Weapon Expertise, ability boosts, species feat, skill increase |
+| 6 | +3 | Class feat, skill feat, skill increase |
+| 7 | +3 | Weapon Specialization, Light Armor Expertise, Resolve, Evasion, Perception Mastery, leadership feature, general feat, skill increase |
+| 8 | +4 | Class feat, skill feat, skill increase |
+| 9 | +4 | Officer Expertise, Fortitude Expertise, species feat, skill increase |
+| 10 | +4 | Class feat, skill feat, skill increase, ability boosts |
+| 11 | +4 | leadership feature, general feat, skill increase |
+| 12 | +5 | Class feat, skill feat, skill increase |
+| 13 | +5 | Tactician, Weapon Mastery, species feat, skill increase |
+| 14 | +5 | Class feat, skill feat, skill increase |
+| 15 | +5 | Greater Resolve, Greater Evasion, Ever Watchful, Greater Weapon Specialization, Legendary Improvisation, Light Armor Mastery, leadership feature, ability boosts, general feat, skill increase |
+| 16 | +6 | Class feat, skill feat, skill increase |
+| 17 | +6 | Officer Mastery, species feat, skill increase |
+| 18 | +6 | Class feat, skill feat, skill increase |
+| 19 | +6 | leadership feature, general feat, skill increase |
+| 20 | +7 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
