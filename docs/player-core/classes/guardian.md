@@ -78,7 +78,7 @@ Trained in simple weapons and martial weapons
 Trained in light armor, medium armor, and unarmored defense
 
 **Class DC**  
-Trained in Guardian class DC (your Force DC)
+Trained in Guardian class DC
 
 You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see *The Force*), which fuels your telekinetic shoves and Force-power upgrades. Your free defensive baseline — lightsaber Strikes, Deflect, and Intercede — never costs Attunement, so you can always guard.
 

@@ -77,7 +77,7 @@ Trained in simple weapons and the lightsaber
 Trained in light armor and unarmored defense
 
 **Class DC**  
-Trained in Sentinel class DC (your Force DC)
+Trained in Sentinel class DC
 
 You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which fuels your Premonition. Your defensive responses cost nothing — you never run out of the ability to protect yourself or an ally.
 

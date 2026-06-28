@@ -43,13 +43,13 @@ Powers cost Attunement by tier:
 
 > A **power on this list** with combat impact always costs at least 1 Attunement; the 0-cost powers here are deliberately minor utility, so they can't be the whole fight. (A class's own signature attack — such as the Consular's Telekinetic Impact — is a class feature rather than a power on this list, and follows the cost printed in its own entry.)
 
-### Your Force DC and your rolls
+### Your class DC and your rolls
 
-When a power lets a foe resist, they roll a save against your **Force DC**:
+When a power lets a foe resist, they roll a save against your **class DC** — the same number that governs the rest of your class's effects:
 
-> **Force DC = 10 + Level Bonus + your Force proficiency + your key attribute.**
+> **Class DC = 10 + Level Bonus + proficiency + your key attribute.**
 
-When a power makes an *attack*, you roll `d20 + Level Bonus + Force proficiency + key attribute` against the target's defense, just like any other check. Your key attribute is set by your class (a Consular's Charisma, a Sentinel's Wisdom, and so on).
+When a power makes an *attack*, you roll `d20 + Level Bonus + proficiency + key attribute` against the target's defense, just like any other check. Your key attribute is set by your class (a Consular's Charisma, a Sentinel's Wisdom, and so on).
 
 ### Acquiring powers — bought, not granted
 
@@ -422,7 +422,7 @@ While Sustaining, you deal the success damage again each round and the target at
 **Traits** Force, Control
 **Cost** 3 Attunement
 **Area** 20-foot emanation; **Duration** sustained up to 1 minute
-**Effect** You create a null in the Force. Within the area, Force powers and other supernatural effects are suppressed: a creature that attempts a Force action must succeed at a check against your Force DC or lose the action, and ongoing supernatural effects are suppressed while in the area.
+**Effect** You create a null in the Force. Within the area, Force powers and other supernatural effects are suppressed: a creature that attempts a Force action must succeed at a check against your class DC or lose the action, and ongoing supernatural effects are suppressed while in the area.
 **Push (+1 Attunement)** When the void appears, it also attempts to dispel each ongoing Force effect in the area of your level or lower.
 
 ### Force Wave  [two-actions]  ·  Power 9
@@ -593,7 +593,7 @@ While Sustaining, you deal the success damage again each round and the target at
 **Cost** none
 **Range** 30 feet; **Targets** 1 unattended object of light Bulk; **Duration** sustained
 **Effect** You lift and guide an unattended object you can see, moving it up to 20 feet each round and manipulating simple mechanisms (pulling a lever, keying a control). You can't wield the object as a weapon. The Bulk you can lift increases as you gain levels.
-**Push (+1 Attunement)** You can attempt to pull an item from a creature's grasp, using your Force DC as a Disarm attempt.
+**Push (+1 Attunement)** You can attempt to pull an item from a creature's grasp, using your class DC as a Disarm attempt.
 
 ### Telekinetic Singularity  [three-actions]  ·  Power 17
 **Traits** Force, Alter
@@ -606,7 +606,7 @@ While Sustaining, you deal the success damage again each round and the target at
 **Traits** Force, Body, Dark
 **Cost** 3 Attunement
 **Trigger** You are reduced to 0 Hit Points or killed.
-**Effect** Rather than die, your spirit flees into a vessel — a prepared receptacle or a creature within 30 feet (an unwilling creature attempts a Will save against your Force DC to resist possession). Your body dies, but you persist, inhabiting the vessel. This is a forbidden art, and using it leaves its mark.
+**Effect** Rather than die, your spirit flees into a vessel — a prepared receptacle or a creature within 30 feet (an unwilling creature attempts a Will save against your class DC to resist possession). Your body dies, but you persist, inhabiting the vessel. This is a forbidden art, and using it leaves its mark.
 **Push (+1 Attunement)** The vessel may be up to 100 feet away.
 
 ### True Sight  [one-action]  ·  Power 13

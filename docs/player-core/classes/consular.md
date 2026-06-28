@@ -7,13 +7,13 @@ A Consular is the will made manifest. Where a Guardian answers the galaxy with a
 > **Key Attribute** Charisma
 > **Hit Points** 8 + your Constitution modifier (each level)
 
-A high Charisma is the force of will that powers every manifestation. Charisma is your key for the Force — your **Force DC** (the number foes resist), your Force attacks, and your standing in the galaxy's halls of power. The Consular pours everything into it.
+A high Charisma is the force of will that powers every manifestation. Charisma is your key for the Force — your **class DC** (the number foes resist), your Force attacks, and your standing in the galaxy's halls of power. The Consular pours everything into it.
 
 > **Sidebar — Reading an Ability Block**
 > Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* (always capitalized) note the rules categories an ability belongs to. Save-based abilities list all four outcomes — **Critical Success, Success, Failure, Critical Failure**.
 
 > **Sidebar — Your Powers Live in *The Force***
-> The Consular is built on the shared Force toolkit. Everything about **Attunement**, the six **Applications**, your **Force DC**, **Push**, and the full list of powers lives in the **The Force** chapter. This chapter covers what makes the Consular the Force's master: the deepest pool, the broadest access, and the engine that fuels it all.
+> The Consular is built on the shared Force toolkit. Everything about **Attunement**, the six **Applications**, your **class DC**, **Push**, and the full list of powers lives in the **The Force** chapter. This chapter covers what makes the Consular the Force's master: the deepest pool, the broadest access, and the engine that fuels it all.
 
 ---
 
@@ -25,7 +25,7 @@ A high Charisma is the force of will that powers every manifestation. Charisma i
 
 **Mandate**. Your Consular subclass — a devotion to one of the six Applications of the Force that grants you its iconic power and deepens your command of it.
 
-*(For Attunement, the Applications, Force DC, and Push, see **The Force**.)*
+*(For Attunement, the Applications, class DC, and Push, see **The Force**.)*
 
 ---
 
@@ -79,7 +79,7 @@ Trained in simple weapons and the lightsaber
 Trained in light armor and unarmored defense
 
 **Class DC**  
-Trained in Consular class DC (your Force DC)
+Trained in Consular class DC
 
 You also gain **Attunement**, the Force resource (see *The Force*) — and the deepest pool of any class (below).
 
@@ -124,7 +124,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **The broadest reach.** You can learn powers from **all six Applications** (most Force users lean on one or two). Your **repertoire** — the powers you know — is the largest in the galaxy: at 1st level it holds the power your **Mandate** grants you, plus **four** powers of your choice that you're high enough level to learn, from any Application. You add another power to your repertoire each time you gain a class feat, and your Manifest-development features (below) widen both how many powers you know and which tiers you can reach.
 
-**Your DC is your weapon.** When a power you Manifest lets a foe resist, they roll against your **Consular class DC** (your Force DC). This is the stat you live and die by, and it climbs higher than any other class's (to Legendary at 19th level).
+**Your DC is your weapon.** When a power you Manifest lets a foe resist, they roll against your **Consular class DC**. This is the stat you live and die by, and it climbs higher than any other class's (to Legendary at 19th level).
 
 ## Telekinetic Impact
 
