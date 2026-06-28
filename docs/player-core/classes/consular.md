@@ -97,7 +97,7 @@ The **Level Bonus** column is the universal proficiency level term — **2 + ⌊
 | 4 | +3 | Class feat, skill feat |
 | 5 | +3 | Heightened Manifest, Perception Expertise, ability boosts, species feat, skill increase |
 | 6 | +3 | Class feat, skill feat |
-| 7 | +3 | Consular Expertise, Resolve, Juggernaut, Mandate feature, general feat, skill increase |
+| 7 | +3 | Consular Expertise, Resolve, Indomitable Body, Mandate feature, general feat, skill increase |
 | 8 | +4 | Class feat, skill feat |
 | 9 | +4 | Greater Manifest, Reflex Expertise, species feat, skill increase |
 | 10 | +4 | Class feat, skill feat, ability boosts |
@@ -105,7 +105,7 @@ The **Level Bonus** column is the universal proficiency level term — **2 + ⌊
 | 12 | +5 | Class feat, skill feat |
 | 13 | +5 | Light Armor Expertise, Master Manifest, Weapon Specialization, species feat, skill increase |
 | 14 | +5 | Class feat, skill feat |
-| 15 | +5 | Greater Resolve, Unshakable Juggernaut, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
+| 15 | +5 | Greater Resolve, Unbreakable Body, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +6 | Class feat, skill feat |
 | 17 | +6 | species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
@@ -165,7 +165,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(15th level)** Your proficiency rank for your Consular class DC increases to master.
 
-## Juggernaut
+## Indomitable Body
 
 **(7th level)** Your body endures what your will commands. Your proficiency rank for Fortitude saves increases to master, and when you roll a success on a Fortitude save, you get a critical success instead.
 
@@ -193,7 +193,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
 
-## Unshakable Juggernaut
+## Unbreakable Body
 
 **(15th level)** Your proficiency rank for Fortitude saves increases to legendary. When you roll a critical failure on a Fortitude save, you get a failure instead, and when you fail a Fortitude save against an effect that deals damage, you take half that damage.
 
