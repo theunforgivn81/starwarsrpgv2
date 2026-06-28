@@ -33,7 +33,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Scoundrel
 
 **During Combat Encounters…**  
-You set up, then cash in. A typical turn spends an action to make a foe exploitable — Aim at your Mark, Feint, slip into a flank — then Strikes for a precise burst, then repositions. The decisions are *how* to crack the target, *which* target, and *when* to spend your one Flourish; never "Strike three times."
+You set up, then cash in. You spend an action to make a foe exploitable — **Aim** at your Mark, **Feint**, slip into a flank — then Strike for a precise burst and reposition before the answer comes.
 
 **During Social Encounters…**  
 You're the one who does the talking, the lying, or the reading of everyone else's tells — and on many builds, your charm is a combat tool too.

@@ -32,7 +32,7 @@ A high Wisdom is the perceptiveness that drives your foresight — it sharpens y
 ## Roleplaying the Sentinel
 
 **During Combat Encounters…**  
-You wait, and you watch. Your own turn sets up — a **Foretell** to mark the dangerous foe, a Strike, a Form — but your real work happens when the enemy acts: you **Evade** the blow that would land, **Counter** into the opening, or **Warn** the ally about to be hit. The decisions are *whose* attack to answer and *how* — never "Strike three times."
+You wait, and you watch. Your own turn sets up — a **Foretell** to mark the dangerous foe, a Strike, a Form — but your real work comes when the enemy acts: you **Evade** the blow that would land, **Counter** into the opening, or **Warn** the ally about to be hit.
 
 **During Social Encounters…**  
 You read people the way you read a fight — catching the tell, the lie, the half-second of hesitation. Few things get past a Sentinel.

@@ -32,7 +32,7 @@ A high Strength drives your lightsaber, your telekinetic shoves, and the force o
 ## Roleplaying the Guardian
 
 **During Combat Encounters…**  
-You set a stance, you threaten, and you guard. A typical turn enters or holds a **Form**, makes a lightsaber Strike or a telekinetic shove, and *keeps a reaction back* for the enemy's turn — to Deflect a bolt, to Intercede for a friend, or to punish a foe trying to slip past you. Your turn is a series of reads — which Form, which threat, which reaction to hold — never "Strike three times."
+You set a stance, you threaten, and you guard. You hold a **Form**, strike with your lightsaber or shove with the Force, and keep a reaction ready for the enemy's turn — to **Deflect** a bolt, **Intercede** for a friend, or punish a foe that tries to slip past you.
 
 **During Social Encounters…**  
 You're the steadfast one — the bodyguard, the protector, the line nobody crosses. Your word carries the weight of someone who clearly means to keep it.

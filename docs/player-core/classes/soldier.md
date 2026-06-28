@@ -32,7 +32,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Soldier
 
 **During Combat Encounters…**  
-You control space. You decide where the enemy *can't* go and what it costs to try anyway. A typical turn lays down a zone, picks off a foe already caught in it, and holds your reaction for whoever flinches first. You are seldom out of meaningful decisions — *where* the zone goes, *whom* to punish, *when* to fire — and almost never out of resources, because suppression costs no fuel but actions and ammo.
+You control space — you decide where the enemy *can't* go and what it costs to try anyway. You lay down a zone, pick off a foe already caught in it, and hold your reaction for whoever flinches first. Suppression costs no fuel but actions and ammo, so you rarely run dry.
 
 **During Social Encounters…**  
 You are the implied threat in the room — and your menace is mechanical, not merely flavor; your intimidation runs on the same Constitution that carries your armor.

@@ -32,7 +32,7 @@ A high Charisma is the force of will that powers every manifestation. Charisma i
 ## Roleplaying the Consular
 
 **During Combat Encounters…**  
-You shape the fight. A typical turn opens with an at-will **Telekinetic Impact** — your reliable, free offense — then spends Attunement on the power the moment calls for: crush a foe, hold it fast, dominate its mind, mend an ally, or wall off the field. When your pool runs low, you **Center** and refill it. Your decisions are *which power, which target, how hard to Push, when to refuel* — never "attack three times."
+You shape the fight with the Force. Your **Telekinetic Impact** strikes for free, and your Attunement pays for the powers that turn a battle — crushing a foe, holding it fast, bending its mind, mending an ally, or walling off the field. When your pool runs low, you **Center** to draw it back.
 
 **During Social Encounters…**  
 Your Charisma is no mask — it's the same will that moves starfighters. You persuade, intimidate, and (with the right Mandate) reach past words entirely.

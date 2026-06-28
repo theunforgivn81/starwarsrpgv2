@@ -29,7 +29,7 @@ A high Intelligence runs everything you do — your **Tech class DC** (the numbe
 ## Roleplaying the Tech Specialist
 
 **During Combat Encounters…**  
-You play your loadout. A typical turn **Activates** an installed Modification — a blast, a field, a heal, a hologram — and decides whether to **Overclock** it and gamble the flat check, while your **Standby** passives quietly improve everyone the whole time. Your decisions are *which* Mods to install, *which* to fire, and *when* the situation is worth the risk.
+You play your loadout. You **Activate** an installed Modification — a blast, a field, a heal, a hologram — and choose whether to **Overclock** it and gamble the flat check, while your **Standby** passives quietly improve everyone the whole time.
 
 **During Social Encounters…**  
 You're the one who's read the dossier, knows the tech, and has a gadget for the lock, the camera, and the awkward question.

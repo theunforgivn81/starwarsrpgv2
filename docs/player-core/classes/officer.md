@@ -33,7 +33,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Officer
 
 **During Combat Encounters…**  
-You read the battlefield and spend it. A typical turn issues a Directive that makes your squad's round count for more — focus fire, reposition, rally — and then leads by example with a Strike or a move of your own. Your decisions are *which* order, *who* it helps, and whether to step in yourself; the squad's whole turn bends around the call you make.
+You read the battlefield and spend it. You issue a **Directive** that makes your squad's round count for more — focus fire, reposition, rally — then lead by example with a Strike or a move of your own. The squad's whole turn bends around the call you make.
 
 **During Social Encounters…**  
 You're the voice in the room — the negotiator, the liar, the inspiration — and you have the skills to back any of those plays.
