@@ -1,6 +1,6 @@
 # Guardian Forms
 
-At 1st level, every Guardian masters a signature **Form** — the lightsaber discipline that defines how you fight and guard. Your Form grants its stance for free (with the **Guardian Mastery** upgrade), a synergy that sharpens your Blade-Flow and Intercede, and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
+At 1st level, every Guardian masters a signature **Form** — the lightsaber discipline that defines how you fight and guard. Your Form grants its stance for free (with the **Guardian Mastery** upgrade), a synergy that sharpens your Intercede, and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
 
 Choose one of the seven below when you make your Guardian. The base stances and the Form feats you can branch into are in **[The Force](the-force.md)**; this is the deep mastery your subclass adds on top. Each Form's **3rd-level** feature reshapes how your signature Form uses Intercede, your bodyguard's reaction.
 

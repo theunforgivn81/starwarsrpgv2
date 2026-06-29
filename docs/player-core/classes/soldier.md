@@ -110,7 +110,7 @@ Trained in Soldier class DC
 | 17 | +6 | Legendary Armor, Pinned Down, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Peerless Soldier, fighting style feature, general feat, skill increase |
-| 20 | +7 | No Quarter, class feat, skill feat, ability boosts |
+| 20 | +7 | class feat, skill feat, ability boosts |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -228,10 +228,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Peerless Soldier
 
 **(19th level)** Your proficiency rank for your Soldier class DC increases to legendary — your suppression is the hardest in the galaxy to shrug off.
-
-## No Quarter
-
-**(20th level)** You command the field absolutely. Enemies can't leave your Suppression Zone toward your allies without triggering your Suppressing Reaction, and any creature that **critically fails** its save against your Suppressing Fire is also **slowed 1**.
 
 ---
 

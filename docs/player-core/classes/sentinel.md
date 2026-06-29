@@ -106,7 +106,7 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 | 17 | +6 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Fork feature, general feat, skill increase |
-| 20 | +7 | Prescience, ability boosts, class feat, skill feat |
+| 20 | +7 | ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -204,10 +204,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Unclouded Sight
 
 **(17th level)** Your foresight needs no effort. Your Overdrive (third) Premonition each round no longer costs Attunement to unlock (you still pay any response's cost, and the three-reaction limit still holds). At the start of combat, you can Foretell every foe you can perceive for free, without spending an action — you read the whole battlefield's opening move.
-
-## Prescience
-
-**(20th level)** Your foresight is total. You can't be surprised, and you're never off-guard to any creature you can perceive. You and allies within 30 feet gain a +4 status bonus to initiative. Once per round, your Premonition can trigger off *any* hostile action a foe takes, not only an attack.
 
 ---
 

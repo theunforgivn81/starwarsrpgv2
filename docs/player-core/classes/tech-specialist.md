@@ -105,7 +105,7 @@ As a Tech Specialist, you gain a **skill increase at every level from 2nd on** â
 | 17 | +6 | Custom Rig [7], species feat, skill increase |
 | 18 | +6 | Class feat, skill feat, skill increase |
 | 19 | +6 | Apex Engineering, Discipline feature, general feat, skill increase |
-| 20 | +7 | Singularity Rig, ability boosts, class feat, skill feat, skill increase |
+| 20 | +7 | ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -209,10 +209,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Apex Engineering
 
 **(19th level)** Your proficiency rank for your Tech class DC increases to legendary â€” your Modifications and Overclocks are the hardest in the galaxy to resist.
-
-## Singularity Rig
-
-**(20th level)** Your rig has transcended its safe limits entirely. Your Overclock flat check **always succeeds and never causes a lockout**, and your Overclocked Modifications deal an additional die of their effect.
 
 ---
 

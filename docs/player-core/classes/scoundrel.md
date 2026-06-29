@@ -112,7 +112,7 @@ Trained in Scoundrel class DC
 | 17 | +6 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | specialization feature, general feat, skill increase |
-| 20 | +7 | Perfect Opening, ability boosts, class feat, skill feat |
+| 20 | +7 | ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -194,10 +194,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Light Armor Mastery
 
 **(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
-
-## Perfect Opening
-
-**(20th level)** You make your own openings. The first Strike you make each turn against a foe treats that foe as exploitable even if it isn't yet, dealing your full Exploit damage. In addition, your Strikes against your Mark are critical hits on a 19–20.
 
 ---
 

@@ -108,7 +108,7 @@ Trained in Consular class DC
 | 17 | +6 | species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Force Mastery, Mandate feature, general feat, skill increase |
-| 20 | +7 | Avatar of the Force, ability boosts, class feat, skill feat |
+| 20 | +7 | ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -192,10 +192,6 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 ## Force Mastery
 
 **(19th level)** Your proficiency rank for your Consular class DC increases to legendary — your manifested powers are the hardest in the galaxy to resist.
-
-## Avatar of the Force
-
-**(20th level)** You and the Force are very nearly one. Once per round, you can Manifest a power **without spending Attunement**, and once per encounter you can restore your Attunement pool to full as a single action.
 
 ---
 

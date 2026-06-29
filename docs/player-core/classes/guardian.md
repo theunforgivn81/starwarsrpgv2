@@ -19,9 +19,9 @@ A high Strength drives your lightsaber, your telekinetic shoves, and the force o
 
 ## Key Terms
 
-**Guardian Mastery**. Your mastery of the Lightsaber Forms that you know allows you to benefit from them moreso than others.
+**Guardian Mastery**. The upgrade clause every Lightsaber Form carries for those who have truly mastered the Forms. As a Guardian, you gain it on every Form you enter — others get only the base stance.
 
-**Blade-Flow**. The ability that lets you flow between stances and benefit from every Form's Guardian Mastery.
+**Blade-Flow**. Your signature command of the Forms: you enter and switch stances as a free action, flowing into your guard in the same breath you fight, and you benefit from every Form's Guardian Mastery.
 
 **Intercede**. Your signature reaction: throwing yourself — body or will — into a blow meant for an ally.
 
@@ -95,11 +95,11 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Form Mastery, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
+| 1 | +2 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
 | 3 | +2 | Form feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
-| 5 | +3 | Weapon Expertise, Lightsaber Mastery, ability boosts, species feat, skill increase |
+| 5 | +3 | Guardian Weapon Mastery, ability boosts, species feat, skill increase |
 | 6 | +3 | Class feat, skill feat |
 | 7 | +3 | Armor Expertise, Vigilant Guard, Weapon Specialization, Resolve, Form feature, general feat, skill increase |
 | 8 | +4 | Class feat, skill feat |
@@ -107,22 +107,28 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 | 10 | +4 | Class feat, skill feat, ability boosts |
 | 11 | +4 | Juggernaut, Form feature, general feat, skill increase |
 | 12 | +5 | Class feat, skill feat |
-| 13 | +5 | Greater Blade-Flow, Weapon Mastery, Armor Mastery, Lightsaber Legend, species feat, skill increase |
+| 13 | +5 | Greater Blade-Flow, Armor Mastery, Lightsaber Legend, species feat, skill increase |
 | 14 | +5 | Class feat, skill feat |
 | 15 | +5 | Greater Weapon Specialization, Greater Resolve, Form feature, ability boosts, general feat, skill increase |
 | 16 | +6 | Class feat, skill feat |
 | 17 | +6 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Form feature, general feat, skill increase |
-| 20 | +7 | Unbreakable Guardian, ability boosts, class feat, skill feat |
+| 20 | +7 | ability boosts, class feat, skill feat |
 
 Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
 ---
 
-## Guardian Mastery
+## Blade-Flow
 
-**(1st level)** You are a master of the **Lightsaber Forms** (see *The Force*). Whenever you're in a stance granted by one of the Lightsaber Forms, you gain the benefit of its **Guardian Mastery** clause, not just its base effect. You begin play knowing your subclass's signature Form for free, and you can learn other Forms with your class feats.
+**(1st level)** You are a master of the **Lightsaber Forms** (see *The Force*), and you move through them like water. Whenever you're in a stance granted by a Lightsaber Form, you gain the benefit of its **Guardian Mastery** clause, not just its base effect. You begin play knowing your subclass's signature Form for free, and you can learn other Forms with your class feats.
+
+Where others must spend an action to set or change their stance, you flow into your guard in the same breath you draw your blade:
+
+**Blade-Flow**  [free-action]  · **Frequency** once per round · **Traits** Guardian
+**Trigger** You roll initiative, or it's your turn.
+**Effect** You enter a Form you know, or switch from the Form you're in to another — the flow between stances that gives the discipline its name.
 
 ## Intercede
 
@@ -142,7 +148,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Form
 
-**(1st level)** Every Guardian masters a signature **Form** — your subclass. It grants that Form's stance for free (with its Guardian Mastery upgrade), a synergy that sharpens your Blade-Flow and Intercede, and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Soresu**, **Ataru**, **Shien / Djem So**, **Makashi**, **Niman**, **Shii-Cho**, or **Juyo / Vaapad**; each is detailed in **Guardian Forms**.
+**(1st level)** Every Guardian masters a signature **Form** — your subclass. It grants that Form's stance for free (with its Guardian Mastery upgrade), a synergy that sharpens your Intercede, and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Soresu**, **Ataru**, **Shien / Djem So**, **Makashi**, **Niman**, **Shii-Cho**, or **Juyo / Vaapad**; each is detailed in **Guardian Forms**.
 
 ## Guardian Expertise
 
@@ -192,7 +198,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Greater Blade-Flow
 
-**(13th level)** Your command of the Forms reaches a higher plane: while in any Form, you gain an additional benefit appropriate to that Form (detailed with each Form), and the lines between blade and Force blur further.
+**(13th level)** Your flow is seamless. You can use **Blade-Flow** twice per round, and whenever you switch Forms with it, you keep the stance benefit of the Form you left until the start of your next turn — for that span you fight in two Forms at once.
 
 ## Lightsaber Legend
 
@@ -213,10 +219,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Master's Guard
 
 **(17th level)** You are the perfect bodyguard. Any attack which you Intercede cannot drop its target below 1 Hit Point.
-
-## Unbreakable Guardian
-
-**(20th level)** You are the wall that does not fall. Your Intercede has no range limit within your line of sight, and once per round, when an ally you can see would be reduced to 0 Hit Points, you can Intercede to leave them at 1 Hit Point instead — no matter where the blow comes from.
 
 ---
 

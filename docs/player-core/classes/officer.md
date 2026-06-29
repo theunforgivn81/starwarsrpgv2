@@ -109,7 +109,7 @@ As an Officer, you gain a **skill increase at every level from 2nd on** — the 
 | 17 | +6 | Officer Mastery, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat, skill increase |
 | 19 | +6 | leadership feature, general feat, skill increase |
-| 20 | +7 | Unify the Squad, ability boosts, class feat, skill feat, skill increase |
+| 20 | +7 | ability boosts, class feat, skill feat, skill increase |
 
 Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
 
@@ -212,10 +212,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Light Armor Mastery
 
 **(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
-
-## Unify the Squad
-
-**(20th level)** Your command reaches its zenith: the Directive you issue each round affects **every** ally who can sense you, regardless of range or its normal target limits, and you can lead by example as part of issuing it.
 
 ---
 
