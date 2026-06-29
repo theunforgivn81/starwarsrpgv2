@@ -29,26 +29,26 @@ A high Intelligence runs everything you do — your **Tech class DC** (the numbe
 ## Roleplaying the Tech Specialist
 
 **During Combat Encounters…**  
-You play your loadout. You **Activate** an installed Modification — a blast, a field, a heal, a hologram — and choose whether to **Overclock** it and gamble the flat check, while your **Standby** passives quietly improve everyone the whole time.
+You fight through your gear. You loose a blast, throw up a shimmering field, patch a wound, or sow confusion with a flickering hologram — and when the moment demands more, you push your hardware past its safe limits and trust it not to fail you. All the while, your jury-rigged equipment quietly sharpens everyone around you.
 
 **During Social Encounters…**  
 You're the one who's read the dossier, knows the tech, and has a gadget for the lock, the camera, and the awkward question.
 
 **While Exploring…**  
-You are the answer to most problems — slicing, repairing, scanning, crafting — and you have a skill for nearly everything.
+You are the answer to most obstacles — slicing, repairing, scanning, building — with a knack for nearly any problem the others bring you.
 
 **In Downtime…**  
-You tinker: learning new Modifications, building gear, and reconfiguring your rig for the mission ahead.
+You tinker endlessly — reverse-engineering new designs, building gear, and rebuilding your rig for the job ahead.
 
 **You Might…**
-- Want the deepest skill bench and the broadest box of tools in the game.
-- Like a class that prepares a loadout but never runs out of uses for it.
-- Enjoy the push-your-luck tension of the Overclock gamble.
+- Prefer the company of droids and machines to most organic company.
+- Treat standard procedure as a loose suggestion at best.
+- Hoard scrap and spare parts against the day they'll prove useful.
 
 **Others Probably…**
 - Rely on your gadgets to solve what their blasters can't.
-- Are quietly better at everything because of your Standby passives.
-- Forget you're unarmed — until your rig turns the fight around.
+- Find themselves quietly better at everything when your rig is running.
+- Forget you're nearly unarmed — until your gear turns the fight around.
 
 ---
 

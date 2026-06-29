@@ -32,7 +32,7 @@ A high Wisdom is the perceptiveness that drives your foresight — it sharpens y
 ## Roleplaying the Sentinel
 
 **During Combat Encounters…**  
-You wait, and you watch. Your own turn sets up — a **Foretell** to mark the dangerous foe, a Strike, a Form — but your real work comes when the enemy acts: you **Evade** the blow that would land, **Counter** into the opening, or **Warn** the ally about to be hit.
+You wait, and you watch. The Force shows you the danger before it arrives — the blow about to land, the opening about to appear, the ally about to be hit — and you act on what you've seen a heartbeat before anyone else can. Where others meet a fight head-on, you have already glimpsed how it ends.
 
 **During Social Encounters…**  
 You read people the way you read a fight — catching the tell, the lie, the half-second of hesitation. Few things get past a Sentinel.
@@ -44,9 +44,9 @@ You're the one who senses the ambush, spots the trap, and knows something's wron
 You meditate on what's coming, keep watch, and sharpen your senses.
 
 **You Might…**
-- Want to be the player whose turn never really ends — always holding a reaction.
-- Like winning fights by being a step ahead rather than a step stronger.
-- Enjoy the keenest senses in the galaxy and the foresight to use them.
+- Trust the visions the Force sends you, even when you can't yet explain them.
+- Would rather outthink a threat than overpower it.
+- Serve the Order from its quiet edges — watching, listening, unseen.
 
 **Others Probably…**
 - Trust your warning over their own eyes.

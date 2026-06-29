@@ -33,10 +33,10 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Officer
 
 **During Combat Encounters…**  
-You read the battlefield and spend it. You issue a **Directive** that makes your squad's round count for more — focus fire, reposition, rally — then lead by example with a Strike or a move of your own. The squad's whole turn bends around the call you make.
+You read the battlefield and turn it to your squad's advantage. A word from you sends your allies' fire onto the right target, pulls them out of danger, or steadies them when the line wavers — and you lead from the front, never asking of them what you wouldn't do yourself.
 
 **During Social Encounters…**  
-You're the voice in the room — the negotiator, the liar, the inspiration — and you have the skills to back any of those plays.
+You're the voice in the room — the negotiator, the liar, the inspiration — and you can carry any of those roles when it counts.
 
 **While Exploring…**  
 You coordinate the group, make the plan, and know a little about everything worth knowing.
@@ -45,9 +45,9 @@ You coordinate the group, make the plan, and know a little about everything wort
 You build the network: contacts, favors, reputation, and the kind of standing that opens doors before you knock.
 
 **You Might…**
-- Want your fingerprints on the whole party's success, not just your own damage.
-- Love having a skill for every situation and a plan for the ones you don't.
-- Enjoy a turn that's a decision about everyone, not just an attack.
+- Have led others before — in a military, a crew, or a cause — and carry the habit of command.
+- Measure your success by what your people accomplish, not by your own hand.
+- Always have a plan, and a second one ready for when the first falls apart.
 
 **Others Probably…**
 - Hit harder, move smarter, and break less often because you're on the field.

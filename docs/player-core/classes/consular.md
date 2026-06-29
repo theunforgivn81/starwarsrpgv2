@@ -31,10 +31,10 @@ A high Charisma is the force of will that powers every manifestation. Charisma i
 ## Roleplaying the Consular
 
 **During Combat Encounters…**  
-You shape the fight with the Force, striking your foes with your **Telekinetic Impact** and **Manifesting** powers that turn a battle — crushing a foe, holding it fast, bending its mind, mending an ally, or walling off the field. When your **Attunement** runs low, you **Center** to draw it back.
+You stay at the edge of the fray and let the Force do your fighting — battering your foes with hurled debris and compressed air, crushing or holding fast those who press too close, clouding an enemy's mind, or mending an ally torn by fire. You ignite your lightsaber only when there is no other way.
 
 **During Social Encounters…**  
-The force of your personality is no mask — it's the same power that can lift starfighters. You persuade, intimidate, and (with the right Mandate) reach past words entirely.
+The force of your presence is no act — it's the same power that can lift a starfighter. You calm, persuade, and unsettle, and where words fail, you can reach past them entirely.
 
 **While Exploring…**  
 You sense life, read the unseen, lift what's in the way, and know more about the Force than anyone in the room.
@@ -43,9 +43,9 @@ You sense life, read the unseen, lift what's in the way, and know more about the
 You meditate, study ancient teachings, and deepen your bond with the Force.
 
 **You Might…**
-- Want the broadest toolkit in the game and the deepest well to fuel it.
-- Like solving each problem with a different power rather than the same attack.
-- Enjoy being the answer to almost any situation — at the cost of a fragile body.
+- See the Force as a living ally to be understood, not a tool to be wielded.
+- Seek the peaceful end to a conflict before you ever reach for your blade.
+- Spend long hours in meditation, listening for what the galaxy is telling you.
 
 **Others Probably…**
 - Look to you to remove the problem the blasters can't.

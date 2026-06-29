@@ -34,25 +34,25 @@ A high Strength drives your lightsaber, your telekinetic shoves, and the force o
 ## Roleplaying the Guardian
 
 **During Combat Encounters…**  
-You set a stance, you threaten, and you guard. You hold a **Form**, strike with your lightsaber or shove with the Force, and keep a reaction ready for the enemy's turn — to **Deflect** a bolt, **Intercede** for a friend, or punish a foe that tries to slip past you.
+You move to the front and put yourself between the enemy and the people behind you. You meet the most dangerous foe on the field blade to blade, turning aside the fire and blows meant for your allies and answering them with your own. As the fight shifts, you flow from one lightsaber form to the next — a wall one moment, a hammer the next.
 
 **During Social Encounters…**  
-You're the steadfast one — the bodyguard, the protector, the line nobody crosses. Your word carries the weight of someone who clearly means to keep it.
+You're the steadfast one — the bodyguard, the protector, the line nobody crosses. When you give your word, others know you mean to keep it, whatever it costs you.
 
 **While Exploring…**  
-You take point into danger, and you're the reason the rest of the party makes it out.
+You take point into danger, putting yourself between the others and whatever waits ahead. When they make it out, it's usually because you stood where they couldn't.
 
 **In Downtime…**  
-You train your forms, tend your blade, and stand watch.
+You drill your forms relentlessly, tend your blade, and stand watch over those in your care.
 
 **You Might…**
-- Want to be the one who decides what *doesn't* happen to your friends.
-- Like a turn built on stances and held reactions rather than raw attacks.
-- Enjoy mastering a deep martial vocabulary — seven Forms, each a different answer.
+- Have sworn yourself to a person, a place, or an ideal, and hold that oath above your own life.
+- Carry the discipline of a warrior tradition, finding your calm in the endless practice of your forms.
+- Believe the truest measure of your strength is the harm you keep others from suffering.
 
 **Others Probably…**
-- Fight more boldly knowing you'll catch the blow that gets through.
-- Put you between them and the worst thing on the field.
+- Fight more boldly, knowing you'll catch the blow that gets through.
+- Put you between themselves and the worst thing on the field.
 - Count on you to be the last one standing.
 
 ---

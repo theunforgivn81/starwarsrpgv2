@@ -32,10 +32,10 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Soldier
 
 **During Combat Encounters…**  
-You control space — you decide where the enemy *can't* go and what it costs to try anyway. You lay down a zone, pick off a foe already caught in it, and hold your reaction for whoever flinches first. Suppression costs no fuel but actions and ammo, so you rarely run dry.
+You own the ground you stand on. You lay down fire that pins your enemies where they are and makes any step toward your allies a costly one, you punish the foe that tries anyway, and you stand fast in the storm of return fire that would break someone else.
 
 **During Social Encounters…**  
-You are the implied threat in the room — and your menace is mechanical, not merely flavor; your intimidation runs on the same Constitution that carries your armor.
+You are the unspoken threat in the room. You rarely need to raise your voice — your sheer presence does the talking, and people think twice about crossing the ones you stand beside.
 
 **While Exploring…**  
 You take point or hold the rear, the fixed object the party maneuvers around.
@@ -44,12 +44,12 @@ You take point or hold the rear, the fixed object the party maneuvers around.
 You maintain heavy gear, drill the squad, and trade on a reputation for being impossible to move.
 
 **You Might…**
-- Want to be the reason the enemy's plan falls apart, not just the reason it dies.
-- Enjoy a class that runs all day — no spell slots, no charges, no daily clock.
-- Like pouring everything into a single attribute.
+- Have served in a war, a militia, or a mercenary outfit, and carry its discipline still.
+- Take pride in standing where others break, and in drawing the enemy's worst onto yourself.
+- Rush forward when others hesitate, trusting your bulk and endurance to see you through.
 
 **Others Probably…**
-- Count on you to blunt the enemy's offense before it reaches the fragile members.
+- Count on you to blunt the enemy's assault before it reaches the fragile among them.
 - Expect you to still be standing when everyone else is reeling.
 - Forget that the wall they're sheltering behind can also clear a room.
 

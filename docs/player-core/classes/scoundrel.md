@@ -33,10 +33,10 @@ These terms recur throughout the class; their full rules live in the **Condition
 ## Roleplaying the Scoundrel
 
 **During Combat Encounters…**  
-You set up, then cash in. You spend an action to make a foe exploitable — **Aim** at your Mark, **Feint**, slip into a flank — then Strike for a precise burst and reposition before the answer comes.
+You fight on your own terms. You wait for the opening — or make one, with a feint or a quick slip to a foe's blind side — then put a single precise shot exactly where it hurts, and you're gone before the answer comes.
 
 **During Social Encounters…**  
-You're the one who does the talking, the lying, or the reading of everyone else's tells — and on many builds, your charm is a combat tool too.
+You're the one who does the talking, the lying, or the reading of everyone else's tells — and your charm can be as dangerous as your aim.
 
 **While Exploring…**  
 You scout, pick locks and slice systems, spot the ambush, and find the way in that nobody else can.
@@ -45,14 +45,14 @@ You scout, pick locks and slice systems, spot the ambush, and find the way in th
 You work contacts, run cons, fence goods, and keep an ear to the underworld.
 
 **You Might…**
-- Want the highest single-target damage in the game — earned by clever positioning, not raw force.
-- Like a character who's as dangerous in a negotiation as in a firefight.
-- Enjoy turns built around setup and payoff rather than repetition.
+- Owe debts and favors in half the ports across the galaxy, and call them in when it suits you.
+- Trust your own quick wits over anyone's plan — including your own.
+- Take any job for the right price, and walk away from the wrong one.
 
 **Others Probably…**
-- Count on you to delete the priority target once it's exposed.
+- Count on you to bring down the one target that matters, once it's exposed.
 - Hand you the lock, the terminal, the guard who needs talking down.
-- Lose track of where you are on the battlefield — which is the idea.
+- Lose track of where you are in a fight — which is exactly how you like it.
 
 ---
 
