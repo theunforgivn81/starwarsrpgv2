@@ -2,7 +2,7 @@
 
 *The squad broke and ran, and he did not. He set his stance in the breach, and every bolt that should have found a fleeing back found his blade instead — and the ones his blade couldn't reach, he simply refused to let land.*
 
-A Guardian holds the line. Where the Consular bends the galaxy with raw power and the Sentinel reads the moment before it comes, the Guardian stands *between* — a Force warrior who flows from one lightsaber Form to the next, turning aside the blows meant for himself and hurling his own body (or his will) in front of the ones meant for his friends. His defense isn't heavy plate; it's the blade, the deflection, and the interception, all chosen a heartbeat ahead.
+A Guardian holds the line. Where the Consular bends the galaxy with raw power and the Sentinel reads the moment before it comes, the Guardian stands *between* — a Force warrior who flows from one lightsaber Form to the next, turning aside the blows meant for himself and hurling his own body (or his will) in front of the ones meant for his friends. His defense isn't heavy plate; it's the blade.
 
 > **Key Attribute** Strength
 > **Hit Points** 10 + your Constitution modifier (each level)
@@ -10,7 +10,7 @@ A Guardian holds the line. Where the Consular bends the galaxy with raw power an
 A high Strength drives your lightsaber, your telekinetic shoves, and the force of your interceding blows. Strength is your attack key and the basis of much of what you do; Constitution keeps you standing in the fire you draw.
 
 > **Sidebar — Reading an Ability Block**
-> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* (always capitalized) note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
+> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
 
 > **Sidebar — Forms and Powers Live in *The Force***
 > The Guardian wields the Force's blade. Your **Lightsaber Forms** and the powers you channel (telekinetic shoves, **Deflect**, and more) all live in the **The Force** chapter, along with **Attunement** — the resource that fuels them. This chapter covers what makes you their master.
@@ -19,7 +19,9 @@ A high Strength drives your lightsaber, your telekinetic shoves, and the force o
 
 ## Key Terms
 
-**Blade-Flow**. Your mastery of the Lightsaber Forms — the engine that lets you flow between stances and benefit from every Form's Guardian Mastery upgrade.
+**Guardian Mastery**. Your mastery of the Lightsaber Forms that you know allows you to benefit from them moreso than others.
+
+**Blade-Flow**. The ability that lets you flow between stances and benefit from every Form's Guardian Mastery.
 
 **Intercede**. Your signature reaction: throwing yourself — body or will — into a blow meant for an ally.
 
@@ -68,14 +70,19 @@ Expert in Will
 Trained in Reflex
 
 **Skills**  
+Trained in Athletics  
 Trained in a number of skills equal to 3 plus your Intelligence modifier
 
 **Attacks**  
-Expert in the lightsaber  
-Trained in simple weapons and martial weapons
+Trained in unarmed attacks  
+Trained in simple weapons  
+Trained in martial weapons  
+Expert in lightsabers
 
 **Defenses**  
-Trained in light armor, medium armor, and unarmored defense
+Trained in unarmored defense  
+Trained in light armor  
+Trained in medium armor
 
 **Class DC**  
 Trained in Guardian class DC
@@ -86,11 +93,9 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
-
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Blade-Flow, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
+| 1 | +2 | Form Mastery, Intercede, Guardian's Reach, Deflect, Form (subclass), class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
 | 3 | +2 | Form feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
@@ -115,15 +120,15 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ---
 
-## Blade-Flow
+## Guardian Mastery
 
-**(1st level)** You are a master of the **Lightsaber Forms** (see *The Force*). You have **Form mastery**: whenever you're in a Form, you gain the benefit of its **Guardian Mastery** clause, not just its base effect. You begin play knowing your subclass's signature Form for free, and you can learn other Forms with your class feats; you enter and switch Forms as the Form rules describe (one action, one stance at a time). Flowing between Forms — and between blade and Force — is the heart of how you fight.
+**(1st level)** You are a master of the **Lightsaber Forms** (see *The Force*). Whenever you're in a stance granted by one of the Lightsaber Forms, you gain the benefit of its **Guardian Mastery** clause, not just its base effect. You begin play knowing your subclass's signature Form for free, and you can learn other Forms with your class feats.
 
 ## Intercede
 
 **Intercede**  [reaction]  · **Traits** Guardian
 **Trigger** An enemy damages an ally within 15 feet of you that you can perceive.
-**Effect** You throw yourself — or your will — into the blow. Reduce the damage your ally takes by **2 + your level**, and until the end of your next turn you gain a **+2 circumstance bonus to attack rolls against that enemy**. This costs no Attunement, and you can use it once per round (Vigilant Guard grants a second reaction at 7th level).
+**Effect** You throw yourself — or your will — into the blow. Reduce the damage your ally takes by **2 + your level**, and until the end of your next turn you gain a **+2 circumstance bonus to attack rolls against that enemy**.
 
 ## Guardian's Reach
 
@@ -133,7 +138,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Deflect
 
-**(1st level)** You learn the **Deflect** power (see *The Force*) and wield it as a master: your circumstance bonus to AC from Deflect is **+3** rather than +2, and several of your Forms (notably Soresu) extend it further. Like Intercede, Deflect costs no Attunement — your guard never runs dry.
+**(1st level)** You learn the **Deflect** power (see *The Force*). Your circumstance bonus to AC from Deflect is **+3** rather than +2, and some Forms extend it further.
 
 ## Form
 
@@ -151,13 +156,9 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 **(7th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
 
-## Weapon Expertise
+## Guardian Weapon Mastery
 
-**(5th level)** Your proficiency ranks for simple weapons and martial weapons increase to expert. (Your lightsaber runs a rank ahead — it reaches master at this level; see Lightsaber Mastery.)
-
-## Lightsaber Mastery
-
-**(5th level)** Your proficiency rank for the lightsaber increases to master.
+**(5th level)** Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to expert. Your proficiency rank with lightsabers increases to master.
 
 ## Perception Expertise
 
@@ -169,9 +170,9 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Weapon Specialization
 
-**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. This applies to your weapon Strikes, including your reaction Strikes.
+**(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
+At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
 ## Improved Intercede
 
@@ -193,13 +194,9 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 **(13th level)** Your command of the Forms reaches a higher plane: while in any Form, you gain an additional benefit appropriate to that Form (detailed with each Form), and the lines between blade and Force blur further.
 
-## Weapon Mastery
-
-**(13th level)** Your proficiency ranks for simple weapons and martial weapons increase to master.
-
 ## Lightsaber Legend
 
-**(13th level)** Your proficiency rank for the lightsaber increases to legendary — the premier blade in the galaxy.
+**(13th level)** Your proficiency rank for lightsabers increases to legendary — the premier blade in the galaxy. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increases to master.
 
 ## Greater Resolve
 
@@ -215,7 +212,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Master's Guard
 
-**(17th level)** You are the perfect bodyguard. You can use Intercede against an attack *before* its damage is rolled, reducing it as normal, and an ally you Intercede for can't be reduced below 1 Hit Point by the triggering attack.
+**(17th level)** You are the perfect bodyguard. Any attack which you Intercede cannot drop its target below 1 Hit Point.
 
 ## Unbreakable Guardian
 
