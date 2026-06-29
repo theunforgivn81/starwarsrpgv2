@@ -10,7 +10,7 @@ A Sentinel sees the blow before it lands. Where the Guardian answers with a blad
 A high Wisdom is the perceptiveness that drives your foresight — it sharpens your Premonition, your Perception (your signature, and the trigger for everything you do), and your Will. The Sentinel lives and dies by reading the moment.
 
 > **Sidebar — Reading an Ability Block**
-> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* (always capitalized) note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
+> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
 
 > **Sidebar — Powers and Attunement Live in *The Force***
 > The Sentinel is a Force-adept: you fuel Premonition with **Attunement**, and you can learn Force powers (especially Sense powers) and Lightsaber Forms from **The Force**. This chapter covers your reactive engine; that chapter covers the toolkit you channel through it.
@@ -71,7 +71,7 @@ Trained in Fortitude
 Trained in a number of skills equal to 4 plus your Intelligence modifier
 
 **Attacks**  
-Trained in simple weapons and the lightsaber
+Trained in simple weapons and lightsabers
 
 **Defenses**  
 Trained in light armor and unarmored defense
@@ -84,8 +84,6 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 ---
 
 ## Class Features
-
-The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
@@ -151,7 +149,7 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Weapon Expertise
 
-**(5th level)** Your proficiency ranks for simple weapons and the lightsaber increase to expert.
+**(5th level)** Your proficiency ranks for simple weapons and lightsabers increase to expert.
 
 ## Widened Sight
 
@@ -163,9 +161,9 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Weapon Specialization
 
-**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. This applies to your weapon Strikes, including Counter.
+**(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
+At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
 ## Evasion
 
@@ -185,7 +183,7 @@ At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +
 
 ## Weapon Mastery
 
-**(13th level)** Your proficiency ranks for simple weapons and the lightsaber increase to master.
+**(13th level)** Your proficiency ranks for simple weapons and lightsabers increase to master.
 
 ## Incredible Senses
 

@@ -10,7 +10,7 @@ A Tech Specialist multiplies the party. Where a soldier brings a gun and a Consu
 A high Intelligence runs everything you do — your **Tech class DC** (the number foes resist), the bonus your Overclocks add, the breadth of your skills, and the cleverness behind every gadget. The Tech Specialist pours into Intelligence and lets the rig do the rest.
 
 > **Sidebar — Reading an Ability Block**
-> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* (always capitalized) note the rules categories an ability belongs to. Save-based abilities list all four outcomes — **Critical Success, Success, Failure, Critical Failure**.
+> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. Save-based abilities list the effects for the four possible outcomes — **Critical Success, Success, Failure, Critical Failure**.
 
 ---
 
@@ -82,7 +82,7 @@ Trained in Tech class DC
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As a Tech Specialist, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
+As a Tech Specialist, you gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
@@ -170,9 +170,9 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Weapon Specialization
 
-**(7th level)** When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. Your weapons reach expert at 5th level, so this is live the moment you gain it — most valuable to an Armstech rig-gunner, but a steady boost to any Tech who Strikes.
+**(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-At **15th level**, this becomes **Greater Weapon Specialization** (**+4 / +6 / +8**).
+At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
 ## Fortitude Expertise
 

@@ -86,7 +86,7 @@ Trained in Officer class DC
 
 ## Class Features
 
-The **Level Bonus** column is the universal proficiency level term — **2 + ⌊level ÷ 4⌋** — added (with your rank bonus) to every proficiency-based check and DC. It rises at levels 4, 8, 12, 16, and 20, and is printed here so you never have to look it up at a level-up. As an Officer, you also gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
+As an Officer, you gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
@@ -161,9 +161,9 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Weapon Specialization
 
-**(7th level)** You deal more damage with weapons you've truly learned. When you Strike with a weapon or unarmed attack in which you're at least **expert**, add a flat bonus to that damage: **+2 (expert), +3 (master), +4 (legendary)**. This applies to your weapon Strikes, including off-turn reaction Strikes.
+**(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-At **15th level**, this becomes **Greater Weapon Specialization**, and the bonuses increase to **+4 (expert), +6 (master), +8 (legendary)**.
+At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
 ## Resolve
 
