@@ -16,7 +16,7 @@ A high Intelligence runs everything you do — your **Tech class DC** (the numbe
 
 ## Key Terms
 
-**Deploy**. Your defining verb — the whole engine of preparing, installing, and firing Modifications.
+**Deploy**. Preparing, installing, and firing Modifications.
 
 **Modification (Mod)**. A piece of custom tech. Each has a **Standby** (an always-on passive while installed), an **Activate** (its action-cost active effect), and an **Overclock** (a boosted version with a risk). Your Modifications are listed at the end of this class — see **[Tech Specialist Modifications](tech-specialist-modifications.md)**.
 
@@ -113,7 +113,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Deploy
 
-**(1st level)** Your defining capability — the Modification engine. It has four moving parts.
+**(1st level)** The Modification engine has four moving parts.
 
 **Modification Library.** Your *known* Modifications. You begin knowing **four**, plus the signature Mod your Discipline grants free, and you learn another every odd level. You can learn more during downtime with the **Learn a Modification** activity (a Crafting check, time, and credits). The full Modification list is at the end of this class.
 

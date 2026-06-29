@@ -120,7 +120,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Exploit
 
-**(1st level)** Your defining capability. A foe is **exploitable to you** when it's your **Mark** or is **off-guard to you**. **Each Strike** you make against an exploitable target deals **1d6 additional precision damage** — every qualifying Strike, not just the first.
+**(1st level)** A foe is **exploitable to you** when it's your **Mark** or is **off-guard to you**. **Each Strike** you make against an exploitable target deals **1d6 additional precision damage** — every qualifying Strike, not just the first.
 
 This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th, and 4d6 at 17th**. Because it's precision damage, a creature immune or resistant to precision ignores that much — so a Scoundrel's spotlight depends on first creating the opening, and on the target being vulnerable to a placed shot.
 

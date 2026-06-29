@@ -117,7 +117,7 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 ## Command
 
-**(1st level)** Your defining capability. You issue **Directives** — orders that make your allies' own actions better.
+**(1st level)** You issue **Directives** — orders that make your allies' own actions better.
 
 **The one-per-round rule.** You can issue only **one [Directive] each round**, on your turn; it lasts until the start of your next turn. Allies benefit only while they can **sense you**. You don't choose Directives from a fixed list — you *acquire* them (you start with Get-the-Job-Done, gain more from your leadership style and feats) and pick which one to issue each round. Knowing more Directives gives you a **deeper menu**, not more orders per round.
 

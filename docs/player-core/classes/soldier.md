@@ -118,7 +118,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Suppress
 
-**(1st level)** Your defining capability, in three linked parts: the fire that creates a zone, the zone that persists, and the reaction that enforces it.
+**(1st level)** Suppress works in three linked parts: the fire that creates a zone, the zone that persists, and the reaction that enforces it.
 
 **Suppressing Fire**  [two-actions]  · **Traits** Soldier
 **Requirements** You're wielding a loaded ranged weapon.

@@ -114,7 +114,7 @@ Class feats, skill feats, general feats, species feats, skill increases, and abi
 
 ## Premonition
 
-**(1st level)** Your defining capability — and the reason your turn never really ends. You gain a **second reaction each round, usable only for Premonition**, so you can answer two threats a round where others answer one. (You can stretch to a third: see Overdrive, below.)
+**(1st level)** You gain a **second reaction each round, usable only for Premonition**, so you can answer two threats a round where others answer one. (You can stretch to a third: see Overdrive, below.)
 
 **Premonition**  [reaction]  · **Traits** Sentinel, Concentrate
 **Trigger** A creature you can perceive makes an attack or other hostile action against you or an ally within 30 feet.
