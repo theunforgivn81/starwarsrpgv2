@@ -1,13 +1,13 @@
 # Sentinel
 
-*He never seemed to hurry. The blaster bolt was already in the air when he tilted his head — not fast, just *early* — and it passed through the space where his throat had been a quarter-second before he decided to move it.*
+*He never seemed to hurry. The blaster bolt was already in the air when he tilted his head — not fast, just **early** — and it passed through the space where his throat had been a quarter-second before he decided to move it.*
 
-A Sentinel sees the blow before it lands. Where the Guardian answers with a blade and the Consular with raw power, the Sentinel answers a beat ahead of everyone — its game is played on *other people's* turns. Its verb, **Premonition**, is a reactive engine: foresee an attack and step out of its path, strike into the opening as a foe commits, or shout the warning that saves an ally. The keenest watcher in the galaxy defends not by being tough, but by being *ready*.
+You see what's coming before it arrives. The Force speaks to you in warnings — the ambush around the bend, the lie behind the smile, the blaster bolt a half-second before the trigger is pulled — and you've spent a lifetime learning to listen. Your companions move through danger more boldly because you're watching the angles they can't, and more than one of them is alive because of a warning they didn't understand until later. You'd rather outthink a threat than overpower it, and you are very, very hard to catch off guard. You might be a shadow serving an order from its quiet edges, a scout, an investigator, or a bodyguard who has never lost a charge.
 
 > **Key Attribute** Wisdom
 > **Hit Points** 8 + your Constitution modifier (each level)
 
-A high Wisdom is the perceptiveness that drives your foresight — it sharpens your Premonition, your Perception (your signature, and the trigger for everything you do), and your Will. The Sentinel lives and dies by reading the moment.
+A high Wisdom is the perceptiveness that drives your foresight — it sharpens your Premonition, your Perception, and your Will. The Sentinel lives and dies by reading the moment.
 
 > **Sidebar — Reading an Ability Block**
 > Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.

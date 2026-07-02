@@ -2,7 +2,7 @@
 
 *She did not draw a blade. She simply lifted her hand, and the gunship's own cannon tore free of its mount and folded like paper — and in the silence after, every trooper decided, all at once, that they would rather be somewhere else.*
 
-A Consular is the will made manifest. Where a Guardian answers the galaxy with a blade and a Sentinel with foresight, the Consular answers it with the raw, shaping power of the Force — telekinesis that hurls and crushes, domination that bends minds, barriers and healing that hold a line together. You carry a lightsaber, but mostly to deflect a stray bolt; your weapon is your will, and it is the strongest in the galaxy.
+You are the will of the Force made manifest. You've given your life to understanding it, and it answers you like nothing else in the galaxy — lifting what can't be lifted, calming what can't be calmed, mending what can't be saved, and revealing what others can't even sense. Your companions look to you when the problem is beyond blasters: the mind that must be swayed, the wound that must close, the gunship that must be torn out of the sky. You seek the peaceful path first and carry a lightsaber mostly to turn aside a stray bolt, because your true weapon is your will. You might be a temple-trained peacemaker, a scholar of ancient teachings, a healer, or a wandering mystic the galaxy doesn't yet have a name for.
 
 > **Key Attribute** Charisma
 > **Hit Points** 8 + your Constitution modifier (each level)

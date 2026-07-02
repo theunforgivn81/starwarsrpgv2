@@ -2,7 +2,7 @@
 
 *The squad broke and ran, and he did not. He set his stance in the breach, and every bolt that should have found a fleeing back found his blade instead — and the ones his blade couldn't reach, he simply refused to let land.*
 
-A Guardian holds the line. Where the Consular bends the galaxy with raw power and the Sentinel reads the moment before it comes, the Guardian stands *between* — a Force warrior who flows from one lightsaber Form to the next, turning aside the blows meant for himself and hurling his own body (or his will) in front of the ones meant for his friends. His defense isn't heavy plate; it's the blade.
+You stand between danger and the people you've sworn to protect. You're a Force warrior shaped by discipline — the endless drilling of the lightsaber forms — and you wear no heavy plate, because your blade is your armor and theirs. Your companions take risks they never otherwise could, knowing that when it goes wrong you'll already be there; you've built your whole life around being there. You would rather carry a wound than watch a friend take one. You might be a knight sworn to an ancient order, a temple guardian, a bodyguard bound by a debt of honor, or the keeper of an oath only you remember.
 
 > **Key Attribute** Strength
 > **Hit Points** 10 + your Constitution modifier (each level)

@@ -1,8 +1,8 @@
 # Soldier
 
-*You set your feet, level the heavy barrel, and the lane in front of you simply closes. Nobody crosses it without paying — and the bolts that should have found your friends find your plating instead.*
+*He set his feet and leveled the heavy barrel, and the lane in front of him simply closed. Nobody crossed it without paying — and the bolts that should have found his squad found his plating instead.*
 
-A Soldier owns the field of fire. You don't ask an enemy to come at you; you make coming at you — or going anywhere at all — expensive. You blanket a stretch of ground with suppressing fire, pin and rattle everything caught inside it, then hold your aim to punish the first one who moves. Where a Guardian throws their body between a friend and a blow, you make sure fewer blows are ever aimed their way. You are the wall the squad forms up behind, and the wall shoots back.
+You're the one they put where the fighting will be worst. You've hauled heavy weapons through wars, sieges, and long ugly campaigns, and you've kept the discipline they taught you: hold the ground, watch your people, never break. Your companions form up behind you — your fire keeps the enemy's heads down, your armor soaks what gets through, and your presence alone settles arguments that would otherwise end in blood. You're slow to start a fight and nearly impossible to finish. You might be a career trooper, a militia veteran, a mercenary, or the last survivor of a unit whose name you still wear.
 
 > **Key Attribute** Constitution
 > **Hit Points** 10 + your Constitution modifier (each level)
@@ -22,7 +22,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Suppression Zone**. The cone or burst your Suppressing Fire blankets. It persists until the start of your next turn. Enemies inside it are suppressed, and enemies that move or act inside it trigger your Suppressing Reaction.
 
-**Area weapon**. A weapon (or firing mode) that attacks an area rather than one target. Area weapons enlarge your Suppression Zone; zone size is the equipment-and-style axis of your control.
+**Area weapon**. A weapon (or firing mode) that attacks an area rather than one target. Area weapons enlarge your Suppression Zone.
 
 > **Sidebar — One [Suppressed] Effect at a Time**
 > Many feats and fighting-style features let you attach an *extra* effect — off-guard, frightened, slowed, pushed — to a creature you suppress. These effects all carry the **[Suppressed]** trait, and **you may apply only one [Suppressed] effect per action that applies the suppressed condition.** Collect as many of these effects as you like across your build; you still pick exactly one each time you suppress.

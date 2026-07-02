@@ -1,8 +1,8 @@
 # Scoundrel
 
-*One breath to read the room, one to find the angle — and then the shot's already gone before anyone knew you'd drawn.*
+*One breath to read the room, one to find the angle — and the shot was already gone before anyone in the cantina knew she'd drawn.*
 
-A Scoundrel turns angles into advantage. You don't trade blows; you manufacture the opening and then punish it. **Mark** a target and your fire finds the seam in its cover; catch a foe flat-footed and your shot goes somewhere that matters. Between the killing and the cleverness you're talking your way past a checkpoint, slicing a door, or simply not being where the return fire lands. The galaxy's deadliest aim and its smoothest operator wear the same coat.
+You live by your wits, your charm, and your aim — usually in that order. The galaxy runs on locks, lies, and ledgers, and you've yet to meet one you couldn't get past. Your companions hand you the guard who needs sweet-talking, the door that needs slicing, and the one target that absolutely has to go down, and you deliver all three with time to spare. You avoid a fair fight on principle, but trouble that insists on finding you learns you're faster than it is. You might be a smuggler, a gambler, a bounty hunter, a spy — or all of them, depending on who's asking.
 
 > **Key Attribute** Dexterity
 > **Hit Points** 8 + your Constitution modifier (each level)
@@ -26,7 +26,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Precision damage**. Extra damage that comes from placing a hit exactly, rather than from force or energy. A creature that is immune or resistant to precision damage ignores that much of it — the built-in counter to your Exploit.
 
-**Flourish**. The trait on your splashiest techniques. You can use only **one [Flourish] action per turn**, so trick shots stay a choice, not a chant.
+**Flourish**. The trait on your splashiest techniques. You can use only **one [Flourish] action per turn**.
 
 ---
 

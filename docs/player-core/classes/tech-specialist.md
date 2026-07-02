@@ -2,7 +2,7 @@
 
 *The squad was pinned, the medic was down, and the Tech Specialist never drew a weapon. She tapped three controls on her rig — a healing burst here, a corrosive cloud there, a hologram of herself sprinting the wrong way — and by the time the enemy sorted out which threats were real, the squad was already moving.*
 
-A Tech Specialist multiplies the party. Where a soldier brings a gun and a Consular brings the Force, the Tech Specialist brings *gear* — a custom rig loaded with **Modifications**, each humming away as an always-on advantage and ready to fire as a gadget, a field, a blast, or a patch. And when safe limits aren't enough, she **Overclocks** — pushing a device past its rating for a burst of power and gambling on whether it holds. She's the galaxy's finest skill master and the support engine a party builds around.
+You solve problems the galaxy hasn't invented yet. Machines make sense to you the way people make sense to everyone else, and your custom rig — built, rebuilt, and pushed well past its factory ratings — goes everywhere you do. Your companions bring you the locked door, the fried console, the wounded friend, and the impossible question, and you have an answer for nearly all of them; half the time, your gear is quietly making everyone around you better at their own jobs. You rarely draw a weapon, because you rarely need one. You might be a starship engineer, a slicer, a field medic, a droid programmer, or a junker who builds miracles out of scrap.
 
 > **Key Attribute** Intelligence
 > **Hit Points** 8 + your Constitution modifier (each level)

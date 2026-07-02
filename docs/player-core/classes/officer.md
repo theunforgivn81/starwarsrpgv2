@@ -1,13 +1,13 @@
 # Officer
 
-*You don't win the firefight by being the best gun in it. You win it by making four other guns better — and by knowing, a half-second before anyone else, exactly where each one should be pointed.*
+*The line was buckling until she climbed onto the crate, one hand out, voice cutting clean through the blasterfire — and four scattered gunners became a firing line, and the corridor was theirs again.*
 
-An Officer turns a squad into a unit. Where others act, you make everyone *else* act better: you bark a **Directive** — focus that target, take cover, move now — and your allies' own attacks land harder, their footing improves, their nerve holds. Then you lead by example, wading in yourself so the order has a face behind it. You are the galaxy's finest face out of combat and its force-multiplier in it; your power is mostly spent on other people's turns, and that's the point.
+You turn a handful of individuals into a unit. You have a gift for command — reading a situation in a glance, making the call, and making people believe in it — and those around you fight smarter, stand taller, and hold together because you're there. Out of the fight, you're the voice that opens doors: the negotiator, the inspiration, the one who talks everyone home. You never ask of others what you wouldn't do yourself, and when the plan falls apart, you're already writing the next one. You might be a decorated veteran, a rebel cell leader, a ship's captain, or a born talent who's never once worn a rank.
 
 > **Key Attribute** Charisma
 > **Hit Points** 8 + your Constitution modifier (each level)
 
-A high Charisma sharpens every Directive you give and every room you work. Charisma is your key for Command, the basis of your Officer class DC, and the engine of your social game — and you back it with the deepest skill training of any class.
+A high Charisma sharpens every Directive you give and every room you work. Charisma is your key for Command, the basis of your Officer class DC, and the engine of your social game.
 
 > **Sidebar — Reading an Ability Block**
 > Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]** (used on someone else's turn, when its **Trigger** is met), or **[free-action]**. *Traits* note the rules categories an ability belongs to. *MAP* is your multiple attack penalty. Save-based abilities list all four outcomes — **Critical Success, Success, Failure, Critical Failure**.
