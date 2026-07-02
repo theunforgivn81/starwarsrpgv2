@@ -31,26 +31,32 @@ A high Wisdom is the perceptiveness that drives your foresight — it sharpens y
 
 ## Roleplaying the Sentinel
 
-**During Combat Encounters…**  
-You wait, and you watch. The Force shows you the danger before it arrives — the blow about to land, the opening about to appear, the ally about to be hit — and you act on what you've seen a heartbeat before anyone else can. Where others meet a fight head-on, you have already glimpsed how it ends.
+### During Combat Encounters…
 
-**During Social Encounters…**  
-You read people the way you read a fight — catching the tell, the lie, the half-second of hesitation. Few things get past a Sentinel.
+You wait, and you watch. You answer danger a heartbeat before it arrives — stepping out of a blow's path, striking into an opening as a foe commits, or calling out the warning that saves an ally.
 
-**While Exploring…**  
-You're the one who senses the ambush, spots the trap, and knows something's wrong before anyone else does.
+### During Social Encounters…
 
-**In Downtime…**  
+You read people the way you read a fight — catching the tell, the bluff, the half-second of hesitation. Little gets past you.
+
+### While Exploring…
+
+You spot the trap, find the safe path, and know something's wrong before anyone can say why.
+
+### In Downtime…
+
 You meditate on what's coming, keep watch, and sharpen your senses.
 
-**You Might…**
-- Trust the visions the Force sends you, even when you can't yet explain them.
-- Would rather outthink a threat than overpower it.
-- Serve the Order from its quiet edges — watching, listening, unseen.
+### You Might…
 
-**Others Probably…**
+- Trust the visions the Force sends you, even when you can't yet explain them.
+- Keep what you've foreseen to yourself until the moment it matters.
+- Struggle to live in the present, when the future never stops whispering.
+
+### Others Probably…
+
 - Trust your warning over their own eyes.
-- Feel safer knowing you're watching the angles they can't.
+- Sleep easier when you're the one on watch.
 - Find you've already solved the problem they just noticed.
 
 ---

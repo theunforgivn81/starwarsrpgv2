@@ -32,26 +32,32 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 ## Roleplaying the Officer
 
-**During Combat Encounters…**  
-You read the battlefield and turn it to your squad's advantage. A word from you sends your allies' fire onto the right target, pulls them out of danger, or steadies them when the line wavers — and you lead from the front, never asking of them what you wouldn't do yourself.
+### During Combat Encounters…
 
-**During Social Encounters…**  
-You're the voice in the room — the negotiator, the liar, the inspiration — and you can carry any of those roles when it counts.
+You read the battlefield and turn it to your squad's advantage. A word from you sends your allies' fire onto the right target, pulls them out of danger, or steadies them when the line wavers — and you lead from the front, so every order has a face behind it.
 
-**While Exploring…**  
+### During Social Encounters…
+
+You speak for your team — as the negotiator, the liar, or the inspiration, whatever the moment demands.
+
+### While Exploring…
+
 You coordinate the group, make the plan, and know a little about everything worth knowing.
 
-**In Downtime…**  
-You build the network: contacts, favors, reputation, and the kind of standing that opens doors before you knock.
+### In Downtime…
 
-**You Might…**
-- Have led others before — in a military, a crew, or a cause — and carry the habit of command.
+You build the network: contacts, favors, reputation, and a standing that precedes you into every room.
+
+### You Might…
+
+- Aspire to a command of your own — a ship, a company, a cause.
 - Measure your success by what your people accomplish, not by your own hand.
-- Always have a plan, and a second one ready for when the first falls apart.
+- Remember the name of everyone who has ever served beside you.
 
-**Others Probably…**
+### Others Probably…
+
 - Hit harder, move smarter, and break less often because you're on the field.
-- Look to you when the plan falls apart and a new one is needed now.
+- Follow your lead in a crisis without stopping to ask why.
 - Let you do the talking.
 
 ---

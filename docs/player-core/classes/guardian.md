@@ -33,24 +33,30 @@ A high Strength drives your lightsaber, your telekinetic shoves, and the force o
 
 ## Roleplaying the Guardian
 
-**During Combat Encounters…**  
-You move to the front and put yourself between the enemy and the people behind you. You meet the most dangerous foe on the field blade to blade, turning aside the fire and blows meant for your allies and answering them with your own. As the fight shifts, you flow from one lightsaber form to the next — a wall one moment, a hammer the next.
+### During Combat Encounters…
 
-**During Social Encounters…**  
+You move to the front and meet the most dangerous foe on the field blade to blade, turning aside the fire and blows meant for your allies. As the fight shifts, you flow from one lightsaber form to the next — a wall one moment, a hammer the next.
+
+### During Social Encounters…
+
 You're the steadfast one — the bodyguard, the protector, the line nobody crosses. When you give your word, others know you mean to keep it, whatever it costs you.
 
-**While Exploring…**  
-You take point into danger, putting yourself between the others and whatever waits ahead. When they make it out, it's usually because you stood where they couldn't.
+### While Exploring…
 
-**In Downtime…**  
+You take point into danger and check the dark corners first. When the others make it out, it's usually because you stood where they couldn't.
+
+### In Downtime…
+
 You drill your forms relentlessly, tend your blade, and stand watch over those in your care.
 
-**You Might…**
-- Have sworn yourself to a person, a place, or an ideal, and hold that oath above your own life.
-- Carry the discipline of a warrior tradition, finding your calm in the endless practice of your forms.
+### You Might…
+
+- Have sworn yourself to a person, a place, or an ideal, and hold that vow above your own life.
+- Carry the discipline of a warrior tradition, and find your calm inside it.
 - Believe the truest measure of your strength is the harm you keep others from suffering.
 
-**Others Probably…**
+### Others Probably…
+
 - Fight more boldly, knowing you'll catch the blow that gets through.
 - Put you between themselves and the worst thing on the field.
 - Count on you to be the last one standing.

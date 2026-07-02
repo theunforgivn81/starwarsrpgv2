@@ -28,26 +28,32 @@ A high Intelligence runs everything you do — your **Tech class DC** (the numbe
 
 ## Roleplaying the Tech Specialist
 
-**During Combat Encounters…**  
-You fight through your gear. You loose a blast, throw up a shimmering field, patch a wound, or sow confusion with a flickering hologram — and when the moment demands more, you push your hardware past its safe limits and trust it not to fail you. All the while, your jury-rigged equipment quietly sharpens everyone around you.
+### During Combat Encounters…
 
-**During Social Encounters…**  
+You fight through your gear — loosing a blast, throwing up a shimmering field, patching a wound, or sowing confusion with a flickering hologram. When the moment demands more, you push your hardware past its safe limits and trust it to hold.
+
+### During Social Encounters…
+
 You're the one who's read the dossier, knows the tech, and has a gadget for the lock, the camera, and the awkward question.
 
-**While Exploring…**  
-You are the answer to most obstacles — slicing, repairing, scanning, building — with a knack for nearly any problem the others bring you.
+### While Exploring…
 
-**In Downtime…**  
+You slice, repair, scan, and build your way past most of what the galaxy puts in your path.
+
+### In Downtime…
+
 You tinker endlessly — reverse-engineering new designs, building gear, and rebuilding your rig for the job ahead.
 
-**You Might…**
-- Prefer the company of droids and machines to most organic company.
+### You Might…
+
+- Prefer the company of droids and machines to that of most organics.
 - Treat standard procedure as a loose suggestion at best.
 - Hoard scrap and spare parts against the day they'll prove useful.
 
-**Others Probably…**
-- Rely on your gadgets to solve what their blasters can't.
-- Find themselves quietly better at everything when your rig is running.
+### Others Probably…
+
+- Assume you can fix it, whatever it is.
+- Stop asking how your gadgets work and just be glad they do.
 - Forget you're nearly unarmed — until your gear turns the fight around.
 
 ---

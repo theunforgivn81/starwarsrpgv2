@@ -31,24 +31,30 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 ## Roleplaying the Soldier
 
-**During Combat Encounters…**  
-You own the ground you stand on. You lay down fire that pins your enemies where they are and makes any step toward your allies a costly one, you punish the foe that tries anyway, and you stand fast in the storm of return fire that would break someone else.
+### During Combat Encounters…
 
-**During Social Encounters…**  
-You are the unspoken threat in the room. You rarely need to raise your voice — your sheer presence does the talking, and people think twice about crossing the ones you stand beside.
+You own the ground you stand on. Your fire pins your enemies in place and makes every step toward your allies a costly one, and you stand fast in the return fire that would break anyone else.
 
-**While Exploring…**  
+### During Social Encounters…
+
+You are the unspoken threat in the room. You say little and mean all of it, and people think twice about crossing the ones you stand beside.
+
+### While Exploring…
+
 You take point or hold the rear, the fixed object the party maneuvers around.
 
-**In Downtime…**  
+### In Downtime…
+
 You maintain heavy gear, drill the squad, and trade on a reputation for being impossible to move.
 
-**You Might…**
-- Have served in a war, a militia, or a mercenary outfit, and carry its discipline still.
+### You Might…
+
+- Judge every new companion by whether you'd trust them to hold a line.
 - Take pride in standing where others break, and in drawing the enemy's worst onto yourself.
 - Rush forward when others hesitate, trusting your bulk and endurance to see you through.
 
-**Others Probably…**
+### Others Probably…
+
 - Count on you to blunt the enemy's assault before it reaches the fragile among them.
 - Expect you to still be standing when everyone else is reeling.
 - Forget that the wall they're sheltering behind can also clear a room.

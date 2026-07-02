@@ -30,27 +30,33 @@ A high Charisma is the force of will that powers every manifestation. Charisma i
 
 ## Roleplaying the Consular
 
-**During Combat Encounters…**  
-You stay at the edge of the fray and let the Force do your fighting — battering your foes with hurled debris and compressed air, crushing or holding fast those who press too close, clouding an enemy's mind, or mending an ally torn by fire. You ignite your lightsaber only when there is no other way.
+### During Combat Encounters…
 
-**During Social Encounters…**  
+You let the Force do your fighting from the edge of the fray — hurling debris, holding foes fast, clouding minds, and mending your allies' wounds. You ignite your lightsaber only when there is no other way.
+
+### During Social Encounters…
+
 The force of your presence is no act — it's the same power that can lift a starfighter. You calm, persuade, and unsettle, and where words fail, you can reach past them entirely.
 
-**While Exploring…**  
+### While Exploring…
+
 You sense life, read the unseen, lift what's in the way, and know more about the Force than anyone in the room.
 
-**In Downtime…**  
+### In Downtime…
+
 You meditate, study ancient teachings, and deepen your bond with the Force.
 
-**You Might…**
+### You Might…
+
 - See the Force as a living ally to be understood, not a tool to be wielded.
 - Seek the peaceful end to a conflict before you ever reach for your blade.
 - Spend long hours in meditation, listening for what the galaxy is telling you.
 
-**Others Probably…**
+### Others Probably…
+
 - Look to you to remove the problem the blasters can't.
 - Rely on your control to lock down what would otherwise overwhelm them.
-- Stand between you and the enemy, because a Consular who gets hit goes down fast.
+- Put themselves between you and the enemy, and consider it a fair trade.
 
 ---
 

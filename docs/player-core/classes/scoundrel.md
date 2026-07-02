@@ -32,26 +32,32 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 ## Roleplaying the Scoundrel
 
-**During Combat Encounters…**  
-You fight on your own terms. You wait for the opening — or make one, with a feint or a quick slip to a foe's blind side — then put a single precise shot exactly where it hurts, and you're gone before the answer comes.
+### During Combat Encounters…
 
-**During Social Encounters…**  
+You fight on your own terms. You wait for the opening — or make one — then put a single precise shot exactly where it hurts, and you're gone before the answer comes.
+
+### During Social Encounters…
+
 You're the one who does the talking, the lying, or the reading of everyone else's tells — and your charm can be as dangerous as your aim.
 
-**While Exploring…**  
+### While Exploring…
+
 You scout, pick locks and slice systems, spot the ambush, and find the way in that nobody else can.
 
-**In Downtime…**  
+### In Downtime…
+
 You work contacts, run cons, fence goods, and keep an ear to the underworld.
 
-**You Might…**
+### You Might…
+
 - Owe debts and favors in half the ports across the galaxy, and call them in when it suits you.
 - Trust your own quick wits over anyone's plan — including your own.
 - Take any job for the right price, and walk away from the wrong one.
 
-**Others Probably…**
-- Count on you to bring down the one target that matters, once it's exposed.
-- Hand you the lock, the terminal, the guard who needs talking down.
+### Others Probably…
+
+- Count on you to drop the one target that matters most.
+- Ask few questions about your past, your contacts, or how you got that door open.
 - Lose track of where you are in a fight — which is exactly how you like it.
 
 ---
