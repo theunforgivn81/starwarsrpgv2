@@ -63,23 +63,23 @@ At 1st level you gain the following proficiencies. Your total bonus on any check
 Trained in Perception
 
 **Saving Throws**  
-Expert in Fortitude
-Expert in Will
+Expert in Fortitude  
+Expert in Will  
 Trained in Reflex
 
 **Skills**  
-Trained in Intimidation
+Trained in Intimidation  
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 **Attacks**  
-Trained in unarmed attacks
-Trained in simple weapons
+Trained in unarmed attacks  
+Trained in simple weapons  
 Trained in martial weapons
 
 **Defenses**  
-Trained in unarmored defence
-Trained in light armor
-Trained in medium armor
+Trained in unarmored defence  
+Trained in light armor  
+Trained in medium armor  
 Trained in heavy armor
 
 **Class DC**  

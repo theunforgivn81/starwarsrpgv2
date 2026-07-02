@@ -71,11 +71,11 @@ Trained in Fortitude
 Trained in a number of skills equal to 4 plus your Intelligence modifier
 
 **Attacks**  
-Trained in simple weapons 
+Trained in simple weapons  
 Trained in lightsabers
 
 **Defenses**  
-Trained in unarmored defense
+Trained in unarmored defense  
 Trained in light armor
 
 **Class DC**  
