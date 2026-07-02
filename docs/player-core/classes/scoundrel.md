@@ -73,13 +73,16 @@ Trained in your specialization's signature skill
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 **Attacks**  
-Expert in simple and martial **ranged** weapons (guns)  
-Trained in advanced **ranged** weapons  
-Trained in simple and martial **melee** weapons and unarmed attacks
+Expert in ranged simple weapons  
+Expert in ranged martial weapons  
+Trained in unarmed attacks  
+Trained in simple weapons  
+Trained in martial weapons  
+Trained in ranged advanced weapons
 
 **Defenses**  
-Trained in light armor  
 Trained in unarmored defense
+Trained in light armor
 
 **Class DC**  
 Trained in Scoundrel class DC
@@ -114,8 +117,6 @@ Trained in Scoundrel class DC
 | 19 | +6 | specialization feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat |
 
-Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Exploit
@@ -135,7 +136,7 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 ## Specialization
 
-**(1st level)** Every Scoundrel chooses a **specialization** — the discipline that steers your Exploit and how you create openings. It grants a signature skill at 1st level and further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Smuggler**, **Sniper**, **Gunslinger**, **Infiltrator**, or **Striker**; each is detailed in **Scoundrel Specializations**.
+**(1st level)** Every Scoundrel chooses a **specialization** — the discipline that steers your Exploit and how you create openings. It grants a signature skill at 1st level and further features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Scoundrel Expertise
 

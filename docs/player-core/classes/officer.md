@@ -24,7 +24,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Status bonus**. Most Directives grant a **status bonus** to allies' rolls. Like all bonuses of the same type, status bonuses **don't stack** — two Officers shouting the same order don't double it.
 
-**Lead by Example**. Spending a second action on a Directive lets *you* also act (usually a Strike or a move) and deepens the order — so you're in the fight, not just calling it.
+**Lead by Example**. Spending a second action on a Directive lets *you* also act and deepens the order — so you're in the fight, not just calling it.
 
 **Flourish**. The trait on your splashiest command techniques. You can use only **one [Flourish] action per turn**.
 
@@ -70,14 +70,16 @@ Trained in Fortitude
 
 **Skills**  
 Trained in one skill from Deception, Diplomacy, or Intimidation  
-Trained in your leadership style's signature skill  
 Trained in a number of additional skills equal to 6 plus your Intelligence modifier
 
 **Attacks**  
-Trained in simple weapons, martial weapons, and unarmed attacks
+Trained in unarmed attacks  
+Trained in simple weapons  
+Trained in martial weapons
 
 **Defenses**  
-Trained in light armor and unarmored defense
+Trained in unarmored defense  
+Trained in light armor
 
 **Class DC**  
 Trained in Officer class DC
@@ -85,8 +87,6 @@ Trained in Officer class DC
 ---
 
 ## Class Features
-
-As an Officer, you gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
@@ -111,37 +111,25 @@ As an Officer, you gain a **skill increase at every level from 2nd on** — the 
 | 19 | +6 | leadership feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat, skill increase |
 
-Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Command
 
 **(1st level)** You issue **Directives** — orders that make your allies' own actions better.
 
-**The one-per-round rule.** You can issue only **one [Directive] each round**, on your turn; it lasts until the start of your next turn. Allies benefit only while they can **sense you**. You don't choose Directives from a fixed list — you *acquire* them (you start with Get-the-Job-Done, gain more from your leadership style and feats) and pick which one to issue each round. Knowing more Directives gives you a **deeper menu**, not more orders per round.
-
-**Bonus-first.** By default, a Directive grants a **status bonus** to allies' actions — to their attacks, damage, AC, saves, or Speed. It makes the team's own turns count for more; it does **not** hand anyone a free action. A few Directives *do* grant a small, bounded action — a Step, or a single Strike — but never a whole extra turn.
+You can issue only **one [Directive] each round**, on your turn; it lasts until the start of your next turn. Allies benefit only while they can **sense you**.
 
 **Lead by Example.** Many Directives can be issued for one action or two. Spending the second action lets you also act — Strike, Stride, or the like — and deepens the Directive's effect, so you're in the fight rather than standing behind it.
 
-> **Sidebar — Directives and Reactions**
-> Only **[Directive]**-tagged orders count against your one-per-round limit. Your **reactive** commands — warnings and rescues like *Heads Up!* — are **not** [Directive]-tagged; they're reactions, so they fire in the *same* round as the Directive you issued. Like everyone, you can use at most **three reactions per round**, which is what keeps those from chaining.
+You also gain an **extra class feat** at 1st level that you can spend only on a feat with the **[Directive]** trait. In addition, you gain the **Get-the-Job-Done** action.
 
 **Get-the-Job-Done**  [one-action] or [two-actions]  · **Traits** Officer, [Directive], Auditory, Visual
 **Effect** Choose an enemy within 60 feet that you can see. You and allies who can sense you gain a **+1 status bonus to attack rolls** against that enemy until the start of your next turn.
 **Lead by Example** *(2 actions):* You also Strike the chosen enemy, adding a status bonus to that Strike's damage equal to your Charisma modifier, and you and allies who can sense you gain a **+1 status bonus to damage rolls** against it until the start of your next turn. This damage bonus increases to **+2 at 11th level** and **+3 at 17th level**.
 
-> **Example — Calling the Shot**
-> *Captain Renn spends two actions on Get-the-Job-Done against the war droid, leading by example: she fires (her shot lands with +Cha damage) and the whole squad now has +1 to hit and +1 damage against that droid for the round. On their turns, the Scoundrel's Exploit and the Soldier's burst both ride the bonus — Renn never rolled their dice, but she made all of them better.*
-
 ## Leadership Style
 
-**(1st level)** Every Officer adopts a **leadership style** — the school of command that grants a signature skill, a bonus skill feat, a signature Directive, and further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **From the Front**, **From the Shadows**, **In the Spotlight**, **HoloNet Director**, **Guns Blazing**, or **Through Desperate Times**; each is detailed in **Officer Leadership Styles**.
-
-## Bonus Directive Feat
-
-**(1st level)** You gain an **extra class feat** at 1st level that you can spend only on a feat with the **[Directive]** trait. Combined with Get-the-Job-Done and your leadership style's signature Directive, you command at least three distinct orders from your very first session.
+**(1st level)** Every Officer adopts a **leadership style** — the school of command that grants training and a skill feat in a signature skill, a signature Directive, and further features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Adaptive Talent
 
@@ -163,7 +151,9 @@ Class feats, skill feats, general feats, species feats, and ability boosts are t
 
 **(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
+## Greater Weapon Specialization
+
+**(15th level)** Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary.
 
 ## Resolve
 
@@ -175,7 +165,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Tactician
 
-**(13th level)** Command becomes second nature. Once per round, you can issue a Directive as part of another action you take, rather than as your action — letting you command and still act freely on your turn.
+**(13th level)** Command becomes second nature. You can issue a **one-action Directive** as part of another action you take, rather than as your action — but not a two-action **Lead by Example** Directive. This changes only how you pay for your Directive; it doesn't let you issue more than one Directive per round.
 
 ## Light Armor Expertise
 

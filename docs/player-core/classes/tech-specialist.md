@@ -70,10 +70,12 @@ Trained in one Engineering Lore
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 **Attacks**  
-Trained in simple weapons and unarmed attacks
+Trained in unarmed attacks
+Trained in simple weapons
 
 **Defenses**  
-Trained in light armor and unarmored defense
+Trained in unarmored defense
+Trained in light armor
 
 **Class DC**  
 Trained in Tech class DC
@@ -107,8 +109,6 @@ As a Tech Specialist, you gain a **skill increase at every level from 2nd on** �
 | 19 | +6 | Apex Engineering, Discipline feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat, skill increase |
 
-Class feats, skill feats, general feats, species feats, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Deploy
@@ -135,7 +135,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Engineering Discipline
 
-**(1st level)** Every Tech Specialist follows an **Engineering Discipline** — your technical methodology. It grants proficiencies, a core feature, a free signature Modification, and a signature way you reshape the Overclock risk, with further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Bio-Tech**, **Scrapper**, **Armstech**, **Droidwright**, or **Slicer**; each is detailed in **[Tech Specialist Disciplines](tech-specialist-disciplines.md)**.
+**(1st level)** Every Tech Specialist follows an **Engineering Discipline** — your technical methodology. It grants proficiencies, a core feature, a free signature Modification, and a signature way you reshape the Overclock risk, with further features at 3rd, 7th, 11th, 15th, and 19th levels. 
 
 ## Tech Expertise
 

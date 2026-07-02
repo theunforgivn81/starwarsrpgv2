@@ -74,10 +74,10 @@ Trained in Athletics
 Trained in a number of skills equal to 3 plus your Intelligence modifier
 
 **Attacks**  
+Expert in lightsabers  
 Trained in unarmed attacks  
 Trained in simple weapons  
-Trained in martial weapons  
-Expert in lightsabers
+Trained in martial weapons
 
 **Defenses**  
 Trained in unarmored defense  
@@ -116,8 +116,6 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 | 19 | +6 | Form feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat |
 
-Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Blade-Flow
@@ -148,7 +146,7 @@ Where others must spend an action to set or change their stance, you flow into y
 
 ## Form
 
-**(1st level)** Every Guardian masters a signature **Form** — your subclass. It grants that Form's stance for free (with its Guardian Mastery upgrade), a synergy that sharpens your Intercede, and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Soresu**, **Ataru**, **Shien / Djem So**, **Makashi**, **Niman**, **Shii-Cho**, or **Juyo / Vaapad**; each is detailed in **Guardian Forms**.
+**(1st level)** Every Guardian masters a signature **Form** — your subclass. It grants that Form's stance for free (with its Guardian Mastery upgrade), a synergy that sharpens your Intercede, and deeper features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Guardian Expertise
 

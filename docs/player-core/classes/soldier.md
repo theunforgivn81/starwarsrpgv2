@@ -112,8 +112,6 @@ Trained in Soldier class DC
 | 19 | +6 | Peerless Soldier, fighting style feature, general feat, skill increase |
 | 20 | +7 | class feat, skill feat, ability boosts |
 
-Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Suppress
@@ -147,7 +145,7 @@ While your Suppression Zone is up, every enemy inside it is suppressed, and any 
 
 ## Fighting Style
 
-**(1st level)** Every Soldier commits to a **fighting style** — a specialization that reshapes how you suppress and grants further features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Suppressor**, **Bulwark**, **Demolitionist**, **Enforcer**, or **Vanguard**; each is detailed in **Soldier Fighting Styles**.
+**(1st level)** Every Soldier commits to a **fighting style** — a specialization that reshapes how you suppress and grants further features at 3rd, 7th, 11th, 15th, and 19th levels. 
 
 ## Fearsome Bulwark
 

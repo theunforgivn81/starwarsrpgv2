@@ -71,10 +71,12 @@ Trained in Fortitude
 Trained in a number of skills equal to 4 plus your Intelligence modifier
 
 **Attacks**  
-Trained in simple weapons and lightsabers
+Trained in simple weapons 
+Trained in lightsabers
 
 **Defenses**  
-Trained in light armor and unarmored defense
+Trained in unarmored defense
+Trained in light armor
 
 **Class DC**  
 Trained in Sentinel class DC
@@ -108,8 +110,6 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 | 19 | +6 | Fork feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat |
 
-Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Premonition
@@ -137,7 +137,7 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Premonition Fork
 
-**(1st level)** Every Sentinel shapes Premonition toward a different answer to *"how do you react?"* — your subclass, called a **fork**. It grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Warden**, **Shadow**, **Justicar**, **Investigator**, or **Corsair**; each is detailed in **Sentinel Forks**.
+**(1st level)** Every Sentinel shapes Premonition toward a different answer to *"how do you react?"* — your subclass, called a **fork**. It grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. 
 
 ## Sentinel Expertise
 

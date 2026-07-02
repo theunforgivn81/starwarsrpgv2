@@ -110,8 +110,6 @@ Trained in Consular class DC
 | 19 | +6 | Force Mastery, Mandate feature, general feat, skill increase |
 | 20 | +7 | ability boosts, class feat, skill feat |
 
-Class feats, skill feats, general feats, species feats, skill increases, and ability boosts are the universal advancement every character receives; they're covered in the character-creation and feats chapters.
-
 ---
 
 ## Manifest
@@ -131,7 +129,7 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 ## Mandate
 
-**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications that grants its iconic power for free at 1st level, a signature benefit, and deeper command of that Application at 3rd, 7th, 11th, 15th, and 19th levels. Choose **Telekinesis**, **Visions**, **Serenity**, **Vitality**, **Dominance**, or **Destruction**; each is detailed in **Consular Mandates**.
+**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications that grants its iconic power for free at 1st level, a signature benefit, and deeper command of that Application at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Reflex Expertise
 
