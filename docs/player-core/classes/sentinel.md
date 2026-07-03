@@ -10,7 +10,7 @@ You see what's coming before it arrives. The Force speaks to you in warnings —
 A high Wisdom is the perceptiveness that drives your foresight — it sharpens your Premonition, your Perception, and your Will. The Sentinel lives and dies by reading the moment.
 
 > **Sidebar — Reading an Ability Block**
-> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
+> Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. *Frequency* caps how often you can use it; *Cost* is paid each time you do. *MAP* is your multiple attack penalty; reaction Strikes ignore it.
 
 > **Sidebar — Powers and Attunement Live in *The Force***
 > The Sentinel is a Force-adept: you fuel Premonition with **Attunement**, and you can learn Force powers (especially Sense powers) and Lightsaber Forms from **The Force**. This chapter covers your reactive engine; that chapter covers the toolkit you channel through it.
@@ -19,7 +19,7 @@ A high Wisdom is the perceptiveness that drives your foresight — it sharpens y
 
 ## Key Terms
 
-**Premonition**. Your signature reaction — foreseeing a hostile action and answering it with one of a small menu of **responses**.
+**Premonition**. The trait your signature reactions share — each foresees a hostile action and answers it. You start with three (Evade, Warn, Counter); forks, feats, and certain Force powers add more.
 
 **Foretell**. Your proactive own-turn action: read a foe's immediate future to ward yourself against it and empower your next Premonition.
 
@@ -87,7 +87,7 @@ Trained in light armor
 **Class DC**  
 Trained in Sentinel class DC
 
-You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which fuels your Premonition.
+You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which fuels your Premonition reactions.
 
 ---
 
@@ -120,24 +120,30 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 
 ## Premonition
 
-**(1st level)** You gain a **second reaction each round, usable only for Premonition**, so you can answer two threats a round where others answer one. (You can stretch to a third: see Overdrive, below.)
+**(1st level)** The Force warns you a heartbeat early, and you've learned to spend that heartbeat well. You gain the **Evade**, **Warn**, and **Counter** reactions below. Each has the **Premonition** trait, which marks a reaction as an act of foresight — your fork, your feats, and certain Force powers can add more.
 
-**Premonition**  [reaction]  · **Traits** Sentinel, Concentrate
-**Trigger** A creature you can perceive makes an attack or other hostile action against you or an ally within 30 feet.
-**Effect** Choose one **response** from the menu below and resolve it against the trigger. The reaction itself is free; some responses cost Attunement.
+You also gain a **second reaction each round, usable only for reactions with the Premonition trait**, so you can answer two threats a round where others answer one. Your ordinary reaction remains usable for anything, Premonition reactions included. Your **Premonition range** — the reach of your battlefield foresight, referenced by several of these reactions — is 30 feet.
 
-| Response | Cost | Effect |
-|---|:---:|---|
-| **Evade** | — | **Step** before the attack resolves (this doesn't trigger reactions). If the Step carries you out of the attacker's reach or range, or into cover, apply that against the triggering attack. |
-| **Warn** | — | The ally targeted by the trigger may immediately **Step**, **or** gains a **+2 circumstance bonus** to AC (or the relevant defense) against the triggering effect. |
-| **Counter** | 1 Attunement | **Once per round.** Make a single melee or ranged **Strike** against the triggering creature at full accuracy (reaction Strikes ignore your multiple attack penalty). |
+**Evade**  [reaction]  · **Traits** Sentinel, Premonition, Concentrate
+**Trigger** A creature you can perceive makes an attack or other hostile action against you.
+**Effect** You **Step** before the trigger resolves (this doesn't trigger reactions). If the Step carries you out of the attacker's reach or range, or into cover, apply that against the triggering effect.
 
-**Overdrive.** Once per round you can use Premonition a **third** time by spending **1 Attunement** to unlock the extra reaction (in addition to any cost of the response you choose). You can never use more than **three reactions in a round** — Premonition lets you spend resources to *react more often*, never to break that ceiling.
+**Warn**  [reaction]  · **Traits** Sentinel, Premonition, Concentrate
+**Trigger** A creature you can perceive makes an attack or other hostile action against an ally within your Premonition range.
+**Effect** The targeted ally may immediately **Step**, **or** gains a **+2 circumstance bonus** to AC (or the relevant defense) against the triggering effect.
+
+**Counter**  [reaction]  · **Traits** Sentinel, Premonition, Concentrate
+**Frequency** once per round
+**Cost** 1 Attunement
+**Trigger** A creature you can perceive attacks you.
+**Effect** Make a single melee or ranged **Strike** against the triggering creature at full accuracy (reaction Strikes ignore your multiple attack penalty).
+
+**Overdrive.** Once per round you can gain a **third** reaction — again usable only for Premonition reactions — by spending **1 Attunement** to unlock it (in addition to any cost of the reaction you use it for). You can never use more than **three reactions in a round** — Premonition lets you spend resources to *react more often*, never to break that ceiling.
 
 ## Foretell
 
 **Foretell**  [one-action]  · **Traits** Sentinel, Concentrate
-**Effect** You read a creature's immediate future. Designate one creature you can perceive as **foreseen** until the start of your next turn. While it's foreseen, it can't make you off-guard, and you gain a +1 circumstance bonus to AC and saves against it. The next Premonition you trigger off that creature is **empowered**: *Evade* lets you **Stride** instead of Step; *Counter* treats the target as **off-guard**; *Warn* grants the ally the Step **and** the +2 bonus.
+**Effect** You read a creature's immediate future. Designate one creature you can perceive as **foreseen** until the start of your next turn. While it's foreseen, it can't make you off-guard, and you gain a +1 circumstance bonus to AC and saves against it. The next Premonition reaction that creature triggers is **empowered**: **Evade** lets you **Stride** instead of Step; **Counter** treats the target as **off-guard**; **Warn** grants the ally the Step **and** the +2 bonus.
 
 This is your proactive play — the button you press on your own turn to turn foresight into a reactive payoff. It costs no Attunement.
 
@@ -151,7 +157,12 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Widened Sight
 
-**(5th level)** Your foresight broadens. You gain a fourth Premonition response, **Foresee** *(1 Attunement)*: when the triggering creature acts, you call its move, making it **off-guard to the next attack made against it** before the start of your next turn. In addition, Foretell can now mark up to **two** creatures, and a foreseen foe is also **off-guard to you**.
+**(5th level)** Your foresight broadens. You gain the **Foresee** reaction. In addition, Foretell can now mark up to **two** creatures, and a foreseen foe is also **off-guard to you**.
+
+**Foresee**  [reaction]  · **Traits** Sentinel, Premonition, Concentrate
+**Cost** 1 Attunement
+**Trigger** A creature you can perceive within your Premonition range makes an attack or other hostile action.
+**Effect** You call its move: the triggering creature is **off-guard to the next attack made against it** before the start of your next turn.
 
 ## Perception Mastery
 
@@ -209,7 +220,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Unclouded Sight
 
-**(17th level)** Your foresight needs no effort. Your Overdrive (third) Premonition each round no longer costs Attunement to unlock (you still pay any response's cost, and the three-reaction limit still holds). At the start of combat, you can Foretell every foe you can perceive for free, without spending an action — you read the whole battlefield's opening move.
+**(17th level)** Your foresight needs no effort. Your Overdrive (third) reaction each round no longer costs Attunement to unlock (you still pay any reaction's own cost, and the three-reaction limit still holds). At the start of combat, you can Foretell every foe you can perceive for free, without spending an action — you read the whole battlefield's opening move.
 
 ---
 

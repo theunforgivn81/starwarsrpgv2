@@ -1,8 +1,8 @@
 # Sentinel Forks
 
-At 1st level, every Sentinel chooses a **fork** — the way you shape your Premonition reaction. Each fork answers the same question differently: *when the moment comes, how do you react?* A fork grants a signature skill and benefit at 1st level and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
+At 1st level, every Sentinel chooses a **fork** — the way you shape your Premonition reactions. Each fork answers the same question differently: *when the moment comes, how do you react?* A fork grants a signature skill and benefit at 1st level and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
 
-Choose one of the five below when you make your Sentinel. None replaces Premonition or its responses (Evade, Warn, Counter, and — from 5th level — Foresee); each *reshapes* them toward a role.
+Choose one of the five below when you make your Sentinel. None replaces your Premonition reactions (Evade, Warn, Counter, and — from 5th level — Foresee); each *reshapes* them toward a role.
 
 > **Sidebar — Reactions Still Cap at Three**
 > Several forks add ways to react more often. No matter how they stack, you can use **at most three reactions per round** — your forks and feats change *what* your reactions do and *how often you can afford them*, never the ceiling.
@@ -14,7 +14,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 *You react to put yourself between the blow and the people behind you.*
 
 ### Interpose
-**(1st level)** You become trained in **Athletics**. When a creature attacks an ally within range and you're within 5 feet of that ally, your **Warn** response can instead make *you* the target of the triggering attack — you step into its path. (You're fragile; this is a real risk, and a real heroism.)
+**(1st level)** You become trained in **Athletics**. When a creature attacks an ally within range and you're within 5 feet of that ally, your **Warn** reaction can instead make *you* the target of the triggering attack — you step into its path. (You're fragile; this is a real risk, and a real heroism.)
 
 ### Shielding Warning
 **(3rd level)** Your **Warn** grants the +2 circumstance bonus to AC **and** the Step (both, not either), plus a +1 circumstance bonus to the triggering save if it's a save effect.
@@ -26,7 +26,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(11th level)** Allies within 15 feet of you gain a +1 circumstance bonus to AC. When you Interpose, reduce the redirected attack's damage by your level.
 
 ### Guardian's Premonition
-**(15th level)** Once per round, when an ally within range would be critically hit, you can react to make it a normal hit instead.
+**(15th level)** Once per round, when an ally within range would be critically hit, you can spend a reaction to make it a normal hit instead; this reaction has the Premonition trait.
 
 ### Unbreakable Watch
 **(19th level)** Allies within 15 feet of you can't be critically hit while you're conscious and not off-guard. Once per round, your protective reaction shields every ally within range from one area effect.
@@ -47,7 +47,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(7th level)** Once per round, after a Premonition, you can Hide as a free action **even while observed**, as long as you end with cover or concealment from the triggering creature.
 
 ### Killing Foresight
-**(11th level)** Your precision die increases to **2d6**, and your **Counter** can now trigger when *any* creature you perceive within range attacks, not only when you're the target (still once per round).
+**(11th level)** Your precision die increases to **2d6**, and your **Counter**'s trigger broadens: it can now trigger when *any* creature you perceive within your Premonition range attacks, not only when a creature attacks you (its Frequency is unchanged).
 
 ### Ghost Step
 **(15th level)** When you **Evade**, you can Stride (not just Step) and Hide as part of the reaction. A creature that loses track of you is off-guard to your next Counter.
@@ -71,7 +71,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(7th level)** When a creature critically hits you or an ally within range, you immediately regain your **Counter** for the round (letting you Counter a second time).
 
 ### Punishing Reach
-**(11th level)** Your **Counter** can trigger when a creature attacks an ally within range. On a hit, the target also takes a −1 circumstance penalty to its next attack (this doesn't stack with itself).
+**(11th level)** Your **Counter**'s trigger broadens: it can also trigger when a creature attacks an ally within your Premonition range. On a hit, the target also takes a −1 circumstance penalty to its next attack (this doesn't stack with itself).
 
 ### Inescapable Judgment
 **(15th level)** When your **Counter** hits, the target is **frightened 1** (frightened 2 on a critical hit).
@@ -89,7 +89,12 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(1st level)** You become trained in **Diplomacy** or **Society**. When you use a Premonition reaction, you can Recall Knowledge about the triggering creature as part of it (free); on a success, that reaction gains a +1 circumstance bonus to its roll or effect — you spotted the tell.
 
 ### Precognitive Maneuvers
-**(3rd level)** You gain a new Premonition response, **Maneuver** *(1 Attunement)*: react to **Trip, Disarm, or Shove** the triggering creature, which defends against your Sentinel class DC (foresight leverage, not muscle — no separate maneuver roll).
+**(3rd level)** You gain the **Maneuver** reaction.
+
+**Maneuver**  [reaction]  · **Traits** Sentinel, Premonition, Concentrate
+**Cost** 1 Attunement
+**Trigger** A creature within your reach makes an attack or other hostile action against you or an ally.
+**Effect** You **Trip**, **Disarm**, or **Shove** the triggering creature, which defends against your Sentinel class DC (foresight leverage, not muscle — no separate maneuver roll).
 
 ### Read the Room
 **(7th level)** Once per round, you can Recall Knowledge as a free action against any creature you perceive (untethered from a Premonition), and share one fact to grant an ally a +1 circumstance bonus to their next attack against that foe.
@@ -98,7 +103,7 @@ Choose one of the five below when you make your Sentinel. None replaces Premonit
 **(11th level)** A successful **Maneuver** also imposes a −1 circumstance penalty to the foe's attacks until the start of your next turn, you take no penalty for dealing nonlethal damage, and you can fold a Maneuver into a **Counter** (Strike and maneuver on one reaction).
 
 ### Total Recall
-**(15th level)** Against a creature you've Recalled this encounter, your Premonition responses gain a +1 circumstance bonus without a check, and your **Maneuver** against it also leaves it off-guard until the start of your next turn.
+**(15th level)** Against a creature you've Recalled this encounter, your Premonition reactions gain a +1 circumstance bonus without a check, and your **Maneuver** against it also leaves it off-guard until the start of your next turn.
 
 ### Case Closed
 **(19th level)** Once per round, a successful **Maneuver** lets you apply a second, different maneuver to that foe for free. Creatures you've Recalled can't be hidden or concealed from you, and your **Counter** treats them as off-guard.

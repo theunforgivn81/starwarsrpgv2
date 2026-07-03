@@ -32,7 +32,7 @@ You roll Perception for initiative with a +2 circumstance bonus, and you can't b
 ### Anticipatory Reflex
 **Feat 2** · **Traits** Sentinel
 **Frequency** once per minute
-**Effect** You use a defensive Premonition response (Evade or Warn) even when you have no reaction remaining, by spending 1 Attunement.
+**Effect** You Evade or Warn without spending a reaction, by spending 1 Attunement.
 
 ### Evasive Foresight
 **Feat 2** · **Traits** Sentinel
@@ -40,7 +40,7 @@ Your **Evade** Step is 10 feet and ignores difficult terrain.
 
 ### Premonitory Warning
 **Feat 2** · **Traits** Sentinel
-Your **Warn** response can protect two allies within range from the same triggering effect.
+Your **Warn** reaction can protect two allies within range from the same triggering effect.
 
 ### Quick Draw
 **Feat 2** · **Traits** Sentinel
@@ -97,7 +97,7 @@ Your first Strike against a creature you Foretold this turn treats it as off-gua
 
 ### Guardian's Reflex
 **Feat 6** · **Traits** Sentinel
-Your free defensive response (Evade or Warn) can also grant an adjacent ally cover against the triggering attack.
+Your **Evade** and **Warn** reactions can also grant an adjacent ally cover against the triggering attack.
 
 ### Mind Fortress
 **Feat 6** · **Traits** Sentinel
@@ -105,12 +105,12 @@ You gain a +1 circumstance bonus to Will saves, and once per round you can reduc
 
 ### Opportune Counter
 **Feat 6** · **Traits** Sentinel
-Your **Counter** can also trigger when a creature in reach Strides or makes a ranged attack (still once per round).
+Your **Counter**'s trigger broadens: it can also trigger when a creature in reach Strides or makes a ranged attack (its Frequency is unchanged).
 
 ### Precognitive Dodge
 **Feat 6** · **Traits** Sentinel
 **Frequency** once per round
-**Effect** When you would be critically hit, spend 1 Attunement to make it a normal hit instead.
+**Effect** When you would be critically hit, spend a reaction and 1 Attunement to make it a normal hit instead; this reaction has the Premonition trait.
 
 ---
 
@@ -127,7 +127,7 @@ Your Shadow precision die increases by 1d6.
 
 ### Deflecting Conduit
 **Feat 8** · **Traits** Sentinel
-You add **Energy Absorption** to your repertoire (see *The Force*); using it counts as a Premonition (fired through your engine).
+You add **Energy Absorption** to your repertoire (see *The Force*); when you use it, it gains the Premonition trait (fired through your engine).
 
 ### Pressure Point
 **Feat 8** · **Traits** Sentinel
@@ -163,12 +163,12 @@ Your Interpose range increases to 15 feet, and you can Step to the ally as part 
 
 ### Force Reflection Conduit
 **Feat 10** · **Traits** Sentinel
-You add **Force Reflection** to your repertoire (see *The Force*), fired as a Premonition (a ranged redirect).
+You add **Force Reflection** to your repertoire (see *The Force*); when you use it, it gains the Premonition trait (a ranged redirect).
 
 ### Storm of Premonition
 **Feat 10** · **Traits** Sentinel
 **Frequency** once per minute
-**Effect** This round, your Overdrive Premonition costs no Attunement.
+**Effect** This round, your Overdrive reaction costs no Attunement to unlock.
 
 ### Unshakable
 **Feat 10** · **Traits** Sentinel
@@ -232,7 +232,7 @@ While you have at least 1 Attunement and aren't off-guard, you gain a +1 circums
 ### Master's Reaction
 **Feat 16** · **Traits** Sentinel
 **Frequency** once per round
-**Effect** You use a Premonition response and a Force-power reaction on the same trigger, paying 1 additional Attunement.
+**Effect** You use a Premonition reaction and a Force-power reaction on the same trigger, spending a single reaction for both and paying 1 additional Attunement.
 
 ### Relentless Riposte
 **Feat 16** · **Traits** Sentinel
@@ -273,7 +273,7 @@ Your Foretell affects all foes within 30 feet.
 ### Perfect Premonition
 **Feat 20** · **Traits** Sentinel
 **Frequency** once per round
-**Effect** One Premonition response you use this round costs no Attunement, whatever it is — even Counter or Foresee fires free — and you can choose which response to use *after* the triggering attack's roll is revealed. (This doesn't raise your three-reaction limit.)
+**Effect** One Premonition reaction you use this round costs no Attunement, whatever it is — even Counter or Foresee fires free — and you can choose which Premonition reaction to use *after* the triggering attack's roll is revealed. (This doesn't raise your three-reaction limit.)
 
 ---
 

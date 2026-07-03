@@ -268,3 +268,9 @@ A few feats per fork, deepening its signature (the ORC norm). Each requires the 
 - ~~**§6 Class feats** list~~ — **DONE (2026-06-18):** ~50-feat menu (≈36 general + 15 subclass-gated), the ORC norm; §4.1-clean (no exclusive toolkit re-grants).
 - **Gate-A validation** (eHP via saves+reactions, reaction-economy/table-speed check, DPR-equivalent of counters, the L7 subclass quintet, Conduit cost-stacking).
 - Flavor/description → rules-writing. **Sentinel is now content-complete pending Gate-A.**
+
+---
+
+## 8. Revision — Premonition trait restructure (2026-07-03)
+
+The single **Premonition [reaction] + response menu** proved mechanically clunky and was restructured in player-core: each former response (**Evade, Warn, Counter, Foresee**, Investigator's **Maneuver**) is now a **standalone reaction with the [Premonition] trait**, each with its own rules-precise trigger. The class's extra reaction (and the Overdrive third) is now "usable only for reactions with the Premonition trait." Consequences: Counter's trigger is explicitly self-only at baseline (Killing Foresight / Punishing Reach broaden it, resolving the old shared-trigger contradiction); **Premonition range** (30 ft) is a defined term on the chassis; the Conduit feats grant powers the Premonition trait instead of "counts as a Premonition"; **Precognitive Dodge** now costs a reaction (Premonition trait) rather than no action. Reactive Conduit deliberately does NOT grant the trait (kept a pure discount) pending the Gate-A reaction-stacking review.
