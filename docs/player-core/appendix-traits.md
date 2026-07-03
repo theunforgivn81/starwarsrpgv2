@@ -242,8 +242,8 @@ This trait marks rider effects — extra conditions and effects that Soldier fea
 ### Sustain
 An ability with this trait — or with *(Sustain)* in its Duration — continues only while you maintain it. Spend one action on your turn to Sustain it; if your turn ends without you Sustaining it, or you become unable to act, the ability ends. Its Duration line gives the maximum time you can keep it going.
 
-### Tech
-This belongs to the Tech Specialist class — the craft of gadgets, Modifications, and field engineering. Feats and abilities with this trait can be selected or used only by Tech Specialists, unless another rule (such as an archetype) grants access. Tech marks technology-powered class abilities the way Force marks Force powers.
+### Tech Specialist
+This belongs to the Tech Specialist class — the craft of gadgets, Modifications, and field engineering. Feats and abilities with this trait can be selected or used only by Tech Specialists, unless another rule (such as an archetype) grants access.
 
 ### Technological
 This hook trait marks creatures, objects, and effects that operate by machinery, circuitry, or computers. Technological creatures and devices can gain the glitching condition, and slicing, jamming, and ion effects find their targets by this trait.

@@ -62,7 +62,7 @@ Choose one of the five below when you make your Tech Specialist. The Modificatio
 **(1st level)** You become trained in **medium armor** and **martial weapons** — your medium armor advances with your light armor, and your martial weapons with your simple weapons (to expert at 5th level and master at 13th). Through **Predictive Ballistics**, you use your Intelligence modifier for ranged attacks with a rig-interfaced weapon. You add the **Fragmentation Charge** Modification to your Library for free.
 
 ### Suppressive Overdrive
-**(3rd level)** You can Overclock a rig-interfaced ranged weapon to make an Area Fire attack with it (a basic save against your Tech class DC).
+**(3rd level)** You can Overclock a rig-interfaced ranged weapon to make an Area Fire attack with it (a basic save against your Tech Specialist class DC).
 
 ### Integrated Weapon
 **(7th level)** Your rig-weapon's Strikes add a small Intelligence-based effect, and Overclocking the weapon adds damage.

@@ -118,7 +118,7 @@ Your eyes are microscopes. You gain Darkvision and a +1 circumstance bonus to Pe
 
 ##### Droidsmith
 **Feat 1** · **Traits** Anzellan
-You treat droids as cousins, not tools. You become trained in Crafting, gain the Combat Repair skill feat, and gain a +1 circumstance bonus to Repair items with the Tech trait or to Treat Wounds on constructs (using Crafting).
+You treat droids as cousins, not tools. You become trained in Crafting, gain the Combat Repair skill feat, and gain a +1 circumstance bonus to Repair items with the Technological trait or to Treat Wounds on constructs (using Crafting).
 
 ##### Indignant Spirit
 **Feat 1** · **Traits** Anzellan, Emotion, Mental
@@ -141,7 +141,7 @@ You weave between giants' feet. You can move through the spaces of Small or larg
 ##### Circuit Breaker
 **Feat 5** · **Traits** Anzellan
 **Prerequisites** trained in Computers or Crafting
-You know just where to jam a hydrospanner. When you damage a creature or object with the Construct or Tech trait, you ignore the first 5 points of its Hardness or resistance.
+You know just where to jam a hydrospanner. When you damage a creature or object with the Construct or Technological trait, you ignore the first 5 points of its Hardness or resistance.
 
 ##### Nuisance Distraction  [one-action]
 **Feat 5** · **Traits** Anzellan
@@ -683,7 +683,7 @@ You flare all four arms to loom. You become trained in Intimidation (or another 
 
 ##### Ultrasonic Sensitivity
 **Feat 1** · **Traits** Codru-Ji, Auditory
-You hear above most species' range — the whine of power cells and servos. You gain a +1 circumstance bonus to Seek creatures or objects with the Tech or Construct trait, and you can converse secretly in the ultrasonic register with others who can hear it, out to 60 feet.
+You hear above most species' range — the whine of power cells and servos. You gain a +1 circumstance bonus to Seek creatures or objects with the Technological or Construct trait, and you can converse secretly in the ultrasonic register with others who can hear it, out to 60 feet.
 
 #### 5th-Level Feats
 
@@ -1152,7 +1152,7 @@ You're a master of gravity-based warfare. You become trained in Crafting and gai
 ##### Tech-Breaker
 **Feat 5** · **Traits** Ewok
 **Prerequisites** trained in Athletics
-You know the sky-people's machines are fragile. When you attack an object with the Tech trait or a creature with the Construct trait, you ignore the first 5 points of Hardness. On a critical hit against such a target, it must succeed at a Fortitude save against your class DC or become broken.
+You know the sky-people's machines are fragile. When you attack an object with the Technological trait or a creature with the Construct trait, you ignore the first 5 points of Hardness. On a critical hit against such a target, it must succeed at a Fortitude save against your class DC or become broken.
 
 #### 9th-Level Feats
 
@@ -1179,7 +1179,7 @@ You expect threats from any direction. You can use reactions even while surprise
 ##### Spirit of the Trees  [reaction]
 **Feat 13** · **Traits** Ewok, Fortune
 **Frequency** once per hour
-**Trigger** You fail a Reflex save or any save against a Tech effect.
+**Trigger** You fail a Reflex save or any save against a Technological effect.
 **Effect** The forest protects its own. Reroll the save with a +2 circumstance bonus; you must use the second result.
 
 #### 17th-Level Feats
@@ -1187,7 +1187,7 @@ You expect threats from any direction. You can use reactions even while surprise
 ##### Endor's Revenge
 **Feat 17** · **Traits** Ewok
 **Prerequisites** Tech-Breaker
-You're a whirlwind of destruction against technology. Your attacks ignore all Hardness of objects with the Tech trait, and when you critically hit a creature in technological armor or a droid, the target is slowed 1 as systems fail and takes 1d10 persistent bleed damage (or persistent electricity damage for droids).
+You're a whirlwind of destruction against technology. Your attacks ignore all Hardness of objects with the Technological trait, and when you critically hit a creature in technological armor or a droid, the target is slowed 1 as systems fail and takes 1d10 persistent bleed damage (or persistent electricity damage for droids).
 
 ##### Guerrilla Master
 **Feat 17** · **Traits** Ewok
@@ -1436,7 +1436,7 @@ You're an expert with energy balls and grenades. You can draw a grenade or Splas
 
 ##### Energy Shield Expert
 **Feat 5** · **Traits** Gungan
-You're trained with the personal energy buckler (cessa). When you Raise a Shield, if that shield has the Tech trait or is made of energy, you gain resistance equal to half your level (minimum 1) to fire, cold, electricity, sonic, and plasma damage until the start of your next turn.
+You're trained with the personal energy buckler (cessa). When you Raise a Shield, if that shield has the Technological trait or is made of energy, you gain resistance equal to half your level (minimum 1) to fire, cold, electricity, sonic, and plasma damage until the start of your next turn.
 
 ##### Marsh-Wader
 **Feat 5** · **Traits** Gungan
@@ -2033,7 +2033,7 @@ Jawas are never alone. You can flank an enemy that's within reach of both you an
 ##### Ion Specialist
 **Feat 5** · **Traits** Jawa
 **Prerequisites** Jawa Weapon Familiarity
-You know just where to fry a droid's circuits. When you critically hit a creature with the Construct or Tech trait using an ion or electricity weapon, the target is slowed 1 for 1 round.
+You know just where to fry a droid's circuits. When you critically hit a creature with the Construct or Technological trait using an ion or electricity weapon, the target is slowed 1 for 1 round.
 
 ##### Sandcrawler Stride
 **Feat 5** · **Traits** Jawa
@@ -2076,7 +2076,7 @@ You have a contact for everything. Spend 1 hour reaching the Jawa trade network 
 ##### Short Circuit
 **Feat 13** · **Traits** Jawa
 **Prerequisites** Ion Specialist
-Your ion shots chain between targets. When you hit a target with an ion or electricity weapon, you deal splash damage equal to that weapon's minimum die result to each adjacent creature with the Construct or Tech trait.
+Your ion shots chain between targets. When you hit a target with an ion or electricity weapon, you deal splash damage equal to that weapon's minimum die result to each adjacent creature with the Construct or Technological trait.
 
 #### 17th-Level Feats
 
@@ -2084,7 +2084,7 @@ Your ion shots chain between targets. When you hit a target with an ion or elect
 **Feat 17** · **Traits** Jawa, Incapacitation, Manipulate
 **Prerequisites** Restraining Bolt Logic
 **Frequency** once per day
-**Effect** You don't just stop droids; you own them. Attempt a Crafting or Computers check against the Will DC of one Construct or Tech creature within 30 feet, ignoring its immunity to mental effects and to the controlled condition.
+**Effect** You don't just stop droids; you own them. Attempt a Crafting or Computers check against the Will DC of one Construct or Technological creature within 30 feet, ignoring its immunity to mental effects and to the controlled condition.
 **Critical Success** The target is controlled by you for 1 minute.
 **Success** The target is confused for 1 minute.
 **Failure** The target is stunned 1.
@@ -3012,7 +3012,7 @@ You have unshakable faith in your own deal-making. You become trained in Decepti
 
 ##### Improvised Weapon Familiarity
 **Feat 1** · **Traits** Squib
-You fight with whatever's at hand. You don't take the penalty for attacking with improvised weapons, and you treat them as simple weapons of their approximate shape and size. A technological item used as an improvised weapon gains the Tech trait.
+You fight with whatever's at hand. You don't take the penalty for attacking with improvised weapons, and you treat them as simple weapons of their approximate shape and size. A technological item used as an improvised weapon gains the Technological trait.
 
 ##### Squib Lore
 **Feat 1** · **Traits** Squib
@@ -3020,7 +3020,7 @@ You've spent your life cataloging junk and learning who to sell it to. You becom
 
 ##### Tech-Scent
 **Feat 1** · **Traits** Squib
-Your nose catches the ozone tang of active power cells and coolant. You gain an imprecise sense that detects distinct technological items (batteries, blasters, droids) and creatures with the Tech or Construct trait.
+Your nose catches the ozone tang of active power cells and coolant. You gain an imprecise sense that detects distinct technological items (batteries, blasters, droids) and creatures with the Technological or Construct trait.
 
 ##### Underfoot Scurry
 **Feat 1** · **Traits** Squib
@@ -3061,7 +3061,7 @@ You find utility where others see nothing. During your daily preparations you ca
 ##### Overcharge Tech  [one-action]
 **Feat 9** · **Traits** Squib, Manipulate
 **Prerequisites** Improvised Weapon Familiarity
-**Requirements** You're holding a weapon with the Tech trait that isn't broken.
+**Requirements** You're holding a weapon with the Technological trait that isn't broken.
 **Effect** You jury-rig the weapon's power cell to dump all its energy at once. Make a Strike with the weapon; it deals an additional 1d8 electricity damage per weapon damage die and gains the Electricity trait. On a critical hit the weapon gains the Arc trait. After the attack resolves, the weapon becomes broken.
 
 ##### Scramble Away  [reaction]
@@ -3746,7 +3746,7 @@ To an Ugnaught, a heavy wrench is just a mace that tightens bolts. You don't tak
 
 ##### Droid Disassembler
 **Feat 5** · **Traits** Ugnaught
-You take them apart faster than they were assembled. When you hit a creature with the Construct or Tech trait, you ignore Hardness equal to your level, and on a critical hit against a Construct it's slowed 1 for 1 round.
+You take them apart faster than they were assembled. When you hit a creature with the Construct or Technological trait, you ignore Hardness equal to your level, and on a critical hit against a Construct it's slowed 1 for 1 round.
 
 ##### Gantry Walker
 **Feat 5** · **Traits** Ugnaught
@@ -3784,7 +3784,7 @@ You organize your party like a work crew. When you Aid an ally's skill check, yo
 **Feat 13** · **Traits** Ugnaught, Incapacitation, Manipulate
 **Prerequisites** Droid Disassembler
 **Frequency** once per 10 minutes
-**Effect** You hotwire a droid's logic gate mid-fight. Attempt a Crafting check against the higher of the Fortitude or Will DC of one Construct or Tech creature within reach.
+**Effect** You hotwire a droid's logic gate mid-fight. Attempt a Crafting check against the higher of the Fortitude or Will DC of one Construct or Technological creature within reach.
 **Critical Success** The target is confused for 1 minute.
 **Success** The target is stunned 1.
 **Failure** The target is unaffected.

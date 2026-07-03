@@ -7,7 +7,7 @@ You solve problems the galaxy hasn't invented yet. Machines make sense to you th
 > **Key Attribute** Intelligence
 > **Hit Points** 8 + your Constitution modifier (each level)
 
-A high Intelligence runs everything you do — your **Tech class DC** (the number foes resist), the bonus your Overclocks add, the breadth of your skills, and the cleverness behind every gadget. The Tech Specialist pours into Intelligence and lets the rig do the rest.
+A high Intelligence runs everything you do — your **Tech Specialist class DC** (the number foes resist), the bonus your Overclocks add, the breadth of your skills, and the cleverness behind every gadget. The Tech Specialist pours into Intelligence and lets the rig do the rest.
 
 > **Sidebar — Reading an Ability Block**
 > Activated abilities are written as blocks. The symbol after the name is the action cost: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, or **[free-action]**. *Traits* note the rules categories an ability belongs to. Save-based abilities list the effects for the four possible outcomes — **Critical Success, Success, Failure, Critical Failure**.
@@ -84,7 +84,7 @@ Trained in unarmored defense
 Trained in light armor
 
 **Class DC**  
-Trained in Tech class DC
+Trained in Tech Specialist class DC
 
 ---
 
@@ -145,7 +145,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Tech Expertise
 
-**(7th level)** Your proficiency rank for your Tech class DC increases to expert.
+**(7th level)** Your proficiency rank for your Tech Specialist class DC increases to expert.
 
 ## Tech Savvy
 
@@ -165,7 +165,7 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Emergency Reroute
 
-**Emergency Reroute**  [reaction]  · **Traits** Tech
+**Emergency Reroute**  [reaction]  · **Traits** Tech Specialist
 **Frequency** once per 10 minutes
 **(7th level)** **Trigger** You fail or critically fail an Overclock flat check.
 **Effect** You reroute the surge before it cascades — treat the result as one degree better (a critical failure becomes a failure; a failure becomes a success).
@@ -190,7 +190,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Tech Mastery
 
-**(15th level)** Your proficiency rank for your Tech class DC increases to master.
+**(15th level)** Your proficiency rank for your Tech Specialist class DC increases to master.
 
 ## Greater Evasion
 
@@ -214,7 +214,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Apex Engineering
 
-**(19th level)** Your proficiency rank for your Tech class DC increases to legendary — your Modifications and Overclocks are the hardest in the galaxy to resist.
+**(19th level)** Your proficiency rank for your Tech Specialist class DC increases to legendary — your Modifications and Overclocks are the hardest in the galaxy to resist.
 
 ---
 

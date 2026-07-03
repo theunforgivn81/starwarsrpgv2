@@ -86,6 +86,8 @@ Add to project `CLAUDE.md`: **whenever new content references a trait or conditi
 
 ## 6a. Amendments (during build, 2026-07-03)
 
+- **`Tech` renamed to `Tech Specialist`** (user directive, post-build): class and species traits are always named exactly after their parent, so the §3.3 Tech/Technological split resolves differently — `Tech Specialist` is the class trait; `Technological` is the hook, and the species-chapter references to items/weapons/creatures "with the Tech trait" were retargeted to `Technological` (they meant technological things, not class content). "Tech class DC" likewise normalized to "Tech Specialist class DC".
+
 - **Weapon traits added to the glossary:** the final sweep found six weapon traits already referenced as rules objects — *agile* (intro MAP), *automatic* (Suppressing Fire), *finesse* (Scoundrel, DEX melee), *nonlethal* (Sentinel Judicator), *unwieldy* and *volley* (Scoundrel Sharpshooter ignores them). Entries written to substrate defaults (2E/SF2E semantics; finesse adds DEX to damage per Phase 1 §11). **Phase 6 equipment design may revise these values** — carried forward.
 - **Attack trait included:** the restrained condition's ORC text references it, satisfying the referenced-by->1-rule bar.
 - **Phase 1 §8.4 governance rule kept out of the appendix intro** (designer-facing, per the no-design-language-in-player-text convention); it lives in Phase 1 and is enforced by the CLAUDE.md directive instead.
