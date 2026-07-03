@@ -115,7 +115,7 @@ Trained in Officer class DC
 | 17 | +6 | Officer Mastery, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat, skill increase |
 | 19 | +6 | leadership feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat, skill increase |
+| 20 | +7 | Ability boosts, class feat, skill feat, skill increase |
 
 ---
 
@@ -141,29 +141,35 @@ You also gain an **extra class feat** at 1st level that you can spend only on a 
 
 **(3rd level)** You adapt to whatever the mission demands. You gain a skill feat or general feat of your choice, and you can retrain it freely during downtime as your needs change.
 
-## Officer Expertise
-
-**(9th level)** Your proficiency rank for your Officer class DC increases to expert.
-
 ## Weapon Expertise
 
 **(5th level)** Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert.
-
-## Officer Mastery
-
-**(17th level)** Your proficiency rank for your Officer class DC increases to master.
 
 ## Weapon Specialization
 
 **(7th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-## Greater Weapon Specialization
+At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
-**(15th level)** Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary.
+## Light Armor Expertise
+
+**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
 
 ## Resolve
 
 **(7th level)** Your will is the squad's backbone. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+
+## Evasion
+
+**(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
+
+## Perception Mastery
+
+**(7th level)** Your proficiency rank for Perception increases to master.
+
+## Officer Expertise
+
+**(9th level)** Your proficiency rank for your Officer class DC increases to expert.
 
 ## Fortitude Expertise
 
@@ -173,21 +179,9 @@ You also gain an **extra class feat** at 1st level that you can spend only on a 
 
 **(13th level)** Command becomes second nature. You can issue a **one-action Directive** as part of another action you take, rather than as your action — but not a two-action **Lead by Example** Directive. This changes only how you pay for your Directive; it doesn't let you issue more than one Directive per round.
 
-## Light Armor Expertise
-
-**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
-
 ## Weapon Mastery
 
 **(13th level)** Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
-
-## Evasion
-
-**(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
-
-## Legendary Improvisation
-
-**(15th level)** There's nothing you can't bluff your way through. You can attempt any skill check that normally requires you to be trained even if you're untrained in that skill, using your level as your proficiency.
 
 ## Greater Resolve
 
@@ -201,13 +195,17 @@ You also gain an **extra class feat** at 1st level that you can spend only on a 
 
 **(15th level)** Your proficiency rank for Perception increases to legendary — you miss nothing on the field.
 
-## Perception Mastery
+## Legendary Improvisation
 
-**(7th level)** Your proficiency rank for Perception increases to master.
+**(15th level)** There's nothing you can't bluff your way through. You can attempt any skill check that normally requires you to be trained even if you're untrained in that skill, using your level as your proficiency.
 
 ## Light Armor Mastery
 
 **(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
+
+## Officer Mastery
+
+**(17th level)** Your proficiency rank for your Officer class DC increases to master.
 
 ---
 
