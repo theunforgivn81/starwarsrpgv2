@@ -147,7 +147,7 @@ Choose one of the five below when you make your Scoundrel. You can't change it l
 **(1st level)** You become trained in **Stealth** and **Computers**, and a creature that is **unaware of you** is exploitable to you. You also gain the Sabotage action.
 
 **Sabotage**  [one-action]  · **Traits** Scoundrel, Technological
-**Effect** Attempt a Computers check against a technological creature's or device's DC. On a success, the target is **glitching** until the start of your next turn (taking a status penalty to its checks and DCs); on a critical success, it's also briefly disabled.
+**Effect** Attempt a Computers check against a technological creature's or device's DC. On a success, the target is **glitching** until the start of your next turn; on a critical success, it's also briefly disabled.
 
 ### Ghost Tap
 

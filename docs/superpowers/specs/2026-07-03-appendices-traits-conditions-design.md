@@ -84,6 +84,12 @@ unconscious → prone + off-guard chain; dying ↔ wounded ↔ doomed loop; the 
 
 Add to project `CLAUDE.md`: **whenever new content references a trait or condition that has no appendix entry, add the entry in the same change.** (The prose-level enforcement of Phase 1 §8.4 governance.)
 
+## 6a. Amendments (during build, 2026-07-03)
+
+- **Weapon traits added to the glossary:** the final sweep found six weapon traits already referenced as rules objects — *agile* (intro MAP), *automatic* (Suppressing Fire), *finesse* (Scoundrel, DEX melee), *nonlethal* (Sentinel Judicator), *unwieldy* and *volley* (Scoundrel Sharpshooter ignores them). Entries written to substrate defaults (2E/SF2E semantics; finesse adds DEX to damage per Phase 1 §11). **Phase 6 equipment design may revise these values** — carried forward.
+- **Attack trait included:** the restrained condition's ORC text references it, satisfying the referenced-by->1-rule bar.
+- **Phase 1 §8.4 governance rule kept out of the appendix intro** (designer-facing, per the no-design-language-in-player-text convention); it lives in Phase 1 and is enforced by the CLAUDE.md directive instead.
+
 ## 7. Out of scope
 
 - Creature-facing conditions/rules not yet referenced by player-core (Phase 7 may extend the lists).

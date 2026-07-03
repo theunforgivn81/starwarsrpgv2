@@ -121,7 +121,7 @@ A few conventions make the rules quick to scan:
 
 - **Bold, capitalized terms** (like **Strike**, **off-guard**, **Suppression Zone**) are defined game terms — look them up if unsure.
 - **Action costs** sit in brackets after an ability's name: **[one-action]**, **[two-actions]**, **[three-actions]**, **[reaction]**, **[free-action]**. Some abilities are **activities** that bundle several actions into one.
-- **Traits** are tags in an ability's line that wire it to other rules — a `[Flourish]` you can use once per turn, a `[once per minute]` cooldown.
+- **Traits** are tags in an ability's line that wire it to other rules — a `[Flourish]` you can use only once per turn, a `[Visual]` effect a blinded creature ignores. Every trait is defined in the Traits appendix.
 - **Ability blocks** list their parts in a fixed order — *Trigger* (what sets a reaction off), *Requirements* (what you need first), *Frequency* (how often), *Effect*, and the four degrees for anything with a roll — and omit any line that doesn't apply.
 - **Specific beats general** (the first rule, again): when a feature contradicts a general rule, the feature wins.
 

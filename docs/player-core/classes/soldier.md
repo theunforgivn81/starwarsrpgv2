@@ -18,7 +18,7 @@ A Soldier with a high Constitution hits harder with their signature gear, soaks 
 
 These terms recur throughout the class; their full rules live in the **Conditions** and **Combat** chapters.
 
-**Suppressed** *(condition)*. A suppressed creature takes a **–1 circumstance penalty to attack rolls** and a **–10-foot status penalty to all its Speeds**. The condition lasts until the start of the suppressing Soldier's next turn, or for as long as the creature remains inside an active Suppression Zone. Several Soldier features deepen or add to it.
+**Suppressed** *(condition)*. A suppressed creature takes a **–1 circumstance penalty to attack rolls** and a **–10-foot status penalty to all its Speeds** (full entry: the Conditions appendix). Your suppression lasts until the start of your next turn, or for as long as the creature remains inside an active Suppression Zone, and several Soldier features deepen or add to it.
 
 **Suppression Zone**. The cone or burst your Suppressing Fire blankets. It persists until the start of your next turn. Enemies inside it are suppressed, and enemies that move or act inside it trigger your Suppressing Reaction.
 

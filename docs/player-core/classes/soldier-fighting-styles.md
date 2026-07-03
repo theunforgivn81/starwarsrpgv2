@@ -19,7 +19,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Pinning Fire
 
-**Traits** [Suppressed]
+**Traits** Suppressed
 **(3rd level)** When you make creatures suppressed with your Suppressing Fire, you can choose this effect: each creature that fails its save is also **off-guard** until the start of your next turn.
 
 ### Sustained Barrage
@@ -50,7 +50,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Crushing Hold
 
-**Traits** [Suppressed]
+**Traits** Suppressed
 **(3rd level)** Your Athletics maneuvers against suppressed foes gain a **+1 circumstance bonus**. In addition, when you make a creature suppressed with a maneuver, you can choose this effect: that creature is **off-guard** until the start of your next turn.
 
 ### Immovable
@@ -81,7 +81,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Shaped Charge
 
-**Traits** [Suppressed]
+**Traits** Suppressed
 **(3rd level)** When you make creatures suppressed with an area attack, you can choose this effect: each creature that fails its save is **slowed 1** until the start of your next turn.
 
 ### Cluster Munitions
@@ -132,7 +132,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Veiled Threat
 
-**Traits** [Suppressed]
+**Traits** Suppressed
 **(3rd level)** When you make a creature suppressed with Oppressive Presence, you can choose this effect: that creature is also **frightened 1** for as long as it isn't attacking you.
 
 ### Intimidating Onslaught
@@ -163,7 +163,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Brutal Sweep
 
-**Traits** [Suppressed]
+**Traits** Suppressed
 **(3rd level)** When you make creatures suppressed with your melee whirlwind, you can choose this effect: each creature that fails its save is **pushed 5 feet** or knocked **prone** (your choice, the same for all).
 
 ### Whirling Swipe
