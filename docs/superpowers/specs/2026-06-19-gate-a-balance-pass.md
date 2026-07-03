@@ -29,7 +29,7 @@ The core mechanic budgets **~2–3 commonly-triggering reactions/character** for
 
 ### F-A2 — Bulwark flat-resistance stacking trends to damage-negation
 The Soldier/**Bulwark** can layer flat resistance: **Dig In** (resist = CON, when stationary) + **Armored Reaction** (resist = level, **doubled = 2×level vs Suppressed**) + **Unshakable Juggernaut** (half damage on a *failed* Fort save). Armored Reaction's `2×level` = **34 at L17** — larger than most on-level hits (~25–40), so vs a Suppressed attacker a hit is near-negated, *then* halved again on a failed Fort save.
-**Fix (applied):** Armored Reaction resist = **half your level** (→ **level** vs Suppressed, not 2×); Dig In and Armored Reaction may stack but to a modest total (~½-of-a-hit reduction, not negation). Bulwark stays the toughest fork without becoming unkillable.
+**Fix (applied):** Armored Reaction resist = **half your level** (→ **level** vs Suppressed, not 2×); Dig In and Armored Reaction may stack but to a modest total (~½-of-a-hit reduction, not negation). Bulwark stays the toughest path without becoming unkillable.
 
 ---
 
@@ -133,13 +133,13 @@ Holds on-profile (proactive bodyguard tank). Reaction-capped; single-target DPR 
 - 🟡 **G-3 (note → rules-writing) — MA1/MA7 carryforward (no balance change).** Guardian's Reach soft-zones but can't cover open ground alone (tabled two-tank truth); Tumble Through is written vs Guardian class DC and still needs reconciling with the skill table (MA7) in the combat chapter.
 - Holds: reactions hard-capped at 3 (Vigilant Guard / Combat Reflexes raise *toward* it); saves on-role (Will + Fort master-with-rider, Reflex the vector, lightsaber the lone Legendary line); no repeatable action-positive loops (extra-action capstones are once/round at L19–20).
 
-### B.6 Sentinel *(content-complete in player-core: [chassis](../../player-core/classes/sentinel.md) · [forks](../../player-core/classes/sentinel-forks.md) · [feats](../../player-core/classes/sentinel-feats.md))*
+### B.6 Sentinel *(content-complete in player-core: [chassis](../../player-core/classes/sentinel.md) · [paths](../../player-core/classes/sentinel-paths.md) · [feats](../../player-core/classes/sentinel-feats.md))*
 
 Holds on-profile (the reaction specialist). Reaction economy hard-capped at 3; the watches are the expected off-turn ones.
 
 - 🟡 **S-1 (watch → balance-analysis) — off-turn Counter aggregate.** Counter is a full-accuracy (no-MAP) reaction Strike, once/round base, stretched by Justicar *No Refuge* (extra Counters at 2 Att each), Shadow *Inevitable Ambush* (auto-crit vs off-guard + 3d6 precision), and Corsair ricochet — up to ~3 Strikes on enemy turns at high level. Bounded by the 3-reaction cap, the Attunement pool, and once/round bases.
 - 🟡 **S-2 (watch → balance-analysis) — Conduit cost-stacking** (the Gate-A flag, confirmed bounded). Reactive/Deep/Greater Conduit fire toolkit reaction-powers (Energy Absorption, Force Reflection) at −1 Att, one free/round, +1 circ — reliable every-round mitigation/redirect. Specialist payoff, not new power; capped by the 3-reaction ceiling and each power's own bounded effect.
-- 🟡 **S-3 (note) — L7 fork quintet parity.** Warden's *Vigilant Bulwark* (free defensive reaction once/round) is the most reliably useful of the five L7 features; the rest trade in utility/info/offense. Judged balanced across axes; watch in play.
+- 🟡 **S-3 (note) — L7 path quintet parity.** Warden's *Vigilant Bulwark* (free defensive reaction once/round) is the most reliably useful of the five L7 features; the rest trade in utility/info/offense. Judged balanced across axes; watch in play.
 - Holds: the **2-baseline-reaction** budget is the deliberate reactor identity, hard-capped at 3 (Overdrive spends a resource for the 3rd; Unclouded Sight removes only the cost); saves on-role (Reflex/Will master-with-rider, Fort the vector on HP 8); **Perception → Legendary** is the sanctioned signature (awareness/initiative, not a damage outlier); no repeatable action-positive loops (Vengeful Premonition / Foreseen Demise are trigger-recharges that obey the cap).
 
 ### B.7 Tech Specialist *(content-complete in player-core: [chassis](../../player-core/classes/tech-specialist.md) · [disciplines](../../player-core/classes/tech-specialist-disciplines.md) · [feats](../../player-core/classes/tech-specialist-feats.md) · [modifications](../../player-core/classes/tech-specialist-modifications.md))*

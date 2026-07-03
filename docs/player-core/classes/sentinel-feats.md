@@ -1,6 +1,6 @@
 # Sentinel Feats
 
-At 1st level and every even level you gain a **Sentinel class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a fork in their Prerequisites require that fork.
+At 1st level and every even level you gain a **Sentinel class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a path in their Prerequisites require that path.
 
 > **Sidebar — The Conduit Feats**
 > A line of feats (Reactive Conduit, Deflecting Conduit, Force Reflection Conduit, Deep Conduit, Greater Conduit) lets you channel **Force powers from *The Force*** — especially Sense and Control reactions like Precognitive Parry, Energy Absorption, and Force Reflection — *through* your Premonition engine, cheaper and sharper. They don't make those powers yours alone; they make you the specialist who uses them best.
@@ -277,4 +277,4 @@ Your Foretell affects all foes within 30 feet.
 
 ---
 
-Return to the **[Sentinel](sentinel.md)** chassis or the **[Sentinel Forks](sentinel-forks.md)**.
+Return to the **[Sentinel](sentinel.md)** chassis or the **[Sentinel Paths](sentinel-paths.md)**.

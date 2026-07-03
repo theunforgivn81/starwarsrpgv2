@@ -19,7 +19,9 @@ A high Wisdom is the perceptiveness that drives your foresight — it sharpens y
 
 ## Key Terms
 
-**Premonition**. The trait your signature reactions share — each foresees a hostile action and answers it. You start with three (Evade, Warn, Counter); forks, feats, and certain Force powers add more.
+**Premonition**. The trait your signature reactions share — each foresees a hostile action and answers it. You start with three (Evade, Warn, Counter); paths, feats, and certain Force powers add more.
+
+**Path**. Your subclass — the way you shape your Premonition reactions to fit a role. Warden, Shadow, Justicar, Investigator, and Corsair are the five paths.
 
 **Foretell**. Your proactive own-turn action: read a foe's immediate future to ward yourself against it and empower your next Premonition.
 
@@ -95,32 +97,32 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Premonition, Foretell, Premonition fork (subclass), class feat, species feat |
+| 1 | +2 | Premonition, Foretell, Premonition path (subclass), class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
-| 3 | +2 | Fork feature, general feat, skill increase |
+| 3 | +2 | Path feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
 | 5 | +3 | Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
 | 6 | +3 | Class feat, skill feat |
-| 7 | +3 | Perception Mastery, Weapon Specialization, Light Armor Expertise, Evasion, Resolve, fork feature, general feat, skill increase |
+| 7 | +3 | Perception Mastery, Weapon Specialization, Light Armor Expertise, Evasion, Resolve, path feature, general feat, skill increase |
 | 8 | +4 | Class feat, skill feat |
 | 9 | +4 | Sentinel Expertise, Fortitude Expertise, species feat, skill increase |
 | 10 | +4 | Class feat, skill feat, ability boosts |
-| 11 | +4 | Fork feature, general feat, skill increase |
+| 11 | +4 | Path feature, general feat, skill increase |
 | 12 | +5 | Class feat, skill feat |
 | 13 | +5 | Weapon Mastery, species feat, skill increase |
 | 14 | +5 | Class feat, skill feat |
-| 15 | +5 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, Greater Evasion, Greater Resolve, fork feature, ability boosts, general feat, skill increase |
+| 15 | +5 | Greater Weapon Specialization, Incredible Senses, Light Armor Mastery, Greater Evasion, Greater Resolve, path feature, ability boosts, general feat, skill increase |
 | 16 | +6 | Class feat, skill feat |
 | 17 | +6 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
-| 19 | +6 | Fork feature, general feat, skill increase |
+| 19 | +6 | Path feature, general feat, skill increase |
 | 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
 ## Premonition
 
-**(1st level)** The Force warns you a heartbeat early, and you've learned to spend that heartbeat well. You gain the **Evade**, **Warn**, and **Counter** reactions below. Each has the **Premonition** trait, which marks a reaction as an act of foresight — your fork, your feats, and certain Force powers can add more.
+**(1st level)** The Force warns you a heartbeat early, and you've learned to spend that heartbeat well. You gain the **Evade**, **Warn**, and **Counter** reactions below. Each has the **Premonition** trait, which marks a reaction as an act of foresight — your path, your feats, and certain Force powers can add more.
 
 You also gain a **second reaction each round, usable only for reactions with the Premonition trait**, so you can answer two threats a round where others answer one. Your ordinary reaction remains usable for anything, Premonition reactions included. Your **Premonition range** — the reach of your battlefield foresight, referenced by several of these reactions — is 30 feet.
 
@@ -147,9 +149,9 @@ You also gain a **second reaction each round, usable only for reactions with the
 
 This is your proactive play — the button you press on your own turn to turn foresight into a reactive payoff. It costs no Attunement.
 
-## Premonition Fork
+## Premonition Path
 
-**(1st level)** Every Sentinel shapes Premonition toward a different answer to *"how do you react?"* — your subclass, called a **fork**. It grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels.
+**(1st level)** Every Sentinel chooses one of five paths — the way you shape your Premonition reactions toward a different answer to *"how do you react?"* Each path grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Weapon Expertise
 
@@ -224,4 +226,4 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ---
 
-Your fork and its features are detailed in **[Sentinel Forks](sentinel-forks.md)**; your class-feat options, in **[Sentinel Feats](sentinel-feats.md)**. The powers and Forms you channel are in **[The Force](the-force.md)**.
+Your path and its features are detailed in **[Sentinel Paths](sentinel-paths.md)**; your class-feat options, in **[Sentinel Feats](sentinel-feats.md)**. The powers and Forms you channel are in **[The Force](the-force.md)**.

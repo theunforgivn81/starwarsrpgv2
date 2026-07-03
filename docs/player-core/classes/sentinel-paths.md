@@ -1,11 +1,11 @@
-# Sentinel Forks
+# Sentinel Paths
 
-At 1st level, every Sentinel chooses a **fork** — the way you shape your Premonition reactions. Each fork answers the same question differently: *when the moment comes, how do you react?* A fork grants a signature skill and benefit at 1st level and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
+At 1st level, every Sentinel chooses a **path** — the way you shape your Premonition reactions. Each path answers the same question differently: *when the moment comes, how do you react?* A path grants a signature skill and benefit at 1st level and deeper features at **3rd, 7th, 11th, 15th, and 19th** levels.
 
 Choose one of the five below when you make your Sentinel. None replaces your Premonition reactions (Evade, Warn, Counter, and — from 5th level — Foresee); each *reshapes* them toward a role.
 
 > **Sidebar — Reactions Still Cap at Three**
-> Several forks add ways to react more often. No matter how they stack, you can use **at most three reactions per round** — your forks and feats change *what* your reactions do and *how often you can afford them*, never the ceiling.
+> Several paths add ways to react more often. No matter how they stack, you can use **at most three reactions per round** — your paths and feats change *what* your reactions do and *how often you can afford them*, never the ceiling.
 
 ---
 

@@ -117,9 +117,9 @@ Designate one creature you can perceive as **foreseen** until the start of your 
 
 A Force class's **exclusive** claim is its **verb-framework**, *not* ownership of iconic Force abilities. **Iconic powers** (deflection, telekinesis, mind influence, healing, precognitive foresight) are **shared Force toolkit** — discipline/feat-gated and **portable** across Force users (like Forms via their "Guardian Mastery" clause). So the Sentinel must **not** absorb e.g. the Guardian's **Deflect** as a Premonition response; if it deflects, it does so via the shared toolkit, as a specialist's *application*, not a class-exclusive grant. *(Recorded also in the [class roster](2026-06-15-class-roster-sketch.md) Force-trinity section.)*
 
-## 5. Subclasses (Premonition forks) — five, designed (2026-06-16)
+## 5. Subclasses (Premonition paths) — five, designed (2026-06-16)
 
-Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ rows in §3). **Five forks:** Warden, Shadow, Justicar (§5.1–5.3) plus Investigator and Corsair (§5.4–5.5, adapted from the prior project's Watchman/Corsair). Each **shapes the Premonition reaction chassis** toward a different answer to *"how do you react?"* — none replaces the verb, none grants an iconic shared-toolkit power (§4.1). Built parallel for cross-balance: L1 signature · L3 deepen · **L7 a fork-flavored economy feature** · L11 Tier-III spike · L15 major · **L19 resource-/frequency-bounded capstone**. *(All numbers Gate-A tunable.)*
+Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ rows in §3). **Five paths:** Warden, Shadow, Justicar (§5.1–5.3) plus Investigator and Corsair (§5.4–5.5, adapted from the prior project's Watchman/Corsair). Each **shapes the Premonition reaction chassis** toward a different answer to *"how do you react?"* — none replaces the verb, none grants an iconic shared-toolkit power (§4.1). Built parallel for cross-balance: L1 signature · L3 deepen · **L7 a path-flavored economy feature** · L11 Tier-III spike · L15 major · **L19 resource-/frequency-bounded capstone**. *(All numbers Gate-A tunable.)*
 
 ### 5.1 Warden — reactive protector *(role lean: Support)*
 
@@ -175,7 +175,7 @@ Branch at **L1**; features on the **1 / 3 / 7 / 11 / 15 / 19** cadence (the ◆ 
 
 ### 5.5 Corsair — reactive ranged dirty-fighter *(role lean: ranged single-target offense + Utility)*
 
-*A fringe-dweller who fights dirty — blasters, shoto-sabers, and foresight.* (Adapted from the prior **Path of the Corsair**.) The ranged fork the other four lack; distinct from the Scoundrel's *proactive* Mark by being *reactive*. **Mechanism = mundane gunplay/feints/ricochet** (not Force powers; §4.1).
+*A fringe-dweller who fights dirty — blasters, shoto-sabers, and foresight.* (Adapted from the prior **Path of the Corsair**.) The ranged path the other four lack; distinct from the Scoundrel's *proactive* Mark by being *reactive*. **Mechanism = mundane gunplay/feints/ricochet** (not Force powers; §4.1).
 
 | Lvl | Feature | Effect |
 |---|---|---|
@@ -237,7 +237,7 @@ The Sentinel's own feat menu (picked into the L1,2,4,6,8,10,12,14,16,18,20 class
 
 ### 6.2 Subclass feats (~15) — gated to your §5 subclass
 
-A few feats per fork, deepening its signature (the ORC norm). Each requires the named subclass.
+A few feats per path, deepening its signature (the ORC norm). Each requires the named subclass.
 
 | Lvl | Feat | Subclass | Effect |
 |---|---|---|---|
@@ -257,7 +257,7 @@ A few feats per fork, deepening its signature (the ORC norm). Each requires the 
 | 8 | **Ricochet Stratagem** | Corsair | Your **ranged Strikes ignore Concealed and standard cover** (not greater). |
 | 14 | **Quickdraw Corsair** | Corsair | Draw/holster **+ a ranged Counter** as one reaction; **+1 circ** to ranged Counters. |
 
-**§4.1 / balance notes.** No feat grants an iconic Force power as an exclusive: the **Conduit** line (4/12/14) only discounts/sharpens powers the Sentinel *already bought*, and the access feats (Deflecting/Force Reflection Conduit) route those powers **through the Premonition engine** (the specialist bridge) rather than owning them. **Storm of Premonition** (10) and **Perfect Premonition** (20) remove *cost*, not the count — honoring the locked 3-reaction table-speed cap. Reroll/AC values stay bounded (reroll-keep-higher, +1 circ). Subclass feats deepen each fork's signature without exceeding its capstone. All flagged for Gate-A alongside the chassis.
+**§4.1 / balance notes.** No feat grants an iconic Force power as an exclusive: the **Conduit** line (4/12/14) only discounts/sharpens powers the Sentinel *already bought*, and the access feats (Deflecting/Force Reflection Conduit) route those powers **through the Premonition engine** (the specialist bridge) rather than owning them. **Storm of Premonition** (10) and **Perfect Premonition** (20) remove *cost*, not the count — honoring the locked 3-reaction table-speed cap. Reroll/AC values stay bounded (reroll-keep-higher, +1 circ). Subclass feats deepen each path's signature without exceeding its capstone. All flagged for Gate-A alongside the chassis.
 
 ---
 
@@ -274,3 +274,7 @@ A few feats per fork, deepening its signature (the ORC norm). Each requires the 
 ## 8. Revision — Premonition trait restructure (2026-07-03)
 
 The single **Premonition [reaction] + response menu** proved mechanically clunky and was restructured in player-core: each former response (**Evade, Warn, Counter, Foresee**, Investigator's **Maneuver**) is now a **standalone reaction with the [Premonition] trait**, each with its own rules-precise trigger. The class's extra reaction (and the Overdrive third) is now "usable only for reactions with the Premonition trait." Consequences: Counter's trigger is explicitly self-only at baseline (Killing Foresight / Punishing Reach broaden it, resolving the old shared-trigger contradiction); **Premonition range** (30 ft) is a defined term on the chassis; the Conduit feats grant powers the Premonition trait instead of "counts as a Premonition"; **Precognitive Dodge** now costs a reaction (Premonition trait) rather than no action. Reactive Conduit deliberately does NOT grant the trait (kept a pure discount) pending the Gate-A reaction-stacking review.
+
+## 9. Revision — Fork subclasses renamed to Paths (2026-07-03)
+
+Renamed Sentinel subclasses from "forks" to "paths" throughout player-core docs and file structure: `sentinel-forks.md` → `sentinel-paths.md`; all references updated (Key Terms, features table, Premonition section, Premonition Path section heading). The five paths remain unchanged: Warden, Shadow, Justicar, Investigator, Corsair.
