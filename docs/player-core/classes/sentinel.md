@@ -87,7 +87,7 @@ Trained in light armor
 **Class DC**  
 Trained in Sentinel class DC
 
-You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which fuels your Premonition. Your defensive responses cost nothing — you never run out of the ability to protect yourself or an ally.
+You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which fuels your Premonition.
 
 ---
 
@@ -97,7 +97,7 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 |:---:|:---:|---|
 | 1 | +2 | Premonition, Foretell, Premonition fork (subclass), class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
-| 3 | +2 | fork feature, general feat, skill increase |
+| 3 | +2 | Fork feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
 | 5 | +3 | Weapon Expertise, Widened Sight, ability boosts, species feat, skill increase |
 | 6 | +3 | Class feat, skill feat |
@@ -105,7 +105,7 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 | 8 | +4 | Class feat, skill feat |
 | 9 | +4 | Sentinel Expertise, Fortitude Expertise, species feat, skill increase |
 | 10 | +4 | Class feat, skill feat, ability boosts |
-| 11 | +4 | fork feature, general feat, skill increase |
+| 11 | +4 | Fork feature, general feat, skill increase |
 | 12 | +5 | Class feat, skill feat |
 | 13 | +5 | Weapon Mastery, species feat, skill increase |
 | 14 | +5 | Class feat, skill feat |
@@ -114,7 +114,7 @@ You also gain **Attunement** (pool 2 + your Level Bonus; see *The Force*), which
 | 17 | +6 | Sentinel Mastery, Unclouded Sight, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Fork feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat |
+| 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
@@ -143,15 +143,7 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 ## Premonition Fork
 
-**(1st level)** Every Sentinel shapes Premonition toward a different answer to *"how do you react?"* — your subclass, called a **fork**. It grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels. 
-
-## Sentinel Expertise
-
-**(9th level)** Your proficiency rank for your Sentinel class DC increases to expert.
-
-## Fortitude Expertise
-
-**(9th level)** Your proficiency rank for Fortitude saves increases to expert.
+**(1st level)** Every Sentinel shapes Premonition toward a different answer to *"how do you react?"* — your subclass, called a **fork**. It grants a signature skill and benefit at 1st level and deeper features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Weapon Expertise
 
@@ -171,6 +163,10 @@ This is your proactive play — the button you press on your own turn to turn fo
 
 At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
+## Light Armor Expertise
+
+**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+
 ## Evasion
 
 **(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
@@ -179,13 +175,13 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
-## Light Armor Expertise
+## Sentinel Expertise
 
-**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+**(9th level)** Your proficiency rank for your Sentinel class DC increases to expert.
 
-## Sentinel Mastery
+## Fortitude Expertise
 
-**(17th level)** Your proficiency rank for your Sentinel class DC increases to master.
+**(9th level)** Your proficiency rank for Fortitude saves increases to expert.
 
 ## Weapon Mastery
 
@@ -206,6 +202,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Greater Resolve
 
 **(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
+
+## Sentinel Mastery
+
+**(17th level)** Your proficiency rank for your Sentinel class DC increases to master.
 
 ## Unclouded Sight
 
