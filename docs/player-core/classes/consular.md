@@ -103,18 +103,18 @@ Trained in Consular class DC
 | 6 | +3 | Class feat, skill feat |
 | 7 | +3 | Consular Expertise, Resolve, Indomitable Body, Mandate feature, general feat, skill increase |
 | 8 | +4 | Class feat, skill feat |
-| 9 | +4 | Greater Manifest, Reflex Expertise, species feat, skill increase |
+| 9 | +4 | Reflex Expertise, species feat, skill increase |
 | 10 | +4 | Class feat, skill feat, ability boosts |
 | 11 | +4 | Weapon Expertise, Perception Mastery, Mandate feature, general feat, skill increase |
 | 12 | +5 | Class feat, skill feat |
-| 13 | +5 | Light Armor Expertise, Master Manifest, Weapon Specialization, species feat, skill increase |
+| 13 | +5 | Light Armor Expertise, Staggering Impact, Weapon Specialization, species feat, skill increase |
 | 14 | +5 | Class feat, skill feat |
-| 15 | +5 | Greater Resolve, Unbreakable Body, Consular Mastery, Mandate feature, ability boosts, general feat, skill increase |
+| 15 | +5 | Consular Mastery, Greater Resolve, Unbreakable Body, Mandate feature, ability boosts, general feat, skill increase |
 | 16 | +6 | Class feat, skill feat |
-| 17 | +6 | species feat, skill increase |
+| 17 | +6 | Species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Force Mastery, Mandate feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat |
+| 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
@@ -137,14 +137,6 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 **(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications that grants its iconic power for free at 1st level, a signature benefit, and deeper command of that Application at 3rd, 7th, 11th, 15th, and 19th levels.
 
-## Reflex Expertise
-
-**(9th level)** Your proficiency rank for Reflex saves increases to expert.
-
-## Consular Expertise
-
-**(7th level)** Your proficiency rank for your Consular class DC increases to expert.
-
 ## Heightened Manifest
 
 **(5th level)** Your command of the Force deepens. Once per turn you can apply a power's **Push** upgrade **without spending the extra Attunement.**
@@ -153,37 +145,45 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 **(5th level)** Your proficiency rank for Perception increases to expert.
 
+## Consular Expertise
+
+**(7th level)** Your proficiency rank for your Consular class DC increases to expert.
+
 ## Resolve
 
 **(7th level)** Your mind is a fortress. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
-
-## Consular Mastery
-
-**(15th level)** Your proficiency rank for your Consular class DC increases to master.
 
 ## Indomitable Body
 
 **(7th level)** Your body endures what your will commands. Your proficiency rank for Fortitude saves increases to master, and when you roll a success on a Fortitude save, you get a critical success instead.
 
+## Reflex Expertise
+
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
+
 ## Weapon Expertise
 
 **(11th level)** Your proficiency ranks for simple weapons and lightsabers increase to expert.
-
-## Light Armor Expertise
-
-**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
-
-## [Ability needs new name]
-
-**(13th level)** Your **Telekinetic Impact** gains an additional effect: when your **Telekinetic Impact** would push your target, you may forgo the push to instead make the target **off-guard** until the start of your next turn.
 
 ## Perception Mastery
 
 **(11th level)** Your proficiency rank for Perception increases to master.
 
+## Light Armor Expertise
+
+**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+
+## Staggering Impact
+
+**(13th level)** When your **Telekinetic Impact** would push a target, you can forgo the push to instead leave the target **off-guard** until the start of your next turn.
+
 ## Weapon Specialization
 
 **(13th level)** You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
+
+## Consular Mastery
+
+**(15th level)** Your proficiency rank for your Consular class DC increases to master.
 
 ## Greater Resolve
 
