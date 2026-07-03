@@ -129,7 +129,7 @@ At 1st level, in addition to the power your **Mandate** grants you, you gain **f
 **Telekinetic Impact**  [one-action] or [two-actions]  · **Traits** Force, Alter
 **Cost** none
 **Range** 60 feet; **Targets** 1 creature
-**Effect** You strike a foe with a lash of pure kinetic force — a ranged Force attack that needs no Attunement, so you're never without a weapon. On a hit, the target takes **1d8 force damage** (double on a critical hit). Increase the damage by one die at 5th, 11th, and 17th levels. On a critical success, the target is pushed 5 feet away from you.
+**Effect** You strike a foe with a lash of pure kinetic force. On a hit, the target takes **1d8 force damage** (double on a critical hit). Increase the damage by one die at 5th, 11th, and 17th levels. On a critical success, the target is pushed 5 feet away from you.
 
 If you spend **two actions**, the impact deals bonus damage equal to your Charisma modifier and the target is pushed 5 feet away from you on a success.
 
