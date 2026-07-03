@@ -120,7 +120,7 @@ You also gain **Attunement**, the Force resource (pool 2 + your Level Bonus; see
 | 17 | +6 | Greater Guardian Expertise, Legendary Armor, Master's Guard, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Form feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat |
+| 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
@@ -154,25 +154,13 @@ Where others must spend an action to set or change their stance, you flow into y
 
 **(1st level)** Every Guardian masters a signature **Form** — your subclass. It grants that Form's stance for free (with its Guardian Mastery upgrade), a synergy that sharpens your Intercede, and deeper features at 3rd, 7th, 11th, 15th, and 19th levels.
 
-## Guardian Expertise
-
-**(9th level)** Your proficiency rank for your Guardian class DC increases to expert.
-
-## Reflex Expertise
-
-**(9th level)** Your proficiency rank for Reflex saves increases to expert.
-
-## Armor Expertise
-
-**(7th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
-
 ## Guardian Weapon Mastery
 
 **(5th level)** Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to expert. Your proficiency rank with lightsabers increases to master.
 
-## Perception Expertise
+## Armor Expertise
 
-**(9th level)** Your proficiency rank for Perception increases to expert.
+**(7th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
 
 ## Vigilant Guard
 
@@ -184,17 +172,25 @@ Where others must spend an action to set or change their stance, you flow into y
 
 At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
-## Improved Intercede
-
-**(9th level)** Your protection deepens. Intercede now reduces the damage your ally takes by **4 + your level + your Strength modifier**.
-
 ## Resolve
 
 **(7th level)** Your discipline is unshakable. Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
 
-## Armor Mastery
+## Guardian Expertise
 
-**(13th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master.
+**(9th level)** Your proficiency rank for your Guardian class DC increases to expert.
+
+## Improved Intercede
+
+**(9th level)** Your protection deepens. Intercede now reduces the damage your ally takes by **4 + your level + your Strength modifier**.
+
+## Reflex Expertise
+
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
+
+## Perception Expertise
+
+**(9th level)** Your proficiency rank for Perception increases to expert.
 
 ## Juggernaut
 
@@ -204,9 +200,13 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(13th level)** Your flow is seamless. You can use **Blade-Flow** twice per round, and whenever you switch Forms with it, you keep the stance benefit of the Form you left until the start of your next turn — for that span you fight in two Forms at once.
 
+## Armor Mastery
+
+**(13th level)** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master.
+
 ## Lightsaber Legend
 
-**(13th level)** Your proficiency rank for lightsabers increases to legendary — the premier blade in the galaxy. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increases to master.
+**(13th level)** Your proficiency rank for lightsabers increases to legendary — the premier blade in the galaxy. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to master.
 
 ## Greater Resolve
 
@@ -222,7 +222,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Master's Guard
 
-**(17th level)** You are the perfect bodyguard. Any attack which you Intercede cannot drop its target below 1 Hit Point.
+**(17th level)** You are the perfect bodyguard. When you Intercede, the triggering damage can't reduce your ally below 1 Hit Point.
 
 ---
 
