@@ -24,7 +24,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Off-guard** *(condition)*. A creature that's caught unprepared takes a **–2 circumstance penalty to AC**. You can make foes off-guard by flanking, Feinting, striking from hiding, or various features — and an off-guard foe is exploitable to you.
 
-**Precision damage**. Extra damage that comes from placing a hit exactly, rather than from force or energy. A creature that is immune or resistant to precision damage ignores that much of it — the built-in counter to your Exploit.
+**Precision damage**. Extra damage that comes from placing a hit exactly, rather than from force or energy. A creature that is resistant to precision damage ignores that much of it, and a creature that is immune to precision damage ignores it completely.
 
 **Flourish**. The trait on your splashiest techniques. You can use only **one [Flourish] action per turn**.
 
@@ -87,14 +87,11 @@ Trained in martial weapons
 Trained in ranged advanced weapons
 
 **Defenses**  
-Trained in unarmored defense
+Trained in unarmored defense  
 Trained in light armor
 
 **Class DC**  
 Trained in Scoundrel class DC
-
-> **Sidebar — The Ranged Sub-Track**
-> The Scoundrel is the only class whose weapon training **forks**: your simple and martial *ranged* weapons run a full rank ahead of everything else, and they alone reach **legendary** (at 13th level). Your melee and advanced weapons always trail. This is what makes you the galaxy's dedicated *ranged* striker — and why your named weapon features (*Master Gunner*, *Legendary Gunner*) raise the ranged and other tracks by different amounts at the same level.
 
 ---
 
@@ -104,7 +101,7 @@ Trained in Scoundrel class DC
 |:---:|:---:|---|
 | 1 | +2 | Exploit, Aim, specialization, class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
-| 3 | +2 | specialization feature, general feat, skill increase |
+| 3 | +2 | Specialization feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
 | 5 | +3 | Exploit 2d6, Master Gunner, ability boosts, species feat, skill increase |
 | 6 | +3 | Class feat, skill feat |
@@ -120,16 +117,14 @@ Trained in Scoundrel class DC
 | 16 | +6 | Class feat, skill feat |
 | 17 | +6 | Exploit 4d6, Scoundrel Mastery, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
-| 19 | +6 | specialization feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat |
+| 19 | +6 | Specialization feature, general feat, skill increase |
+| 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
 ## Exploit
 
-**(1st level)** A foe is **exploitable to you** when it's your **Mark** or is **off-guard to you**. **Each Strike** you make against an exploitable target deals **1d6 additional precision damage** — every qualifying Strike, not just the first.
-
-This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th, and 4d6 at 17th**. Because it's precision damage, a creature immune or resistant to precision ignores that much — so a Scoundrel's spotlight depends on first creating the opening, and on the target being vulnerable to a placed shot.
+**(1st level)** A foe is **exploitable to you** when it's your **Mark** or is **off-guard to you**. **Each Strike** you make against an exploitable target deals **1d6 additional precision damage**. This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th, and 4d6 at 17th**. Because it's precision damage, a creature immune or resistant to precision ignores that much.
 
 > **Example — Making the Opening**
 > *Vex Aims at a stormtrooper (1 action), making it her Mark. Her next Strike is an Exploit: weapon damage + 1d6 precision, and it cuts through the trooper's crate cover. She fires again (2nd Strike, MAP) — still her Mark, so it carries the Exploit die too. With her third action she Steps back into cover. Two precise shots and a reposition: setup, payoff, gone.*
@@ -144,13 +139,9 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 **(1st level)** Every Scoundrel chooses a **specialization** — the discipline that steers your Exploit and how you create openings. It grants a signature skill at 1st level and further features at 3rd, 7th, 11th, 15th, and 19th levels.
 
-## Scoundrel Expertise
-
-**(9th level)** Your proficiency rank for your Scoundrel class DC increases to expert.
-
 ## Master Gunner
 
-**(5th level)** Your proficiency ranks for simple and martial ranged weapons increase to master, and for advanced ranged weapons to expert.
+**(5th level)** Your proficiency ranks for simple and martial ranged weapons increase to master, and your proficiency rank for advanced ranged weapons increases to expert.
 
 ## Evasion
 
@@ -166,25 +157,33 @@ This precision damage increases as you advance: **2d6 at 5th level, 3d6 at 11th,
 
 At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional damage as an expert, 6 as a master, and 8 as a legendary.
 
+## Light Armor Expertise
+
+**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+
+## Scoundrel Expertise
+
+**(9th level)** Your proficiency rank for your Scoundrel class DC increases to expert.
+
 ## Scoundrel Resilience
 
 **(9th level)** Your proficiency rank for Fortitude saves increases to expert.
-
-## Resolve
-
-**(11th level)** Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
 ## On the Move
 
 **(11th level)** You're always a step ahead. Your base Speed increases by 10 feet.
 
-## Scoundrel Mastery
+## Resolve
 
-**(17th level)** Your proficiency rank for your Scoundrel class DC increases to master.
+**(11th level)** Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
-## Light Armor Expertise
+## Legendary Gunner
 
-**(7th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+**(13th level)** Your proficiency ranks for simple and martial ranged weapons increase to legendary, for advanced ranged weapons to master, and for simple and martial melee weapons and unarmed attacks to expert.
+
+## Light Armor Mastery
+
+**(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
 
 ## Greater Evasion
 
@@ -194,13 +193,9 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(15th level)** Your proficiency rank for Perception increases to legendary — nothing on the battlefield escapes your notice.
 
-## Legendary Gunner
+## Scoundrel Mastery
 
-**(13th level)** Your proficiency rank for simple and martial ranged weapons increases to **legendary**, for advanced ranged weapons to master, and for simple and martial melee weapons and unarmed attacks to expert.
-
-## Light Armor Mastery
-
-**(15th level)** Your proficiency ranks for light armor and unarmored defense increase to master.
+**(17th level)** Your proficiency rank for your Scoundrel class DC increases to master.
 
 ---
 
