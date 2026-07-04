@@ -2309,7 +2309,7 @@ Your bite carries a mild paralytic toxin. When you score a critical hit with you
 
 ##### Heavy Ordnance Hauler
 **Feat 9** · **Traits** Mantellian Savrip
-Your massive frame steadies weapons that would knock smaller species flat. You reduce the Bulk of any heavy weapon you carry by 1, and you gain a +1 circumstance bonus to the DC of saving throws forced by your weapons with the Auto-Fire or Area Fire traits.
+Your massive frame steadies weapons that would knock smaller species flat. You reduce the Bulk of any heavy weapon you carry by 1, and you gain a +1 circumstance bonus to the DC of saving throws forced by your Auto-Fire and Area Fire attacks.
 
 ##### Mantellian Wrangler
 **Feat 9** · **Traits** Mantellian Savrip

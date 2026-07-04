@@ -72,7 +72,7 @@ When you make a creature suppressed with Suppressing Fire, you can choose this e
 ### Indiscriminate
 **Feat 4** · **Traits** Soldier
 **Prerequisites** Suppressor
-You can use Suppressing Fire as a 10-foot emanation centered on yourself, blanketing every direction at once instead of a cone.
+When you Auto-Fire, you can shape it as a 10-foot emanation centered on yourself, blanketing every direction at once instead of a cone.
 
 ### Leg Shot
 **Feat 4** · **Traits** Soldier, Suppressed
@@ -80,7 +80,7 @@ When you make a creature suppressed, you can choose this effect: each affected c
 
 ### Wide Barrage
 **Feat 4** · **Traits** Soldier
-Increase the size of your Suppression Zone (and any area attack you make) by one size step — a longer cone or a wider burst.
+Increase the area of your Suppressing Fire (and any other area attack you make) by 5 feet — a longer cone or a wider burst.
 
 ### Wide Blast
 **Feat 4** · **Traits** Soldier
@@ -206,7 +206,7 @@ A creature you have grabbed or restrained takes damage equal to your Constitutio
 
 ### Overwhelming Barrage
 **Feat 12** · **Traits** Soldier
-Your area and automatic attacks gain one additional damage die and affect a larger area.
+Your Auto-Fire and Area Fire attacks gain one additional damage die, and their areas increase by 5 feet.
 
 ### Repulsor Blast  [two-actions]
 **Feat 12** · **Traits** Soldier
@@ -274,7 +274,7 @@ Your Suppressing Fire is overwhelming: a creature that **succeeds** at its save 
 
 ### Bullet Typhoon
 **Feat 20** · **Traits** Soldier
-You can use an area or automatic attack as a single action. You can make at most two such attacks per round.
+You can Auto-Fire or Area Fire as a single action. You can make at most two such attacks per round.
 
 ### Living Legend
 **Feat 20** · **Traits** Soldier

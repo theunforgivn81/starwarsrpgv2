@@ -29,6 +29,9 @@ A Force Application: kinetic manipulation — moving, lifting, throwing, and cru
 ### Anzellan
 A creature with this trait is a member of the Anzellan species; feats with this trait are open only to Anzellans.
 
+### Area
+A weapon with this trait attacks an area rather than a single target, using the **Area Fire** action (see the Combat chapter). The trait lists the shape and size of the area the weapon blankets — such as *area (burst 10 feet)* or *area (cone 30 feet)* — and the weapon's entry notes the ammunition each Area Fire expends. An effect with this trait deals area damage.
+
 ### Attack
 An action with this trait involves an attack. For each action with the Attack trait you use beyond the first on your turn, you take the multiple attack penalty on its roll.
 
@@ -36,7 +39,7 @@ An action with this trait involves an attack. For each action with the Attack tr
 Auditory actions and effects rely on sound. An action with this trait can be performed only by a creature that can speak or otherwise produce the necessary sounds, and its effect applies only to creatures that can hear it. Deafened creatures are immune to auditory effects.
 
 ### Automatic
-A weapon with this trait can spray sustained fire. Abilities that lay down suppression — such as the Soldier's Suppressing Fire — call for an automatic weapon, and a weapon's entry describes any burst modes it offers.
+A weapon with this trait can spray sustained fire, using the **Auto-Fire** action (see the Combat chapter) to rake a cone with a range of half the weapon's range increment. Abilities that lay down suppression — such as the Soldier's Suppressing Fire — are built on automatic and area weapons.
 
 ### Body
 A Force Application: augmenting the flesh — vitality, healing, draining life, and defying death.

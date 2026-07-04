@@ -15,7 +15,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Overwhelming Fire
 
-**(1st level)** You're trained to flood ground with fire. Your Suppression Zone uses your weapon's **full first range increment** as its cone length (or doubles its burst radius), and when you make a single ranged Strike with an automatic weapon, the target also becomes **suppressed**.
+**(1st level)** You're trained to flood ground with fire. When you Auto-Fire, the cone reaches your weapon's **full range increment** (instead of half); when you Area Fire a burst, **double its radius**. And when you make a single ranged Strike with an automatic weapon, the target also becomes **suppressed**.
 
 ### Pinning Fire
 
@@ -32,11 +32,11 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Withering Hail
 
-**(15th level)** Your fire is too dense to dodge. A creature that **critically succeeds** at its save against your Suppressing Fire still takes **half damage** and becomes suppressed, and your Suppressing Fire deals **one additional damage die**.
+**(15th level)** Your fire is too dense to dodge. A creature that **succeeds** at its save against your Suppressing Fire is still **suppressed**, and your Suppressing Fire deals **one additional damage die**.
 
 ### Total Lockdown
 
-**(19th level)** Your Suppression Zone is enormous, enemies inside it can't move toward your allies, and a creature that **critically fails** its save against your Suppressing Fire is **stunned 1**.
+**(19th level)** The area of your Suppressing Fire **doubles**, enemies inside your Suppression Zone can't move toward your allies, and a creature that **critically fails** its save against your Suppressing Fire is **stunned 1**.
 
 ---
 
@@ -159,7 +159,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Close Quarters
 
-**(1st level)** You suppress with sweeping blows. Your **two-handed melee weapons** count as area weapons for your Suppress features, and you can use **Suppressing Fire as a melee whirlwind** — a **5-foot emanation** around you that damages and suppresses adjacent foes instead of a cone. You're unaffected by your own area attacks.
+**(1st level)** You suppress with sweeping blows. Your **two-handed melee weapons** count as **area weapons** whose area is a **5-foot emanation** around you — you can **Area Fire** with them, a whirlwind of steel that damages and suppresses the foes around you. You're unaffected by your own area attacks.
 
 ### Brutal Sweep
 
@@ -179,7 +179,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 **(11th level)**
 
 **Reaping Advance**  [two-actions]  · **Traits** Soldier
-**Effect** **Stride**, then use your melee whirlwind Suppressing Fire. In addition (whether or not you use this activity), enemies adjacent to you at the start of your turn are **suppressed**, and your melee whirlwind emanation increases to **10 feet**.
+**Effect** **Stride**, then **Area Fire** with your melee whirlwind. In addition (whether or not you use this activity), enemies adjacent to you at the start of your turn are **suppressed**, and your melee whirlwind's emanation increases to **10 feet**.
 
 ### Cleaving Momentum
 
