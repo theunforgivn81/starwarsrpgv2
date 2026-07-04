@@ -192,7 +192,8 @@ Your area attacks ignore cover and reduce the Hardness of objects and barriers i
 ### Ceaseless Barrage
 **Feat 12** · **Traits** Soldier
 **Prerequisites** Suppressor
-On your turn, you can both maintain your Suppression Zone and make a ranged Strike, rather than choosing between them.
+**Frequency** once per round
+**Effect** You use Sustained Barrage as a free action.
 
 ### Cowed
 **Feat 12** · **Traits** Soldier

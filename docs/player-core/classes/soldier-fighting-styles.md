@@ -24,7 +24,11 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Sustained Barrage
 
-**(7th level)** You keep the volume up without pause. Once your Suppression Zone is established, you can refresh it in the same area as a single action rather than two (a **Sustaining Fire** activity); enemies inside the refreshed zone count as entering it. In addition, your Suppressing Reaction can target **two** enemies in the zone with one reaction.
+**(7th level)** You keep the volume up without pause. You gain the Sustained Barrage action, and your Suppressing Reaction can target **two** enemies in a Suppression Zone with one reaction.
+
+**Sustained Barrage**  [one-action]  · **Traits** Soldier
+**Requirements** You're wielding a weapon with the automatic or area trait, and you created or sustained a Suppression Zone on your previous turn.
+**Effect** You rake the same area with another burst of fire, expending no ammunition and dealing no damage. That area becomes your **Suppression Zone** until the start of your next turn, and each enemy in it must succeed at a Reflex save against your Soldier class DC or become **suppressed** until the start of your next turn.
 
 ### No Escape
 

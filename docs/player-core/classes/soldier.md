@@ -122,7 +122,7 @@ Trained in Soldier class DC
 
 ## Suppressing Fire
 
-**(1st level)** You pin the enemy with massed fire. Whenever you Auto-Fire or Area Fire (using a weapon with the [Automatic] or [Area] traits, respectively), each enemy that fails its save against it becomes **suppressed**, and the attack's area becomes your **Suppression Zone** until the start of your next turn. Any enemy that enters your Suppression Zone is also suppressed until the start of your next turn, even if they leave the zone.
+**(1st level)** You pin the enemy with massed fire. Whenever you Auto-Fire or Area Fire (using a weapon with the [Automatic] or [Area] traits, respectively), each enemy that fails its save against it becomes **suppressed**, and the attack's area becomes your **Suppression Zone** until the start of your next turn. Any enemy that enters your Suppression Zone is also suppressed until the start of your next turn, even if they leave the zone. An enemy that succeeds at a save against becoming suppressed is temporarily immune: it can't be suppressed **by you** until the start of your next turn.
 
 **Suppressing Reaction**  [reaction]  · **Traits** Soldier
 **Trigger** An enemy Strides within or through your Suppression Zone, or takes a hostile action while inside it.
