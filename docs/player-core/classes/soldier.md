@@ -18,11 +18,11 @@ A Soldier with a high Constitution hits harder with their signature gear, soaks 
 
 These terms recur throughout the class; their full rules live in the **Conditions** and **Combat** chapters.
 
-**Suppressed** *(condition)*. A suppressed creature takes a **–1 circumstance penalty to attack rolls** and a **–10-foot status penalty to all its Speeds** (full entry: the Conditions appendix). Your suppression lasts until the start of your next turn, or for as long as the creature remains inside an active Suppression Zone, and several Soldier features deepen or add to it.
+**Suppressed** *(condition)*. A suppressed creature takes a **–1 circumstance penalty to attack rolls** and a **–10-foot status penalty to all its Speeds** (full entry: the Conditions appendix). Your suppression lasts until the start of your next turn, and several Soldier features deepen or add to it.
 
-**Suppression Zone**. The area your Suppressing Fire blankets. It persists until the start of your next turn. Enemies inside it are suppressed, and enemies that move or act inside it trigger your Suppressing Reaction.
+**Suppression Zone**. The area your Suppressing Fire blankets. It persists until the start of your next turn. Enemies that enter it are suppressed, and enemies that move or act inside it trigger your Suppressing Reaction.
 
-**Auto-Fire & Area Fire** *(actions)*. The standard two-action area attacks, detailed in the **Combat** chapter: Auto-Fire rakes a cone with an **automatic** weapon; Area Fire blankets an area with an **area** weapon. Neither uses an attack roll — each creature in the area attempts a basic Reflex save against your class DC. Your Suppress feature turns both into **Suppressing Fire**.
+**Auto-Fire & Area Fire** *(actions)*. The standard two-action area attacks, detailed in the **Combat** chapter: Auto-Fire rakes a cone with an **automatic** weapon; Area Fire blankets an area with an **area** weapon. Neither uses an attack roll — each creature in the area attempts a basic Reflex save against your class DC. Your **Suppressing Fire** feature is built on both.
 
 > **Sidebar — One [Suppressed] Effect at a Time**
 > Many feats and fighting-style features let you attach an *extra* effect — off-guard, frightened, slowed, pushed — to a creature you suppress. These effects all carry the **[Suppressed]** trait, and **you may apply only one [Suppressed] effect per action that applies the suppressed condition.** Collect as many of these effects as you like across your build; you still pick exactly one each time you suppress.
@@ -97,7 +97,7 @@ Trained in Soldier class DC
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Suppress, Overwhelming Assault, Walking Armory, fighting style, class feat, species feat |
+| 1 | +2 | Suppressing Fire, Overwhelming Assault, Walking Armory, fighting style, class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
 | 3 | +2 | Fearsome Bulwark, fighting style feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
@@ -120,22 +120,16 @@ Trained in Soldier class DC
 
 ---
 
-## Suppress
+## Suppressing Fire
 
-**(1st level)** You pin the enemy with massed fire. You don't do it with a special attack of your own — you use the standard **Auto-Fire** and **Area Fire** actions (see the Key Terms above and the **Combat** chapter). Your training adds what that fire *means*:
-
-**Suppressing Fire.** Whenever you Auto-Fire or Area Fire, that attack is **Suppressing Fire**: each enemy that fails its save against it becomes **suppressed**, and the attack's area becomes your **Suppression Zone** until the start of your next turn.
-
-While your Suppression Zone is up, every enemy inside it is suppressed, and any enemy that Strides within or through the zone, or takes a hostile action while inside it, triggers your Suppressing Reaction.
-
-Your kill-zone lives in your kit: without an **automatic** or **area** weapon in hand, you have no Suppressing Fire — though your fighting style can open other roads to the suppressed condition.
+**(1st level)** You pin the enemy with massed fire. Whenever you Auto-Fire or Area Fire (using a weapon with the [Automatic] or [Area] traits, respectively), each enemy that fails its save against it becomes **suppressed**, and the attack's area becomes your **Suppression Zone** until the start of your next turn. Any enemy that enters your Suppression Zone is also suppressed until the start of your next turn, even if they leave the zone.
 
 **Suppressing Reaction**  [reaction]  · **Traits** Soldier
-**Trigger** An enemy in your Suppression Zone moves or takes a hostile action.
+**Trigger** An enemy Strides within or through your Suppression Zone, or takes a hostile action while inside it.
 **Effect** Make a ranged Strike against the triggering enemy; this Strike ignores your multiple attack penalty. Instead of the Strike, you may halt the enemy, ending its movement in the space it currently occupies. You can use the Suppressing Reaction **once per round** (Withering Fire grants a second at 13th level).
 
 > **Example — A Lane Closes**
-> *Sergeant Vossk levels his rotary blaster — an automatic weapon — and spends two actions to Auto-Fire down the corridor, a cone reaching half the weapon's range increment. With his Suppress training, that's Suppressing Fire. A battle droid rolls a 14 on its basic Reflex save against his Soldier class DC 21 — a failure: it takes full damage and is suppressed (–1 to hit, –10 feet Speed), and the corridor mouth is now Vossk's Suppression Zone. On the droid's turn it tries to push through the zone toward the party's medic — triggering Vossk's Suppressing Reaction: a covering shot at full accuracy, no MAP. With his third action that turn he'd already shot the suppressed droid using **Overwhelming Assault**, so even his follow-up came in sharp.*
+> *Sergeant Vossk levels his rotary blaster — an automatic weapon — and spends two actions to Auto-Fire down the corridor, a cone reaching half the weapon's range increment — with his training, Suppressing Fire. A battle droid rolls a 14 on its basic Reflex save against his Soldier class DC 21 — a failure: it takes full damage and is suppressed (–1 to hit, –10 feet Speed), and the corridor mouth is now Vossk's Suppression Zone. On the droid's turn it tries to push through the zone toward the party's medic — triggering Vossk's Suppressing Reaction: a covering shot at full accuracy, no MAP. With his third action that turn he'd already shot the suppressed droid using **Overwhelming Assault**, so even his follow-up came in sharp.*
 
 ## Overwhelming Assault
 

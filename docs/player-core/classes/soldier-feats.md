@@ -3,7 +3,7 @@
 At every even level — and 1st — you gain a **Soldier class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a **fighting style** in their Prerequisites require that style.
 
 > **Sidebar — Spending Your One [Suppressed] Effect**
-> Feats tagged **[Suppressed]** add an effect you can attach when you make a creature suppressed — but only **one** [Suppressed] effect applies per suppressing action (see *Suppress*). Collecting several gives you options to pick between, not a stack. The only exception is **Double Suppression**, below.
+> Feats tagged **[Suppressed]** add an effect you can attach when you make a creature suppressed — but only **one** [Suppressed] effect applies per suppressing action (see *Suppressing Fire*). Collecting several gives you options to pick between, not a stack. The only exception is **Double Suppression**, below.
 
 ---
 
@@ -278,7 +278,7 @@ You can Auto-Fire or Area Fire as a single action. You can make at most two such
 
 ### Living Legend
 **Feat 20** · **Traits** Soldier
-Your Suppress features work with heavy weapons and melee weapons at the same time, and you gain a +1 circumstance bonus to attack rolls while any foe you've menaced this combat remains in the fight.
+Your Suppressing Fire features work with heavy weapons and melee weapons at the same time, and you gain a +1 circumstance bonus to attack rolls while any foe you've menaced this combat remains in the fight.
 
 ---
 

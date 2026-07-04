@@ -5,7 +5,7 @@ At 1st level, every Soldier commits to a **fighting style** — the discipline t
 Choose one of the five styles below when you make your Soldier. You can't change it later except through specific feats.
 
 > **Sidebar — One [Suppressed] Effect at a Time**
-> Every style's **3rd-level** feature carries the **[Suppressed]** trait. As always, you can apply only **one** [Suppressed] effect each time you make a creature suppressed (see *Suppress*, in the Soldier chassis) — so your style's effect competes for that single slot with any [Suppressed] feats you take.
+> Every style's **3rd-level** feature carries the **[Suppressed]** trait. As always, you can apply only **one** [Suppressed] effect each time you make a creature suppressed (see *Suppressing Fire*, in the Soldier chassis) — so your style's effect competes for that single slot with any [Suppressed] feats you take.
 
 ---
 
@@ -24,7 +24,7 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 ### Sustained Barrage
 
-**(7th level)** You keep the volume up without pause. Once your Suppression Zone is established, you can refresh it in the same area as a single action rather than two (a **Sustaining Fire** activity), and your Suppressing Reaction can target **two** enemies in the zone with one reaction.
+**(7th level)** You keep the volume up without pause. Once your Suppression Zone is established, you can refresh it in the same area as a single action rather than two (a **Sustaining Fire** activity); enemies inside the refreshed zone count as entering it. In addition, your Suppressing Reaction can target **two** enemies in the zone with one reaction.
 
 ### No Escape
 
