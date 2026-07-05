@@ -336,29 +336,40 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *The Force gives, as well as takes.* You are the galaxy's foremost healer.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Vital Transfer |
+| 3rd | Force Surge |
+| 7th | Force Valor |
+| 11th | Force Revivify |
+| 15th | Force Enlightenment |
+| 19th | Force Resurrection |
+
 #### Life-Giver
 
-**(1st level)** You add **Vital Transfer** to your repertoire. Whenever a Force power you Manifest restores Hit Points to a creature, that creature also gains temporary Hit Points equal to your level.
+**(1st level)** Whenever a Force power you Manifest restores Hit Points to a creature, that creature also gains temporary Hit Points equal to your level.
 
 #### Surge
 
-**(3rd level)** You add **Force Surge** to your repertoire. While a Body power of yours is active, you gain a +10-foot status bonus to Speed and ignore difficult terrain.
+**(3rd level)** While a Body power of yours is active, you gain a +10-foot status bonus to Speed and ignore difficult terrain.
 
 #### Vigor
 
-**(7th level)** You add **Force Valor** to your repertoire. When you restore Hit Points to a creature, you can also reduce the value of one condition affecting it by 1.
+**(7th level)** When you restore Hit Points to a creature, you can also reduce the value of one condition affecting it by 1.
 
-#### Renewal
+#### Wellspring
 
-**(11th level)** You add **Force Revivify** to your repertoire — the reaction that snatches a dying ally back from death.
+**(11th level)** When your party rests under your care, each ally recovers additional Hit Points equal to your level. In addition, once per day per creature, you can attempt a The Force check against the DC of a poison or disease afflicting it; on a success, the affliction's stage decreases by 1 (by 2 on a critical success).
 
-#### Transcendence
+#### Overflowing Life
 
-**(15th level)** You add **Force Enlightenment** to your repertoire, and you can share its benefits with one ally within 30 feet.
+**(15th level)** Once per round, when you restore Hit Points to a creature with a Force power, one other creature within 10 feet of it regains half that amount. Your Life-Giver feature applies to both creatures.
 
-#### Resurrection
+#### Fountain of Life
 
-**(19th level)** You add **Force Resurrection** to your repertoire. Death itself is no longer final at your hands.
+**(19th level)** Once per round, a power you Manifest that restores Hit Points costs 1 less Attunement, and the temporary Hit Points from your Life-Giver feature last until expended.
 
 ---
 
