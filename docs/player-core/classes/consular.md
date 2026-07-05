@@ -294,29 +294,41 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *The still center that turns the storm.* You ward yourself and your allies against the galaxy's violence.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Force Barrier |
+| 3rd | Energy Absorption |
+| 7th | Battle Focus |
+| 11th | Force Cloak |
+| 15th | Force Reflection |
+| 19th | Wall of Light |
+
 #### Eye of Calm
 
-**(1st level)** You add **Force Barrier** to your repertoire. Whenever you Manifest a Control power, you gain temporary Hit Points equal to your level until the start of your next turn.
+**(1st level)** Whenever you Manifest a Control power, you gain temporary Hit Points equal to your level until the start of your next turn.
 
 #### Tutaminis
 
-**(3rd level)** You add **Energy Absorption** to your repertoire, and the energy resistance you gain from Control powers increases by 2.
+**(3rd level)** The energy resistance you gain from Control powers increases by 2.
+
+#### Becalming Presence
+
+**(7th level)** In a social encounter, you can Defuse using The Force, and the first time your side would lose Composure each exchange, reduce the loss by 1.
 
 #### Unclouded Mind
 
-**(7th level)** You add **Battle Focus** to your repertoire. While you have at least 1 Attunement remaining, you gain a +1 status bonus to saves against fear and mental effects.
-
-#### Veil
-
-**(11th level)** You add **Force Cloak** to your repertoire, and you can extend its concealment to one adjacent ally.
+**(11th level)** While you have at least 1 Attunement remaining, you gain a +1 status bonus to saves against fear and mental effects. In addition, your Eye of Calm also triggers whenever you Center.
 
 #### Aegis
 
-**(15th level)** You add **Force Reflection** to your repertoire, and your defensive Control powers can target an ally within range instead of only yourself.
+**(15th level)** Your defensive Control powers can target an ally within 30 feet instead of yourself. When one does, that ally gains your Eye of Calm's temporary Hit Points instead of you.
 
-#### Sanctuary
+#### Still Point  [three-actions]
 
-**(19th level)** You add **Wall of Light** to your repertoire, and you can shape its protection as a zone that shelters your allies.
+**(19th level)** **Frequency** once per day
+**Effect** A perfect calm radiates from you in a 20-foot emanation, which you can Sustain for up to 1 minute. You and allies in the emanation gain temporary Hit Points equal to your level at the start of each of your turns, and allies in it share your Unclouded Mind bonus.
 
 ---
 
