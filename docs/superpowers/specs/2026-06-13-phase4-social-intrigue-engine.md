@@ -164,7 +164,7 @@ Two genuinely different good options are live every turn (appeal vs set-up vs de
 
 ## 13. Carried Forward (open items for later phases)
 
-- **Class-specific social verbs & encounter pools** (e.g., a face's signature appeals) → Phase 5.
+- **Class-specific social verbs & encounter pools** (e.g., a face's signature appeals) → Phase 5. *(First delivered 2026-07-05: the Consular Dominance Mandate's **Whispered Doubt** — see the [Consular Mandate rework](2026-07-05-consular-mandate-rework.md).)*
 - **Shared condition list** (Off-Balance, Guarded, Rattled, etc.) → Phase 5.
 - **PC Lever sources** (background/bond/flaw content) → background content phase.
 - **Social stat-block format, social-boss action budgets, Adjudicator templates** → Phase 7.
