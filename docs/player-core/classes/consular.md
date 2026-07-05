@@ -212,29 +212,40 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *The Force as a thousand unseen hands.* You move, lift, throw, and crush — the master of kinetic control.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Force Push |
+| 7th | Kinetic Slam |
+| 11th | Force Hold |
+| 15th | Force Wave |
+| 19th | Telekinetic Singularity |
+
 #### Telekinetic Adept
 
-**(1st level)** You add **Force Push** to your repertoire. Whenever you deal damage with an Alter power or with Telekinetic Impact, you push the target 5 feet.
+**(1st level)** Whenever you deal damage with an Alter power or with Telekinetic Impact, you push the target 5 feet.
 
 #### Heavy Lifter
 
 **(3rd level)** Your telekinesis grips the immovable. Your Telekinetic Grasp can lift objects of up to double the Bulk you could normally lift, and the distances you force creatures to move with Alter powers increase by 5 feet.
 
-#### Kinetic Barrage
+#### Kinetic Crush
 
-**(7th level)** You add **Kinetic Slam** to your repertoire. A creature you move with forced movement is **off-guard** until the start of your next turn.
+**(7th level)** A creature you move with forced movement is **off-guard** until the start of your next turn, and if you force it into an obstacle or another creature, it takes bludgeoning damage equal to your level.
 
 #### Crushing Grip
 
-**(11th level)** You add **Force Hold** to your repertoire. Once per round, when a creature attempts a check to escape or end one of your Alter effects, you can tighten your grip: it rolls twice and takes the worse result (a misfortune effect).
+**(11th level)** Once per round, when a creature attempts a check to escape or end one of your Alter effects, you can tighten your grip: it rolls twice and takes the worse result (a misfortune effect).
 
-#### Gravity Well
+#### Gravity Well  [reaction]
 
-**(15th level)** You add **Force Wave** to your repertoire. When you force a creature to move, you can drive it upward or over an edge.
+**(15th level)** **Trigger** A creature within 30 feet begins a move action.
+**Effect** You seize it mid-stride. The creature attempts a Fortitude save against your Class DC; on a failure, its movement is halved until the end of its turn and you redirect the first 10 feet of that movement in a direction you choose. In addition, whenever you force a creature to move with your powers, you can drive it upward or over an edge.
 
 #### Singularity
 
-**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you see the result of an Alter power you Manifest, you can apply its Push upgrade without spending the extra Attunement, even if you've already applied a Push upgrade for free this turn.
+**(19th level)** Your Telekinetic Adept push increases to 10 feet, and once per round it can also knock the target prone. In addition, once per round, after you see the result of an Alter power you Manifest, you can apply its Push upgrade without spending the extra Attunement, even if you've already applied a Push upgrade for free this turn.
 
 ---
 
