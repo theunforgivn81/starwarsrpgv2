@@ -2,9 +2,9 @@
 
 At 1st level, every Consular takes up a **Mandate** — a devotion to one of the six Applications of the Force. A Mandate grants that Application's iconic power for free, a signature benefit, and deeper command of the Application at **3rd, 7th, 11th, 15th, and 19th** levels.
 
-Choose one of the six below when you make your Consular. Each names powers it grants you (their full rules are in **[The Force](the-force.md)**); a granted power enters your repertoire for free, but you still spend Attunement to Manifest it as normal — only the small passive benefits a Mandate lists are free.
+Choose one of the six below when you make your Consular. Each names powers it grants you (their full rules are in **[The Force](the-force.md)**); a granted power enters your repertoire for free, but you still spend Attunement to Manifest it as normal.
 
-> **Sidebar — Tradition Is Emphasis**
+> **Sidebar — A Mandate Is Emphasis**
 > A Mandate deepens one Application, but it never walls off the others — your broad access (see *Manifest*) still lets you learn powers from any Application. And as always, what marks corruption is the **Dark** trait on a power, not the Application it belongs to.
 
 ---
@@ -31,11 +31,11 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Gravity Well
 
-**(15th level)** You add **Force Wave** to your repertoire. When you force a creature to move, you can drive it upward or over an edge, letting your telekinesis hurl foes into the air or off ledges.
+**(15th level)** You add **Force Wave** to your repertoire. When you force a creature to move, you can drive it upward or over an edge.
 
 ### Singularity
 
-**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you Manifest an Alter power, you can apply its Push upgrade as a free action.
+**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you Manifest an Alter power, you can apply its Push upgrade without spending the extra Attunement.
 
 ---
 
@@ -131,15 +131,15 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 # Mandate of Dominance
 
-*The will is the strongest weapon, and yours bends others.* You read minds, sow terror, and seize control — the Force's master mentalist and its keenest social engine.
+*The will is the strongest weapon, and yours bends others.* You read minds, sow terror, and seize control — the Force's master mentalist.
 
 ### Mind's Eye
 
-**(1st level)** You add **Mind Trick** to your repertoire. You sense the surface emotions of creatures near you, and you gain a +1 status bonus to Diplomacy and Intimidation.
+**(1st level)** You add **Mind Trick** to your repertoire. You sense the surface emotions of creatures within 30 feet, and you gain a +1 status bonus to Diplomacy and Intimidation.
 
 ### Fearmonger
 
-**(3rd level)** You add **Force Fear** to your repertoire. The frightened condition you impose with Force powers reduces by 1 step more slowly — it lasts an extra round before it begins to fade.
+**(3rd level)** You add **Force Fear** to your repertoire. The frightened condition you impose with Force powers is slow to fade: its value doesn't decrease at the end of the target's first turn.
 
 ### Mind Probe
 

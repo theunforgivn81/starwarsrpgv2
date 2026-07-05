@@ -2,8 +2,8 @@
 
 At 1st level and every even level you gain a **Consular class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower. Feats that name a Mandate in their Prerequisites require that Mandate.
 
-> **Sidebar — The Metamagic Line**
-> A cluster of feats — Empower Manifest, Twin Manifest, Overchannel, Quickened Manifest, Cosmic Conduit — bend a power beyond its normal limits, usually by spending more Attunement (or Hit Points) and always on a tight Frequency. They're why you want the deepest pool, and their reuse timers are what keep that pool from ending fights in a single round.
+> **Sidebar — Powers Beyond Their Limits**
+> A handful of feats — Empower Manifest (8th), Quickened Manifest (10th), Overchannel (14th), Twin Manifest (16th), and Cosmic Conduit (18th) — push a power past its normal limits. Each is limited by a Frequency, and some cost Hit Points as well as Attunement.
 
 ---
 
@@ -11,7 +11,8 @@ At 1st level and every even level you gain a **Consular class feat**. The feats 
 
 ### Fleet Center
 **Feat 1** · **Traits** Consular
-Once per round, you can use the Center action as part of another action you take, refueling without spending your whole turn on it.
+**Frequency** once per round
+**Effect** You use the Center action as part of another action you take.
 
 ### Living Force Sense
 **Feat 1** · **Traits** Consular
@@ -23,7 +24,7 @@ While unarmored, you gain a +1 circumstance bonus to AC against ranged attacks.
 
 ### Refined Impact
 **Feat 1** · **Traits** Consular
-Your Telekinetic Impact gains a second mode you can choose each time you use it: an erratic bolt that ignores an amount of the target's resistance equal to your level.
+Each time you use Telekinetic Impact, you can shape it as an erratic bolt that ignores an amount of the target's resistance equal to your level.
 
 ---
 
