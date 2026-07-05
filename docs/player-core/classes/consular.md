@@ -361,7 +361,7 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 #### Wellspring
 
-**(11th level)** When your party rests under your care, each ally recovers additional Hit Points equal to your level. In addition, once per day per creature, you can attempt a The Force check against the DC of a poison or disease afflicting it; on a success, the affliction's stage decreases by 1 (by 2 on a critical success).
+**(11th level)** When your party rests under your care, each ally recovers additional Hit Points equal to your level. In addition, once per day per creature, you can attempt a check using The Force against the DC of a poison or disease afflicting it; on a success, the affliction's stage decreases by 1 (by 2 on a critical success).
 
 #### Overflowing Life
 
@@ -400,7 +400,7 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 **(7th level)** **Traits** Force, Mental
 **Requirements** You are in a social encounter.
-**Effect** You slip a thread of doubt beneath an opponent's certainty. Attempt a The Force check against the opponent's Will DC.
+**Effect** You slip a thread of doubt beneath an opponent's certainty. Attempt a check using The Force against the opponent's Will DC.
 
 - **Critical Success** The opponent is **Off-Balance**, and its Resolve decreases by 1.
 - **Success** The opponent is **Off-Balance**.
