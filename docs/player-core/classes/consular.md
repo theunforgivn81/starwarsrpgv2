@@ -425,9 +425,19 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *The Force unleashed, raw and merciless.* You are an artillery of will.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Force Shock |
+| 7th | Force Lightning |
+| 11th | Chain Lightning |
+| 15th | Force Storm |
+| 19th | Force Destruction |
+
 #### Force Artillery
 
-**(1st level)** You add **Force Shock** to your repertoire. Whenever you deal damage with an Offense power or with Telekinetic Impact, the target takes a –1 circumstance penalty to AC until the start of your next turn.
+**(1st level)** Whenever you deal damage to a creature with an Offense power or with Telekinetic Impact, that creature is **clumsy 1** until the start of your next turn. An area power applies this to every creature it damages.
 
 #### Overload
 
@@ -435,19 +445,19 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 #### Arc Lightning
 
-**(7th level)** You add **Force Lightning** to your repertoire. Your single-target Offense powers arc to a second creature within 10 feet of the first, dealing it splash damage equal to your Level Bonus.
+**(7th level)** Your single-target Offense powers arc to a second creature within 10 feet of the first, dealing it splash damage equal to your level.
 
 #### Storm-Caller
 
-**(11th level)** You add **Chain Lightning** to your repertoire, and the cones and lines of your Offense powers increase one size step.
+**(11th level)** The cones and lines of your Offense powers increase one size step.
 
-#### Cataclysm
+#### Scoured Ground
 
-**(15th level)** You add **Force Storm** to your repertoire — sustained devastation across an area.
+**(15th level)** Your area Offense powers leave the ground burning: until the start of your next turn, a creature that enters the area or ends its turn there takes damage equal to your level, of the same damage type as the power.
 
 #### Annihilation
 
-**(19th level)** You add **Force Destruction** to your repertoire, unmaking your enemies utterly.
+**(19th level)** Once per round, when an Offense power you Manifest reduces a creature to 0 Hit Points, you regain 1 Attunement.
 
 ---
 
