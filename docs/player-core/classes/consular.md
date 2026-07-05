@@ -135,7 +135,7 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 ## Mandate
 
-**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications. Your Mandate grants a signature 1st-level benefit and a set of **Mandate powers** added to your repertoire as you gain levels, and it deepens your command of its Application with new abilities at 3rd, 7th, 11th, 15th, and 19th levels.
+**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications. Your Mandate grants a signature 1st-level benefit and a set of **Mandate Powers** added to your repertoire as you gain levels, and it deepens your command of its Application with new abilities at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Heightened Manifest
 
