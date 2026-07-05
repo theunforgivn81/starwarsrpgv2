@@ -377,29 +377,47 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *The will is the strongest weapon, and yours bends others.* You read minds, sow terror, and seize control — the Force's master mentalist.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Mind Trick |
+| 3rd | Force Fear |
+| 7th | Mind Probe, Force Disruption |
+| 11th | Dominate Mind |
+| 15th | Mass Mind Trick |
+| 19th | Mind Fracture, Sever Force |
+
 #### Mind's Eye
 
-**(1st level)** You add **Mind Trick** to your repertoire. You sense the surface emotions of creatures within 30 feet, and you gain a +1 status bonus to Diplomacy and Intimidation.
+**(1st level)** You sense the surface emotions of creatures within 30 feet (an imprecise sense), and you gain a +1 status bonus to Deception, Diplomacy, and Intimidation checks against creatures whose emotions you can sense.
 
 #### Fearmonger
 
-**(3rd level)** You add **Force Fear** to your repertoire. The frightened condition you impose with Force powers is slow to fade: its value doesn't decrease at the end of the target's first turn.
+**(3rd level)** The frightened condition you impose with Force powers is slow to fade: its value doesn't decrease at the end of the target's first turn.
 
-#### Mind Probe
+#### Whispered Doubt  [one-action]
 
-**(7th level)** You add **Mind Probe** and **Force Disruption** to your repertoire.
+**(7th level)** **Traits** Force, Mental
+**Requirements** You are in a social encounter.
+**Effect** You slip a thread of doubt beneath an opponent's certainty. Attempt a The Force check against the opponent's Will DC.
 
-#### Dominate
+- **Critical Success** The opponent is **Off-Balance**, and its Resolve decreases by 1.
+- **Success** The opponent is **Off-Balance**.
+- **Critical Failure** It feels the intrusion and hardens, gaining a Guard against your next appeal.
 
-**(11th level)** You add **Dominate Mind** to your repertoire — total command of another's will.
+#### Puppeteer
 
-#### Mass Suggestion
+**(11th level)** Once per round, when a creature critically fails a save against one of your Mind powers, it immediately spends its reaction (if it has one available) to Stride or Strike; you choose the path or the target.
 
-**(15th level)** You add **Mass Mind Trick** to your repertoire, swaying whole crowds at once.
+#### Looming Will
+
+**(15th level)** Your will fills a room before you speak. When a social encounter begins, choose one: the opposing side's starting Resolve decreases by 2, or your side's starting Composure increases by 2.
 
 #### Shatter Will
 
-**(19th level)** You add **Mind Fracture** and **Sever Force** to your repertoire — the apex of mental domination.
+**(19th level)** **Frequency** once per minute
+**Effect** When a creature fails, but doesn't critically fail, its save against one of your Mind powers, you can force it to critically fail instead. Against a creature of higher level than you, this can't worsen the outcome of a power with the Incapacitation trait.
 
 ---
 

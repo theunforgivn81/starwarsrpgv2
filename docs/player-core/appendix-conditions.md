@@ -98,6 +98,9 @@ You can't be seen — a cloaking field, a bent-light trick of the Force. While i
 ### Observed
 You're in plain view — the default state for a creature in an open, well-lit space. Anything in plain sight is observed, and some abilities can be used only against an observed target. If a creature can't observe you (darkness, obstruction, its own blindness), you're at least concealed or hidden from it, per the detection ladder.
 
+### Off-Balance
+You've been wrong-footed in a social exchange, leaving an opening your opposition can exploit. The next appeal made against you or your side gains a +1 circumstance bonus to its check, and the condition then ends. Off-Balance also ends at the end of the exchange in which you gained it.
+
 ### Off-Guard
 You're distracted, unprepared, or otherwise unable to focus on your defense. You take a –2 circumstance penalty to AC. Some effects give you the off-guard condition only to certain creatures or against certain attacks (a flanked creature is off-guard only to the flankers); others, such as prone or unconscious, apply it universally.
 
