@@ -57,11 +57,6 @@ You can perform delicate manipulation at range with Telekinetic Grasp — pickin
 **Frequency** once per round
 **Effect** You Manifest Vital Transfer at a range of 30 feet and without paying its Hit Point cost.
 
-### Crushing Grasp
-**Feat 4** · **Traits** Consular
-**Prerequisites** Mandate of Telekinesis
-A creature grabbed or restrained by your Alter powers takes a –2 circumstance penalty to checks to escape, and takes bludgeoning damage equal to your Level Bonus each time it fails to escape.
-
 ### Empowered Impact
 **Feat 4** · **Traits** Consular
 Your Telekinetic Impact and your Alter forced movement push the target 5 additional feet, and on a critical hit with Telekinetic Impact you knock the target prone.
@@ -69,6 +64,11 @@ Your Telekinetic Impact and your Alter forced movement push the target 5 additio
 ### Force Levitation  [one-action]
 **Feat 4** · **Traits** Consular
 You rise and hover, gaining a fly Speed of 10 feet until the start of your next turn.
+
+### Inescapable Grasp
+**Feat 4** · **Traits** Consular
+**Prerequisites** Mandate of Telekinesis
+A creature grabbed or restrained by your Alter powers takes a –2 circumstance penalty to checks to escape, and takes bludgeoning damage equal to your Level Bonus each time it fails to escape.
 
 ### Insidious Suggestion
 **Feat 4** · **Traits** Consular, Mental
@@ -92,7 +92,7 @@ When you Manifest a power, you can project a 15-foot emanation until the start o
 ### Tutaminis Mastery
 **Feat 4** · **Traits** Consular
 **Prerequisites** Mandate of Serenity
-Your Energy Absorption and the resistances from your Control powers apply to all energy damage types at once, not just one.
+Your Energy Absorption also triggers when you would take force damage, and its Push has no maximum on the temporary Hit Points it grants.
 
 ### Untouchable
 **Feat 4** · **Traits** Consular
@@ -158,7 +158,8 @@ You can Manifest a single-target Alter attack as a 15-foot emanation centered on
 ### Warding Zone  [two-actions]
 **Feat 8** · **Traits** Consular
 **Prerequisites** Mandate of Serenity
-You create a 15-foot zone for 1 minute; allies within it gain resistance to physical and energy damage equal to your Level Bonus.
+**Cost** 2 Attunement
+**Effect** You create a 15-foot zone for 1 minute; allies within it gain resistance to physical and energy damage equal to your Level Bonus.
 
 ---
 
@@ -256,7 +257,7 @@ Empower Manifest's Frequency becomes once per round.
 ### Cosmic Conduit
 **Feat 18** · **Traits** Consular
 **Frequency** once per minute
-**Effect** The next power you Manifest this turn is treated as one tier higher, as though you had learned its greater version.
+**Effect** You channel a power at its utmost. The next power you Manifest this turn ignores the Incapacitation trait, and its damage or healing dice increase by one.
 
 ---
 

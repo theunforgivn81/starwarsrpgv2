@@ -19,7 +19,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Heavy Lifter
 
-**(3rd level)** Your telekinesis grips the immovable. Your Alter powers can affect targets one size category larger than normal, and the distances you force creatures to move increase by 5 feet.
+**(3rd level)** Your telekinesis grips the immovable. Your Telekinetic Grasp can lift objects of up to double the Bulk you could normally lift, and the distances you force creatures to move with Alter powers increase by 5 feet.
 
 ### Kinetic Barrage
 
@@ -27,7 +27,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Crushing Grip
 
-**(11th level)** You add **Force Hold** to your repertoire. A creature attempting to end one of your Alter control effects takes a –2 circumstance penalty to that check.
+**(11th level)** You add **Force Hold** to your repertoire. Once per round, when a creature attempts a check to escape or end one of your Alter effects, you can tighten your grip: it rolls twice and takes the worse result (a misfortune effect).
 
 ### Gravity Well
 
@@ -35,7 +35,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Singularity
 
-**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you Manifest an Alter power, you can apply its Push upgrade without spending the extra Attunement.
+**(19th level)** You add **Telekinetic Singularity** to your repertoire. Once per round, after you see the result of an Alter power you Manifest, you can apply its Push upgrade without spending the extra Attunement, even if you've already applied a Push upgrade for free this turn.
 
 ---
 
@@ -65,7 +65,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Foresight
 
-**(19th level)** You add **Foresight** to your repertoire. You yourself can't be surprised, and you gain roll-twice fortune against the first attack to target you each round.
+**(19th level)** You add **Foresight** to your repertoire, and you are permanently under its effect, as though warded by your own power.
 
 ---
 
@@ -169,7 +169,7 @@ Choose one of the six below when you make your Consular. Each names powers it gr
 
 ### Overload
 
-**(3rd level)** Once per turn, you can apply the Push upgrade of an Offense power without spending the extra Attunement.
+**(3rd level)** Once per turn, you can apply the Push upgrade of an Offense power without spending the extra Attunement, even if you've already applied a Push upgrade for free this turn.
 
 ### Arc Lightning
 
