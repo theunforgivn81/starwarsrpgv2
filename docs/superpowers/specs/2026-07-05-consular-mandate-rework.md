@@ -1,6 +1,6 @@
 # Consular Mandate Rework — Mechanics over Grants
 
-**Status:** Approved (design), pending implementation
+**Status:** Implemented (2026-07-05) — see `docs/player-core/classes/consular.md`
 **Date:** 2026-07-05
 **Type:** Subclass restructure. Reworks the six Consular Mandates so power grants are consolidated into a level-gated list in the L1 entry and every feature slot (1/3/7/11/15/19) holds a real mechanic.
 **Upstream:** [Class — Consular](2026-06-19-class-consular.md) (§5 is superseded by this spec), [Phase 4 social/intrigue engine](2026-06-13-phase4-social-intrigue-engine.md), [Force toolkit](2026-06-15-shared-force-toolkit.md).
