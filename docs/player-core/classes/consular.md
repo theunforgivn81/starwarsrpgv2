@@ -253,29 +253,40 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 *You fight a half-second ahead of everyone else.* Foresight is your shield and your squad's.
 
+**Mandate Powers**
+
+| Level | Power |
+|:---:|---|
+| 1st | Precognitive Parry |
+| 7th | Guidance of the Force |
+| 11th | Master Precognition |
+| 15th | True Sight |
+| 19th | Foresight |
+
 #### Seer
 
-**(1st level)** You add **Precognitive Parry** to your repertoire. You can't be made off-guard by creatures of your level or lower, and you gain a +1 status bonus to Perception and to initiative.
+**(1st level)** You can't be made **off-guard** by creatures of your level or lower, and you gain a +1 status bonus to initiative rolls.
 
 #### Forewarned
 
 **(3rd level)** Your premonitions guard the whole squad. When you roll initiative, you and each ally within 30 feet can't be made off-guard during the first round of combat.
 
-#### Far Sight
+#### Read the Currents
 
-**(7th level)** You add **Guidance of the Force** to your repertoire. Once per round, you can warn an ally within 30 feet, granting them a +1 circumstance bonus to a saving throw they attempt before the start of your next turn.
+**(7th level)** In a social encounter, you can Read the Room using The Force, and when you succeed, you also learn one of the opposing side's Levers or Guards. In addition, once per social encounter, you can glimpse an opponent's immediate intent: the GM tells you which action it will take on its next turn.
 
-#### Battle Precognition
+#### Battle Precognition  [reaction]
 
-**(11th level)** You add **Master Precognition** to your repertoire. Once per round, an ally you can see can reroll a saving throw at your prompting, using the better result.
+**(11th level)** **Trigger** An ally you can see attempts a saving throw.
+**Effect** You call the warning a half-second early. The ally rolls twice and takes the better result (a fortune effect).
 
-#### True Sight
+#### Peerless Seer
 
-**(15th level)** You add **True Sight** to your repertoire, and while it's active you can share its sight with one ally within 30 feet.
+**(15th level)** No creature can make you off-guard, and your Forewarned feature also grants the allies it protects your +1 status bonus to initiative rolls.
 
 #### Foresight
 
-**(19th level)** You add **Foresight** to your repertoire, and you are permanently under its effect, as though warded by your own power.
+**(19th level)** You are permanently under the effect of your Foresight power, without spending Attunement or Sustaining it.
 
 ---
 
