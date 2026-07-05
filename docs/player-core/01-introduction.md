@@ -179,7 +179,7 @@ A handful of words you'll meet constantly:
 >
 > **GM:** Roll it — they each attempt a basic Reflex save against your class DC.
 >
-> *Ksst'a rolls damage for the cone; the GM rolls three saves. Two droids fail — they take damage and are **suppressed** (−1 to hit, slowed). One critically succeeds and shrugs it off.*
+> *Ksst'a rolls damage for the cone; the GM rolls three saves. Two droids fail — they take damage and are **suppressed 1** (−1 to hit, −10 feet Speed). One critically succeeds and shrugs it off.*
 >
 > **Ksst'a:** Perfect. Third action — I hold my **Suppressing Reaction**. If any of them moves in my kill-zone, they eat a covering shot.
 >

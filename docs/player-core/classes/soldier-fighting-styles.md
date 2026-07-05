@@ -28,11 +28,11 @@ Choose one of the five styles below when you make your Soldier. You can't change
 
 **Sustained Barrage**  [one-action]  · **Traits** Soldier
 **Requirements** You're wielding a weapon with the automatic or area trait, and you created or sustained a Suppression Zone on your previous turn.
-**Effect** You rake the same area with another burst of fire, expending no ammunition and dealing no damage. That area becomes your **Suppression Zone** until the start of your next turn, and each enemy in it must succeed at a Reflex save against your Soldier class DC or become **suppressed** until the start of your next turn.
+**Effect** You rake the same area with another burst of fire, expending no ammunition and dealing no damage. That area becomes your **Suppression Zone** until the start of your next turn, and each enemy in it must succeed at a Reflex save against your Soldier class DC or become **suppressed 1** until the start of your next turn.
 
 ### No Escape
 
-**(11th level)** Nothing slips your line. A foe that leaves your Suppression Zone — even with a Step — triggers your Suppressing Reaction, and that Strike gains a **+2 circumstance bonus**. The Speed penalty of your suppressed condition deepens to **–15 feet**.
+**(11th level)** Nothing slips your line. A foe that leaves your Suppression Zone — even with a Step — triggers your Suppressing Reaction, and that Strike gains a **+2 circumstance bonus**. In addition, enemies suppressed by you take a **–5-foot circumstance penalty** to their Speeds.
 
 ### Withering Hail
 
@@ -126,13 +126,13 @@ Choose one of the five styles below when you make your Soldier. You can't change
 **Oppressive Presence**  [one-action]  · **Traits** Soldier, Emotion, Mental
 **Frequency** once per round
 **Requirements** The target can see or hear you.
-**Effect** One enemy within 60 feet becomes **suppressed** until the start of your next turn. The suppression ends immediately if the target uses an action that includes you as a target. You need no weapon, line of fire, or Suppression Zone.
+**Effect** One enemy within 60 feet becomes **suppressed 1** until the start of your next turn. The suppression ends immediately if the target uses an action that includes you as a target. You need no weapon, line of fire, or Suppression Zone.
 
 > **Sidebar — The Soft Taunt**
 > Oppressive Presence is a dilemma, not a leash. The target can shed the suppression any time simply by coming at *you* — which is exactly what a frontline threat wants. Left alone, it stays debuffed; turned on you, it's off your allies. Either way, you've done your job.
 
 > **Example — Heads Down**
-> *Corporal Dann uses Oppressive Presence on a raider 40 feet away; the raider is suppressed (–1 to hit, –10 ft Speed) before a shot is fired. It fires at the party's slicer anyway — an action that doesn't include Dann — so the suppression holds and the raider takes the penalty on that shot. Once Dann has Mark of Wrath, that same "ignore Dann" shot would also trigger his Suppressing Reaction.*
+> *Corporal Dann uses Oppressive Presence on a raider 40 feet away; the raider is suppressed 1 (–1 to hit, –10 ft Speed) before a shot is fired. It fires at the party's slicer anyway — an action that doesn't include Dann — so the suppression holds and the raider takes the penalty on that shot. Once Dann has Mark of Wrath, that same "ignore Dann" shot would also trigger his Suppressing Reaction.*
 
 ### Veiled Threat
 

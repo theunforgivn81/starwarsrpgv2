@@ -422,7 +422,7 @@ While Sustaining, you deal the success damage again each round and the target at
 **Traits** Force, Control
 **Cost** 3 Attunement
 **Area** 20-foot emanation; **Duration** sustained up to 1 minute
-**Effect** You create a null in the Force. Within the area, Force powers and other supernatural effects are suppressed: a creature that attempts a Force action must succeed at a check against your class DC or lose the action, and ongoing supernatural effects are suppressed while in the area.
+**Effect** You create a null in the Force. Within the area, the Force falls silent: a creature that attempts a Force action must succeed at a check against your class DC or lose the action, and ongoing supernatural effects lie dormant while in the area.
 **Push (+1 Attunement)** When the void appears, it also attempts to dispel each ongoing Force effect in the area of your level or lower.
 
 ### Force Wave  [two-actions]  ·  Power 9
