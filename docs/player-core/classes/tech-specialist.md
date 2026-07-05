@@ -16,8 +16,6 @@ A high Intelligence runs everything you do — your **Tech Specialist class DC**
 
 ## Key Terms
 
-**Deploy**. Preparing, installing, and firing Modifications.
-
 **Modification (Mod)**. A piece of custom tech. Each has a **Standby** (an always-on passive while installed), an **Activate** (its action-cost active effect), and an **Overclock** (a boosted version with a risk). Your Modifications are listed at the end of this class — see **[Tech Specialist Modifications](tech-specialist-modifications.md)**.
 
 **Library / Custom Rig**. Your *known* Mods (Library) and your *installed* loadout (Custom Rig). You install a subset of what you know, and reconfigure between adventuring days.
@@ -94,7 +92,7 @@ As a Tech Specialist, you gain a **skill increase at every level from 2nd on** �
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Deploy (Custom Rig [3], Modification Library, Overclock), Engineering Discipline, class feat, species feat |
+| 1 | +2 | Modification Library, Custom Rig [3], Overclock, Engineering Discipline, class feat, species feat |
 | 2 | +2 | Class feat, skill feat, skill increase |
 | 3 | +2 | Tech Savvy, Discipline feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat, skill increase |
@@ -117,19 +115,19 @@ As a Tech Specialist, you gain a **skill increase at every level from 2nd on** �
 
 ---
 
-## Deploy
+## Modification Library
 
-**(1st level)** The Modification engine has four moving parts.
+**(1st level)** The designs you know. You begin knowing **four** Modifications of your choice, plus the signature Mod your Discipline grants free, and you learn another at every odd level. You can learn more during downtime with the **Learn a Modification** activity (a Crafting check, time, and credits). The full Modification list is at the end of this class.
 
-**Modification Library.** Your *known* Modifications. You begin knowing **four**, plus the signature Mod your Discipline grants free, and you learn another every odd level. You can learn more during downtime with the **Learn a Modification** activity (a Crafting check, time, and credits). The full Modification list is at the end of this class.
+## Custom Rig
 
-**Custom Rig.** Your *installed* loadout — the Mods that are actually doing something. You can install **3** Modifications at 1st level, rising to **4, 5, 6, and 7** at 5th, 9th, 13th, and 17th levels. You choose your installed set during your daily preparations and can **hot-swap one** installed Mod for another known Mod with 10 minutes of work mid-day.
+**(1st level)** The Mods that are actually doing something. During your daily preparations, you install **3** Modifications from your Library in your custom rig; mid-day, you can **hot-swap** one installed Mod for another you know with 10 minutes of work. While a Modification is installed, its **Standby** passive is always running, and you can **Activate** its active effect **at will** for the actions listed in its entry — you're limited only by your actions, never by a daily count.
 
-**Standby.** Each installed Modification has an always-on **Standby** passive — a skill bonus, a defense, or a utility that's running the whole time it's installed. Much of a Mod's value lives here.
+The number of Modifications you can install rises to **4** at 5th level, **5** at 9th, **6** at 13th, and **7** at 17th.
 
-**Activate.** A Modification's active effect — a gadget, field, blast, heal, or buff — costs the actions listed in its entry and is **at-will**: you're limited only by your actions, never by a daily count.
+## Overclock
 
-**Overclock.** When you Activate an installed Mod, you can **Overclock** it — pushing it past safe limits for a boosted effect (bigger dice, plus your Intelligence modifier to the total, and often an added condition or area). Then attempt a **flat check (DC 15)**:
+**(1st level)** When you Activate an installed Mod, you can **Overclock** it — pushing it past safe limits for a boosted effect (bigger dice, plus your Intelligence modifier to the total, and often an added condition or area). Then attempt a **flat check (DC 15)**:
 - **Success** — the Overclock works, no consequence.
 - **Failure** — you can't Overclock again for 10 minutes (your standard Mods still work fine).
 - **Critical failure** — as failure, and that Modification (including its Standby) is **disabled until you spend 10 minutes repairing it**.
@@ -143,17 +141,9 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 **(1st level)** Every Tech Specialist follows an **Engineering Discipline** — your technical methodology. It grants proficiencies, a core feature, a free signature Modification, and a signature way you reshape the Overclock risk, with further features at 3rd, 7th, 11th, 15th, and 19th levels. 
 
-## Tech Expertise
-
-**(7th level)** Your proficiency rank for your Tech Specialist class DC increases to expert.
-
 ## Tech Savvy
 
 **(3rd level)** Your rig is an extension of your mind. You gain a +1 circumstance bonus to checks to Recall Knowledge about, identify, Repair, or Disable technology, and you can attempt those checks even while untrained. Once per turn, when you Activate a Modification, you can Interact (to draw, stow, or operate a device) as a free action.
-
-## Custom Rig
-
-**(5th, 9th, 13th, 17th levels)** The number of Modifications you can install in your Custom Rig increases — to **4** at 5th level, **5** at 9th, **6** at 13th, and **7** at 17th.
 
 ## Perception Expertise
 
@@ -165,14 +155,24 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 
 ## Emergency Reroute
 
+**(7th level)** You catch the surge before it cascades.
+
 **Emergency Reroute**  [reaction]  · **Traits** Tech Specialist
 **Frequency** once per 10 minutes
-**(7th level)** **Trigger** You fail or critically fail an Overclock flat check.
-**Effect** You reroute the surge before it cascades — treat the result as one degree better (a critical failure becomes a failure; a failure becomes a success).
+**Trigger** You fail or critically fail an Overclock flat check.
+**Effect** You reroute the surge — treat the result as one degree better (a critical failure becomes a failure; a failure becomes a success).
 
 ## Evasion
 
 **(7th level)** Your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.
+
+## Resolve
+
+**(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+
+## Tech Expertise
+
+**(7th level)** Your proficiency rank for your Tech Specialist class DC increases to expert.
 
 ## Weapon Specialization
 
@@ -184,13 +184,17 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(9th level)** Your proficiency rank for Fortitude saves increases to expert.
 
-## Resolve
+## Perception Mastery
 
-**(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
+**(11th level)** Your proficiency rank for Perception increases to master.
 
-## Tech Mastery
+## Light Armor Expertise
 
-**(15th level)** Your proficiency rank for your Tech Specialist class DC increases to master.
+**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
+
+## Weapon Mastery
+
+**(13th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to master. (An Armstech's martial weapons advance alongside them.)
 
 ## Greater Evasion
 
@@ -200,17 +204,9 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
 
-## Light Armor Expertise
+## Tech Mastery
 
-**(13th level)** Your proficiency ranks for light armor and unarmored defense increase to expert.
-
-## Perception Mastery
-
-**(11th level)** Your proficiency rank for Perception increases to master.
-
-## Weapon Mastery
-
-**(13th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to master. (An Armstech's martial weapons advance alongside them.)
+**(15th level)** Your proficiency rank for your Tech Specialist class DC increases to master.
 
 ## Apex Engineering
 

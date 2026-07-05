@@ -280,3 +280,9 @@ Every Modification has three parts + an access **Level**:
 - ~~**§7 class feats** (~50)~~ — **DONE (2026-06-20):** §7.1 ~30 general (the Overclock/Rig line) + §7.2 15 Discipline. **Tech Specialist is content-complete pending Gate-A.**
 - **Gate-A:** the Overclock flat-check DC + lockout vs the no-daily model; installed-count (3→7) vs power budget; Mod damage/Overclock values; Legendary Class DC save-DC; skill-increase-every-level (skill-master ceiling).
 - Flavor/description → rules-writing.
+
+---
+
+## Revision — drop the "Deploy" umbrella term (2026-07-04)
+
+"Deploy" was a Key Term and L1 feature heading that no rule ever referenced ("preparing, installing, and firing Modifications" — pure label). Restructured in player-core: the umbrella section is now three named 1st-level class features — **Modification Library** (known Mods, learning cadence), **Custom Rig** (installed loadout + hot-swap; Standby/Activate explained here as what "installed" means; the 5/9/13/17 install increases folded in, replacing the separate later section), and **Overclock** (the push + flat-check ladder, unchanged). Features table row updated; Key Term deleted; the two "(see *Deploy*)" cross-refs in the Modifications file repointed. Also sorted the chassis feature list into level order (it was shuffled — Tech Expertise before Tech Savvy, etc.) and fixed Emergency Reroute's malformed block (level tag was inside the Trigger line). No mechanical changes.

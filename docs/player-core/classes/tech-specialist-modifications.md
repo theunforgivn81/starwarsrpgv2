@@ -1,12 +1,12 @@
 # Tech Specialist Modifications
 
-These are the **Modifications** — the Tech Specialist's toolbox. You learn them into your **Library** and install a subset into your **Custom Rig** (see *Deploy*, in the [Tech Specialist](tech-specialist.md) class). Unlike the Force toolkit, Modifications are yours alone; they aren't a shared chapter.
+These are the **Modifications** — the Tech Specialist's toolbox. You learn them into your **Library** and install a subset into your **Custom Rig** (see those features in the [Tech Specialist](tech-specialist.md) class). Unlike the Force toolkit, Modifications are yours alone; they aren't a shared chapter.
 
 **Reading a Modification.** Every entry has the same parts:
 - **Modification [N]** — the **level** at which you can learn and install it.
 - **Standby** — the always-on passive while the Modification is installed.
 - **Activate** — the active effect and its action cost. Activating is **at-will**. Save effects are rolled against your **Tech Specialist class DC**.
-- **Overclock** — the boosted version: bigger dice, **plus your Intelligence modifier**, and usually an added condition or area. After resolving it, attempt the **Overclock flat check** (DC 15; see *Deploy*).
+- **Overclock** — the boosted version: bigger dice, **plus your Intelligence modifier**, and usually an added condition or area. After resolving it, attempt the **Overclock flat check** (DC 15; see *Overclock*, in the class writeup).
 
 **Scaling.** A damage Modification gains **+1 die at 5th, 11th, and 17th levels**, like a Force power. The base Activate adds no attribute; only an Overclock adds your Intelligence. Strong single-target heals and stims can affect a given target only **once per 10 minutes**.
 
