@@ -116,7 +116,7 @@ Trained in Soldier class DC
 | 17 | +6 | Legendary Armor, Pinned Down, species feat, skill increase |
 | 18 | +6 | Class feat, skill feat |
 | 19 | +6 | Peerless Soldier, fighting style feature, general feat, skill increase |
-| 20 | +7 | class feat, skill feat, ability boosts |
+| 20 | +7 | Ability boosts, class feat, skill feat |
 
 ---
 
@@ -124,16 +124,16 @@ Trained in Soldier class DC
 
 **(1st level)** You pin the enemy with massed fire. Whenever you Auto-Fire or Area Fire (using a weapon with the [Automatic] or [Area] traits, respectively), each enemy that fails its save against it becomes **suppressed 1**, and the attack's area becomes your **Suppression Zone** until the start of your next turn. Any enemy that enters your Suppression Zone is also suppressed 1 until the start of your next turn, even if they leave the zone. An enemy that succeeds at a save against becoming suppressed is temporarily immune: it can't be suppressed **by you** until the start of your next turn.
 
-**Suppressing Reaction**  [reaction]  · **Traits** Soldier
+**Suppressing Reaction**  [reaction]  · **Frequency** once per round · **Traits** Soldier
 **Trigger** An enemy Strides within or through your Suppression Zone, or takes a hostile action while inside it.
-**Effect** Make a ranged Strike against the triggering enemy; this Strike ignores your multiple attack penalty. Instead of the Strike, you may halt the enemy, ending its movement in the space it currently occupies. You can use the Suppressing Reaction **once per round** (Withering Fire grants a second at 13th level).
+**Effect** Make a ranged Strike against the triggering enemy; this Strike ignores your multiple attack penalty. Instead of the Strike, you may halt the enemy, ending its movement in the space it currently occupies.
 
 > **Example — A Lane Closes**
 > *Sergeant Vossk levels his rotary blaster — an automatic weapon — and spends two actions to Auto-Fire down the corridor, a cone reaching half the weapon's range increment — with his training, Suppressing Fire. A battle droid rolls a 14 on its basic Reflex save against his Soldier class DC 21 — a failure: it takes full damage and is suppressed 1 (–1 to hit, –10 feet Speed), and the corridor mouth is now Vossk's Suppression Zone. On the droid's turn it tries to push through the zone toward the party's medic — triggering Vossk's Suppressing Reaction: a covering shot at full accuracy, no MAP. With his third action that turn he'd already shot the suppressed droid using **Overwhelming Assault**, so even his follow-up came in sharp.*
 
 ## Overwhelming Assault
 
-**(1st level)** Your single-target follow-up stays sharp against the foes you've already rattled. Your **multiple attack penalty against a suppressed target is reduced by one step**: –3/–6, or –2/–4 with an agile weapon. When you spend a third action to Strike a foe caught in your zone, that shot lands far more often than a second attack normally would — this is the Soldier's source of respectable, steady single-target damage.
+**(1st level)** Your single-target follow-up stays sharp against the foes you've already rattled. Your **multiple attack penalty against a suppressed target is reduced by one step**: –3/–6, or –2/–4 with an agile weapon.
 
 ## Walking Armory
 
@@ -141,19 +141,11 @@ Trained in Soldier class DC
 
 ## Fighting Style
 
-**(1st level)** Every Soldier commits to a **fighting style** — a specialization that reshapes how you suppress and grants further features at 3rd, 7th, 11th, 15th, and 19th levels. 
+**(1st level)** Every Soldier commits to a **fighting style** — a specialization that reshapes how you suppress and grants further features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Fearsome Bulwark
 
 **(3rd level)** Your presence is as heavy as your gear, and you throw your weight around with it. You can use your **Constitution modifier in place of Charisma** for Intimidation (to Coerce and Demoralize), and **in place of Strength** for the Athletics checks to Reposition, Shove, and Trip. Your menace and your battlefield-control maneuvers both run on Constitution.
-
-## Reflex Expertise
-
-**(9th level)** Your proficiency rank for Reflex saves increases to expert.
-
-## Perception Expertise
-
-**(9th level)** Your proficiency rank for Perception increases to expert.
 
 ## Soldier Weapon Expertise
 
@@ -183,6 +175,14 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 > **Sidebar — Holding the Line**
 > "Hasn't moved" means you've taken no action with the move trait — no Stride, Step, or forced movement you didn't resist — since your last turn ended. You can still turn, Strike, reload, and use reactions in place without losing Dig In. Some fighting-style features (such as the Bulwark's Immovable) let you keep this resistance even on turns you do move.
+
+## Reflex Expertise
+
+**(9th level)** Your proficiency rank for Reflex saves increases to expert.
+
+## Perception Expertise
+
+**(9th level)** Your proficiency rank for Perception increases to expert.
 
 ## Soldier's Resolution
 
