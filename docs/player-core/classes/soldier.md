@@ -22,7 +22,7 @@ These terms recur throughout the class; their full rules live in the **Condition
 
 **Suppression Zone**. The area your Suppressing Fire blankets. It persists until the start of your next turn. Enemies that enter it are suppressed, and enemies that move or act inside it trigger your Suppressing Reaction.
 
-**Auto-Fire & Area Fire** *(actions)*. The standard two-action area attacks, detailed in the **Combat** chapter: Auto-Fire rakes a cone with an **automatic** weapon; Area Fire blankets an area with an **area** weapon. Neither uses an attack roll — each creature in the area attempts a basic Reflex save against your class DC. Your **Suppressing Fire** feature is built on both.
+**Auto-Fire & Area Fire** *(actions)*. The standard two-action area attacks, detailed in the **Combat** chapter: Auto-Fire rakes a cone with an **automatic** weapon; Area Fire blankets an area with an **area** weapon. Neither uses an attack roll — each creature in the area attempts a basic Reflex save against your class DC — but both have the **Attack** trait, so they advance your multiple attack penalty for the rest of your turn. Your **Suppressing Fire** feature is built on both.
 
 > **Sidebar — One [Suppressed] Effect at a Time**
 > Many feats and fighting-style features let you attach an *extra* effect — off-guard, frightened, slowed, pushed — to a creature you suppress. These effects all carry the **[Suppressed]** trait, and **you may apply only one [Suppressed] effect per action that applies the suppressed condition.** Collect as many of these effects as you like across your build; you still pick exactly one each time you suppress.
@@ -133,7 +133,7 @@ Trained in Soldier class DC
 
 ## Overwhelming Assault
 
-**(1st level)** Your single-target follow-up stays sharp against the foes you've already rattled. Your **multiple attack penalty against a suppressed target is reduced by one step**: –3/–6, or –2/–4 with an agile weapon.
+**(1st level)** Your single-target follow-up stays sharp against the foes you've already rattled. Your **multiple attack penalty against a suppressed target is reduced by one step**: –3/–6, or –2/–4 with an agile weapon. Because Auto-Fire and Area Fire have the **Attack** trait, the third-action Strike after your Suppressing Fire is normally at –5 — against a foe your fire just suppressed, it comes in at –3.
 
 ## Walking Armory
 
