@@ -531,7 +531,7 @@ You rise and hover, gaining a fly Speed of 10 feet until the start of your next 
 #### Inescapable Grasp
 **Feat 4** · **Traits** Consular
 **Prerequisites** Mandate of Telekinesis
-A creature grabbed or restrained by your Alter powers takes a –2 circumstance penalty to checks to escape, and takes bludgeoning damage equal to your Level Bonus each time it fails to escape.
+A creature grabbed or restrained by your Alter powers takes a –2 circumstance penalty to checks to escape, and takes bludgeoning damage equal to half your level each time it fails to escape.
 
 #### Insidious Suggestion
 **Feat 4** · **Traits** Consular, Mental
@@ -622,7 +622,7 @@ You can Manifest a single-target Alter attack as a 15-foot emanation centered on
 **Feat 8** · **Traits** Consular
 **Prerequisites** Mandate of Serenity
 **Cost** 2 Attunement
-**Effect** You create a 15-foot zone for 1 minute; allies within it gain resistance to physical and energy damage equal to your Level Bonus.
+**Effect** You create a 15-foot zone for 1 minute; allies within it gain resistance to physical and energy damage equal to half your level.
 
 ---
 
@@ -673,7 +673,7 @@ When you restore Hit Points to an ally, you can instead grant them fast healing 
 #### Restorative Aura  [two-actions]
 **Feat 12** · **Traits** Consular, Healing
 **Cost** 2 Attunement
-**Effect** Each ally in a 15-foot emanation regains Hit Points equal to 2d8 plus your Level Bonus.
+**Effect** Each ally in a 15-foot emanation regains Hit Points equal to 2d8 plus your level.
 
 #### Wide Aperture
 **Feat 12** · **Traits** Consular
