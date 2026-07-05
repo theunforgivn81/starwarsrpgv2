@@ -74,11 +74,11 @@ Trained in one Engineering Lore
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 **Attacks**  
-Trained in unarmed attacks
+Trained in unarmed attacks  
 Trained in simple weapons
 
 **Defenses**  
-Trained in unarmored defense
+Trained in unarmored defense  
 Trained in light armor
 
 **Class DC**  
@@ -87,8 +87,6 @@ Trained in Tech Specialist class DC
 ---
 
 ## Class Features
-
-As a Tech Specialist, you gain a **skill increase at every level from 2nd on** — the deepest skill bench in the game.
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
@@ -111,7 +109,7 @@ As a Tech Specialist, you gain a **skill increase at every level from 2nd on** �
 | 17 | +6 | Custom Rig [7], species feat, skill increase |
 | 18 | +6 | Class feat, skill feat, skill increase |
 | 19 | +6 | Apex Engineering, Discipline feature, general feat, skill increase |
-| 20 | +7 | ability boosts, class feat, skill feat, skill increase |
+| 20 | +7 | Ability boosts, class feat, skill feat, skill increase |
 
 ---
 
@@ -132,14 +130,12 @@ The number of Modifications you can install rises to **4** at 5th level, **5** a
 - **Failure** — you can't Overclock again for 10 minutes (your standard Mods still work fine).
 - **Critical failure** — as failure, and that Modification (including its Standby) is **disabled until you spend 10 minutes repairing it**.
 
-Overclock is your only "push," and it's gated by risk, not by a daily clock — so you can gamble as often as your nerve and your dice allow.
-
 > **Sidebar — A Caster Without a Clock**
 > The Tech Specialist prepares a loadout like a spellcaster prepares spells — but there are no slots and no daily limit. Power is split three ways: **Standby** (always running), **Activate** (at-will), and **Overclock** (the risky boost). A Modification's **Level** only gates when you can *learn and install* it; it never costs you a use. Mod damage and effects scale automatically as you level (more dice at 5th, 11th, and 17th); only an **Overclock** adds your Intelligence.
 
 ## Engineering Discipline
 
-**(1st level)** Every Tech Specialist follows an **Engineering Discipline** — your technical methodology. It grants proficiencies, a core feature, a free signature Modification, and a signature way you reshape the Overclock risk, with further features at 3rd, 7th, 11th, 15th, and 19th levels. 
+**(1st level)** Every Tech Specialist follows an **Engineering Discipline** — your technical methodology. It grants proficiencies, a core feature, a free signature Modification, and a signature way you reshape the Overclock risk, with further features at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Tech Savvy
 
@@ -152,6 +148,10 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 ## Weapon Expertise
 
 **(5th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to expert. (An Armstech's martial weapons advance alongside them.)
+
+## Tech Expertise
+
+**(7th level)** Your proficiency rank for your Tech Specialist class DC increases to expert.
 
 ## Emergency Reroute
 
@@ -169,10 +169,6 @@ Overclock is your only "push," and it's gated by risk, not by a daily clock — 
 ## Resolve
 
 **(7th level)** Your proficiency rank for Will saves increases to master, and when you roll a success on a Will save, you get a critical success instead.
-
-## Tech Expertise
-
-**(7th level)** Your proficiency rank for your Tech Specialist class DC increases to expert.
 
 ## Weapon Specialization
 
@@ -196,6 +192,10 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 **(13th level)** Your proficiency ranks for simple weapons and unarmed attacks increase to master. (An Armstech's martial weapons advance alongside them.)
 
+## Tech Mastery
+
+**(15th level)** Your proficiency rank for your Tech Specialist class DC increases to master.
+
 ## Greater Evasion
 
 **(15th level)** Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead, and when you fail a Reflex save against an effect that deals damage, you take half that damage.
@@ -203,10 +203,6 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 ## Greater Resolve
 
 **(15th level)** Your proficiency rank for Will saves increases to legendary. When you roll a critical failure on a Will save, you get a failure instead, and when you fail a Will save against an effect that deals damage, you take half that damage.
-
-## Tech Mastery
-
-**(15th level)** Your proficiency rank for your Tech Specialist class DC increases to master.
 
 ## Apex Engineering
 
