@@ -135,7 +135,7 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 ## Mandate
 
-**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications that grants its iconic power for free at 1st level, a signature benefit, and deeper command of that Application at 3rd, 7th, 11th, 15th, and 19th levels.
+**(1st level)** Every Consular commits to a **Mandate** — a devotion to one of the six Applications. Your Mandate grants a signature 1st-level benefit and a set of **Mandate powers** added to your repertoire as you gain levels, and it deepens your command of its Application with new abilities at 3rd, 7th, 11th, 15th, and 19th levels.
 
 ## Heightened Manifest
 
@@ -201,7 +201,7 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 
 ## Consular Mandates
 
-Choose one of the six Mandates below when you make your Consular (see the *Mandate* class feature). Each names powers it grants you (their full rules are in **[The Force](the-force.md)**); a granted power enters your repertoire for free, but you still spend Attunement to Manifest it as normal.
+Choose one of the six Mandates below when you make your Consular (see the *Mandate* class feature). Each Mandate opens with its **Mandate Powers** table: you add each listed power to your repertoire for free when you reach its listed level (their full rules are in **[The Force](the-force.md)**), but you still spend Attunement to Manifest it as normal.
 
 > **Sidebar — A Mandate Is Emphasis**
 > A Mandate deepens one Application, but it never walls off the others — your broad access (see *Manifest*) still lets you learn powers from any Application. And as always, what marks corruption is the **Dark** trait on a power, not the Application it belongs to.
