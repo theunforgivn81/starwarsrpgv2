@@ -37,7 +37,7 @@ Of the 36 Mandate features, ~25 were "You add **X** to your repertoire" with a t
 | 3 | **Heavy Lifter** | *(kept — the exploration slot)* Double-Bulk Telekinetic Grasp; +5 ft forced movement. |
 | 7 | **Kinetic Crush** | A creature you force-move is off-guard until the start of your next turn, **and** forcing it into an obstacle or another creature deals bludgeoning damage equal to your level. |
 | 11 | **Crushing Grip** | *(kept)* Once per round, a creature attempting to escape or end one of your Alter effects rolls twice, takes the worse (misfortune). |
-| 15 | **Gravity Well** | `[reaction]` When a creature within 30 ft begins to move: Fortitude vs your Class DC or its movement is halved and you redirect its first 10 ft. (The old "drive upward/over an edge" text moves to the general forced-movement rules.) |
+| 15 | **Gravity Well** | `[reaction]` When a creature within 30 ft begins to move: Fortitude vs your Class DC or its movement is halved and you redirect its first 10 ft. The old "drive upward/over an edge" text stays in this feature (player-core has no general forced-movement rules chapter yet to receive it). |
 | 19 | **Singularity** *(apex)* | Once per round, apply an Alter power's Push upgrade free after seeing the result; your Telekinetic Adept push increases to 10 ft and, once per round, can also knock the target prone. |
 
 ### 2.2 Mandate of Visions
