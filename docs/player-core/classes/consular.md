@@ -18,7 +18,7 @@ A high Charisma is the force of will that powers every manifestation. Charisma i
 
 ## Key Terms
 
-**Manifest**. To use a Force power — to spend the actions and Attunement and make it real.
+**Manifest**. The universal activity for using a Force power — spend its actions and Attunement and make it real (see **The Force**).
 
 **Repertoire**. The set of Force powers you know and can Manifest. The Consular's is the largest of any class, and it grows as you level.
 
@@ -95,7 +95,7 @@ Trained in Consular class DC
 
 | Level | Level Bonus | Class Features & Advancement |
 |:---:|:---:|---|
-| 1 | +2 | Manifest, Telekinetic Impact, Mandate, class feat, species feat |
+| 1 | +2 | Deep Reservoir, Telekinetic Impact, Mandate, class feat, species feat |
 | 2 | +2 | Class feat, skill feat |
 | 3 | +2 | Mandate feature, general feat, skill increase |
 | 4 | +3 | Class feat, skill feat |
@@ -118,11 +118,11 @@ Trained in Consular class DC
 
 ---
 
-## Manifest
+## Deep Reservoir
 
 **(1st level)** You gain a pool of Attunement points equal to **3 + your Level Bonus** and your **Center** action restores **3 Attunement** instead of 2.
 
-At 1st level, in addition to the power your **Mandate** grants you, you gain **four** level 1 Force powers. You add another power to your repertoire at 2nd level and every even-numbered level thereafter. These powers are all listed in detail in chapter **The Force.**
+At 1st level, in addition to the powers your **Mandate** grants you, you gain **four** level 1 Force powers. You add another power to your repertoire at 2nd level and every even-numbered level thereafter. These powers are all listed in detail in chapter **The Force.**
 
 ## Telekinetic Impact
 
@@ -204,7 +204,7 @@ If you spend **two actions**, the impact deals bonus damage equal to your Charis
 Choose one of the six Mandates below when you make your Consular (see the *Mandate* class feature). Each Mandate opens with its **Mandate Powers** table: you add each listed power to your repertoire for free when you reach its listed level (their full rules are in **[The Force](the-force.md)**), but you still spend Attunement to Manifest it as normal.
 
 > **Sidebar — A Mandate Is Emphasis**
-> A Mandate deepens one Application, but it never walls off the others — your broad access (see *Manifest*) still lets you learn powers from any Application. And as always, what marks corruption is the **Dark** trait on a power, not the Application it belongs to.
+> A Mandate deepens one Application, but it never walls off the others — your broad access (see *Deep Reservoir*) still lets you learn powers from any Application. And as always, what marks corruption is the **Dark** trait on a power, not the Application it belongs to.
 
 ---
 
