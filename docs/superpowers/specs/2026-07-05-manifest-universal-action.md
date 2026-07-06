@@ -1,6 +1,6 @@
 # Manifest — the Universal Action for Force Powers
 
-**Status:** Approved (design), pending implementation
+**Status:** Implemented (2026-07-05) — see `docs/player-core/the-force.md` §Manifest and `docs/player-core/classes/consular.md` §Deep Reservoir
 **Date:** 2026-07-05
 **Type:** Core-rules addition + rename. Promotes **Manifest** from an undefined verb to the system's universal activity for using a Force power (the ORC/2E *Cast a Spell* analog), and renames the Consular's level-1 class feature that previously squatted on the name.
 **Upstream:** [Class — Consular](2026-06-19-class-consular.md) (§4 "The Verb — Manifest" is amended by this spec), [Force toolkit](2026-06-15-shared-force-toolkit.md), [Consular Mandate rework](2026-07-05-consular-mandate-rework.md).

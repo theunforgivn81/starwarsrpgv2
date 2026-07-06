@@ -72,7 +72,9 @@ Grants per [Phase 3](2026-06-13-phase3-progression-chassis.md) incl. the L1 clas
 
 ---
 
-## 4. The Verb — Manifest
+## 4. The Verb — Manifest *(universalized 2026-07-05)*
+
+**Amended:** Manifest is now the system-wide action for using any Force power (the Cast a Spell analog) — see **[Manifest universal action](2026-07-05-manifest-universal-action.md)**. The Consular's L1 feature is renamed **Deep Reservoir**; §4.1's framework below (pool depth, broad access, CHA Class DC) is unchanged in substance.
 
 A typical Consular turn: an **at-will Telekinetic Impact** (reliable offense, no resource), then **spend Attunement** on a Force power — crush, hold, dominate, mend, or wall off — and **Center** to refuel when the pool runs low. The decisions are *which power, which target, how much to Push, when to refuel* — pure caster resource-management, not "Strike ×3."
 
