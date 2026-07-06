@@ -29,9 +29,19 @@ Every power belongs to one **Application** — the discipline of the Force it dr
 
 ## How Force Powers Work
 
+### Manifest — using a power
+
+Every Force power is used the same way: you **Manifest** it.
+
+> **Manifest**  `[varies]`
+> **Traits** Concentrate, Force
+> **Requirements** You know the power, and you can pay its Attunement cost.
+> ———
+> You channel the Force into effect. Manifesting takes the actions shown in the power's header (`[one-action]`, `[two-actions]`, `[three-actions]`, `[reaction]`, or a longer time), spends the power's Attunement cost, and gains the power's traits. Wherever a rule says you "use" a Force power, you Manifest it.
+
 ### Attunement — your focus in the fight
 
-Using powers spends **Attunement**, a pool that refreshes **each encounter** (there is no daily total — see *Playing the Game*). Your pool is **2 + your Level Bonus** points, and you can spend an action on **Center** (`[one-action]`) to regain **2 Attunement**, steadying yourself mid-fight. When the fight ends, your Attunement resets to full.
+Manifesting a power spends **Attunement**, a pool that refreshes **each encounter** (there is no daily total — see *Playing the Game*). Your pool is **2 + your Level Bonus** points, and you can spend an action on **Center** (`[one-action]`) to regain **2 Attunement**, steadying yourself mid-fight. When the fight ends, your Attunement resets to full.
 
 Powers cost Attunement by tier:
 
@@ -53,7 +63,7 @@ When a power makes an *attack*, you roll `d20 + Level Bonus + proficiency + key 
 
 ### Acquiring powers — bought, not granted
 
-Powers are a **shared, portable toolkit**. You learn them by spending **feats**, choosing from the Applications your class and feats give you access to — **no power is locked to one class.** What your class provides is your *framework* and *emphasis*: how many powers you start with, which Applications come easily, and the verb you channel them through (the Consular's deep Manifest, the Guardian's blade, the Sentinel's premonitions). A non-Force class can even pick up a few powers through the Force Adept archetype.
+Powers are a **shared, portable toolkit**. You learn them by spending **feats**, choosing from the Applications your class and feats give you access to — **no power is locked to one class.** What your class provides is your *framework* and *emphasis*: how many powers you start with, which Applications come easily, and how you channel them (the Consular's deep reservoir, the Guardian's blade-work, the Sentinel's premonitions). A non-Force class can even pick up a few powers through the Force Adept archetype.
 
 Each power lists a **level** — the earliest level you can learn it (1, 5, 9, 13, or 17). The highest-tier powers simply aren't available until you've grown into them.
 
