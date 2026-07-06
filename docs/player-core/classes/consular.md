@@ -398,8 +398,7 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 #### Whispered Doubt  [one-action]
 
-**(7th level)** **Traits** Force, Mental
-**Requirements** You are in a social encounter.
+**(7th level)** **Traits** Force, Mental, Social
 **Effect** You slip a thread of doubt beneath an opponent's certainty. Attempt a check using The Force against the opponent's Will DC.
 
 - **Critical Success** The opponent is **Off-Balance**, and its Resolve decreases by 1.

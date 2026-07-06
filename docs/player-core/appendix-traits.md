@@ -224,6 +224,9 @@ This belongs to the Sentinel class. Feats and abilities with this trait can be s
 ### Shistavanen
 A creature with this trait is a member of the Shistavanen species; feats with this trait are open only to Shistavanens.
 
+### Social
+An ability with this trait can be used only during a social encounter.
+
 ### Soldier
 This belongs to the Soldier class. Feats and abilities with this trait can be selected or used only by Soldiers, unless another rule (such as an archetype) grants access.
 
