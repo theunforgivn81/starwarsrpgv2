@@ -471,10 +471,11 @@ At 1st level and every even level you gain a **Consular class feat**. The feats 
 
 ### 1st-Level Feats
 
-#### Fleet Center
+#### Fleet Center  [free-action]
 **Feat 1** · **Traits** Consular
-**Frequency** once per round
-**Effect** You use the Center action as part of another action you take.
+**Frequency** once per hour
+**Trigger** Your turn begins.
+**Effect** You use the Center action.
 
 #### Living Force Sense
 **Feat 1** · **Traits** Consular
@@ -500,11 +501,6 @@ You add **Deflect** to your repertoire (see *The Force*).
 **Feat 2** · **Traits** Consular
 You can use The Force skill to Recall Knowledge about any Force-related topic, and you gain a +1 circumstance bonus to such checks.
 
-#### Sustaining Will
-**Feat 2** · **Traits** Consular
-**Frequency** once per round
-**Effect** You Sustain a Force power as a free action.
-
 #### Telekinetic Finesse
 **Feat 2** · **Traits** Consular
 You can perform delicate manipulation at range with Telekinetic Grasp — picking a lock, disarming a device, keying a console — using the relevant skill at a distance.
@@ -516,8 +512,7 @@ You can perform delicate manipulation at range with Telekinetic Grasp — pickin
 #### Battlefield Medic
 **Feat 4** · **Traits** Consular
 **Prerequisites** Mandate of Vitality
-**Frequency** once per round
-**Effect** You Manifest Vital Transfer at a range of 30 feet and without paying its Hit Point cost.
+You can Manifest Vital Transfer at a range of 30 feet rather than touch.
 
 #### Empowered Impact
 **Feat 4** · **Traits** Consular
@@ -615,7 +610,8 @@ You broadcast your precise senses to allies within 30 feet until the start of yo
 #### Telekinetic Storm
 **Feat 8** · **Traits** Consular
 **Prerequisites** Mandate of Telekinesis
-You can Manifest a single-target Alter attack as a 15-foot emanation centered on yourself instead.
+**Cost** 2 Attunement
+You can Manifest a single-target Alter power that uses an attack roll (such as Telekinetic Impact) as a 15-foot emanation centered on yourself instead, making one attack roll against each creature in the area.
 
 #### Warding Zone  [two-actions]
 **Feat 8** · **Traits** Consular
@@ -696,7 +692,7 @@ Your Offense powers ignore an amount of the target's resistance equal to your le
 #### Overchannel
 **Feat 14** · **Traits** Consular
 **Frequency** once per minute
-**Effect** You Manifest a power you can't currently afford, paying the missing Attunement as an equal number of Hit Points. You're then fatigued.
+**Effect** You Manifest a power you can't currently afford, losing Hit Points equal to your level for each missing point of Attunement. You're then fatigued for 1 minute.
 
 ---
 
@@ -706,6 +702,11 @@ Your Offense powers ignore an amount of the target's resistance equal to your le
 **Feat 16** · **Traits** Consular
 **Prerequisites** Empower Manifest
 Empower Manifest's Frequency becomes once per round.
+
+#### Sustaining Will
+**Feat 16** · **Traits** Consular
+**Frequency** once per round
+**Effect** You Sustain a Force power as a free action.
 
 #### Twin Manifest
 **Feat 16** · **Traits** Consular

@@ -124,8 +124,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 1 | **Refined Impact** | Your **Telekinetic Impact** gains a second mode: an erratic bolt that **ignores an amount of resistance = your level**. |
 | 1 | **Mystic Armor** | While unarmored, gain **+1 circ AC vs ranged attacks**. |
 | 1 | **Living Force Sense** | You have a passive imprecise sense of living creatures within 30 ft. |
-| 1 | **Fleet Center** | Once per round, **Center** as part of another action (refuel without spending your whole turn). |
-| 2 | **Sustaining Will** | Sustain a Force power as a **free action** once per round. |
+| 1 | **Fleet Center** | `[free action]` once per hour, as your turn begins: **Center** (refuel without spending your whole turn). *(Balance pass: was once per round — a free 3 Attunement/round deleted the resource axis; see the July 2026 feat review.)* |
 | 2 | **Deflecting Hand** | Gain **Deflect** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
 | 2 | **Telekinetic Finesse** | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. |
@@ -147,9 +146,10 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 12 | **Wide Aperture** | Your area powers' areas grow one step. |
 | 12 | **Phase Step** | Gain **Phase Shift** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 12 | **Restorative Aura** | `[2 actions]`, Att: allies in a 15-ft emanation regain HP (a mass heal). |
-| 14 | **Overchannel** | `[once per minute]` Manifest a power you can't afford by paying the deficit in **HP** (then fatigued). |
+| 14 | **Overchannel** | `[once per minute]` Manifest a power you can't afford by paying **HP = your level per missing Attunement** (then fatigued 1 minute). *(Balance pass: deficit-as-flat-HP was ≈2% of pool at 14th; fatigue duration was undefined.)* |
 | 14 | **Deny Death** | `[reaction]` when an ally within 30 ft would die, keep them at 1 HP (once per ally per day). |
 | 16 | **Greater Empower** *(req. Empower Manifest)* | Empower Manifest becomes **once per round**. |
+| 16 | **Sustaining Will** | Sustain a Force power as a **free action** once per round. *(Balance pass: moved from 2nd — a permanent +1 action/round is priced at the PF2 Effortless Concentration shelf, not level 2.)* |
 | 16 | **Twin Manifest** | `[once per minute]` Manifest **two** 1-action powers as a single activity. |
 | 18 | **Cosmic Conduit** | `[once per minute]` your next power treats its tier as one higher (heightened). |
 | 20 | **One with the Force** *(capstone)* | Once per round, Manifest a power **without spending Attunement**. |
@@ -161,10 +161,10 @@ Each requires the named Mandate.
 
 | Mandate | Feats (level) |
 |---|---|
-| **Telekinesis** | *Crushing Grasp* (4 — Held/Grabbed foes take +damage and can't act to escape easily) · *Telekinetic Storm* (8 — your Alter attack becomes an emanation) · *Hurl Foe* (12 — throw a creature as a weapon at another) |
+| **Telekinesis** | *Crushing Grasp* (4 — Held/Grabbed foes take +damage and can't act to escape easily) · *Telekinetic Storm* (8 — 2 Attunement: your attack-roll Alter power becomes an emanation; balance pass added the cost, matching Mass Terror's pay-per-cast shape) · *Hurl Foe* (12 — throw a creature as a weapon at another) |
 | **Visions** | *Untouchable* (4 — you can't be surprised, ever) · *Shared Foresight* (8 — grant an ally your roll-twice once/round) · *Perfect Clarity* (12 — auto-disbelieve illusions; see the immediate future) |
 | **Serenity** | *Tutaminis Mastery* (4 — Energy Absorption resists all energy types) · *Sanctuary* (8 — a zone allies are protected within) · *Unshakable* (12 — immune to fear and the controlled condition) |
-| **Vitality** | *Battlefield Medic* (4 — Vital Transfer at range, no HP cost once/round) · *Life Bond* (8 — share a wounded ally's incoming damage) · *Rapid Regeneration* (12 — an ally gains fast healing) |
+| **Vitality** | *Battlefield Medic* (4 — Vital Transfer at 30-ft range; balance pass dropped the HP-cost waiver, which was free unlimited between-fight healing) · *Life Bond* (8 — share a wounded ally's incoming damage) · *Rapid Regeneration* (12 — an ally gains fast healing) |
 | **Dominance** | *Insidious Suggestion* (4 — Mind Trick targets don't realize they were influenced) · *Mass Terror* (8 — Force Fear becomes an area) · *Lasting Domination* (12 — Dominate Mind lasts longer / resists ending) |
 | **Destruction** | *Overload* (4 — once/turn an Offense power gains +1 die) · *Forked Lightning* (8 — your lightning hits a second target) · *Annihilating Bolt* (12 — your Offense powers ignore resistance = your level) |
 
