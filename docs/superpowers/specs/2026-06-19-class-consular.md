@@ -125,7 +125,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 1 | **Mystic Armor** | While unarmored, gain **+1 circ AC vs ranged attacks**. |
 | 1 | **Living Force Sense** | You have a passive imprecise sense of living creatures within 30 ft. |
 | 1 | **Fleet Center** | `[free action]` once per hour, as your turn begins: **Center** (refuel without spending your whole turn). *(Balance pass: was once per round — a free 3 Attunement/round deleted the resource axis; see the July 2026 feat review.)* |
-| 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
+| 2 | **Force Archivist** | +1 circ to Recall Knowledge with The Force; crit failures become failures. *(Design pass: the old "use The Force to Recall Knowledge" clause was redundant — the skill already does that; swapped in an Unmistakable Lore-style rider.)* |
 | 2 | **Telekinetic Finesse** *(req. Telekinetic Grasp)* | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. *(Design pass: added the power prerequisite it always assumed.)* |
 | 2 | **Empathic Sense** | Passive emotion-read within 30 ft; +1 circ to Sense Motive. *(Shelf-fill, social.)* |
 | 2 | **Voice of Calm** | `[reaction]` once per social encounter: downgrade an ally's social crit failure, or negate a Guard. *(Shelf-fill, social — Phase-4 terms; social abilities may use per-encounter frequencies since social time is abstract.)* |

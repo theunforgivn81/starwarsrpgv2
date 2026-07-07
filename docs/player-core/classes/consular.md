@@ -499,7 +499,7 @@ You passively read the surface emotions of living creatures within 30 feet — f
 
 #### Force Archivist
 **Feat 2** · **Traits** Consular
-You can use The Force skill to Recall Knowledge about any Force-related topic, and you gain a +1 circumstance bonus to such checks.
+You gain a +1 circumstance bonus to checks with The Force to Recall Knowledge, and if you critically fail such a check, you get a failure instead.
 
 #### Telekinetic Finesse
 **Feat 2** · **Traits** Consular
