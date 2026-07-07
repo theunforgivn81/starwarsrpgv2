@@ -127,6 +127,9 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 1 | **Fleet Center** | `[free action]` once per hour, as your turn begins: **Center** (refuel without spending your whole turn). *(Balance pass: was once per round — a free 3 Attunement/round deleted the resource axis; see the July 2026 feat review.)* |
 | 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
 | 2 | **Telekinetic Finesse** *(req. Telekinetic Grasp)* | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. *(Design pass: added the power prerequisite it always assumed.)* |
+| 2 | **Empathic Sense** | Passive emotion-read within 30 ft; +1 circ to Sense Motive. *(Shelf-fill, social.)* |
+| 2 | **Voice of Calm** | `[reaction]` once per ten minutes: downgrade an ally's social crit failure, or negate a Guard. *(Shelf-fill, social — Phase-4 terms.)* |
+| 2 | **Wordless Understanding** | Convey/grasp simple concepts mind-to-mind, no shared language needed. *(Shelf-fill, social.)* |
 | 4 | **Empowered Impact** | Your Telekinetic Impact and Alter forced movement push **+5 ft**; on a crit, knock prone. |
 | 4 | **Force Levitation** | `[1 action]`: hover/levitate (slow fly) until your next turn. |
 | 4 | **Projected Aura** | A 15-ft aura: allies **+1 status vs fear**, **or** enemies **−1 status to attacks** (choose when you Manifest). |
@@ -142,16 +145,22 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 8 | **Deep Reserve** | Attunement pool **+1** and **Center restores +1**. *(Gate-A trimmed the pool bonus from +2 for nova ceiling; design pass added the Center rider instead — felt every fight, same ~1-action-per-encounter value, and nova is action-bound since the Fleet Center fix.)* |
 | 10 | **Quickened Manifest** | `[once per minute]` Manifest a 1-action power as a **free action**. |
 | 10 | **Absolute Focus** | Your Sustained powers and concentration can't be disrupted by damage. |
+| 10 | **Glimpse the Path** | Once per hour, 1-minute meditation → one omen about a course of action (favorable/unfavorable/both/clouded). *(Shelf-fill, exploration; renamed from "Read the Currents" — collides with the Visions 7th feature.)* |
+| 10 | **Presence of the Council** | Make an Impression / appeal against a whole audience with one check. *(Shelf-fill, social.)* |
+| 10 | **Subtle Manifest** | Powers show no tell; Perception vs class DC to identify you as the source. *(Shelf-fill, social/infiltration.)* |
 | 12 | **Force Flight** *(req. Telekinetic Flight)* | Telekinetic Flight lasts its full duration **without Sustain**. *(Design pass: was a 10th-level bare acquisition feat; reworked to a rider and bumped, since the power arrives via the free 10th-level repertoire pick.)* |
 | 12 | **Wide Aperture** | Your area powers' areas grow one step. |
 | 12 | **Phase Step** | Gain **Phase Shift** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 12 | **Restorative Aura** | `[2 actions]`, Att: allies in a 15-ft emanation regain HP (a mass heal). |
 | 14 | **Overchannel** | `[once per minute]` Manifest a power you can't afford by paying **HP = your level per missing Attunement** (then fatigued 1 minute). *(Balance pass: deficit-as-flat-HP was ≈2% of pool at 14th; fatigue duration was undefined.)* |
 | 14 | **Deny Death** | `[reaction]` when an ally within 30 ft would die, keep them at 1 HP (once per ally per day). |
+| 14 | **Bonded Minds** | Standing telepathic bond with up to five allies, planet-wide words and images. *(Shelf-fill, social/utility; brainstormed at 18th, placed at 14th — the shelf was thin and all-combat.)* |
 | 16 | **Greater Empower** *(req. Empower Manifest)* | Empower Manifest becomes **once per round**. |
 | 16 | **Sustaining Will** | Sustain a Force power as a **free action** once per round. *(Balance pass: moved from 2nd — a permanent +1 action/round is priced at the PF2 Effortless Concentration shelf, not level 2.)* |
 | 16 | **Twin Manifest** | `[once per minute]` +2 Attunement: a single-target power affects a **second target**. *(Design pass: the old "two 1-action powers as one activity" granted nothing — no per-turn Manifest limit exists; redesigned as true twinning per the metamagic line.)* |
 | 18 | **Cosmic Conduit** | `[once per minute]` your next power treats its tier as one higher (heightened). |
+| 18 | **Projected Presence** | Once per hour: project a speaking image of yourself anywhere in-system for 10 minutes (no touch, no powers through it). *(Shelf-fill, social/utility.)* |
+| 18 | **Voice of the Force** | Once per hour: address a crowd past all language, one Impression/appeal check vs every listener, sticky Off-Balance, crits drop Resolve. *(Shelf-fill, social capstone — Phase-4 terms.)* |
 | 20 | **One with the Force** *(capstone)* | Once per round, Manifest a power **without spending Attunement**. |
 | 20 | **Selfless Sacrifice** *(capstone)* | Expend your entire pool to **revive or fully heal** an ally (drained afterward). |
 

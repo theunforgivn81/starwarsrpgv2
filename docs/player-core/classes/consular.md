@@ -493,6 +493,10 @@ Each time you use Telekinetic Impact, you can shape it as an erratic bolt that i
 
 ### 2nd-Level Feats
 
+#### Empathic Sense
+**Feat 2** · **Traits** Consular
+You passively read the surface emotions of living creatures within 30 feet — fear, hostility, hope, deceit. You gain a +1 circumstance bonus to Perception checks to Sense Motive.
+
 #### Force Archivist
 **Feat 2** · **Traits** Consular
 You can use The Force skill to Recall Knowledge about any Force-related topic, and you gain a +1 circumstance bonus to such checks.
@@ -501,6 +505,16 @@ You can use The Force skill to Recall Knowledge about any Force-related topic, a
 **Feat 2** · **Traits** Consular
 **Prerequisites** Telekinetic Grasp in your repertoire
 You can perform delicate manipulation at range with Telekinetic Grasp — picking a lock, disarming a device, keying a console — using the relevant skill at a distance.
+
+#### Voice of Calm  [reaction]
+**Feat 2** · **Traits** Consular, Emotion, Mental, Social
+**Frequency** once per ten minutes
+**Trigger** An ally's appeal critically fails, or an opponent gains a Guard against an ally.
+**Effect** A wave of serenity smooths the moment over: the critical failure becomes a failure, or the Guard doesn't take hold.
+
+#### Wordless Understanding
+**Feat 2** · **Traits** Consular, Mental
+You can press simple concepts — intentions, warnings, offers — directly into the mind of any living creature you can see, regardless of language, and you grasp the gist of its replies. This doesn't grant literacy or convey precise details.
 
 ---
 
@@ -630,10 +644,23 @@ You can Manifest a single-target Alter power that uses an attack roll (such as T
 **Feat 10** · **Traits** Consular
 Your Sustained powers and your concentration can't be disrupted by taking damage.
 
+#### Glimpse the Path
+**Feat 10** · **Traits** Consular, Fortune
+**Frequency** once per hour
+**Effect** You meditate for 1 minute on a course of action you intend to take within the next hour. The GM answers with one omen: favorable, unfavorable, both, or clouded.
+
+#### Presence of the Council
+**Feat 10** · **Traits** Consular, Social
+When you Make an Impression or make an appeal, you can address every creature attending to you with a single check, applying the result to each individually.
+
 #### Quickened Manifest
 **Feat 10** · **Traits** Consular
 **Frequency** once per minute
 **Effect** You Manifest a single-action power as a free action.
+
+#### Subtle Manifest
+**Feat 10** · **Traits** Consular
+Your powers show no outward sign — no gesture, no ripple in the air, no tell. A creature must succeed at a Perception check against your class DC to identify you as the source of a power you Manifest.
 
 ---
 
@@ -687,6 +714,10 @@ The areas of your area powers increase by one size step.
 **Prerequisites** Mandate of Destruction
 Your Offense powers ignore an amount of the target's resistance equal to your level.
 
+#### Bonded Minds
+**Feat 14** · **Traits** Consular, Mental
+You maintain a standing telepathic bond with up to five willing creatures, each of whom has meditated with you for 10 minutes. You can exchange words and images with a bonded creature at any distance on the same planet. A creature leaves the bond when you release it or when you bond another beyond your five.
+
 #### Deny Death  [reaction]
 **Feat 14** · **Traits** Consular
 **Frequency** once per day per ally
@@ -726,6 +757,16 @@ Empower Manifest's Frequency becomes once per round.
 **Feat 18** · **Traits** Consular
 **Frequency** once per minute
 **Effect** You channel a power at its utmost. The next power you Manifest this turn ignores the Incapacitation trait, and its damage or healing dice increase by one.
+
+#### Projected Presence
+**Feat 18** · **Traits** Consular
+**Frequency** once per hour
+**Effect** Over 1 minute, you project a visible, audible image of yourself to a place you can picture clearly — somewhere you've been, or the present location of a creature you know well — anywhere in the same star system. For up to 10 minutes you perceive from the projection's position and can speak and interact socially through it. The projection can't touch anything, and you can't Manifest powers through it.
+
+#### Voice of the Force
+**Feat 18** · **Traits** Consular, Emotion, Mental, Social
+**Frequency** once per hour
+**Effect** You address a crowd, and every creature that can perceive you understands you regardless of language. Make a single check to Make an Impression or make an appeal against every listener. A creature your words make Off-Balance stays Off-Balance for the rest of the encounter, and on a critical success its Resolve also decreases by 1.
 
 ---
 
