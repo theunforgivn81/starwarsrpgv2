@@ -493,16 +493,13 @@ Each time you use Telekinetic Impact, you can shape it as an erratic bolt that i
 
 ### 2nd-Level Feats
 
-#### Deflecting Hand
-**Feat 2** · **Traits** Consular
-You add **Deflect** to your repertoire (see *The Force*).
-
 #### Force Archivist
 **Feat 2** · **Traits** Consular
 You can use The Force skill to Recall Knowledge about any Force-related topic, and you gain a +1 circumstance bonus to such checks.
 
 #### Telekinetic Finesse
 **Feat 2** · **Traits** Consular
+**Prerequisites** Telekinetic Grasp in your repertoire
 You can perform delicate manipulation at range with Telekinetic Grasp — picking a lock, disarming a device, keying a console — using the relevant skill at a distance.
 
 ---
@@ -564,6 +561,11 @@ You can never be surprised, and you're never off-guard to creatures you can't se
 **Feat 6** · **Traits** Consular
 A creature grabbed or restrained by one of your powers takes damage equal to half your level at the start of each of your turns.
 
+#### Deflecting Hand
+**Feat 6** · **Traits** Consular
+**Prerequisites** Deflect in your repertoire
+You can use Deflect without wielding a lightsaber, turning the bolt aside with an open palm.
+
 #### Force Stride
 **Feat 6** · **Traits** Consular
 You can move across liquids and up vertical surfaces during your movement, falling only if you end your turn on a surface that can't support you.
@@ -574,7 +576,8 @@ Your healing powers restore 1 additional die, and the persistent damage your pow
 
 #### Twin Sustain
 **Feat 6** · **Traits** Consular
-You can Sustain up to two Force powers at once.
+**Frequency** once per round
+**Effect** When you take the Sustain action, you Sustain two of your powers with it.
 
 ---
 
@@ -582,7 +585,7 @@ You can Sustain up to two Force powers at once.
 
 #### Deep Reserve
 **Feat 8** · **Traits** Consular
-Your maximum Attunement pool increases by 1.
+Your maximum Attunement pool increases by 1, and your Center action restores 1 additional Attunement.
 
 #### Empower Manifest
 **Feat 8** · **Traits** Consular
@@ -627,10 +630,6 @@ You can Manifest a single-target Alter power that uses an attack roll (such as T
 **Feat 10** · **Traits** Consular
 Your Sustained powers and your concentration can't be disrupted by taking damage.
 
-#### Force Flight
-**Feat 10** · **Traits** Consular
-You add **Telekinetic Flight** to your repertoire (see *The Force*).
-
 #### Quickened Manifest
 **Feat 10** · **Traits** Consular
 **Frequency** once per minute
@@ -639,6 +638,11 @@ You add **Telekinetic Flight** to your repertoire (see *The Force*).
 ---
 
 ### 12th-Level Feats
+
+#### Force Flight
+**Feat 12** · **Traits** Consular
+**Prerequisites** Telekinetic Flight in your repertoire
+When you Manifest Telekinetic Flight, it lasts its full duration without needing to be Sustained.
 
 #### Hurl Foe  [two-actions]
 **Feat 12** · **Traits** Consular
@@ -711,7 +715,8 @@ Empower Manifest's Frequency becomes once per round.
 #### Twin Manifest
 **Feat 16** · **Traits** Consular
 **Frequency** once per minute
-**Effect** You Manifest two single-action powers as a single two-action activity.
+**Cost** 2 Attunement
+**Effect** You Manifest a power that targets one creature, and it affects a second eligible target within its range.
 
 ---
 

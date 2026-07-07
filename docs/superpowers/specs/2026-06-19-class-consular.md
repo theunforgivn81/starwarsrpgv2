@@ -125,24 +125,24 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 1 | **Mystic Armor** | While unarmored, gain **+1 circ AC vs ranged attacks**. |
 | 1 | **Living Force Sense** | You have a passive imprecise sense of living creatures within 30 ft. |
 | 1 | **Fleet Center** | `[free action]` once per hour, as your turn begins: **Center** (refuel without spending your whole turn). *(Balance pass: was once per round — a free 3 Attunement/round deleted the resource axis; see the July 2026 feat review.)* |
-| 2 | **Deflecting Hand** | Gain **Deflect** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
-| 2 | **Telekinetic Finesse** | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. |
+| 2 | **Telekinetic Finesse** *(req. Telekinetic Grasp)* | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. *(Design pass: added the power prerequisite it always assumed.)* |
 | 4 | **Empowered Impact** | Your Telekinetic Impact and Alter forced movement push **+5 ft**; on a crit, knock prone. |
 | 4 | **Force Levitation** | `[1 action]`: hover/levitate (slow fly) until your next turn. |
 | 4 | **Projected Aura** | A 15-ft aura: allies **+1 status vs fear**, **or** enemies **−1 status to attacks** (choose when you Manifest). |
 | 4 | **Mind's Shield** | `[reaction]` when you succeed a Will save vs a creature, reflect **mental** feedback (it's off-guard to you). |
-| 6 | **Twin Sustain** | You can maintain **two** Sustained powers at once. |
+| 6 | **Deflecting Hand** *(req. Deflect)* | Use **Deflect** without a lightsaber — turn the bolt aside with an open palm. *(Design pass: was a 2nd-level bare acquisition feat, strictly dominated by the free even-level repertoire pick; reworked to a signature rider.)* |
+| 6 | **Twin Sustain** | Once per round, one **Sustain** action Sustains **two** of your powers. *(Design pass: "maintain two at once" was already rules-legal — no concurrency cap exists; reworded as action compression.)* |
 | 6 | **Force Stride** | Run across liquid/vertical surfaces (end on solid ground). |
 | 6 | **Potent Powers** | Your healing powers restore **+1 die**; your damaging powers' persistent damage +1. |
 | 6 | **Crushing Pressure** | A creature you've **Held/Grabbed** via a power takes damage **= half your level** each turn. |
 | 8 | **Empower Manifest** | `[once per minute]` Manifest one power with **maximized dice** (no roll). |
 | 8 | **Remote Manifest** | Manifest a power through a willing ally or a sensor you can perceive (fold space). |
 | 8 | **Shared Senses** | Broadcast your precise senses to allies within 30 ft for 1 round. |
-| 8 | **Deep Reserve** | Your Attunement pool increases by **+1** beyond Deep Reservoir. *(Gate-A: trimmed from +2 to keep the deep pool's nova ceiling in check.)* |
-| 10 | **Force Flight** | Gain **Telekinetic Flight** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
+| 8 | **Deep Reserve** | Attunement pool **+1** and **Center restores +1**. *(Gate-A trimmed the pool bonus from +2 for nova ceiling; design pass added the Center rider instead — felt every fight, same ~1-action-per-encounter value, and nova is action-bound since the Fleet Center fix.)* |
 | 10 | **Quickened Manifest** | `[once per minute]` Manifest a 1-action power as a **free action**. |
 | 10 | **Absolute Focus** | Your Sustained powers and concentration can't be disrupted by damage. |
+| 12 | **Force Flight** *(req. Telekinetic Flight)* | Telekinetic Flight lasts its full duration **without Sustain**. *(Design pass: was a 10th-level bare acquisition feat; reworked to a rider and bumped, since the power arrives via the free 10th-level repertoire pick.)* |
 | 12 | **Wide Aperture** | Your area powers' areas grow one step. |
 | 12 | **Phase Step** | Gain **Phase Shift** ([toolkit](2026-06-15-shared-force-toolkit.md)). |
 | 12 | **Restorative Aura** | `[2 actions]`, Att: allies in a 15-ft emanation regain HP (a mass heal). |
@@ -150,7 +150,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 14 | **Deny Death** | `[reaction]` when an ally within 30 ft would die, keep them at 1 HP (once per ally per day). |
 | 16 | **Greater Empower** *(req. Empower Manifest)* | Empower Manifest becomes **once per round**. |
 | 16 | **Sustaining Will** | Sustain a Force power as a **free action** once per round. *(Balance pass: moved from 2nd — a permanent +1 action/round is priced at the PF2 Effortless Concentration shelf, not level 2.)* |
-| 16 | **Twin Manifest** | `[once per minute]` Manifest **two** 1-action powers as a single activity. |
+| 16 | **Twin Manifest** | `[once per minute]` +2 Attunement: a single-target power affects a **second target**. *(Design pass: the old "two 1-action powers as one activity" granted nothing — no per-turn Manifest limit exists; redesigned as true twinning per the metamagic line.)* |
 | 18 | **Cosmic Conduit** | `[once per minute]` your next power treats its tier as one higher (heightened). |
 | 20 | **One with the Force** *(capstone)* | Once per round, Manifest a power **without spending Attunement**. |
 | 20 | **Selfless Sacrifice** *(capstone)* | Expend your entire pool to **revive or fully heal** an ally (drained afterward). |
