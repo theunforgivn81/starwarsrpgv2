@@ -508,7 +508,7 @@ You can perform delicate manipulation at range with Telekinetic Grasp — pickin
 
 #### Voice of Calm  [reaction]
 **Feat 2** · **Traits** Consular, Emotion, Mental, Social
-**Frequency** once per ten minutes
+**Frequency** once per social encounter
 **Trigger** An ally's appeal critically fails, or an opponent gains a Guard against an ally.
 **Effect** A wave of serenity smooths the moment over: the critical failure becomes a failure, or the Guard doesn't take hold.
 

@@ -128,7 +128,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 2 | **Force Archivist** | Use **The Force** to Recall Knowledge about anything Force-related; +1 circ to such checks. |
 | 2 | **Telekinetic Finesse** *(req. Telekinetic Grasp)* | Manipulate fine objects / perform delicate tasks at range with Telekinetic Grasp. *(Design pass: added the power prerequisite it always assumed.)* |
 | 2 | **Empathic Sense** | Passive emotion-read within 30 ft; +1 circ to Sense Motive. *(Shelf-fill, social.)* |
-| 2 | **Voice of Calm** | `[reaction]` once per ten minutes: downgrade an ally's social crit failure, or negate a Guard. *(Shelf-fill, social — Phase-4 terms.)* |
+| 2 | **Voice of Calm** | `[reaction]` once per social encounter: downgrade an ally's social crit failure, or negate a Guard. *(Shelf-fill, social — Phase-4 terms; social abilities may use per-encounter frequencies since social time is abstract.)* |
 | 2 | **Wordless Understanding** | Convey/grasp simple concepts mind-to-mind, no shared language needed. *(Shelf-fill, social.)* |
 | 4 | **Empowered Impact** | Your Telekinetic Impact and Alter forced movement push **+5 ft**; on a crit, knock prone. |
 | 4 | **Force Levitation** | `[1 action]`: hover/levitate (slow fly) until your next turn. |
