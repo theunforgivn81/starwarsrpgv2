@@ -15,6 +15,10 @@ Desktop.ini
 # Prior-project reference DB dump (local-only; mined for content, not shared)
 reference_data/
 
+# LLM-maintained design wiki (backed up by OneDrive, not git) + Obsidian vault state
+wiki/
+.obsidian/
+
 # Temp / build
 *.tmp
 *.log

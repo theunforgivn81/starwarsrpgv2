@@ -2,6 +2,10 @@
 
 A Star Wars tabletop RPG rulebook (d20, ORC/2E substrate). Player-facing chapters live in `docs/player-core/`; design specs in `docs/superpowers/specs/`.
 
+## Design wiki
+
+`wiki/` is an LLM-maintained design knowledge base (gitignored; OneDrive-backed). Its conventions and ingest/query/lint workflows live in `wiki/SCHEMA.md` — read that before touching wiki pages. When a design doc is added or meaningfully changed, ingest it into the wiki.
+
 ## Directives
 
 - **Class and species traits are named exactly after their parent.** The Tech Specialist's class trait is `Tech Specialist`, never `Tech`; a species trait is the species' full name. `Technological` (not a class trait) marks technological creatures, objects, and effects.
