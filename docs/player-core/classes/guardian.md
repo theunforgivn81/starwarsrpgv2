@@ -408,7 +408,7 @@ Choose one of the seven Forms below when you make your Guardian (see the *Form* 
 At 1st level and every even level you gain a **Guardian class feat**. The feats below are listed by the level at which they become available; you can always take a feat of your level or lower.
 
 > **Sidebar — Lightsaber Form Feats Are Guardian Feats**
-> Your deepest pool of options isn't on this page — it's the **Lightsaber Form feats** in **[The Force](the-force.md)**. You can spend any Guardian class feat to learn a new Form or a Form chain feat (Cyclone, Hawk-Bat Swoop, Contentious Riposte, and the rest), and as a Guardian you gain every Form's Guardian Mastery upgrade. Branching into new Forms and deepening the ones you know is the core of building a Guardian; the feats below are everything *else* — the telekinetics, the guarding tools, and the chassis tricks that work no matter which stance you're in.
+> Your deepest pool of options isn't on this page — it's the **Lightsaber Form feats** in **[The Force](the-force.md)**. You can spend any Guardian class feat to learn a new Form or a Form chain feat (Cyclone, Hawk-Bat Swoop, Contentious Riposte, and the rest), and as a Guardian you gain every Form's Guardian Mastery upgrade. Branching into new Forms and deepening the ones you know is the core of building a Guardian; the feats below are everything *else* — the telekinetics, the guarding tools, and the all-purpose tricks that work no matter which stance you're in.
 
 ---
 
