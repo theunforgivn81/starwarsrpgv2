@@ -390,7 +390,7 @@ Choose one of the six Mandates below when you make your Consular (see the *Manda
 
 #### Mind's Eye
 
-**(1st level)** You sense the surface emotions of creatures within 30 feet (an imprecise sense), and you gain a +1 status bonus to Deception, Diplomacy, and Intimidation checks against creatures whose emotions you can sense.
+**(1st level)** You sense the surface emotions of creatures within 30 feet (an imprecise sense), and against a creature whose emotions you can sense, you gain a +1 status bonus to Deception, Diplomacy, and Intimidation checks and a +1 circumstance bonus to Perception checks to Sense Motive.
 
 #### Fearmonger
 
@@ -628,7 +628,7 @@ You broadcast your precise senses to allies within 30 feet until the start of yo
 **Feat 8** · **Traits** Consular
 **Prerequisites** Mandate of Telekinesis
 **Cost** 2 Attunement
-You can Manifest a single-target Alter power that uses an attack roll (such as Telekinetic Impact) as a 15-foot emanation centered on yourself instead, making one attack roll against each creature in the area.
+You can Manifest a single-target Alter power, or your Telekinetic Impact, that uses an attack roll as a 15-foot emanation centered on yourself instead, making one attack roll against each creature in the area.
 
 #### Warding Zone  [two-actions]
 **Feat 8** · **Traits** Consular
@@ -650,7 +650,7 @@ Your Sustained powers and your concentration can't be disrupted by taking damage
 **Effect** You meditate for 1 minute on a course of action you intend to take within the next hour. The GM answers with one omen: favorable, unfavorable, both, or clouded.
 
 #### Presence of the Council
-**Feat 10** · **Traits** Consular, Social
+**Feat 10** · **Traits** Consular, Exploration, Social
 When you Make an Impression or make an appeal, you can address every creature attending to you with a single check, applying the result to each individually.
 
 #### Quickened Manifest
@@ -766,7 +766,7 @@ Empower Manifest's Frequency becomes once per round.
 #### Voice of the Force
 **Feat 18** · **Traits** Consular, Emotion, Mental, Social
 **Frequency** once per hour
-**Effect** You address a crowd, and every creature that can perceive you understands you regardless of language. Make a single check to Make an Impression or make an appeal against every listener. A creature your words make Off-Balance stays Off-Balance for the rest of the encounter, and on a critical success its Resolve also decreases by 1.
+**Effect** You address a crowd, and every creature that can perceive you understands you regardless of language. Make a single check to make an appeal against every listener. A creature your words make Off-Balance stays Off-Balance for the rest of the encounter, and on a critical success its Resolve also decreases by 1.
 
 ---
 

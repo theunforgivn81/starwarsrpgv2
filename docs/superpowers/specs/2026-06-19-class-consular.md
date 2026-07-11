@@ -146,7 +146,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 10 | **Quickened Manifest** | `[once per minute]` Manifest a 1-action power as a **free action**. |
 | 10 | **Absolute Focus** | Your Sustained powers and concentration can't be disrupted by damage. |
 | 10 | **Glimpse the Path** | Once per hour, 1-minute meditation → one omen about a course of action (favorable/unfavorable/both/clouded). *(Shelf-fill, exploration; renamed from "Read the Currents" — collides with the Visions 7th feature.)* |
-| 10 | **Presence of the Council** | Make an Impression / appeal against a whole audience with one check. *(Shelf-fill, social.)* |
+| 10 | **Presence of the Council** *(Exploration, Social)* | Make an Impression / appeal against a whole audience with one check. *(Shelf-fill, social; Exploration trait added on system review to mark its Make-an-Impression half — the appeal half is a specific override into encounter mode.)* |
 | 10 | **Subtle Manifest** | Powers show no tell; Perception vs class DC to identify you as the source. *(Shelf-fill, social/infiltration.)* |
 | 12 | **Force Flight** *(req. Telekinetic Flight)* | Telekinetic Flight lasts its full duration **without Sustain**. *(Design pass: was a 10th-level bare acquisition feat; reworked to a rider and bumped, since the power arrives via the free 10th-level repertoire pick.)* |
 | 12 | **Wide Aperture** | Your area powers' areas grow one step. |
@@ -160,7 +160,7 @@ The Consular carries a lightsaber for last resort and **Deflect** (the shared to
 | 16 | **Twin Manifest** | `[once per minute]` +2 Attunement: a single-target power affects a **second target**. *(Design pass: the old "two 1-action powers as one activity" granted nothing — no per-turn Manifest limit exists; redesigned as true twinning per the metamagic line.)* |
 | 18 | **Cosmic Conduit** | `[once per minute]` your next power treats its tier as one higher (heightened). |
 | 18 | **Projected Presence** | Once per hour: project a speaking image of yourself anywhere in-system for 10 minutes (no touch, no powers through it). *(Shelf-fill, social/utility.)* |
-| 18 | **Voice of the Force** | Once per hour: address a crowd past all language, one Impression/appeal check vs every listener, sticky Off-Balance, crits drop Resolve. *(Shelf-fill, social capstone — Phase-4 terms.)* |
+| 18 | **Voice of the Force** | Once per hour: address a crowd past all language, one appeal check vs every listener, sticky Off-Balance, crits drop Resolve. *(Shelf-fill, social capstone — Phase-4 terms; system review dropped the "Make an Impression" reference — Off-Balance/Resolve are encounter-mode only, Make an Impression never touches them.)* |
 | 20 | **One with the Force** *(capstone)* | Once per round, Manifest a power **without spending Attunement**. |
 | 20 | **Selfless Sacrifice** *(capstone)* | Expend your entire pool to **revive or fully heal** an ally (drained afterward). |
 
@@ -170,7 +170,7 @@ Each requires the named Mandate.
 
 | Mandate | Feats (level) |
 |---|---|
-| **Telekinesis** | *Crushing Grasp* (4 — Held/Grabbed foes take +damage and can't act to escape easily) · *Telekinetic Storm* (8 — 2 Attunement: your attack-roll Alter power becomes an emanation; balance pass added the cost, matching Mass Terror's pay-per-cast shape) · *Hurl Foe* (12 — throw a creature as a weapon at another) |
+| **Telekinesis** | *Crushing Grasp* (4 — Held/Grabbed foes take +damage and can't act to escape easily) · *Telekinetic Storm* (8 — 2 Attunement: your attack-roll Alter power, or your Telekinetic Impact, becomes an emanation; balance pass added the cost matching Mass Terror's pay-per-cast shape; system-review pass separated Telekinetic Impact back out from "power" per the-force.md's class-feature/power split) · *Hurl Foe* (12 — throw a creature as a weapon at another) |
 | **Visions** | *Untouchable* (4 — you can't be surprised, ever) · *Shared Foresight* (8 — grant an ally your roll-twice once/round) · *Perfect Clarity* (12 — auto-disbelieve illusions; see the immediate future) |
 | **Serenity** | *Tutaminis Mastery* (4 — Energy Absorption resists all energy types) · *Sanctuary* (8 — a zone allies are protected within) · *Unshakable* (12 — immune to fear and the controlled condition) |
 | **Vitality** | *Battlefield Medic* (4 — Vital Transfer at 30-ft range; balance pass dropped the HP-cost waiver, which was free unlimited between-fight healing) · *Life Bond* (8 — share a wounded ally's incoming damage) · *Rapid Regeneration* (12 — an ally gains fast healing) |

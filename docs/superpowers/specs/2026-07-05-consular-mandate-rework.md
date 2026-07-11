@@ -87,7 +87,7 @@ Identity guard: the **Sentinel** owns *personal* reactive foresight (Premonition
 
 | Lvl | Feature | Effect |
 |---|---|---|
-| 1 | **Mind's Eye** | *(unified)* You sense surface emotions within 30 ft (imprecise); +1 status to Deception, Diplomacy, and Intimidation against creatures whose emotions you sense. |
+| 1 | **Mind's Eye** | *(unified)* You sense surface emotions within 30 ft (imprecise); +1 status to Deception, Diplomacy, and Intimidation, and +1 circ to Perception to Sense Motive, against creatures whose emotions you sense. *(System review, 2026-07-11: absorbed the new Empathic Sense feat's Sense Motive bonus — Mind's Eye is an imprecise sense with real combat value, Empathic Sense is the lighter Mandate-free version; overlap is intentional.)* |
 | 3 | **Fearmonger** | *(kept)* Frightened you impose with Force powers doesn't decrease at the end of the target's first turn. |
 | 7 | **Whispered Doubt** *(social verb)* | `[1 action]`, **Social** trait (usable only in a social encounter — the mode trait added 2026-07-05, analogous to Exploration/Downtime): check using The Force vs the opponent's Will DC. Success: opponent is Off-Balance. Crit success: also Resolve −1. Crit failure: it feels the intrusion and gains a Guard against your next appeal. *(Named to dodge the Insidious Suggestion feat. The first class-specific social verb — Phase 4 §13.)* |
 | 11 | **Puppeteer** | Once per round, when a creature critically fails a save vs your Mind power, it immediately spends its reaction to Stride or Strike as you direct. |
