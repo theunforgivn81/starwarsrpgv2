@@ -228,7 +228,7 @@ At **15th level**, this becomes **Greater Weapon Specialization**: 4 additional 
 
 ## Guardian Forms
 
-Choose one of the seven Forms below when you make your Guardian (see the *Form* class feature). The base stances and the Form feats you can branch into are in **[The Force](the-force.md)**; this is the deep mastery your subclass adds on top. Each Form's **3rd-level** feature reshapes how your signature Form uses Intercede, your bodyguard's reaction.
+Choose one of the seven Forms below when you make your Guardian (see the *Form* class feature). The base stances and the Form feats you can branch into are in **[The Force](the-force.md)**.
 
 > **Sidebar — You Still Flow**
 > Your subclass is the Form you *master*, not the only one you can use. With your class feats you learn other Forms and flow between them freely in combat — your Guardian Mastery applies to every Form you enter, not just your signature one.
@@ -242,8 +242,8 @@ Choose one of the seven Forms below when you make your Guardian (see the *Form* 
 #### Resolute Guard
 **(1st level)** You gain the **Soresu** stance for free, with its Guardian Mastery. While you're in Soresu, your Speed penalty is only **−5 feet** (instead of −10), and your **Deflect** bonus improves to **+4**.
 
-#### Sphere of Protection
-**(3rd level)** While you're in Soresu, allies within 10 feet share your **+2 circumstance bonus to AC against ranged Strikes** — the eye of the storm spreads to those behind you.
+#### Sheltering Intercede
+**(3rd level)** When you Intercede, the ally also gains your **+2 circumstance bonus to AC against ranged attacks** until the start of your next turn, and if the triggering attack was ranged, you reduce its damage by an additional amount equal to your Strength modifier — you fold them into the shelter of your guard.
 
 #### Deflecting Wall
 **(7th level)** Your **Deflect** can protect an adjacent ally from a ranged attack, and while you're in Soresu you can Deflect melee attacks as well.
@@ -524,7 +524,7 @@ Make a lightsaber Strike dealing an additional weapon damage die — two additio
 **Feat 12** · **Traits** Guardian
 You add **Telekinetic Flight** to your repertoire (see *The Force*).
 
-#### Unyielding  [reaction]
+#### Unbowed  [reaction]
 **Feat 12** · **Traits** Guardian
 **Frequency** once per day
 **Trigger** You would be reduced to 0 Hit Points.
@@ -541,7 +541,7 @@ Your Saber Barrier and other defensive auras extend to all allies within 15 feet
 #### Greater Combat Reflexes
 **Feat 14** · **Traits** Guardian
 **Prerequisites** Combat Reflexes
-Your extra reactions can also fuel your Form and Force reaction-powers, and once per round you can gain a further reaction (up to the three-reaction limit).
+Your extra reactions can also fuel your Form and Force reaction-powers.
 
 ---
 
@@ -554,26 +554,3 @@ Your **Deflect** works against any ranged attack, not only energy, and when it m
 #### Relentless Guardian
 **Feat 16** · **Traits** Guardian
 Your Intercede has no range limit as long as the ally is within your line of sight.
-
----
-
-### 18th-Level Feats
-
-#### Fluid Forms
-**Feat 18** · **Traits** Guardian
-Once per turn, you can switch Forms as a free action.
-
----
-
-### 20th-Level Feats
-
-#### Eternal Guardian
-**Feat 20** · **Traits** Guardian
-**Frequency** once per round
-**Trigger** An ally within 30 feet would be reduced to 0 Hit Points.
-**Effect** You Intercede to leave them at 1 Hit Point instead, regardless of the source.
-
-#### Grand Master
-**Feat 20** · **Traits** Guardian
-**Frequency** once per round
-**Effect** You gain an extra action you can use only to make a lightsaber Strike or a Form action, and your Guardian Mastery clauses gain a small additional benefit appropriate to each Form.
