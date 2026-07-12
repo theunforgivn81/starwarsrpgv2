@@ -2,9 +2,11 @@
 
 A Star Wars tabletop RPG rulebook (d20, ORC/2E substrate). Player-facing chapters live in `docs/player-core/`; design specs in `docs/superpowers/specs/`.
 
-## Design wiki
+## Design wiki — primary source of truth
 
-`wiki/` is an LLM-maintained design knowledge base (gitignored; OneDrive-backed). Its conventions and ingest/query/lint workflows live in `wiki/SCHEMA.md` — read that before touching wiki pages. When a design doc is added or meaningfully changed, ingest it into the wiki.
+`wiki/` is the LLM-maintained design knowledge base (gitignored; OneDrive-backed) and the **first place to look for design knowledge** — what a mechanic is, why it exists, what was decided or rejected, what's still open. Start any design question here: read `wiki/index.md`, drill into the relevant pages, then follow their links out to canon in `docs/player-core/` or the underlying specs. The spec and plan files in `docs/superpowers/` are **raw sources beneath the wiki**, not the first stop — reach for them when a wiki page sends you there, not by default.
+
+Its conventions and the ingest/query/lint workflows live in `wiki/SCHEMA.md` — read that before touching or querying wiki pages. When a design doc is added or meaningfully changed, ingest it into the wiki (per the Ingest workflow).
 
 ## Directives
 
