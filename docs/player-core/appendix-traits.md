@@ -101,6 +101,9 @@ A creature with this trait is a member of the Ewok species; feats with this trai
 ### Exploration
 An activity with this trait takes more than a turn to use, and can usually be used only during exploration, not in an encounter.
 
+### Fatal
+This weapon inflicts especially deadly wounds on a telling blow. The trait is followed by a die size. On a critical hit, the weapon's damage die changes to that size, and the weapon deals one additional damage die of that size. (A lightsaber Strike with **Fatal d12**, for instance, rolls d12s on a critical hit and adds one more d12.)
+
 ### Fear
 Fear effects evoke terror. Effects with this trait always have the Emotion and Mental traits as well.
 
